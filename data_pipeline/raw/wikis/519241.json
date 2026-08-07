@@ -1,0 +1,1396 @@
+{
+  "wikiid": 519241,
+  "langid": "en",
+  "namespace": "WIKI",
+  "title": "LG Dryer D80 Code",
+  "revisionid": 1076264,
+  "contents_raw": "The Flow Sense\u00ae system on your LG dryer is meant to detect the presence of clogged exhaust ducting. It monitors heat levels in your dryer and responds to conditions that it detects with one of three codes: ***''d80''***, ***''d90''***, and ***''d95''***. Each corresponds to a percentage of blockage. Your dryer will shut itself down if it detects a ***''d90''*** or above level.\u00a0Avoid running it until the problem is corrected.\n\nThe dryer will display the ***''d80''*** code after the cycle completes to warn you of increasing potential duct blockage. You can still run the dryer with that code, but you should check the situation as soon as possible. Here\u2019s how!\n\n== First Steps ==\n\nThe very first step is to reset the dryer. Sometimes the codes are just glitches.\n\n* Press the power key to turn off the dryer\n* Unplug the dryer or switch off the circuit breaker supplying power to the dryer\n* Press the start key for 5 Seconds\n* Plug in the dryer, or switch the circuit breaker back on.[br]\n\nThis should clear the error code. Try running another cycle. If the code reappears, you will need to try the steps detailed below. NOTE: In some cases resetting the dryer will not clear the code, the dryer needs to run a cycle with no clog detected in order for it to reset.\n\n[comment]solutions[/comment]\n\n== Clogged Lint Filter ==\n\nA clogged lint filter can cause an airflow blockage that acts like an exhaust duct blockage. Before you check your ducts for lint, make sure that your lint filter is cleaned thoroughly, as shown on our [[Dryer Maintenance|Dryer Maintenance|new_window=true]] page.\n\n== Clogged Exhaust Duct ==\n\nThe most likely cause for the code is the condition it was designed to guard against\u2014 clogged exhaust vent ductwork. Keep in mind that the entire exhaust system needs to be checked. This includes:\n\n* The internal lint filter on the dryer (mentioned above and hopefully already cleaned),\n* The internal ducting of the dryer, the blower, and the entire exhaust system, especially any flexible duct.\n* Remove any screens that a well-meaning person might have installed at the outlet for rodent protection. These are prohibited by code. A damper flap is required, but a screen or mesh should not be installed as it creates an easily clogged lint trap.\n\n[br]\nGo to our [[Dryer Maintenance|Dryer Maintenance|new_window=true]] page for details on how to do these procedures.\n\nIf you can\u2019t get the code to clear after these steps and have run a full cycle, you are likely facing a component fault or the duct is too long. Go to the next step.\n\n== Excessive Exhaust Duct Length ==\n\nYour ducting may be just fine now as far as lint clogs go, but it may be too long for your dryer. This will cause lower airflow leading to a higher temperature rise in the dryer.\u00a0 Your LG dryer can run a duct check. Your Owner\u2019s Manual has the details.\n\n=== Faulty Duct Conditions ===\n\nBefore running the duct check, make sure that the following items have been verified. Since your duct system may be concealed or inaccessible, check these as much as you are able:\n\n# You are using the shortest possible connection between the dryer and the exhaust vent pipe.\n# You are using rigid ducts wherever possible:\n## Some localities require it for the whole system.\n## The joints should be arranged so that the pipe that fits inside the next pipe at each joint is toward the dryer.\n# There is no foil type or plastic flex duct in the system.\n# The system should be assembled with foil tape and without screws at the joints unless they protrude \u215b inch or less into the duct to avoid trapping lint.\n# Remove unnecessary elbows or bends from the system.\n## Sometimes older dryers may have needed extra fittings to connect to the system and the replacement doesn\u2019t need them.\n## Remember that changing your dryer to a side outlet (when possible) will add an elbow to the system.\n\nYour owner\u2019s manual should have more details on duct installation, such as the total acceptable length and number of bends.\n\n=== Duct Check ===\n\nThe duct check takes about two to three minutes and your dryer must be cool to start with. If your dryer is warm, you can run an ***Air Dry*** cycle for a few minutes to cool it off first.\n\n* Remove any laundry or drying racks inside the drum\n* Press the ***Power*** key\n* Then press at the same time the two keys specific to your model (found in your owner\u2019s manual under installation test)\n** E.g. ***Temp*** and ***Signal; Wrinkle Care*** and ***Temp***\n** Some models will require all the buttons to be pressed at once, (dlex3885 model,\u00a0 ***Damp Dry, Power*** and ***Temp Control***)\n** The display will show ***''lnS''***\n** Press the ***Start*** button.\n* The test will run for a short time and then display ***''End''*** or ***''0''*** if there is no problem. You\u2019re done!\n* Otherwise, it will display error codes or ***''no''*** depending on the model.\n\nThe solution for a verified too-long duct is to install a duct booster fan. Known as a Dryer Exhaust Duct Power Ventilator (DEDPV for short), you install it downstream of your dryer to enable it to function properly with an over-long duct. Before trying that solution, you should check several of the components of the dryer.\n\nDo the following component checks, before going with the booster fan. The fan is expensive and requires a fairly involved installation.\n\n== Faulty Hi-Limit Thermostat ==\n\nThe hi-limit thermostat is involved in the function of the Flow Sense system. Plugged exhaust ducts will cause a temperature rise in the dryer, especially at the heat source. This is where the hi-limit thermostat is located. If the temperature rise causes the hi-limit thermostat to operate, it will send a signal to the control board. This will result in an error message.\n\nIf the hi-limit thermostat is faulty, it may open at a lower temperature than designed. This \u201cfools\u201d the flow sense system into thinking the dryer is hotter than it is. Because it opens sooner than it should, the Flow Sense system treats that as a duct obstruction and displays the error code.\n\nHere\u2019s some information on [link|https://www.youtube.com/watch?v=4kzzJhbGZbk|testing your hi-limit thermostat|new_window=true]. Even if the hi-limit tests ok, if it is at all borderline, it may be worthwhile to replace it, as the component is comparatively cheap.\n\nIf the hi-limit tests ok, go on to the next test.\n\n== Failed Cycling Thermostat or Outlet Thermistor ==\n\nThe cycling thermostat or outlet thermistor controls the temperature in your dryer. If this component fails in the \u201cheat on\u201d position (closed in the case of a thermostat), the dryer will heat up excessively.\n\nThe first line of defense when this happens is the hi-limit thermostat. Since this failure will cause the hi-limit thermostat to regulate the temperature of the dryer, it will open and close, triggering a plugged duct error.\n\nThermostat failures are harder to test, since a cycling thermostat is supposed to open above a certain temperature in order to shut off the heating system. The thermostat will have continuity at lower temperatures, so a continuity test won\u2019t show if it will operate. You can use very hot or boiling water or [link|https://www.youtube.com/watch?v=4kzzJhbGZbk|a hot plate with a temperature control|new_window=true] to see if the thermostat will open.\n\nYou can test the thermistor to see if it has the correct resistance for the room temperature it is at, and you may be able to use a water bath to test it at other temperatures.\n\nIf the thermostat or thermistor tests ok, you can proceed to the more involved fixes, depending on what seems to be the problem. There is no harm in replacing the thermostat or thermistor, though as often component bundles are sold which combine the hi-limit thermostat with the cycling thermostat or outlet thermistor. Some kits may even have an inlet thermistor combined with the hi-limit thermostat and outlet thermistor.\n\n== Faulty Main Control Board ==\n\nThe last component to check is the main control board. This is a judgment call, based on what you know of your exhaust duct system. If you have reason to think that the exhaust duct is overly long or borderline, the duct booster might be a sensible step rather than the control board.\n\nIf your dryer was running fine for years, and then suddenly starts having these errors, that could point to the control board. This is especially true if:\n\n# You know that the duct system is clean\n# The errors didn\u2019t disappear after replacing the hi-limit thermostat, and any other control components.\n\nIf this is the case, you should replace the control board.\n\n[br]\n\n[comment]conclusion[/comment]\n\n== Additional Information ==\n\n=== More About Flow Sense\u00ae ===\n\nOn LG dryers with Flow Sense\u00ae, the hi-limit thermostat will have an additional terminal. When the hi-limit thermostat opens, shutting off the heat source, either contacts in that thermostat close, or a change in the voltage at that point occurs, which signals the control board. The control board is able to sense the amount of airflow obstruction by how quickly this thermostat operates(if at all) compared to when the heat was turned on. If the airflow is very obstructed, the cycling thermostat or thermistor will never \u201cfeel\u201d the very hot air going into the dryer and the hi-limit will operate quickly. Interestingly the rapid operation of the hi-limit, combined with low airflow results in a cooler internal temperature for the dryer. This temperature is lower than normal because:\n\n# The hi-limit must reset when it is tripped so no heating can occur during that time.\n# Low airflow keeps the interior of the dryer from heating up as it should. The flow of\u00a0hot air is what brings heat to the interior of the dryer drum.\n# You are trying to dry clothes with a very hot, but very small, amount of air. That air can\u2019t carry the moisture away either since the airflow is so low. So the interior never really heats up or dries anything.\n\n=== Bigger Ducts? ===\n\nAvoid increasing the duct size to allow lower flow losses on a long duct. While the flow losses may be reduced and keep the dryer from signaling a clogged duct, the airflow in the larger duct will move more slowly. This lower speed will allow lint that is carried from the dryer to fall out of the airflow and gather on the bottom of the large duct. Eventually, it will clog sufficiently to generate a code.",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The Flow Sense\u00ae system on your LG dryer is meant to detect the presence of clogged exhaust ducting. It monitors heat levels in your dryer and responds to conditions that it detects with one of three codes: "
+          },
+          {
+            "type": "text",
+            "text": "d80",
+            "marks": [
+              {
+                "type": "italic"
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", "
+          },
+          {
+            "type": "text",
+            "text": "d90",
+            "marks": [
+              {
+                "type": "italic"
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", and "
+          },
+          {
+            "type": "text",
+            "text": "d95",
+            "marks": [
+              {
+                "type": "italic"
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Each corresponds to a percentage of blockage. Your dryer will shut itself down if it detects a "
+          },
+          {
+            "type": "text",
+            "text": "d90",
+            "marks": [
+              {
+                "type": "italic"
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " or above level.\u00a0Avoid running it until the problem is corrected."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The dryer will display the "
+          },
+          {
+            "type": "text",
+            "text": "d80",
+            "marks": [
+              {
+                "type": "italic"
+              },
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " code after the cycle completes to warn you of increasing potential duct blockage. You can still run the dryer with that code, but you should check the situation as soon as possible. Here\u2019s how!"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "First Steps"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The very first step is to reset the dryer. Sometimes the codes are just glitches."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Press the power key to turn off the dryer"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Unplug the dryer or switch off the circuit breaker supplying power to the dryer"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Press the start key for 5 Seconds"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Plug in the dryer, or switch the circuit breaker back on."
+                  },
+                  {
+                    "type": "customHardBreak"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This should clear the error code. Try running another cycle. If the code reappears, you will need to try the steps detailed below. NOTE: In some cases resetting the dryer will not clear the code, the dryer needs to run a cycle with no clog detected in order for it to reset."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]solutions[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Clogged Lint Filter"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A clogged lint filter can cause an airflow blockage that acts like an exhaust duct blockage. Before you check your ducts for lint, make sure that your lint filter is cleaned thoroughly, as shown on our "
+          },
+          {
+            "type": "text",
+            "text": "Dryer Maintenance",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Maintenance",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Wiki/Dryer_Maintenance"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " page."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Clogged Exhaust Duct"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The most likely cause for the code is the condition it was designed to guard against\u2014 clogged exhaust vent ductwork. Keep in mind that the entire exhaust system needs to be checked. This includes:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The internal lint filter on the dryer (mentioned above and hopefully already cleaned),"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The internal ducting of the dryer, the blower, and the entire exhaust system, especially any flexible duct."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Remove any screens that a well-meaning person might have installed at the outlet for rodent protection. These are prohibited by code. A damper flap is required, but a screen or mesh should not be installed as it creates an easily clogged lint trap."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "customHardBreak"
+          },
+          {
+            "type": "text",
+            "text": "Go to our "
+          },
+          {
+            "type": "text",
+            "text": "Dryer Maintenance",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Maintenance",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Wiki/Dryer_Maintenance"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " page for details on how to do these procedures."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you can\u2019t get the code to clear after these steps and have run a full cycle, you are likely facing a component fault or the duct is too long. Go to the next step."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Excessive Exhaust Duct Length"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Your ducting may be just fine now as far as lint clogs go, but it may be too long for your dryer. This will cause lower airflow leading to a higher temperature rise in the dryer.\u00a0 Your LG dryer can run a duct check. Your Owner\u2019s Manual has the details."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Faulty Duct Conditions"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Before running the duct check, make sure that the following items have been verified. Since your duct system may be concealed or inaccessible, check these as much as you are able:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "order": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You are using the shortest possible connection between the dryer and the exhaust vent pipe."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You are using rigid ducts wherever possible:"
+                  }
+                ]
+              },
+              {
+                "type": "orderedList",
+                "attrs": {
+                  "order": 1
+                },
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Some localities require it for the whole system."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "The joints should be arranged so that the pipe that fits inside the next pipe at each joint is toward the dryer."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "There is no foil type or plastic flex duct in the system."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The system should be assembled with foil tape and without screws at the joints unless they protrude \u215b inch or less into the duct to avoid trapping lint."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Remove unnecessary elbows or bends from the system."
+                  }
+                ]
+              },
+              {
+                "type": "orderedList",
+                "attrs": {
+                  "order": 1
+                },
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Sometimes older dryers may have needed extra fittings to connect to the system and the replacement doesn\u2019t need them."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Remember that changing your dryer to a side outlet (when possible) will add an elbow to the system."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Your owner\u2019s manual should have more details on duct installation, such as the total acceptable length and number of bends."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Duct Check"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The duct check takes about two to three minutes and your dryer must be cool to start with. If your dryer is warm, you can run an "
+          },
+          {
+            "type": "text",
+            "text": "Air Dry",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " cycle for a few minutes to cool it off first."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Remove any laundry or drying racks inside the drum"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Press the "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Power",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " key"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Then press at the same time the two keys specific to your model (found in your owner\u2019s manual under installation test)"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "E.g. "
+                          },
+                          {
+                            "type": "text",
+                            "text": "Temp",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " and "
+                          },
+                          {
+                            "type": "text",
+                            "text": "Signal; Wrinkle Care",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " and "
+                          },
+                          {
+                            "type": "text",
+                            "text": "Temp",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Some models will require all the buttons to be pressed at once, (dlex3885 model,\u00a0 "
+                          },
+                          {
+                            "type": "text",
+                            "text": "Damp Dry, Power",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " and "
+                          },
+                          {
+                            "type": "text",
+                            "text": "Temp Control",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": ")"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "The display will show "
+                          },
+                          {
+                            "type": "text",
+                            "text": "lnS",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              },
+                              {
+                                "type": "bold"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Press the "
+                          },
+                          {
+                            "type": "text",
+                            "text": "Start",
+                            "marks": [
+                              {
+                                "type": "bold"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " button."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The test will run for a short time and then display "
+                  },
+                  {
+                    "type": "text",
+                    "text": "End",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " or "
+                  },
+                  {
+                    "type": "text",
+                    "text": "0",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " if there is no problem. You\u2019re done!"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Otherwise, it will display error codes or "
+                  },
+                  {
+                    "type": "text",
+                    "text": "no",
+                    "marks": [
+                      {
+                        "type": "italic"
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " depending on the model."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The solution for a verified too-long duct is to install a duct booster fan. Known as a Dryer Exhaust Duct Power Ventilator (DEDPV for short), you install it downstream of your dryer to enable it to function properly with an over-long duct. Before trying that solution, you should check several of the components of the dryer."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Do the following component checks, before going with the booster fan. The fan is expensive and requires a fairly involved installation."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Faulty Hi-Limit Thermostat"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The hi-limit thermostat is involved in the function of the Flow Sense system. Plugged exhaust ducts will cause a temperature rise in the dryer, especially at the heat source. This is where the hi-limit thermostat is located. If the temperature rise causes the hi-limit thermostat to operate, it will send a signal to the control board. This will result in an error message."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If the hi-limit thermostat is faulty, it may open at a lower temperature than designed. This \u201cfools\u201d the flow sense system into thinking the dryer is hotter than it is. Because it opens sooner than it should, the Flow Sense system treats that as a duct obstruction and displays the error code."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Here\u2019s some information on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/watch?v=4kzzJhbGZbk",
+                  "target": "_blank"
+                }
+              }
+            ],
+            "text": "testing your hi-limit thermostat"
+          },
+          {
+            "type": "text",
+            "text": ". Even if the hi-limit tests ok, if it is at all borderline, it may be worthwhile to replace it, as the component is comparatively cheap."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If the hi-limit tests ok, go on to the next test."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Failed Cycling Thermostat or Outlet Thermistor"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The cycling thermostat or outlet thermistor controls the temperature in your dryer. If this component fails in the \u201cheat on\u201d position (closed in the case of a thermostat), the dryer will heat up excessively."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The first line of defense when this happens is the hi-limit thermostat. Since this failure will cause the hi-limit thermostat to regulate the temperature of the dryer, it will open and close, triggering a plugged duct error."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Thermostat failures are harder to test, since a cycling thermostat is supposed to open above a certain temperature in order to shut off the heating system. The thermostat will have continuity at lower temperatures, so a continuity test won\u2019t show if it will operate. You can use very hot or boiling water or "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/watch?v=4kzzJhbGZbk",
+                  "target": "_blank"
+                }
+              }
+            ],
+            "text": "a hot plate with a temperature control"
+          },
+          {
+            "type": "text",
+            "text": " to see if the thermostat will open."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "You can test the thermistor to see if it has the correct resistance for the room temperature it is at, and you may be able to use a water bath to test it at other temperatures."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If the thermostat or thermistor tests ok, you can proceed to the more involved fixes, depending on what seems to be the problem. There is no harm in replacing the thermostat or thermistor, though as often component bundles are sold which combine the hi-limit thermostat with the cycling thermostat or outlet thermistor. Some kits may even have an inlet thermistor combined with the hi-limit thermostat and outlet thermistor."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Faulty Main Control Board"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The last component to check is the main control board. This is a judgment call, based on what you know of your exhaust duct system. If you have reason to think that the exhaust duct is overly long or borderline, the duct booster might be a sensible step rather than the control board."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If your dryer was running fine for years, and then suddenly starts having these errors, that could point to the control board. This is especially true if:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "order": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You know that the duct system is clean"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The errors didn\u2019t disappear after replacing the hi-limit thermostat, and any other control components."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If this is the case, you should replace the control board."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "customHardBreak"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]conclusion[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Additional Information"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "More About Flow Sense\u00ae"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "On LG dryers with Flow Sense\u00ae, the hi-limit thermostat will have an additional terminal. When the hi-limit thermostat opens, shutting off the heat source, either contacts in that thermostat close, or a change in the voltage at that point occurs, which signals the control board. The control board is able to sense the amount of airflow obstruction by how quickly this thermostat operates(if at all) compared to when the heat was turned on. If the airflow is very obstructed, the cycling thermostat or thermistor will never \u201cfeel\u201d the very hot air going into the dryer and the hi-limit will operate quickly. Interestingly the rapid operation of the hi-limit, combined with low airflow results in a cooler internal temperature for the dryer. This temperature is lower than normal because:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "order": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The hi-limit must reset when it is tripped so no heating can occur during that time."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Low airflow keeps the interior of the dryer from heating up as it should. The flow of\u00a0hot air is what brings heat to the interior of the dryer drum."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You are trying to dry clothes with a very hot, but very small, amount of air. That air can\u2019t carry the moisture away either since the airflow is so low. So the interior never really heats up or dries anything."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Bigger Ducts?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Avoid increasing the duct size to allow lower flow losses on a long duct. While the flow losses may be reduced and keep the dryer from signaling a clogged duct, the airflow in the larger duct will move more slowly. This lower speed will allow lint that is carried from the dryer to fall out of the airflow and gather on the bottom of the large duct. Eventually, it will clog sufficiently to generate a code."
+          }
+        ]
+      }
+    ]
+  },
+  "contents_rendered": "<p>The Flow Sense\u00ae system on your LG dryer is meant to detect the presence of clogged exhaust ducting. It monitors heat levels in your dryer and responds to conditions that it detects with one of three codes: <strong><em>d80</em></strong>, <strong><em>d90</em></strong>, and <strong><em>d95</em></strong>. Each corresponds to a percentage of blockage. Your dryer will shut itself down if it detects a <strong><em>d90</em></strong> or above level.\u00a0Avoid running it until the problem is corrected.</p>\n\n<p>The dryer will display the <strong><em>d80</em></strong> code after the cycle completes to warn you of increasing potential duct blockage. You can still run the dryer with that code, but you should check the situation as soon as possible. Here\u2019s how!</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_First_Steps\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_First_Steps\" class=\"header\">First Steps</h2></div>\n\n<p>The very first step is to reset the dryer. Sometimes the codes are just glitches.</p>\n\n<ul><li>Press the power key to turn off the dryer</li><li>Unplug the dryer or switch off the circuit breaker supplying power to the dryer</li><li>Press the start key for 5 Seconds</li><li>Plug in the dryer, or switch the circuit breaker back on.<br /></li></ul>\n<p>This should clear the error code. Try running another cycle. If the code reappears, you will need to try the steps detailed below. NOTE: In some cases resetting the dryer will not clear the code, the dryer needs to run a cycle with no clog detected in order for it to reset.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Clogged_Lint_Filter\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Clogged_Lint_Filter\" class=\"header\">Clogged Lint Filter</h2></div>\n\n<p>A clogged lint filter can cause an airflow blockage that acts like an exhaust duct blockage. Before you check your ducts for lint, make sure that your lint filter is cleaned thoroughly, as shown on our <a href=\"/Wiki/Dryer_Maintenance\" target=\"_blank\">Dryer Maintenance</a> page.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Clogged_Exhaust_Duct\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Clogged_Exhaust_Duct\" class=\"header\">Clogged Exhaust Duct</h2></div>\n\n<p>The most likely cause for the code is the condition it was designed to guard against\u2014 clogged exhaust vent ductwork. Keep in mind that the entire exhaust system needs to be checked. This includes:</p>\n\n<ul><li>The internal lint filter on the dryer (mentioned above and hopefully already cleaned),</li><li>The internal ducting of the dryer, the blower, and the entire exhaust system, especially any flexible duct.</li><li>Remove any screens that a well-meaning person might have installed at the outlet for rodent protection. These are prohibited by code. A damper flap is required, but a screen or mesh should not be installed as it creates an easily clogged lint trap.</li></ul>\n\n<p><br />Go to our <a href=\"/Wiki/Dryer_Maintenance\" target=\"_blank\">Dryer Maintenance</a> page for details on how to do these procedures.</p>\n\n<p>If you can\u2019t get the code to clear after these steps and have run a full cycle, you are likely facing a component fault or the duct is too long. Go to the next step.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Excessive_Exhaust_Duct_Length\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Excessive_Exhaust_Duct_Length\" class=\"header\">Excessive Exhaust Duct Length</h2></div>\n\n<p>Your ducting may be just fine now as far as lint clogs go, but it may be too long for your dryer. This will cause lower airflow leading to a higher temperature rise in the dryer.\u00a0 Your LG dryer can run a duct check. Your Owner\u2019s Manual has the details.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Faulty_Duct_Conditions\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h3 id=\"Section_Faulty_Duct_Conditions\" class=\"header\">Faulty Duct Conditions</h3></div>\n\n<p>Before running the duct check, make sure that the following items have been verified. Since your duct system may be concealed or inaccessible, check these as much as you are able:</p>\n\n<ol><li>You are using the shortest possible connection between the dryer and the exhaust vent pipe.</li><li>You are using rigid ducts wherever possible:<ol><li>Some localities require it for the whole system.</li><li>The joints should be arranged so that the pipe that fits inside the next pipe at each joint is toward the dryer.</li></ol></li><li>There is no foil type or plastic flex duct in the system.</li><li>The system should be assembled with foil tape and without screws at the joints unless they protrude \u215b inch or less into the duct to avoid trapping lint.</li><li>Remove unnecessary elbows or bends from the system.<ol><li>Sometimes older dryers may have needed extra fittings to connect to the system and the replacement doesn\u2019t need them.</li><li>Remember that changing your dryer to a side outlet (when possible) will add an elbow to the system.</li></ol></li></ol>\n\n<p>Your owner\u2019s manual should have more details on duct installation, such as the total acceptable length and number of bends.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Duct_Check\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h3 id=\"Section_Duct_Check\" class=\"header\">Duct Check</h3></div>\n\n<p>The duct check takes about two to three minutes and your dryer must be cool to start with. If your dryer is warm, you can run an <strong>Air Dry</strong> cycle for a few minutes to cool it off first.</p>\n\n<ul><li>Remove any laundry or drying racks inside the drum</li><li>Press the <strong>Power</strong> key</li><li>Then press at the same time the two keys specific to your model (found in your owner\u2019s manual under installation test)<ul><li>E.g. <strong>Temp</strong> and <strong>Signal; Wrinkle Care</strong> and <strong>Temp</strong></li><li>Some models will require all the buttons to be pressed at once, (dlex3885 model,\u00a0 <strong>Damp Dry, Power</strong> and <strong>Temp Control</strong>)</li><li>The display will show <strong><em>lnS</em></strong></li><li>Press the <strong>Start</strong> button.</li></ul></li><li>The test will run for a short time and then display <strong><em>End</em></strong> or <strong><em>0</em></strong> if there is no problem. You\u2019re done!</li><li>Otherwise, it will display error codes or <strong><em>no</em></strong> depending on the model.</li></ul>\n\n<p>The solution for a verified too-long duct is to install a duct booster fan. Known as a Dryer Exhaust Duct Power Ventilator (DEDPV for short), you install it downstream of your dryer to enable it to function properly with an over-long duct. Before trying that solution, you should check several of the components of the dryer.</p>\n\n<p>Do the following component checks, before going with the booster fan. The fan is expensive and requires a fairly involved installation.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Faulty_Hi_Limit_Thermostat\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Faulty_Hi_Limit_Thermostat\" class=\"header\">Faulty Hi-Limit Thermostat</h2></div>\n\n<p>The hi-limit thermostat is involved in the function of the Flow Sense system. Plugged exhaust ducts will cause a temperature rise in the dryer, especially at the heat source. This is where the hi-limit thermostat is located. If the temperature rise causes the hi-limit thermostat to operate, it will send a signal to the control board. This will result in an error message.</p>\n\n<p>If the hi-limit thermostat is faulty, it may open at a lower temperature than designed. This \u201cfools\u201d the flow sense system into thinking the dryer is hotter than it is. Because it opens sooner than it should, the Flow Sense system treats that as a duct obstruction and displays the error code.</p>\n\n<p>Here\u2019s some information on <a href=\"https://www.youtube.com/watch?v=4kzzJhbGZbk\" target=\"_blank\">testing your hi-limit thermostat</a>. Even if the hi-limit tests ok, if it is at all borderline, it may be worthwhile to replace it, as the component is comparatively cheap.</p>\n\n<p>If the hi-limit tests ok, go on to the next test.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Failed_Cycling_Thermostat_or_Outlet_Thermistor\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Failed_Cycling_Thermostat_or_Outlet_Thermistor\" class=\"header\">Failed Cycling Thermostat or Outlet Thermistor</h2></div>\n\n<p>The cycling thermostat or outlet thermistor controls the temperature in your dryer. If this component fails in the \u201cheat on\u201d position (closed in the case of a thermostat), the dryer will heat up excessively.</p>\n\n<p>The first line of defense when this happens is the hi-limit thermostat. Since this failure will cause the hi-limit thermostat to regulate the temperature of the dryer, it will open and close, triggering a plugged duct error.</p>\n\n<p>Thermostat failures are harder to test, since a cycling thermostat is supposed to open above a certain temperature in order to shut off the heating system. The thermostat will have continuity at lower temperatures, so a continuity test won\u2019t show if it will operate. You can use very hot or boiling water or <a href=\"https://www.youtube.com/watch?v=4kzzJhbGZbk\" target=\"_blank\">a hot plate with a temperature control</a> to see if the thermostat will open.</p>\n\n<p>You can test the thermistor to see if it has the correct resistance for the room temperature it is at, and you may be able to use a water bath to test it at other temperatures.</p>\n\n<p>If the thermostat or thermistor tests ok, you can proceed to the more involved fixes, depending on what seems to be the problem. There is no harm in replacing the thermostat or thermistor, though as often component bundles are sold which combine the hi-limit thermostat with the cycling thermostat or outlet thermistor. Some kits may even have an inlet thermistor combined with the hi-limit thermostat and outlet thermistor.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Faulty_Main_Control_Board\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Faulty_Main_Control_Board\" class=\"header\">Faulty Main Control Board</h2></div>\n\n<p>The last component to check is the main control board. This is a judgment call, based on what you know of your exhaust duct system. If you have reason to think that the exhaust duct is overly long or borderline, the duct booster might be a sensible step rather than the control board.</p>\n\n<p>If your dryer was running fine for years, and then suddenly starts having these errors, that could point to the control board. This is especially true if:</p>\n\n<ol><li>You know that the duct system is clean</li><li>The errors didn\u2019t disappear after replacing the hi-limit thermostat, and any other control components.</li></ol>\n\n<p>If this is the case, you should replace the control board.</p>\n\n<p><br /></p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Additional_Information\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Additional_Information\" class=\"header\">Additional Information</h2></div>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_More_About_Flow_Sense\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h3 id=\"Section_More_About_Flow_Sense\" class=\"header\">More About Flow Sense\u00ae</h3></div>\n\n<p>On LG dryers with Flow Sense\u00ae, the hi-limit thermostat will have an additional terminal. When the hi-limit thermostat opens, shutting off the heat source, either contacts in that thermostat close, or a change in the voltage at that point occurs, which signals the control board. The control board is able to sense the amount of airflow obstruction by how quickly this thermostat operates(if at all) compared to when the heat was turned on. If the airflow is very obstructed, the cycling thermostat or thermistor will never \u201cfeel\u201d the very hot air going into the dryer and the hi-limit will operate quickly. Interestingly the rapid operation of the hi-limit, combined with low airflow results in a cooler internal temperature for the dryer. This temperature is lower than normal because:</p>\n\n<ol><li>The hi-limit must reset when it is tripped so no heating can occur during that time.</li><li>Low airflow keeps the interior of the dryer from heating up as it should. The flow of\u00a0hot air is what brings heat to the interior of the dryer drum.</li><li>You are trying to dry clothes with a very hot, but very small, amount of air. That air can\u2019t carry the moisture away either since the airflow is so low. So the interior never really heats up or dries anything.</li></ol>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Bigger_Ducts\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h3 id=\"Section_Bigger_Ducts\" class=\"header\">Bigger Ducts?</h3></div>\n\n<p>Avoid increasing the duct size to allow lower flow losses on a long duct. While the flow losses may be reduced and keep the dryer from signaling a clogged duct, the airflow in the larger duct will move more slowly. This lower speed will allow lint that is carried from the dryer to fall out of the airflow and gather on the bottom of the large duct. Eventually, it will clog sufficiently to generate a code.</p>",
+  "linked_wikis": [
+    {
+      "wikiid": 479298,
+      "namespace": "WIKI",
+      "title": "Dryer Maintenance"
+    }
+  ],
+  "can_edit": true,
+  "available_langids": [
+    "en",
+    "ru"
+  ],
+  "ancestors": [
+    {
+      "dataType": "wiki",
+      "wikiid": 508854,
+      "langid": "en",
+      "title": "LG Dryer",
+      "display_title": "LG Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Repair information for LG dryers.",
+      "url": "https://www.ifixit.com/Device/LG_Dryer",
+      "text": "Repair information for LG dryers.",
+      "image": {
+        "id": 4603589,
+        "guid": "qJZbVKEPSQG3uPtZ",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.full"
+      },
+      "modified_date": 1784131726,
+      "author": 4026158
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 15470,
+      "langid": "en",
+      "title": "Dryer",
+      "display_title": "Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Clothes dryer repair and support guides.",
+      "url": "https://www.ifixit.com/Device/Dryer",
+      "text": "Clothes dryer repair and support guides.",
+      "image": {
+        "id": 3076729,
+        "guid": "vgNFvy6MlKqgA14d",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.full"
+      },
+      "modified_date": 1708467455,
+      "author": 524640
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 1383,
+      "langid": "en",
+      "title": "Appliance",
+      "display_title": "Appliance",
+      "namespace": "CATEGORY",
+      "summary": "Comprehensive disassembly and installation guides for home appliances.",
+      "url": "https://www.ifixit.com/Device/Appliance",
+      "text": "Comprehensive disassembly and installation guides for home appliances.",
+      "image": {
+        "id": 3076640,
+        "guid": "yuk1YxQANOYorSCI",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.full"
+      },
+      "modified_date": 1785755929,
+      "author": 225663
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 11000,
+      "langid": "en",
+      "title": "Root",
+      "display_title": "Root",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Root",
+      "text": "Repair guides, manuals, and troubleshooting help for Root. Get everything you need to repair your Root yourself.",
+      "image": {
+        "id": 243440,
+        "guid": "bhofAWyrmGwRFlak",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.full"
+      },
+      "modified_date": 1705097689,
+      "author": 1
+    }
+  ],
+  "created_date": 1692825678,
+  "modified_date": 1692832077,
+  "is_troubleshooting": true,
+  "authors": [
+    {
+      "userid": 4152395,
+      "percent": 100,
+      "username": "Bill Gilbert",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/XF2HtcnjpXb4XA6l.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4152395/Bill+Gilbert"
+    }
+  ],
+  "tags": [
+    "problem",
+    "problem-error-code"
+  ],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": {
+    "id": 2961940,
+    "guid": "ePJaN6ITj3144rVj",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.large",
+    "original": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.full"
+  },
+  "documents": [],
+  "author": 4152395,
+  "display_title": "LG Dryer D80 Code",
+  "page_title": null,
+  "description": "Your LG Dryer is showing a D80 or d80 code. Not to worry, it is a safety feature and the fixes to clear the code are very straightforward.",
+  "source_revisionid": null
+}

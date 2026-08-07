@@ -1,0 +1,66 @@
+{
+  "wikiid": 632263,
+  "langid": "en",
+  "namespace": "ITEM",
+  "title": "Dryer Balls",
+  "revisionid": 1399082,
+  "contents_raw": "",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": []
+      }
+    ]
+  },
+  "contents_rendered": "",
+  "linked_wikis": [],
+  "can_edit": true,
+  "available_langids": [
+    "en"
+  ],
+  "ancestors": [],
+  "created_date": 1757696499,
+  "modified_date": 1757696523,
+  "is_troubleshooting": false,
+  "authors": [
+    {
+      "userid": 4381611,
+      "percent": 100,
+      "username": "Spencer Pennington",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/BmbTA1POiFQU5Sxf.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4381611/Spencer+Pennington"
+    }
+  ],
+  "tags": [],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": {
+    "id": 3764698,
+    "guid": "T5YWfk434nD1lo5k",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/T5YWfk434nD1lo5k.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/T5YWfk434nD1lo5k.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/T5YWfk434nD1lo5k.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/T5YWfk434nD1lo5k.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/T5YWfk434nD1lo5k.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/T5YWfk434nD1lo5k.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/T5YWfk434nD1lo5k.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/T5YWfk434nD1lo5k.large",
+    "original": "https://guide-images.cdn.ifixit.com/igi/T5YWfk434nD1lo5k.full"
+  },
+  "documents": [],
+  "author": 4381611,
+  "display_title": "Dryer Balls",
+  "description": "Wool balls used in a tumble dryer to reduce drying time, prevent wrinkles, and maintain insulation loft.",
+  "suppliers": [
+    {
+      "type": "",
+      "part_#": "",
+      "supplier": "",
+      "url": "https://www.amazon.com/Budieggs-Chemical-Softener-Hypoallergenic-Naturally/dp/B06ZYN7LLK/"
+    }
+  ],
+  "source_revisionid": null,
+  "info": []
+}

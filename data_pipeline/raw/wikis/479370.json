@@ -1,0 +1,1439 @@
+{
+  "wikiid": 479370,
+  "langid": "en",
+  "namespace": "WIKI",
+  "title": "Dryer Stops Mid Cycle",
+  "revisionid": 1075627,
+  "contents_raw": "Is your dryer shutting down on its own before the cycle should be through? Are the clothes still wet when it does?  Does it start up again when you manually restart it?  If it won't start again after the following:\n\n* Having 15 minutes to cool\n* Being unplugged and plugged in again after a couple of minutes\n* Opening and shutting its door several times and pressing start\n\ngo to our [[Dryer Will Not Start|Dryer Won't Start Page|new_window=true]]. Otherwise, let's walk through it.\n\n== First Steps ==\n\nBefore we go to diagnose, make sure you have done the checks in our [[Dryer Maintenance|Dryer Maintenance Page|new_window=true]].  Improper maintenance can lead to these problems.\n\nRun the dryer after you have done all the maintenance checks and cleaning, and see if the problem is still there. If not, you're done!\n\nIf your dryer will start again, it is time for some tests and questions.\n\n* Does it shut down mid cycle on an automatic dry cycle (not timed)?  Run the dryer on a timed dry cycle set for 60 minutes with a load of clothes in it and observe it. If it stops:\n* Will it restart immediately if you open and close the door and press the start button?  Go to the door switch section for more.\n* Does it start up on its own after cooling down for 10-15 minutes?\n** If it does, the drive motor is likely going bad.\n*** It will heat up and trip the motor thermal protection,  which shuts it down until it cools.\n*** Some dryers won't restart by themselves at this point, so we have other checks to make sure.\n* Does it start up manually after a cooling down period?\n** If so you'll want to first run the door switch tests, as vibrations could be making the door switch act like the door is open.\n** Next run the Moisture Sensor tests.\n[comment]solutions[/comment]\n\n== Faulty Door Switch ==\n\nRun the dryer until it stops mid cycle again.\n\n* Can you get the dryer to start again immediately (maybe not every time) by opening and shutting the door and pressing the start button if it has one.\n\n*  Does it seem to still be in the middle of its cycle, if so:\n\n* Will it start if you  open and shut the door several times?\n** Can you get it to stop by giving the unit a hard blow near the door latch area?\n** This points to a faulty door latch or door switch which cause the dryer to think its door is open, and it will stop. Replace the door latch and / or switch.\n* If it won't restart this way, or the cycle seemed to be done, go to the next step, .\n\n== Moisture Sensor Malfunction ==\n\nAre the clothes still damp? Does the dryer show that it finished its cycle when it shut off?\n\n* Damp clothes points to a faulty moisture sensor or a failed cycling thermostat. First check the moisture sensor.\n* If it has a moisture sensor, the dryer will have an automatic dry cycle that doesn't set a fixed time, and will allow more dry or less dry settings.\n* The moisture sensor will be two shiny metal strips inside of the dryer. These strips are side by side about 1/4\"-3/8\" apart.\n** The dryer checks the resistance between the moisture sensor strips caused by the wet clothes touching the strips.\n** If there is a broken wire in the moisture sensor circuit, the dryer will think the clothes are very dry and shut off after a short time.\n* Try running the dryer on a timed dry cycle (which ignores the moisture sensor) ***with a load of clothes***, and see if the dryer still shuts down. If it does, next cause item.\n* If not, check the moisture sensor connections for continuity. You need to check each strip and the wire corresponding to that strip back to the control board. Replace the moisture sensor or the wiring if there is any problem.\n\n== Clogged Exhaust Duct ==\n\nA clogged exhaust duct can lead to mid-cycle shutdowns. A number of dryers are designed to shut off if they sense that the airflow through the exhaust system is insufficient. This lack of airflow is most commonly caused by lint buildup in the dryer exhaust duct, or by objects or accumulated lint trapped in the blower wheel on the dryer.\n\n== Faulty Motor / Cycling Thermostat ==\n\nCan you get the dryer to start again after 5-10 minutes of cooling, but not immediately after it stops? Try running the dryer on a no-heat setting ***with a load of clothes***, and see if it shuts down. Note the following outcomes:\n\n# Does it get hot at all on the no-heat setting? If so, that's a problem in itself and one which could be leading to the shutdowns.  Go to our [[Electric Dryer Overheating|Electric Dryer Overheats|new_window=true]] or [[Gas Dryer Overheating|Gas Dryer Overheats|new_window=true]] pages for more on this.\n# It doesn't get hot, but shuts down after 10-15 minutes with no immediate restart?  This is a bad motor; replace it.\n# It doesn't get hot and keeps running?  This points to a thermal issue with the heating system.\n** When set to a heat setting, the cycling thermostat is bad and won't open, and the Hi-Limit thermostat operates and shuts the dryer down. Usually, the Hi-Limit Thermostat will just shut off the heat source, but there may be some designs that shut off the entire unit.\n** When the Hi-Limit thermostat cools, which takes time, it resets and the dryer can be restarted.\n** Replace or test the cycling thermostat. [[Dryer Stops Mid Cycle#Section_Additional_information|You can see some methods of testing a thermostat here|new_window=true]]\n\n== Motor Relay Failure ==\n\nAnother possibility is a weak or failing motor relay on the control board if your dryer has electronic controls. You'll want to test the relay with a multimeter and replace it if the readings are incorrect.\n\n== Broken Drive Belt ==\n\nA less likely failure is a broken drive belt.\n\n* On older machines without a broken belt switch, the dryer can continue to run without tumbling the clothes.\n* This can lead to overheating and repeated shutdowns, while the clothes remain damp or dry very slowly.\n* To check:\n** Listen for tumbling clothes, or empty the dryer and put a clean tennis ball in and see if you hear it bouncing.\n** If you don't hear anything try opening the door quickly and see if you can see the drum spin to a stop.\n** If it doesn't seem to be moving check the belt and replace it if it is broken or worn.\n[comment]conclusion[/comment]\n\n== Related Pages ==\n\n[[Dryer Will Not Start|Dryer Won't Start|new_window=true]]\n\n[[Dryer Not Heating|Dryer Not Heating|new_window=true]]\n\n[[Dryer Squeaking|Dryer Squeaking|new_window=true]]\n\n[[Dryer Not Spinning|Dryer Not Spinning|new_window=true]]\n\n[[Dryer Maintenance|Dryer Maintenance|new_window=true]]\n\n[[Gas Dryer Overheating|Gas Dryer Overheating|new_window=true]]\n\n[[Electric Dryer Overheating|Electric Dryer Overheating|new_window=true]]\n\n[[Dryer Making Loud Noise|Dryer Making Loud Noise|new_window=true]]\n\n== Additional information ==\n\nThermostat Testing\n\n* [link|https://www.youtube.com/watch?v=4kzzJhbGZbk|Using Hot Plate (Hi-Limit Shown)]\n* [link|https://youtube.com/clip/UgkxZYMkC1QVT1Qt008x5GsM8olZ7udFaTfL|Using Hair Dryer and or heat gun] (Clip from Appliance Parts Pros, full video [link|https://www.youtube.com/watch?v=2pJxrjvXAkY|here])\n\n[link|https://www.ifixit.com/Answers?search=dryer+stops+mid+cycle|Answers Forum for Dryer Stops Mid Cycle]\n\n[post|720503|new_window=true]\n\n[post|445147|new_window=true]\n\n[post|156714|new_window=true]\n\n[post|591513|new_window=true]\n\n[post|701485|new_window=true]",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Is your dryer shutting down on its own before the cycle should be through? Are the clothes still wet when it does?  Does it start up again when you manually restart it?  If it won't start again after the following:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Having 15 minutes to cool"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Being unplugged and plugged in again after a couple of minutes"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Opening and shutting its door several times and pressing start"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "go to our "
+          },
+          {
+            "type": "text",
+            "text": "Dryer Won't Start Page",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Will Not Start",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Will+Not+Start/478855"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". Otherwise, let's walk through it."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "First Steps"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Before we go to diagnose, make sure you have done the checks in our "
+          },
+          {
+            "type": "text",
+            "text": "Dryer Maintenance Page",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Maintenance",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Wiki/Dryer_Maintenance"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ".  Improper maintenance can lead to these problems."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Run the dryer after you have done all the maintenance checks and cleaning, and see if the problem is still there. If not, you're done!"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If your dryer will start again, it is time for some tests and questions."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Does it shut down mid cycle on an automatic dry cycle (not timed)?  Run the dryer on a timed dry cycle set for 60 minutes with a load of clothes in it and observe it. If it stops:"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Will it restart immediately if you open and close the door and press the start button?  Go to the door switch section for more."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Does it start up on its own after cooling down for 10-15 minutes?"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If it does, the drive motor is likely going bad."
+                          }
+                        ]
+                      },
+                      {
+                        "type": "bulletList",
+                        "attrs": [],
+                        "content": [
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "text": "It will heat up and trip the motor thermal protection,  which shuts it down until it cools."
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "type": "listItem",
+                            "content": [
+                              {
+                                "type": "paragraph",
+                                "content": [
+                                  {
+                                    "type": "text",
+                                    "text": "Some dryers won't restart by themselves at this point, so we have other checks to make sure."
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Does it start up manually after a cooling down period?"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If so you'll want to first run the door switch tests, as vibrations could be making the door switch act like the door is open."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Next run the Moisture Sensor tests."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]solutions[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Faulty Door Switch"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Run the dryer until it stops mid cycle again."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Can you get the dryer to start again immediately (maybe not every time) by opening and shutting the door and pressing the start button if it has one."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "*  Does it seem to still be in the middle of its cycle, if so:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Will it start if you  open and shut the door several times?"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Can you get it to stop by giving the unit a hard blow near the door latch area?"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "This points to a faulty door latch or door switch which cause the dryer to think its door is open, and it will stop. Replace the door latch and / or switch."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If it won't restart this way, or the cycle seemed to be done, go to the next step, ."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Moisture Sensor Malfunction"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Are the clothes still damp? Does the dryer show that it finished its cycle when it shut off?"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Damp clothes points to a faulty moisture sensor or a failed cycling thermostat. First check the moisture sensor."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If it has a moisture sensor, the dryer will have an automatic dry cycle that doesn't set a fixed time, and will allow more dry or less dry settings."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The moisture sensor will be two shiny metal strips inside of the dryer. These strips are side by side about 1/4\"-3/8\" apart."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "The dryer checks the resistance between the moisture sensor strips caused by the wet clothes touching the strips."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If there is a broken wire in the moisture sensor circuit, the dryer will think the clothes are very dry and shut off after a short time."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Try running the dryer on a timed dry cycle (which ignores the moisture sensor) "
+                  },
+                  {
+                    "type": "text",
+                    "text": "with a load of clothes",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ", and see if the dryer still shuts down. If it does, next cause item."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If not, check the moisture sensor connections for continuity. You need to check each strip and the wire corresponding to that strip back to the control board. Replace the moisture sensor or the wiring if there is any problem."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Clogged Exhaust Duct"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A clogged exhaust duct can lead to mid-cycle shutdowns. A number of dryers are designed to shut off if they sense that the airflow through the exhaust system is insufficient. This lack of airflow is most commonly caused by lint buildup in the dryer exhaust duct, or by objects or accumulated lint trapped in the blower wheel on the dryer."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Faulty Motor / Cycling Thermostat"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Can you get the dryer to start again after 5-10 minutes of cooling, but not immediately after it stops? Try running the dryer on a no-heat setting "
+          },
+          {
+            "type": "text",
+            "text": "with a load of clothes",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", and see if it shuts down. Note the following outcomes:"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "order": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Does it get hot at all on the no-heat setting? If so, that's a problem in itself and one which could be leading to the shutdowns.  Go to our "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Electric Dryer Overheats",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Electric Dryer Overheating",
+                          "tag": null,
+                          "newWindow": true,
+                          "href": "/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " or "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Gas Dryer Overheats",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Gas Dryer Overheating",
+                          "tag": null,
+                          "newWindow": true,
+                          "href": "/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " pages for more on this."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "It doesn't get hot, but shuts down after 10-15 minutes with no immediate restart?  This is a bad motor; replace it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "It doesn't get hot and keeps running?  This points to a thermal issue with the heating system."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "When set to a heat setting, the cycling thermostat is bad and won't open, and the Hi-Limit thermostat operates and shuts the dryer down. Usually, the Hi-Limit Thermostat will just shut off the heat source, but there may be some designs that shut off the entire unit."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "When the Hi-Limit thermostat cools, which takes time, it resets and the dryer can be restarted."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Replace or test the cycling thermostat. "
+                          },
+                          {
+                            "type": "text",
+                            "text": "You can see some methods of testing a thermostat here",
+                            "marks": [
+                              {
+                                "type": "wikiLink",
+                                "attrs": {
+                                  "target": "Dryer Stops Mid Cycle#Section_Additional_information",
+                                  "tag": null,
+                                  "newWindow": true,
+                                  "href": "/Troubleshooting/Dryer/Stops+Mid+Cycle/479370#Section_Additional_information"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Motor Relay Failure"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Another possibility is a weak or failing motor relay on the control board if your dryer has electronic controls. You'll want to test the relay with a multimeter and replace it if the readings are incorrect."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Broken Drive Belt"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A less likely failure is a broken drive belt."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "On older machines without a broken belt switch, the dryer can continue to run without tumbling the clothes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This can lead to overheating and repeated shutdowns, while the clothes remain damp or dry very slowly."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "To check:"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Listen for tumbling clothes, or empty the dryer and put a clean tennis ball in and see if you hear it bouncing."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If you don't hear anything try opening the door quickly and see if you can see the drum spin to a stop."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If it doesn't seem to be moving check the belt and replace it if it is broken or worn."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]conclusion[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Related Pages"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Won't Start",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Will Not Start",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Will+Not+Start/478855"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Not Heating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Not Heating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Not+Heating/478885"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Squeaking",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Squeaking",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Squeaking/479208"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Not Spinning",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Not Spinning",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Not+Spinning/478872"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Maintenance",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Maintenance",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Wiki/Dryer_Maintenance"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Gas Dryer Overheating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Gas Dryer Overheating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Electric Dryer Overheating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Electric Dryer Overheating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Making Loud Noise",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Making Loud Noise",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Making+Loud+Noise/479415"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Additional information"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Thermostat Testing"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.youtube.com/watch?v=4kzzJhbGZbk",
+                          "target": false
+                        }
+                      }
+                    ],
+                    "text": "Using Hot Plate (Hi-Limit Shown)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://youtube.com/clip/UgkxZYMkC1QVT1Qt008x5GsM8olZ7udFaTfL",
+                          "target": false
+                        }
+                      }
+                    ],
+                    "text": "Using Hair Dryer and or heat gun"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (Clip from Appliance Parts Pros, full video "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.youtube.com/watch?v=2pJxrjvXAkY",
+                          "target": false
+                        }
+                      }
+                    ],
+                    "text": "here"
+                  },
+                  {
+                    "type": "text",
+                    "text": ")"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.ifixit.com/Answers?search=dryer+stops+mid+cycle",
+                  "target": false
+                }
+              }
+            ],
+            "text": "Answers Forum for Dryer Stops Mid Cycle"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[post|720503|new_window=true]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[post|445147|new_window=true]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[post|156714|new_window=true]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[post|591513|new_window=true]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[post|701485|new_window=true]"
+          }
+        ]
+      }
+    ]
+  },
+  "contents_rendered": "<p>Is your dryer shutting down on its own before the cycle should be through? Are the clothes still wet when it does?  Does it start up again when you manually restart it?  If it won't start again after the following:</p>\n\n<ul><li>Having 15 minutes to cool</li><li>Being unplugged and plugged in again after a couple of minutes</li><li>Opening and shutting its door several times and pressing start</li></ul>\n\n<p>go to our <a href=\"/Troubleshooting/Dryer/Will+Not+Start/478855\" target=\"_blank\">Dryer Won't Start Page</a>. Otherwise, let's walk through it.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_First_Steps\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_First_Steps\" class=\"header\">First Steps</h2></div>\n\n<p>Before we go to diagnose, make sure you have done the checks in our <a href=\"/Wiki/Dryer_Maintenance\" target=\"_blank\">Dryer Maintenance Page</a>.  Improper maintenance can lead to these problems.</p>\n\n<p>Run the dryer after you have done all the maintenance checks and cleaning, and see if the problem is still there. If not, you're done!</p>\n\n<p>If your dryer will start again, it is time for some tests and questions.</p>\n\n<ul><li>Does it shut down mid cycle on an automatic dry cycle (not timed)?  Run the dryer on a timed dry cycle set for 60 minutes with a load of clothes in it and observe it. If it stops:</li><li>Will it restart immediately if you open and close the door and press the start button?  Go to the door switch section for more.</li><li>Does it start up on its own after cooling down for 10-15 minutes?<ul><li>If it does, the drive motor is likely going bad.<ul><li>It will heat up and trip the motor thermal protection,  which shuts it down until it cools.</li><li>Some dryers won't restart by themselves at this point, so we have other checks to make sure.</li></ul></li></ul></li><li>Does it start up manually after a cooling down period?<ul><li>If so you'll want to first run the door switch tests, as vibrations could be making the door switch act like the door is open.</li><li>Next run the Moisture Sensor tests.</li></ul></li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Faulty_Door_Switch\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Faulty_Door_Switch\" class=\"header\">Faulty Door Switch</h2></div>\n\n<p>Run the dryer until it stops mid cycle again.</p>\n\n<ul><li>Can you get the dryer to start again immediately (maybe not every time) by opening and shutting the door and pressing the start button if it has one.</li></ul>\n\n<p>*  Does it seem to still be in the middle of its cycle, if so:</p>\n\n<ul><li>Will it start if you  open and shut the door several times?<ul><li>Can you get it to stop by giving the unit a hard blow near the door latch area?</li><li>This points to a faulty door latch or door switch which cause the dryer to think its door is open, and it will stop. Replace the door latch and / or switch.</li></ul></li><li>If it won't restart this way, or the cycle seemed to be done, go to the next step, .</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Moisture_Sensor_Malfunction\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Moisture_Sensor_Malfunction\" class=\"header\">Moisture Sensor Malfunction</h2></div>\n\n<p>Are the clothes still damp? Does the dryer show that it finished its cycle when it shut off?</p>\n\n<ul><li>Damp clothes points to a faulty moisture sensor or a failed cycling thermostat. First check the moisture sensor.</li><li>If it has a moisture sensor, the dryer will have an automatic dry cycle that doesn't set a fixed time, and will allow more dry or less dry settings.</li><li>The moisture sensor will be two shiny metal strips inside of the dryer. These strips are side by side about 1/4&quot;-3/8&quot; apart.<ul><li>The dryer checks the resistance between the moisture sensor strips caused by the wet clothes touching the strips.</li><li>If there is a broken wire in the moisture sensor circuit, the dryer will think the clothes are very dry and shut off after a short time.</li></ul></li><li>Try running the dryer on a timed dry cycle (which ignores the moisture sensor) <strong>with a load of clothes</strong>, and see if the dryer still shuts down. If it does, next cause item.</li><li>If not, check the moisture sensor connections for continuity. You need to check each strip and the wire corresponding to that strip back to the control board. Replace the moisture sensor or the wiring if there is any problem.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Clogged_Exhaust_Duct\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Clogged_Exhaust_Duct\" class=\"header\">Clogged Exhaust Duct</h2></div>\n\n<p>A clogged exhaust duct can lead to mid-cycle shutdowns. A number of dryers are designed to shut off if they sense that the airflow through the exhaust system is insufficient. This lack of airflow is most commonly caused by lint buildup in the dryer exhaust duct, or by objects or accumulated lint trapped in the blower wheel on the dryer.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Faulty_Motor_Cycling_Thermostat\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Faulty_Motor_Cycling_Thermostat\" class=\"header\">Faulty Motor / Cycling Thermostat</h2></div>\n\n<p>Can you get the dryer to start again after 5-10 minutes of cooling, but not immediately after it stops? Try running the dryer on a no-heat setting <strong>with a load of clothes</strong>, and see if it shuts down. Note the following outcomes:</p>\n\n<ol><li>Does it get hot at all on the no-heat setting? If so, that's a problem in itself and one which could be leading to the shutdowns.  Go to our <a href=\"/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356\" target=\"_blank\">Electric Dryer Overheats</a> or <a href=\"/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355\" target=\"_blank\">Gas Dryer Overheats</a> pages for more on this.</li><li>It doesn't get hot, but shuts down after 10-15 minutes with no immediate restart?  This is a bad motor; replace it.</li><li>It doesn't get hot and keeps running?  This points to a thermal issue with the heating system.<ul><li>When set to a heat setting, the cycling thermostat is bad and won't open, and the Hi-Limit thermostat operates and shuts the dryer down. Usually, the Hi-Limit Thermostat will just shut off the heat source, but there may be some designs that shut off the entire unit.</li><li>When the Hi-Limit thermostat cools, which takes time, it resets and the dryer can be restarted.</li><li>Replace or test the cycling thermostat. <a href=\"/Troubleshooting/Dryer/Stops+Mid+Cycle/479370#Section_Additional_information\" target=\"_blank\">You can see some methods of testing a thermostat here</a></li></ul></li></ol>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Motor_Relay_Failure\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Motor_Relay_Failure\" class=\"header\">Motor Relay Failure</h2></div>\n\n<p>Another possibility is a weak or failing motor relay on the control board if your dryer has electronic controls. You'll want to test the relay with a multimeter and replace it if the readings are incorrect.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Broken_Drive_Belt\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Broken_Drive_Belt\" class=\"header\">Broken Drive Belt</h2></div>\n\n<p>A less likely failure is a broken drive belt.</p>\n\n<ul><li>On older machines without a broken belt switch, the dryer can continue to run without tumbling the clothes.</li><li>This can lead to overheating and repeated shutdowns, while the clothes remain damp or dry very slowly.</li><li>To check:<ul><li>Listen for tumbling clothes, or empty the dryer and put a clean tennis ball in and see if you hear it bouncing.</li><li>If you don't hear anything try opening the door quickly and see if you can see the drum spin to a stop.</li><li>If it doesn't seem to be moving check the belt and replace it if it is broken or worn.</li></ul></li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Related_Pages\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Related_Pages\" class=\"header\">Related Pages</h2></div>\n\n<p><a href=\"/Troubleshooting/Dryer/Will+Not+Start/478855\" target=\"_blank\">Dryer Won't Start</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Not+Heating/478885\" target=\"_blank\">Dryer Not Heating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Squeaking/479208\" target=\"_blank\">Dryer Squeaking</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Not+Spinning/478872\" target=\"_blank\">Dryer Not Spinning</a></p>\n\n<p><a href=\"/Wiki/Dryer_Maintenance\" target=\"_blank\">Dryer Maintenance</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355\" target=\"_blank\">Gas Dryer Overheating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356\" target=\"_blank\">Electric Dryer Overheating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Making+Loud+Noise/479415\" target=\"_blank\">Dryer Making Loud Noise</a></p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Additional_information\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Additional_information\" class=\"header\">Additional information</h2></div>\n\n<p>Thermostat Testing</p>\n\n<ul><li><a href=\"https://www.youtube.com/watch?v=4kzzJhbGZbk\">Using Hot Plate (Hi-Limit Shown)</a></li><li><a href=\"https://youtube.com/clip/UgkxZYMkC1QVT1Qt008x5GsM8olZ7udFaTfL\">Using Hair Dryer and or heat gun</a> (Clip from Appliance Parts Pros, full video <a href=\"https://www.youtube.com/watch?v=2pJxrjvXAkY\">here</a>)</li></ul>\n\n<p><a href=\"https://www.ifixit.com/Answers?search=dryer+stops+mid+cycle\">Answers Forum for Dryer Stops Mid Cycle</a></p>\n\n<p><a href=\"/Answers/View/720503/Dryer+stop+mid+cycle\" target=\"_blank\">Dryer stop mid cycle</a></p>\n\n<p><a href=\"/Answers/View/445147/Kenmore+Heavy+Duty+Dryer+shuts+off+mid+cycle\" target=\"_blank\">Kenmore Heavy Duty Dryer shuts off mid cycle</a></p>\n\n<p><a href=\"/Answers/View/156714/Dryer+stopped+in+middle+of+a+cycle.\" target=\"_blank\">Dryer stopped in middle of a cycle.</a></p>\n\n<p><a href=\"/Answers/View/591513/so+my+dryer+runs+fine+on+cold+or+delicate+but+it+stops+on+heat\" target=\"_blank\">so my dryer runs fine on cold or delicate but it stops on heat</a></p>\n\n<p><a href=\"/Answers/View/701485/Dryer+turns+off+mid+cycle+with+clothes+BUT+it+runs+fine+when+its+empty\" target=\"_blank\">Dryer turns off mid cycle with clothes BUT it runs fine when its empty</a></p>",
+  "linked_wikis": [
+    {
+      "wikiid": 478855,
+      "namespace": "WIKI",
+      "title": "Dryer Will Not Start"
+    },
+    {
+      "wikiid": 479298,
+      "namespace": "WIKI",
+      "title": "Dryer Maintenance"
+    },
+    {
+      "wikiid": 479356,
+      "namespace": "WIKI",
+      "title": "Electric Dryer Overheating"
+    },
+    {
+      "wikiid": 479355,
+      "namespace": "WIKI",
+      "title": "Gas Dryer Overheating"
+    },
+    {
+      "wikiid": 479370,
+      "namespace": "WIKI",
+      "title": "Dryer Stops Mid Cycle"
+    },
+    {
+      "wikiid": 478885,
+      "namespace": "WIKI",
+      "title": "Dryer Not Heating"
+    },
+    {
+      "wikiid": 479208,
+      "namespace": "WIKI",
+      "title": "Dryer Squeaking"
+    },
+    {
+      "wikiid": 478872,
+      "namespace": "WIKI",
+      "title": "Dryer Not Spinning"
+    },
+    {
+      "wikiid": 479415,
+      "namespace": "WIKI",
+      "title": "Dryer Making Loud Noise"
+    }
+  ],
+  "can_edit": true,
+  "available_langids": [
+    "en",
+    "ru"
+  ],
+  "ancestors": [
+    {
+      "dataType": "wiki",
+      "wikiid": 15470,
+      "langid": "en",
+      "title": "Dryer",
+      "display_title": "Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Clothes dryer repair and support guides.",
+      "url": "https://www.ifixit.com/Device/Dryer",
+      "text": "Clothes dryer repair and support guides.",
+      "image": {
+        "id": 3076729,
+        "guid": "vgNFvy6MlKqgA14d",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.full"
+      },
+      "modified_date": 1708467455,
+      "author": 524640
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 1383,
+      "langid": "en",
+      "title": "Appliance",
+      "display_title": "Appliance",
+      "namespace": "CATEGORY",
+      "summary": "Comprehensive disassembly and installation guides for home appliances.",
+      "url": "https://www.ifixit.com/Device/Appliance",
+      "text": "Comprehensive disassembly and installation guides for home appliances.",
+      "image": {
+        "id": 3076640,
+        "guid": "yuk1YxQANOYorSCI",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.full"
+      },
+      "modified_date": 1785755929,
+      "author": 225663
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 11000,
+      "langid": "en",
+      "title": "Root",
+      "display_title": "Root",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Root",
+      "text": "Repair guides, manuals, and troubleshooting help for Root. Get everything you need to repair your Root yourself.",
+      "image": {
+        "id": 243440,
+        "guid": "bhofAWyrmGwRFlak",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.full"
+      },
+      "modified_date": 1705097689,
+      "author": 1
+    }
+  ],
+  "created_date": 1659116943,
+  "modified_date": 1692656875,
+  "is_troubleshooting": true,
+  "authors": [
+    {
+      "userid": 4152395,
+      "percent": 93.33,
+      "username": "Bill Gilbert",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/XF2HtcnjpXb4XA6l.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4152395/Bill+Gilbert"
+    },
+    {
+      "userid": 2989458,
+      "percent": 6.67,
+      "username": "Austin Blakely",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/U2yM4NVNHFvF3FV3.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/2989458/Austin+Blakely"
+    }
+  ],
+  "tags": [
+    "problem",
+    "problem-power"
+  ],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": {
+    "id": 2708234,
+    "guid": "Q55qWwZwgWrtuJRP",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/Q55qWwZwgWrtuJRP.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/Q55qWwZwgWrtuJRP.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/Q55qWwZwgWrtuJRP.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/Q55qWwZwgWrtuJRP.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/Q55qWwZwgWrtuJRP.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/Q55qWwZwgWrtuJRP.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/Q55qWwZwgWrtuJRP.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/Q55qWwZwgWrtuJRP.large",
+    "huge": "https://guide-images.cdn.ifixit.com/igi/Q55qWwZwgWrtuJRP.huge",
+    "original": "https://guide-images.cdn.ifixit.com/igi/Q55qWwZwgWrtuJRP.full"
+  },
+  "documents": [],
+  "author": 4152395,
+  "display_title": "Dryer Stops Mid Cycle",
+  "page_title": null,
+  "description": "Your clothes dryer stops in the middle of a cycle.",
+  "source_revisionid": null
+}

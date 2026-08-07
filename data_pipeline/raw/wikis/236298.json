@@ -1,0 +1,80 @@
+{
+  "wikiid": 236298,
+  "langid": "en",
+  "namespace": "ITEM",
+  "title": "dryer",
+  "revisionid": 1398703,
+  "contents_raw": "",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": []
+      }
+    ]
+  },
+  "contents_rendered": "",
+  "linked_wikis": [],
+  "can_edit": true,
+  "available_langids": [
+    "en"
+  ],
+  "ancestors": [],
+  "created_date": 1557950440,
+  "modified_date": 1757603258,
+  "is_troubleshooting": false,
+  "authors": [
+    {
+      "userid": 4190394,
+      "percent": 25,
+      "username": "Clay Eickemeyer",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/VCHQukYCTPtXBlvV.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4190394/Clay+Eickemeyer"
+    },
+    {
+      "userid": 3085349,
+      "percent": 25,
+      "username": "Cesar Segura",
+      "avatar_url": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-11.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/3085349/Cesar+Segura"
+    },
+    {
+      "userid": 3945491,
+      "percent": 25,
+      "username": "Kris Rodriguez",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/TYRsgfOyqHJnJfDt.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/3945491/Kris+Rodriguez"
+    },
+    {
+      "userid": 4381611,
+      "percent": 25,
+      "username": "Spencer Pennington",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/BmbTA1POiFQU5Sxf.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4381611/Spencer+Pennington"
+    }
+  ],
+  "tags": [],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": {
+    "id": 3763180,
+    "guid": "RwLJDC4nGPcOXISJ",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/RwLJDC4nGPcOXISJ.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/RwLJDC4nGPcOXISJ.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/RwLJDC4nGPcOXISJ.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/RwLJDC4nGPcOXISJ.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/RwLJDC4nGPcOXISJ.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/RwLJDC4nGPcOXISJ.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/RwLJDC4nGPcOXISJ.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/RwLJDC4nGPcOXISJ.large",
+    "original": "https://guide-images.cdn.ifixit.com/igi/RwLJDC4nGPcOXISJ.full"
+  },
+  "documents": [],
+  "author": 4190394,
+  "display_title": "Dryer",
+  "description": "A machine used to dry your clothes by tumbling and heating them.",
+  "suppliers": [],
+  "source_revisionid": null,
+  "info": []
+}

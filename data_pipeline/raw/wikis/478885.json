@@ -1,0 +1,405 @@
+{
+  "wikiid": 478885,
+  "langid": "en",
+  "namespace": "WIKI",
+  "title": "Dryer Not Heating",
+  "revisionid": 1036429,
+  "contents_raw": "Is your dryer not drying? Is it not heating up to its job, and has no warmth? You start it and come back later to check and find your dryer running dutifully with wet clothes still inside. Maybe a little bit more dry, but not dry enough. Maybe you come back and it has finished its cycle but the clothes are still wet.  This is the place to walk through the possible causes, so you can understand what's going on and fix it.\n\n== \"I Already Know What Heat Source My Dryer Uses\" ==\n\nGreat! Follow the link below to get the help appropriate to your dryer type:\n\n* [[Electric Dryer Not Heating|Electric Dryer Not Heating]]\n* [[Gas Dryer Not Heating|Gas Dryer Not Heating]]\n\n== What Kind of Dryer Do You Have? ==\n\nYour dryer produces heat to dry your clothes, using either gas or electricity.  All dryers share several common components, but the causes of no heat for gas dryers are often different from those for electric. To figure out whether you have a gas or electric dryer:\n\n[image|2714928|size=medium]\n\n# First look for the power cord connecting the dryer to a wall outlet. Pull it out and inspect the plug. Does it look like a normal, grounded plug? If it does, you're likely looking at a gas dryer. Electric dryers have special 240V plugs that have prongs at an angle or have a fourth prong.\n** The photo to the left shows the various styles of electrical outlet. Pay special attention to the L14-30, NEMA 14-30, NEMA 10-30, and \u2014if your plug looks like those (or any of the 240V variations), you have an electrical dryer! ''(photo credit: [link|https://commons.wikimedia.org/wiki/User_talk:Olawlor|Orion Lawlor] on [link|https://commons.wikimedia.org/wiki/File:NEMA_simplified_pins.svg|Wikipedia])''\n# Look behind the dryer for a gas line coming into your dryer. The line will usually be a metal pipe with a shut-off valve somewhere between the wall and dryer. This is a sure sign that you've got a gas dryer.\n\nFollow the links above once you've identified the heat source your dryer uses!",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Is your dryer not drying? Is it not heating up to its job, and has no warmth? You start it and come back later to check and find your dryer running dutifully with wet clothes still inside. Maybe a little bit more dry, but not dry enough. Maybe you come back and it has finished its cycle but the clothes are still wet.  This is the place to walk through the possible causes, so you can understand what's going on and fix it."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "\"I Already Know What Heat Source My Dryer Uses\""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Great! Follow the link below to get the help appropriate to your dryer type:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Electric Dryer Not Heating",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Electric Dryer Not Heating",
+                          "tag": null,
+                          "newWindow": false,
+                          "href": "/Troubleshooting/Dryer/Electric+Dryer+Not+Heating/479829"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Gas Dryer Not Heating",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Gas Dryer Not Heating",
+                          "tag": null,
+                          "newWindow": false,
+                          "href": "/Troubleshooting/Dryer/Gas+Dryer+Not+Heating/479830"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "What Kind of Dryer Do You Have?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Your dryer produces heat to dry your clothes, using either gas or electricity.  All dryers share several common components, but the causes of no heat for gas dryers are often different from those for electric. To figure out whether you have a gas or electric dryer:"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[image|2714928|size=medium]"
+          }
+        ]
+      },
+      {
+        "type": "orderedList",
+        "attrs": {
+          "order": 1
+        },
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "First look for the power cord connecting the dryer to a wall outlet. Pull it out and inspect the plug. Does it look like a normal, grounded plug? If it does, you're likely looking at a gas dryer. Electric dryers have special 240V plugs that have prongs at an angle or have a fourth prong."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "The photo to the left shows the various styles of electrical outlet. Pay special attention to the L14-30, NEMA 14-30, NEMA 10-30, and \u2014if your plug looks like those (or any of the 240V variations), you have an electrical dryer! "
+                          },
+                          {
+                            "type": "text",
+                            "text": "(photo credit: ",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "link",
+                                "attrs": {
+                                  "href": "https://commons.wikimedia.org/wiki/User_talk:Olawlor",
+                                  "target": false
+                                }
+                              },
+                              {
+                                "type": "italic"
+                              }
+                            ],
+                            "text": "Orion Lawlor"
+                          },
+                          {
+                            "type": "text",
+                            "text": " on ",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "link",
+                                "attrs": {
+                                  "href": "https://commons.wikimedia.org/wiki/File:NEMA_simplified_pins.svg",
+                                  "target": false
+                                }
+                              },
+                              {
+                                "type": "italic"
+                              }
+                            ],
+                            "text": "Wikipedia"
+                          },
+                          {
+                            "type": "text",
+                            "text": ")",
+                            "marks": [
+                              {
+                                "type": "italic"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Look behind the dryer for a gas line coming into your dryer. The line will usually be a metal pipe with a shut-off valve somewhere between the wall and dryer. This is a sure sign that you've got a gas dryer."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Follow the links above once you've identified the heat source your dryer uses!"
+          }
+        ]
+      }
+    ]
+  },
+  "contents_rendered": "<p>Is your dryer not drying? Is it not heating up to its job, and has no warmth? You start it and come back later to check and find your dryer running dutifully with wet clothes still inside. Maybe a little bit more dry, but not dry enough. Maybe you come back and it has finished its cycle but the clothes are still wet.  This is the place to walk through the possible causes, so you can understand what's going on and fix it.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section__I_Already_Know_What_Heat_Source_My_Dryer_Uses\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section__I_Already_Know_What_Heat_Source_My_Dryer_Uses\" class=\"header\">&quot;I Already Know What Heat Source My Dryer Uses&quot;</h2></div>\n\n<p>Great! Follow the link below to get the help appropriate to your dryer type:</p>\n\n<ul><li><a href=\"/Troubleshooting/Dryer/Electric+Dryer+Not+Heating/479829\">Electric Dryer Not Heating</a></li><li><a href=\"/Troubleshooting/Dryer/Gas+Dryer+Not+Heating/479830\">Gas Dryer Not Heating</a></li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_What_Kind_of_Dryer_Do_You_Have\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_What_Kind_of_Dryer_Do_You_Have\" class=\"header\">What Kind of Dryer Do You Have?</h2></div>\n\n<p>Your dryer produces heat to dry your clothes, using either gas or electricity.  All dryers share several common components, but the causes of no heat for gas dryers are often different from those for electric. To figure out whether you have a gas or electric dryer:</p>\n\n<div class=\"imageBox imageBox_left\"><img src=\"https://guide-images.cdn.ifixit.com/igi/p5dandGvW4glw6om.medium\" width=\"450\" height=\"444\" class=\"hasMenu hasLarge\" alt=\"Image\" onclick=\"window.open(&quot;https:\\/\\/guide-images.cdn.ifixit.com\\/igi\\/p5dandGvW4glw6om.full&quot;, '', 'width=607,height=600')\" /></div>\n\n<ol><li>First look for the power cord connecting the dryer to a wall outlet. Pull it out and inspect the plug. Does it look like a normal, grounded plug? If it does, you're likely looking at a gas dryer. Electric dryers have special 240V plugs that have prongs at an angle or have a fourth prong.<ul><li>The photo to the left shows the various styles of electrical outlet. Pay special attention to the L14-30, NEMA 14-30, NEMA 10-30, and \u2014if your plug looks like those (or any of the 240V variations), you have an electrical dryer! <em>(photo credit: <a href=\"https://commons.wikimedia.org/wiki/User_talk:Olawlor\" rel=\"nofollow noopener noreferrer\">Orion Lawlor</a> on <a href=\"https://commons.wikimedia.org/wiki/File:NEMA_simplified_pins.svg\" rel=\"nofollow noopener noreferrer\">Wikipedia</a>)</em></li></ul></li><li>Look behind the dryer for a gas line coming into your dryer. The line will usually be a metal pipe with a shut-off valve somewhere between the wall and dryer. This is a sure sign that you've got a gas dryer.</li></ol>\n\n<p>Follow the links above once you've identified the heat source your dryer uses!</p>",
+  "linked_wikis": [
+    {
+      "wikiid": 479829,
+      "namespace": "WIKI",
+      "title": "Electric Dryer Not Heating"
+    },
+    {
+      "wikiid": 479830,
+      "namespace": "WIKI",
+      "title": "Gas Dryer Not Heating"
+    }
+  ],
+  "can_edit": true,
+  "available_langids": [
+    "en",
+    "ru"
+  ],
+  "ancestors": [
+    {
+      "dataType": "wiki",
+      "wikiid": 15470,
+      "langid": "en",
+      "title": "Dryer",
+      "display_title": "Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Clothes dryer repair and support guides.",
+      "url": "https://www.ifixit.com/Device/Dryer",
+      "text": "Clothes dryer repair and support guides.",
+      "image": {
+        "id": 3076729,
+        "guid": "vgNFvy6MlKqgA14d",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.full"
+      },
+      "modified_date": 1708467455,
+      "author": 524640
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 1383,
+      "langid": "en",
+      "title": "Appliance",
+      "display_title": "Appliance",
+      "namespace": "CATEGORY",
+      "summary": "Comprehensive disassembly and installation guides for home appliances.",
+      "url": "https://www.ifixit.com/Device/Appliance",
+      "text": "Comprehensive disassembly and installation guides for home appliances.",
+      "image": {
+        "id": 3076640,
+        "guid": "yuk1YxQANOYorSCI",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.full"
+      },
+      "modified_date": 1785755929,
+      "author": 225663
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 11000,
+      "langid": "en",
+      "title": "Root",
+      "display_title": "Root",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Root",
+      "text": "Repair guides, manuals, and troubleshooting help for Root. Get everything you need to repair your Root yourself.",
+      "image": {
+        "id": 243440,
+        "guid": "bhofAWyrmGwRFlak",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.full"
+      },
+      "modified_date": 1705097689,
+      "author": 1
+    }
+  ],
+  "created_date": 1657321064,
+  "modified_date": 1681160581,
+  "is_troubleshooting": true,
+  "authors": [
+    {
+      "userid": 4152395,
+      "percent": 79.17,
+      "username": "Bill Gilbert",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/XF2HtcnjpXb4XA6l.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4152395/Bill+Gilbert"
+    },
+    {
+      "userid": 2989458,
+      "percent": 18.75,
+      "username": "Austin Blakely",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/U2yM4NVNHFvF3FV3.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/2989458/Austin+Blakely"
+    },
+    {
+      "userid": 933746,
+      "percent": 2.08,
+      "username": "Andrew Gilbert",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/MgDDdXldBpmXctrx.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/933746/Andrew+Gilbert"
+    }
+  ],
+  "tags": [
+    "problem",
+    "problem-temperature"
+  ],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": {
+    "id": 2701897,
+    "guid": "SWLL2GOVWbyUxQWY",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.large",
+    "huge": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.huge",
+    "original": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.full"
+  },
+  "documents": [],
+  "author": 4152395,
+  "display_title": "Dryer Not Heating",
+  "page_title": null,
+  "description": "Your dryer spins, but is not heating up to dry the clothes.",
+  "source_revisionid": null
+}

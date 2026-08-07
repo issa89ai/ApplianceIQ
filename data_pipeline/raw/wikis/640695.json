@@ -1,0 +1,47 @@
+{
+  "wikiid": 640695,
+  "langid": "en",
+  "namespace": "ITEM",
+  "title": "Dryer condenser brush",
+  "revisionid": 1434455,
+  "contents_raw": "",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": []
+      }
+    ]
+  },
+  "contents_rendered": "",
+  "linked_wikis": [],
+  "can_edit": true,
+  "available_langids": [
+    "en"
+  ],
+  "ancestors": [],
+  "created_date": 1770429934,
+  "modified_date": 1770429934,
+  "is_troubleshooting": false,
+  "authors": [
+    {
+      "userid": 292420,
+      "percent": 100,
+      "username": "Tim Asp",
+      "avatar_url": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-2.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/292420/Tim+Asp"
+    }
+  ],
+  "tags": [],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": null,
+  "documents": [],
+  "author": 292420,
+  "display_title": "Dryer condenser brush",
+  "description": "",
+  "suppliers": [],
+  "source_revisionid": null,
+  "info": []
+}

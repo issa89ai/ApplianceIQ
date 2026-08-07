@@ -1,0 +1,1269 @@
+{
+  "wikiid": 479708,
+  "langid": "en",
+  "namespace": "WIKI",
+  "title": "Dryer Smells Like Gas",
+  "revisionid": 1133492,
+  "contents_raw": "== The Basics ==\n\nMake sure you have done the [[Dryer Maintenance|maintenance steps|new_window=true]] for your dryer.\n\nFunny odors and smells can be the result of a dirty machine.\n\n* Thoroughly cleaning your machine and ducting as described may be all that's needed.\n* Poor airflow is often the problem behind these odd smells.\n\nWhen you have done the maintenance:\n\n* With a fan from outside the dryer area, blow fresh air into the dryer area for 5 minutes\n* Then run the dryer on a no-heat setting for 20 minutes with the fan still blowing fresh air.\n* Shut everything down.\n* If no smell after sitting undisturbed for 1/2 hour, let it stand until the next day to see if the smell returns. If not, the problem is solved. If it is still there after 1/2 hour or the next day, go to the next step.\n[comment]solutions[/comment]\n\n== Painting or Refinishing Fumes ==\n\nBefore you go further, consider if you have done any recent refinishing or painting in your home. If not, go to the next step.\n\n* The smells of this may be drawn into the dryer area.\n* Since a gas dryer uses air to burn the gas it will also burn the fumes in the air which can then make unusual odors.\n* They may not smell quite like gas but often have a more burnt scent.\n* You may notice them most when you open the door to the dryer.\n\n== Home Gas Piping Leak ==\n\n* The first step is to locate the gas shutoff valve for your dryer on the wall or floor and shut it off.\n* From outside the room blow fresh air into the room for 5 minutes with a fan.  Leave it running for the next step.\n* Run your dryer on a no-heat setting for 10 minutes.  Then run it on a heat setting (With the gas valve still closed) for 10 more minutes. This should exhaust any residual gas from the area and from the supply tube.\n* Shut everything down. Unplug the dryer.\n* Let the room sit undisturbed for 1/2 hour.  No fan, and if possible close the door.\n* Go into the area and check for the gas smell.  If it is present, there is likely something wrong with the gas piping in your home. Consult a plumber if needed.\n* If no gas smell, go to the next step.\n\n== Supply Leaks ==\n\n* Now turn on the gas valve or gas cock feeding the dryer.  Don't disturb anything else.\n* Allow 15 minutes with the room closed.\n* Check for the gas smell.\n* If there is a smell, start by doing the following:\n* Blow fresh air into the area with a fan located outside the area for 5 minutes.\n* Use soapy water, or a leak detection fluid and liberally apply it to all the fittings on the gas supply starting at the gas shutoff.\n** Apply fluid to the tube that runs from the gas shutoff to the dryer.\n** If no bubbles form go to the next step.\n** If you get bubbles forming, you have found your leak. Shut off the gas, and repair the leak.\n\n== Gas Valve Leaks ==\n\nYou now need to check the inside of the machine for leaks.  It is unlikely that the factory-installed piping is leaking, but checking with soapy water is very easy.\n\nOne source of these leaks is the gas valve.\n\n* Occasionally you can have a loose fitting at the gas valve, so check there.\n* The gas valve solenoids may be weak and so they open slowly or not enough to form a correct mixture, and by the time they open, the igniter has cooled off too much.  The valve will close again as soon as the flame sensor cools and resets.\n* Some electronically controlled dryers use a relay on the main control board to operate the gas valve.  If this relay sticks the dryer will leak gas, especially when the unit is running, and you end up circulating air with unburned gas through your clothes.\n* It is possible that the internal valve seals on the solenoid plungers have cracked. This is more common the older the machine is.\n\n== Ignition Problems ==\n\nAnother source is a failure in the ignition process.  This can be caused by:\n\n* A weak igniter.  It is strong enough to get the flame sensor to allow the gas valve to open, but not quite hot enough to ignite the gas when it is released.\n* A weak flame sensor.  A flame or radiant sensor can open too soon when the igniter isn't quite hot enough, the gas will flow for a time and not ignite and you will smell it. Then the sensor closes again and the gas shuts off.\n* An over-rich mixture; there is not enough air being mixed with the gas, so it won't ignite.\n** Making sure all lint is removed inside the dryer, especially the burner assembly, will help.\n** Make sure the air doors on the burner assembly are at least partially open.\n* A too-lean mixture, often caused by a dirty burner orifice.  You might notice that the flame goes out easily. If you can, it's worth cleaning the burner orifice using a soft copper wire. The copper won't damage the orifice.\n* A misplaced igniter.  Sometimes a mounting bracket can be bent so the igniter isn't close enough to the gas-air stream to ignite it. You can try adjusting the igniter to be closer to the burner cone.\n* Weak gas valve coils which have become sensitive to heat, and won't function properly once the dryer becomes hot.\n\n== Low Fuel ==\n\nWith a dryer fueled by propane, a low level in the main fuel tank can make the ignition process slower, and thus more raw gas is released.  Other gas appliances in the home may also smell more like gas.\n\n== Drawing in Its Own Exhaust ==\n\nIf the dryer is pulling intake air from someplace where its exhaust is going, you may get a recirculating effect which can make for a smell.\n\n* Make sure that the intake air for your dryer is separated from the exhaust from it.\n* This could be a window in the laundry area. If so close it and open a window on the opposite side of the home.\n[comment]conclusion[/comment]\n\n== Related Pages ==\n\n[[Dryer Will Not Start|Dryer Won't Start|new_window=true]]\n\n[[Dryer Not Heating|Dryer Not Heating|new_window=true]]\n\n[[Dryer Squeaking|Dryer Squeaking|new_window=true]]\n\n[[Dryer Not Spinning|Dryer Not Spinning|new_window=true]]\n\n[[Gas Dryer Overheating|Gas Dryer Overheating|new_window=true]]\n\n[[Electric Dryer Overheating|Electric Dryer Overheating|new_window=true]]\n\n[[Dryer Stops Mid Cycle|Dryer Stops Mid Cycle|new_window=true]]\n\n[[Dryer Making Loud Noise|Dryer Making Loud Noise|new_window=true]]\n\n== Additional Resources ==\n\n[link|https://www.youtube.com/watch?v=qHWZ-FFkXq0|Video on the operation of the gas valve solenoids and disassembly of a gas valve].  Is a little fast-paced, and not always the clearest, but useful.\n\n[link|https://www.youtube.com/watch?v=W7j62honHMU|Video showing replacement of the main gas valve on a newer Kenmore or LG dryer.]  Good video for the disassembly of the entire dryer.",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "The Basics"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Make sure you have done the "
+          },
+          {
+            "type": "text",
+            "text": "maintenance steps",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Maintenance",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Wiki/Dryer_Maintenance"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " for your dryer."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Funny odors and smells can be the result of a dirty machine."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Thoroughly cleaning your machine and ducting as described may be all that's needed."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Poor airflow is often the problem behind these odd smells."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "When you have done the maintenance:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "With a fan from outside the dryer area, blow fresh air into the dryer area for 5 minutes"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Then run the dryer on a no-heat setting for 20 minutes with the fan still blowing fresh air."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Shut everything down."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If no smell after sitting undisturbed for 1/2 hour, let it stand until the next day to see if the smell returns. If not, the problem is solved. If it is still there after 1/2 hour or the next day, go to the next step."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]solutions[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Painting or Refinishing Fumes"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Before you go further, consider if you have done any recent refinishing or painting in your home. If not, go to the next step."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The smells of this may be drawn into the dryer area."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Since a gas dryer uses air to burn the gas it will also burn the fumes in the air which can then make unusual odors."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "They may not smell quite like gas but often have a more burnt scent."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You may notice them most when you open the door to the dryer."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Home Gas Piping Leak"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The first step is to locate the gas shutoff valve for your dryer on the wall or floor and shut it off."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "From outside the room blow fresh air into the room for 5 minutes with a fan.  Leave it running for the next step."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Run your dryer on a no-heat setting for 10 minutes.  Then run it on a heat setting (With the gas valve still closed) for 10 more minutes. This should exhaust any residual gas from the area and from the supply tube."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Shut everything down. Unplug the dryer."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Let the room sit undisturbed for 1/2 hour.  No fan, and if possible close the door."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Go into the area and check for the gas smell.  If it is present, there is likely something wrong with the gas piping in your home. Consult a plumber if needed."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If no gas smell, go to the next step."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Supply Leaks"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Now turn on the gas valve or gas cock feeding the dryer.  Don't disturb anything else."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Allow 15 minutes with the room closed."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Check for the gas smell."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If there is a smell, start by doing the following:"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Blow fresh air into the area with a fan located outside the area for 5 minutes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Use soapy water, or a leak detection fluid and liberally apply it to all the fittings on the gas supply starting at the gas shutoff."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Apply fluid to the tube that runs from the gas shutoff to the dryer."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If no bubbles form go to the next step."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If you get bubbles forming, you have found your leak. Shut off the gas, and repair the leak."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Gas Valve Leaks"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "You now need to check the inside of the machine for leaks.  It is unlikely that the factory-installed piping is leaking, but checking with soapy water is very easy."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "One source of these leaks is the gas valve."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Occasionally you can have a loose fitting at the gas valve, so check there."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The gas valve solenoids may be weak and so they open slowly or not enough to form a correct mixture, and by the time they open, the igniter has cooled off too much.  The valve will close again as soon as the flame sensor cools and resets."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Some electronically controlled dryers use a relay on the main control board to operate the gas valve.  If this relay sticks the dryer will leak gas, especially when the unit is running, and you end up circulating air with unburned gas through your clothes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "It is possible that the internal valve seals on the solenoid plungers have cracked. This is more common the older the machine is."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Ignition Problems"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Another source is a failure in the ignition process.  This can be caused by:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A weak igniter.  It is strong enough to get the flame sensor to allow the gas valve to open, but not quite hot enough to ignite the gas when it is released."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A weak flame sensor.  A flame or radiant sensor can open too soon when the igniter isn't quite hot enough, the gas will flow for a time and not ignite and you will smell it. Then the sensor closes again and the gas shuts off."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "An over-rich mixture; there is not enough air being mixed with the gas, so it won't ignite."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Making sure all lint is removed inside the dryer, especially the burner assembly, will help."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Make sure the air doors on the burner assembly are at least partially open."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A too-lean mixture, often caused by a dirty burner orifice.  You might notice that the flame goes out easily. If you can, it's worth cleaning the burner orifice using a soft copper wire. The copper won't damage the orifice."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A misplaced igniter.  Sometimes a mounting bracket can be bent so the igniter isn't close enough to the gas-air stream to ignite it. You can try adjusting the igniter to be closer to the burner cone."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Weak gas valve coils which have become sensitive to heat, and won't function properly once the dryer becomes hot."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Low Fuel"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "With a dryer fueled by propane, a low level in the main fuel tank can make the ignition process slower, and thus more raw gas is released.  Other gas appliances in the home may also smell more like gas."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Drawing in Its Own Exhaust"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If the dryer is pulling intake air from someplace where its exhaust is going, you may get a recirculating effect which can make for a smell."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Make sure that the intake air for your dryer is separated from the exhaust from it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This could be a window in the laundry area. If so close it and open a window on the opposite side of the home."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]conclusion[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Related Pages"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Won't Start",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Will Not Start",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Will+Not+Start/478855"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Not Heating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Not Heating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Not+Heating/478885"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Squeaking",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Squeaking",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Squeaking/479208"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Not Spinning",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Not Spinning",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Not+Spinning/478872"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Gas Dryer Overheating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Gas Dryer Overheating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Electric Dryer Overheating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Electric Dryer Overheating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Stops Mid Cycle",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Stops Mid Cycle",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Stops+Mid+Cycle/479370"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Making Loud Noise",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Making Loud Noise",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Making+Loud+Noise/479415"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Additional Resources"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/watch?v=qHWZ-FFkXq0",
+                  "target": false
+                }
+              }
+            ],
+            "text": "Video on the operation of the gas valve solenoids and disassembly of a gas valve"
+          },
+          {
+            "type": "text",
+            "text": ".  Is a little fast-paced, and not always the clearest, but useful."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/watch?v=W7j62honHMU",
+                  "target": false
+                }
+              }
+            ],
+            "text": "Video showing replacement of the main gas valve on a newer Kenmore or LG dryer."
+          },
+          {
+            "type": "text",
+            "text": "  Good video for the disassembly of the entire dryer."
+          }
+        ]
+      }
+    ]
+  },
+  "contents_rendered": "<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_The_Basics\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_The_Basics\" class=\"header\">The Basics</h2></div>\n\n<p>Make sure you have done the <a href=\"/Wiki/Dryer_Maintenance\" target=\"_blank\">maintenance steps</a> for your dryer.</p>\n\n<p>Funny odors and smells can be the result of a dirty machine.</p>\n\n<ul><li>Thoroughly cleaning your machine and ducting as described may be all that's needed.</li><li>Poor airflow is often the problem behind these odd smells.</li></ul>\n\n<p>When you have done the maintenance:</p>\n\n<ul><li>With a fan from outside the dryer area, blow fresh air into the dryer area for 5 minutes</li><li>Then run the dryer on a no-heat setting for 20 minutes with the fan still blowing fresh air.</li><li>Shut everything down.</li><li>If no smell after sitting undisturbed for 1/2 hour, let it stand until the next day to see if the smell returns. If not, the problem is solved. If it is still there after 1/2 hour or the next day, go to the next step.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Painting_or_Refinishing_Fumes\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Painting_or_Refinishing_Fumes\" class=\"header\">Painting or Refinishing Fumes</h2></div>\n\n<p>Before you go further, consider if you have done any recent refinishing or painting in your home. If not, go to the next step.</p>\n\n<ul><li>The smells of this may be drawn into the dryer area.</li><li>Since a gas dryer uses air to burn the gas it will also burn the fumes in the air which can then make unusual odors.</li><li>They may not smell quite like gas but often have a more burnt scent.</li><li>You may notice them most when you open the door to the dryer.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Home_Gas_Piping_Leak\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Home_Gas_Piping_Leak\" class=\"header\">Home Gas Piping Leak</h2></div>\n\n<ul><li>The first step is to locate the gas shutoff valve for your dryer on the wall or floor and shut it off.</li><li>From outside the room blow fresh air into the room for 5 minutes with a fan.  Leave it running for the next step.</li><li>Run your dryer on a no-heat setting for 10 minutes.  Then run it on a heat setting (With the gas valve still closed) for 10 more minutes. This should exhaust any residual gas from the area and from the supply tube.</li><li>Shut everything down. Unplug the dryer.</li><li>Let the room sit undisturbed for 1/2 hour.  No fan, and if possible close the door.</li><li>Go into the area and check for the gas smell.  If it is present, there is likely something wrong with the gas piping in your home. Consult a plumber if needed.</li><li>If no gas smell, go to the next step.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Supply_Leaks\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Supply_Leaks\" class=\"header\">Supply Leaks</h2></div>\n\n<ul><li>Now turn on the gas valve or gas cock feeding the dryer.  Don't disturb anything else.</li><li>Allow 15 minutes with the room closed.</li><li>Check for the gas smell.</li><li>If there is a smell, start by doing the following:</li><li>Blow fresh air into the area with a fan located outside the area for 5 minutes.</li><li>Use soapy water, or a leak detection fluid and liberally apply it to all the fittings on the gas supply starting at the gas shutoff.<ul><li>Apply fluid to the tube that runs from the gas shutoff to the dryer.</li><li>If no bubbles form go to the next step.</li><li>If you get bubbles forming, you have found your leak. Shut off the gas, and repair the leak.</li></ul></li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Gas_Valve_Leaks\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Gas_Valve_Leaks\" class=\"header\">Gas Valve Leaks</h2></div>\n\n<p>You now need to check the inside of the machine for leaks.  It is unlikely that the factory-installed piping is leaking, but checking with soapy water is very easy.</p>\n\n<p>One source of these leaks is the gas valve.</p>\n\n<ul><li>Occasionally you can have a loose fitting at the gas valve, so check there.</li><li>The gas valve solenoids may be weak and so they open slowly or not enough to form a correct mixture, and by the time they open, the igniter has cooled off too much.  The valve will close again as soon as the flame sensor cools and resets.</li><li>Some electronically controlled dryers use a relay on the main control board to operate the gas valve.  If this relay sticks the dryer will leak gas, especially when the unit is running, and you end up circulating air with unburned gas through your clothes.</li><li>It is possible that the internal valve seals on the solenoid plungers have cracked. This is more common the older the machine is.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Ignition_Problems\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Ignition_Problems\" class=\"header\">Ignition Problems</h2></div>\n\n<p>Another source is a failure in the ignition process.  This can be caused by:</p>\n\n<ul><li>A weak igniter.  It is strong enough to get the flame sensor to allow the gas valve to open, but not quite hot enough to ignite the gas when it is released.</li><li>A weak flame sensor.  A flame or radiant sensor can open too soon when the igniter isn't quite hot enough, the gas will flow for a time and not ignite and you will smell it. Then the sensor closes again and the gas shuts off.</li><li>An over-rich mixture; there is not enough air being mixed with the gas, so it won't ignite.<ul><li>Making sure all lint is removed inside the dryer, especially the burner assembly, will help.</li><li>Make sure the air doors on the burner assembly are at least partially open.</li></ul></li><li>A too-lean mixture, often caused by a dirty burner orifice.  You might notice that the flame goes out easily. If you can, it's worth cleaning the burner orifice using a soft copper wire. The copper won't damage the orifice.</li><li>A misplaced igniter.  Sometimes a mounting bracket can be bent so the igniter isn't close enough to the gas-air stream to ignite it. You can try adjusting the igniter to be closer to the burner cone.</li><li>Weak gas valve coils which have become sensitive to heat, and won't function properly once the dryer becomes hot.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Low_Fuel\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Low_Fuel\" class=\"header\">Low Fuel</h2></div>\n\n<p>With a dryer fueled by propane, a low level in the main fuel tank can make the ignition process slower, and thus more raw gas is released.  Other gas appliances in the home may also smell more like gas.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Drawing_in_Its_Own_Exhaust\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Drawing_in_Its_Own_Exhaust\" class=\"header\">Drawing in Its Own Exhaust</h2></div>\n\n<p>If the dryer is pulling intake air from someplace where its exhaust is going, you may get a recirculating effect which can make for a smell.</p>\n\n<ul><li>Make sure that the intake air for your dryer is separated from the exhaust from it.</li><li>This could be a window in the laundry area. If so close it and open a window on the opposite side of the home.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Related_Pages\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Related_Pages\" class=\"header\">Related Pages</h2></div>\n\n<p><a href=\"/Troubleshooting/Dryer/Will+Not+Start/478855\" target=\"_blank\">Dryer Won't Start</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Not+Heating/478885\" target=\"_blank\">Dryer Not Heating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Squeaking/479208\" target=\"_blank\">Dryer Squeaking</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Not+Spinning/478872\" target=\"_blank\">Dryer Not Spinning</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355\" target=\"_blank\">Gas Dryer Overheating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356\" target=\"_blank\">Electric Dryer Overheating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Stops+Mid+Cycle/479370\" target=\"_blank\">Dryer Stops Mid Cycle</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Making+Loud+Noise/479415\" target=\"_blank\">Dryer Making Loud Noise</a></p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Additional_Resources\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Additional_Resources\" class=\"header\">Additional Resources</h2></div>\n\n<p><a href=\"https://www.youtube.com/watch?v=qHWZ-FFkXq0\">Video on the operation of the gas valve solenoids and disassembly of a gas valve</a>.  Is a little fast-paced, and not always the clearest, but useful.</p>\n\n<p><a href=\"https://www.youtube.com/watch?v=W7j62honHMU\">Video showing replacement of the main gas valve on a newer Kenmore or LG dryer.</a>  Good video for the disassembly of the entire dryer.</p>",
+  "linked_wikis": [
+    {
+      "wikiid": 479298,
+      "namespace": "WIKI",
+      "title": "Dryer Maintenance"
+    },
+    {
+      "wikiid": 478855,
+      "namespace": "WIKI",
+      "title": "Dryer Will Not Start"
+    },
+    {
+      "wikiid": 478885,
+      "namespace": "WIKI",
+      "title": "Dryer Not Heating"
+    },
+    {
+      "wikiid": 479208,
+      "namespace": "WIKI",
+      "title": "Dryer Squeaking"
+    },
+    {
+      "wikiid": 478872,
+      "namespace": "WIKI",
+      "title": "Dryer Not Spinning"
+    },
+    {
+      "wikiid": 479355,
+      "namespace": "WIKI",
+      "title": "Gas Dryer Overheating"
+    },
+    {
+      "wikiid": 479356,
+      "namespace": "WIKI",
+      "title": "Electric Dryer Overheating"
+    },
+    {
+      "wikiid": 479370,
+      "namespace": "WIKI",
+      "title": "Dryer Stops Mid Cycle"
+    },
+    {
+      "wikiid": 479415,
+      "namespace": "WIKI",
+      "title": "Dryer Making Loud Noise"
+    }
+  ],
+  "can_edit": true,
+  "available_langids": [
+    "en",
+    "ru"
+  ],
+  "ancestors": [
+    {
+      "dataType": "wiki",
+      "wikiid": 15470,
+      "langid": "en",
+      "title": "Dryer",
+      "display_title": "Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Clothes dryer repair and support guides.",
+      "url": "https://www.ifixit.com/Device/Dryer",
+      "text": "Clothes dryer repair and support guides.",
+      "image": {
+        "id": 3076729,
+        "guid": "vgNFvy6MlKqgA14d",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.full"
+      },
+      "modified_date": 1708467455,
+      "author": 524640
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 1383,
+      "langid": "en",
+      "title": "Appliance",
+      "display_title": "Appliance",
+      "namespace": "CATEGORY",
+      "summary": "Comprehensive disassembly and installation guides for home appliances.",
+      "url": "https://www.ifixit.com/Device/Appliance",
+      "text": "Comprehensive disassembly and installation guides for home appliances.",
+      "image": {
+        "id": 3076640,
+        "guid": "yuk1YxQANOYorSCI",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.full"
+      },
+      "modified_date": 1785755929,
+      "author": 225663
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 11000,
+      "langid": "en",
+      "title": "Root",
+      "display_title": "Root",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Root",
+      "text": "Repair guides, manuals, and troubleshooting help for Root. Get everything you need to repair your Root yourself.",
+      "image": {
+        "id": 243440,
+        "guid": "bhofAWyrmGwRFlak",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.full"
+      },
+      "modified_date": 1705097689,
+      "author": 1
+    }
+  ],
+  "created_date": 1659650446,
+  "modified_date": 1702948546,
+  "is_troubleshooting": true,
+  "authors": [
+    {
+      "userid": 4152395,
+      "percent": 82.76,
+      "username": "Bill Gilbert",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/XF2HtcnjpXb4XA6l.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4152395/Bill+Gilbert"
+    },
+    {
+      "userid": 2989458,
+      "percent": 10.34,
+      "username": "Austin Blakely",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/U2yM4NVNHFvF3FV3.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/2989458/Austin+Blakely"
+    },
+    {
+      "userid": 4026158,
+      "percent": 3.45,
+      "username": "Evan Gattuso",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/UiqiRwGMAZBCJonm.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4026158/Evan+Gattuso"
+    },
+    {
+      "userid": 3965148,
+      "percent": 3.45,
+      "username": "Max Bennett",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/YaDH2KswGXcBDYFR.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/3965148/Max+Bennett"
+    }
+  ],
+  "tags": [
+    "problem",
+    "problem-smell"
+  ],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": {
+    "id": 2711704,
+    "guid": "Q4IuO4TmGOHKqP6m",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.large",
+    "huge": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.huge",
+    "original": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.full"
+  },
+  "documents": [],
+  "author": 4152395,
+  "display_title": "Dryer Smells Like Gas",
+  "page_title": null,
+  "description": "Your dryer smells like it is leaking gas.  The odor may be especially strong when you open the door on the dryer.  Here are some steps to take to figure out what's wrong.",
+  "source_revisionid": null
+}

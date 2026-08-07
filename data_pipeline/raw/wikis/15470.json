@@ -1,0 +1,2000 @@
+{
+  "wikiid": 15470,
+  "langid": "en",
+  "namespace": "CATEGORY",
+  "title": "Dryer",
+  "revisionid": 1188018,
+  "contents_raw": "== Background ==\n\nA clothes dryer, tumble dryer, or drying machine is a household appliance that is used to remove moisture from a load of clothing and other textiles, generally shortly after they are cleaned in a washing machine.\n\nMost dryers consist of a rotating drum called a tumbler through which heated air is circulated to evaporate the moisture from the load. The tumbler is rotated to maintain air space between the articles in the load.\n\n== Identification ==\n\nCommonly encountered clothes dryers will share the features mentioned above and will be differentiated by the heat source and exhausting means. Some may also have a water connection that is used to produce steam in the dryer drum for fabric conditioning.\n\nHeat will usually be derived from the combustion of fuel gas (natural gas or propane) or from electricity, either resistive heating elements, or an electrically driven heat pump.\n\nDryers using gas will have a connection to the household fuel gas system usually in the form of a flexible tube.\n\nDryers that use resistive heating will usually be supplied with electricity using larger size wiring.\n\nDryers that use a heat pump will have an electrical connection that may be larger or of usual household size depending on rating.\n\nSome dryers are condensing dryers which remove the water vapor from the dryer exhaust and do not require an exhaust duct to the outside. Many dryers require an exhaust duct to carry the heated, moist air to the outdoors.\n\n== Types ==\n\n* Traditional dryers\n* Microwave dryers\n* Spin dryers\n* Condenser dryers\n* Heat pump dryers\n* Mechanical steam compression dryers\n* Convectant dryers\n* Solar clothes dryers\n\n== Video Guides ==\n\n=== Troubleshooting a dryer that won't heat ===\n\n[video|http://www.youtube.com/watch?v=ahb5pt52drE&feature=share&list=SP52AD198B7BA98B57]\n\n== Additional Information ==\n\n* [link|http://en.wikipedia.org/wiki/Clothes_dryer|Wikipedia: Clothes Dryer]",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Background"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A clothes dryer, tumble dryer, or drying machine is a household appliance that is used to remove moisture from a load of clothing and other textiles, generally shortly after they are cleaned in a washing machine."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Most dryers consist of a rotating drum called a tumbler through which heated air is circulated to evaporate the moisture from the load. The tumbler is rotated to maintain air space between the articles in the load."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Identification"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Commonly encountered clothes dryers will share the features mentioned above and will be differentiated by the heat source and exhausting means. Some may also have a water connection that is used to produce steam in the dryer drum for fabric conditioning."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Heat will usually be derived from the combustion of fuel gas (natural gas or propane) or from electricity, either resistive heating elements, or an electrically driven heat pump."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryers using gas will have a connection to the household fuel gas system usually in the form of a flexible tube."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryers that use resistive heating will usually be supplied with electricity using larger size wiring."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryers that use a heat pump will have an electrical connection that may be larger or of usual household size depending on rating."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Some dryers are condensing dryers which remove the water vapor from the dryer exhaust and do not require an exhaust duct to the outside. Many dryers require an exhaust duct to carry the heated, moist air to the outdoors."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Types"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Traditional dryers"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Microwave dryers"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Spin dryers"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Condenser dryers"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Heat pump dryers"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Mechanical steam compression dryers"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Convectant dryers"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Solar clothes dryers"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Video Guides"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Troubleshooting a dryer that won't heat"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[video|http://www.youtube.com/watch?v=ahb5pt52drE&feature=share&list=SP52AD198B7BA98B57]"
+          }
+        ],
+        "attrs": {
+          "align": "center",
+          "caption": "",
+          "formats": [],
+          "poster": "",
+          "rule": "Video",
+          "service": "youtube",
+          "size": "large",
+          "url": "http://www.youtube.com/watch?v=ahb5pt52drE&feature=share&list=SP52AD198B7BA98B57"
+        }
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Additional Information"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "http://en.wikipedia.org/wiki/Clothes_dryer",
+                          "target": false
+                        }
+                      }
+                    ],
+                    "text": "Wikipedia: Clothes Dryer"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "contents_rendered": "<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Background\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Background\" class=\"header\">Background</h2></div>\n\n<p>A clothes dryer, tumble dryer, or drying machine is a household appliance that is used to remove moisture from a load of clothing and other textiles, generally shortly after they are cleaned in a washing machine.</p>\n\n<p>Most dryers consist of a rotating drum called a tumbler through which heated air is circulated to evaporate the moisture from the load. The tumbler is rotated to maintain air space between the articles in the load.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Identification\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Identification\" class=\"header\">Identification</h2></div>\n\n<p>Commonly encountered clothes dryers will share the features mentioned above and will be differentiated by the heat source and exhausting means. Some may also have a water connection that is used to produce steam in the dryer drum for fabric conditioning.</p>\n\n<p>Heat will usually be derived from the combustion of fuel gas (natural gas or propane) or from electricity, either resistive heating elements, or an electrically driven heat pump.</p>\n\n<p>Dryers using gas will have a connection to the household fuel gas system usually in the form of a flexible tube.</p>\n\n<p>Dryers that use resistive heating will usually be supplied with electricity using larger size wiring.</p>\n\n<p>Dryers that use a heat pump will have an electrical connection that may be larger or of usual household size depending on rating.</p>\n\n<p>Some dryers are condensing dryers which remove the water vapor from the dryer exhaust and do not require an exhaust duct to the outside. Many dryers require an exhaust duct to carry the heated, moist air to the outdoors.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Types\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Types\" class=\"header\">Types</h2></div>\n\n<ul><li>Traditional dryers</li><li>Microwave dryers</li><li>Spin dryers</li><li>Condenser dryers</li><li>Heat pump dryers</li><li>Mechanical steam compression dryers</li><li>Convectant dryers</li><li>Solar clothes dryers</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Video_Guides\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Video_Guides\" class=\"header\">Video Guides</h2></div>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Troubleshooting_a_dryer_that_won_t_heat\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h3 id=\"Section_Troubleshooting_a_dryer_that_won_t_heat\" class=\"header\">Troubleshooting a dryer that won't heat</h3></div>\n\n<div class=\"large videoFrame videoBox_center\" style=\"width:564px\"><div class=\"videoBox\"><div videoid=ahb5pt52drE class='youtube-player' data-title=\"YouTube video player\" src=\"https://www.youtube-nocookie.com/embed/ahb5pt52drE?wmode=opaque\" style='background-image:url(\"https://i.ytimg.com/vi/ahb5pt52drE/hqdefault.jpg\")' width=\"560\" height=\"315\" ></div></div></div>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Additional_Information\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Additional_Information\" class=\"header\">Additional Information</h2></div>\n\n<ul><li><a href=\"http://en.wikipedia.org/wiki/Clothes_dryer\">Wikipedia: Clothes Dryer</a></li></ul>",
+  "linked_wikis": [],
+  "can_edit": true,
+  "available_langids": [
+    "en",
+    "de",
+    "es",
+    "fr",
+    "it",
+    "nl",
+    "pt",
+    "ru",
+    "tr",
+    "zh"
+  ],
+  "ancestors": [
+    {
+      "dataType": "wiki",
+      "wikiid": 1383,
+      "langid": "en",
+      "title": "Appliance",
+      "display_title": "Appliance",
+      "namespace": "CATEGORY",
+      "summary": "Comprehensive disassembly and installation guides for home appliances.",
+      "url": "https://www.ifixit.com/Device/Appliance",
+      "text": "Comprehensive disassembly and installation guides for home appliances.",
+      "image": {
+        "id": 3076640,
+        "guid": "yuk1YxQANOYorSCI",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.full"
+      },
+      "modified_date": 1785755929,
+      "author": 225663
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 11000,
+      "langid": "en",
+      "title": "Root",
+      "display_title": "Root",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Root",
+      "text": "Repair guides, manuals, and troubleshooting help for Root. Get everything you need to repair your Root yourself.",
+      "image": {
+        "id": 243440,
+        "guid": "bhofAWyrmGwRFlak",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.full"
+      },
+      "modified_date": 1705097689,
+      "author": 1
+    }
+  ],
+  "created_date": 1369162778,
+  "modified_date": 1708467455,
+  "is_troubleshooting": false,
+  "authors": [
+    {
+      "userid": 524640,
+      "percent": 25,
+      "username": "Sam Goldheart",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/goWW1KSXtt5RIr4A.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/524640/Sam+Goldheart"
+    },
+    {
+      "userid": 1,
+      "percent": 37.5,
+      "username": "iRobot",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/AjiayMD6LWqf5FAL.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/1/iRobot"
+    },
+    {
+      "userid": 4152395,
+      "percent": 18.75,
+      "username": "Bill Gilbert",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/XF2HtcnjpXb4XA6l.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4152395/Bill+Gilbert"
+    },
+    {
+      "userid": 18,
+      "percent": 12.5,
+      "username": "Walter Galan",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/REyQW1dJlBZXNIyW.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/18/Walter+Galan"
+    },
+    {
+      "userid": 2989458,
+      "percent": 6.25,
+      "username": "Austin Blakely",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/U2yM4NVNHFvF3FV3.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/2989458/Austin+Blakely"
+    }
+  ],
+  "tags": [],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": {
+    "id": 3076729,
+    "guid": "vgNFvy6MlKqgA14d",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.large",
+    "huge": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.huge",
+    "original": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.full"
+  },
+  "documents": [],
+  "author": 524640,
+  "display_title": "Dryer",
+  "page_title": "Dryer Repair",
+  "description": "Clothes dryer repair and support guides.",
+  "children": [
+    {
+      "dataType": "wiki",
+      "wikiid": 508844,
+      "langid": "en",
+      "title": "AEG Dryer",
+      "display_title": "AEG Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Repair information for AEG clothes dryers.",
+      "url": "https://www.ifixit.com/Device/AEG_Dryer",
+      "text": "Repair information for AEG clothes dryers.",
+      "image": {
+        "id": 4603532,
+        "guid": "GIwQTOEMvgtdNEbI",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/GIwQTOEMvgtdNEbI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/GIwQTOEMvgtdNEbI.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/GIwQTOEMvgtdNEbI.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/GIwQTOEMvgtdNEbI.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/GIwQTOEMvgtdNEbI.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/GIwQTOEMvgtdNEbI.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/GIwQTOEMvgtdNEbI.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/GIwQTOEMvgtdNEbI.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/GIwQTOEMvgtdNEbI.full"
+      },
+      "modified_date": 1784131257,
+      "author": 4026158
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 563014,
+      "langid": "en",
+      "title": "AEG Lavatherm T97689IH3",
+      "display_title": "AEG Lavatherm T97689IH3",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/AEG_Lavatherm_T97689IH3",
+      "text": "Repair guides, manuals, and troubleshooting help for AEG Lavatherm T97689IH3. Get everything you need to repair your AEG Lavatherm T97689IH3 yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium"
+      },
+      "modified_date": 1719234963,
+      "author": 3945491
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 514143,
+      "langid": "en",
+      "title": "Amana Dryer",
+      "display_title": "Amana Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Repair information and guides for Amana dryers.",
+      "url": "https://www.ifixit.com/Device/Amana_Dryer",
+      "text": "Repair information and guides for Amana dryers.",
+      "image": {
+        "id": 3055501,
+        "guid": "6tPREZIHASGIfYr1",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/6tPREZIHASGIfYr1.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/6tPREZIHASGIfYr1.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/6tPREZIHASGIfYr1.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/6tPREZIHASGIfYr1.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/6tPREZIHASGIfYr1.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/6tPREZIHASGIfYr1.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/6tPREZIHASGIfYr1.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/6tPREZIHASGIfYr1.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/6tPREZIHASGIfYr1.full"
+      },
+      "modified_date": 1770425746,
+      "author": 2012381
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 624064,
+      "langid": "en",
+      "title": "Arctic Air Dryer",
+      "display_title": "Arctic Air Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Arctic_Air_Dryer",
+      "text": "Repair guides, manuals, and troubleshooting help for Arctic Air Dryer. Get everything you need to repair your Arctic Air Dryer yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium"
+      },
+      "modified_date": 1738659445,
+      "author": 3586011
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 508965,
+      "langid": "en",
+      "title": "Beko Dryer",
+      "display_title": "Beko Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Guides and repair information for dryers produced by Beko, a Turkish appliance manufacturing company.",
+      "url": "https://www.ifixit.com/Device/Beko_Dryer",
+      "text": "Guides and repair information for dryers produced by Beko, a Turkish appliance manufacturing company.",
+      "image": {
+        "id": 2920176,
+        "guid": "5A2tw5XDOjWvcOeZ",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/5A2tw5XDOjWvcOeZ.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/5A2tw5XDOjWvcOeZ.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/5A2tw5XDOjWvcOeZ.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/5A2tw5XDOjWvcOeZ.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/5A2tw5XDOjWvcOeZ.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/5A2tw5XDOjWvcOeZ.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/5A2tw5XDOjWvcOeZ.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/5A2tw5XDOjWvcOeZ.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/5A2tw5XDOjWvcOeZ.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/5A2tw5XDOjWvcOeZ.full"
+      },
+      "modified_date": 1704819766,
+      "author": 4205461
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 508853,
+      "langid": "en",
+      "title": "Bosch Dryer",
+      "display_title": "Bosch Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Guides and repair information for dryers produced by Bosch, a German engineering and technology company.",
+      "url": "https://www.ifixit.com/Device/Bosch_Dryer",
+      "text": "Guides and repair information for dryers produced by Bosch, a German engineering and technology company.",
+      "image": {
+        "id": 4603530,
+        "guid": "rDNxgagR5PJyDjeG",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/rDNxgagR5PJyDjeG.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/rDNxgagR5PJyDjeG.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/rDNxgagR5PJyDjeG.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/rDNxgagR5PJyDjeG.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/rDNxgagR5PJyDjeG.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/rDNxgagR5PJyDjeG.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/rDNxgagR5PJyDjeG.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/rDNxgagR5PJyDjeG.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/rDNxgagR5PJyDjeG.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/rDNxgagR5PJyDjeG.full"
+      },
+      "modified_date": 1784131297,
+      "author": 4205461
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 624065,
+      "langid": "en",
+      "title": "Crosley Dryer",
+      "display_title": "Crosley Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Crosley_Dryer",
+      "text": "Repair guides, manuals, and troubleshooting help for Crosley Dryer. Get everything you need to repair your Crosley Dryer yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium"
+      },
+      "modified_date": 1738659488,
+      "author": 3586011
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 519326,
+      "langid": "en",
+      "title": "Electrolux Dryer",
+      "display_title": "Electrolux Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Repair information and disassembly guides for Electrolux dryers.",
+      "url": "https://www.ifixit.com/Device/Electrolux_Dryer",
+      "text": "Repair information and disassembly guides for Electrolux dryers.",
+      "image": {
+        "id": 3055511,
+        "guid": "IBSDo4KHvOM11iYt",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/IBSDo4KHvOM11iYt.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/IBSDo4KHvOM11iYt.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/IBSDo4KHvOM11iYt.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/IBSDo4KHvOM11iYt.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/IBSDo4KHvOM11iYt.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/IBSDo4KHvOM11iYt.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/IBSDo4KHvOM11iYt.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/IBSDo4KHvOM11iYt.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/IBSDo4KHvOM11iYt.full"
+      },
+      "modified_date": 1721044512,
+      "author": 4026158
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 508966,
+      "langid": "en",
+      "title": "Estate Dryer",
+      "display_title": "Estate Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Guides and repair information for dryers produced by Estate.",
+      "url": "https://www.ifixit.com/Device/Estate_Dryer",
+      "text": "Guides and repair information for dryers produced by Estate.",
+      "image": {
+        "id": 2920219,
+        "guid": "GeJHaZLWUlMC6Aaa",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/GeJHaZLWUlMC6Aaa.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/GeJHaZLWUlMC6Aaa.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/GeJHaZLWUlMC6Aaa.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/GeJHaZLWUlMC6Aaa.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/GeJHaZLWUlMC6Aaa.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/GeJHaZLWUlMC6Aaa.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/GeJHaZLWUlMC6Aaa.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/GeJHaZLWUlMC6Aaa.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/GeJHaZLWUlMC6Aaa.full"
+      },
+      "modified_date": 1704821038,
+      "author": 4205461
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 508850,
+      "langid": "en",
+      "title": "Fisher and Paykel Dryer",
+      "display_title": "Fisher and Paykel Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Repair information for Fisher and Paykel dryers.",
+      "url": "https://www.ifixit.com/Device/Fisher_and_Paykel_Dryer",
+      "text": "Repair information for Fisher and Paykel dryers.",
+      "image": {
+        "id": 2914287,
+        "guid": "16cZwiEZKRu3WbZc",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/16cZwiEZKRu3WbZc.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/16cZwiEZKRu3WbZc.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/16cZwiEZKRu3WbZc.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/16cZwiEZKRu3WbZc.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/16cZwiEZKRu3WbZc.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/16cZwiEZKRu3WbZc.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/16cZwiEZKRu3WbZc.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/16cZwiEZKRu3WbZc.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/16cZwiEZKRu3WbZc.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/16cZwiEZKRu3WbZc.full"
+      },
+      "modified_date": 1704821094,
+      "author": 4026158
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 624066,
+      "langid": "en",
+      "title": "Frigidaire Dryer",
+      "display_title": "Frigidaire Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Frigidaire_Dryer",
+      "text": "Repair guides, manuals, and troubleshooting help for Frigidaire Dryer. Get everything you need to repair your Frigidaire Dryer yourself.",
+      "image": {
+        "id": 4603528,
+        "guid": "WlDsNjDjc3gHbWLP",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.full"
+      },
+      "modified_date": 1784131347,
+      "author": 3586011
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 508855,
+      "langid": "en",
+      "title": "GE Dryer",
+      "display_title": "GE Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Repair information for GE dryers.",
+      "url": "https://www.ifixit.com/Device/GE_Dryer",
+      "text": "Repair information for GE dryers.",
+      "image": {
+        "id": 4603444,
+        "guid": "5WTwiEJVrEePCtjf",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/5WTwiEJVrEePCtjf.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/5WTwiEJVrEePCtjf.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/5WTwiEJVrEePCtjf.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/5WTwiEJVrEePCtjf.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/5WTwiEJVrEePCtjf.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/5WTwiEJVrEePCtjf.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/5WTwiEJVrEePCtjf.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/5WTwiEJVrEePCtjf.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/5WTwiEJVrEePCtjf.full"
+      },
+      "modified_date": 1784131355,
+      "author": 4026158
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 577265,
+      "langid": "en",
+      "title": "Hotpoint Dryer",
+      "display_title": "Hotpoint Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Hotpoint_Dryer",
+      "text": "Repair guides, manuals, and troubleshooting help for Hotpoint Dryer. Get everything you need to repair your Hotpoint Dryer yourself.",
+      "image": {
+        "id": 3985276,
+        "guid": "yqF5a4IIaZhslMYo",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yqF5a4IIaZhslMYo.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yqF5a4IIaZhslMYo.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yqF5a4IIaZhslMYo.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yqF5a4IIaZhslMYo.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yqF5a4IIaZhslMYo.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yqF5a4IIaZhslMYo.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yqF5a4IIaZhslMYo.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yqF5a4IIaZhslMYo.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yqF5a4IIaZhslMYo.full"
+      },
+      "modified_date": 1769539859,
+      "author": 292420
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 640685,
+      "langid": "en",
+      "title": "Inglis Dryer",
+      "display_title": "Inglis Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Inglis_Dryer",
+      "text": "Repair guides, manuals, and troubleshooting help for Inglis Dryer. Get everything you need to repair your Inglis Dryer yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium"
+      },
+      "modified_date": 1770856051,
+      "author": 4026158
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 508823,
+      "langid": "en",
+      "title": "Kenmore Dryer",
+      "display_title": "Kenmore Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Repair information for Kenmore dryers.",
+      "url": "https://www.ifixit.com/Device/Kenmore_Dryer",
+      "text": "Repair information for Kenmore dryers.",
+      "image": {
+        "id": 2913219,
+        "guid": "Hel1ZIBubqpAoB3G",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/Hel1ZIBubqpAoB3G.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/Hel1ZIBubqpAoB3G.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/Hel1ZIBubqpAoB3G.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/Hel1ZIBubqpAoB3G.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/Hel1ZIBubqpAoB3G.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/Hel1ZIBubqpAoB3G.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/Hel1ZIBubqpAoB3G.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/Hel1ZIBubqpAoB3G.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/Hel1ZIBubqpAoB3G.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/Hel1ZIBubqpAoB3G.full"
+      },
+      "modified_date": 1769023628,
+      "author": 4026158
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 646850,
+      "langid": "en",
+      "title": "KitchenAid Dryer",
+      "display_title": "KitchenAid Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Information and repair for KitchenAid Dryer.",
+      "url": "https://www.ifixit.com/Device/KitchenAid_Dryer",
+      "text": "Information and repair for KitchenAid Dryer.",
+      "image": {
+        "id": 4603523,
+        "guid": "MCeLCLkHoKkJGviJ",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/MCeLCLkHoKkJGviJ.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/MCeLCLkHoKkJGviJ.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/MCeLCLkHoKkJGviJ.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/MCeLCLkHoKkJGviJ.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/MCeLCLkHoKkJGviJ.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/MCeLCLkHoKkJGviJ.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/MCeLCLkHoKkJGviJ.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/MCeLCLkHoKkJGviJ.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/MCeLCLkHoKkJGviJ.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/MCeLCLkHoKkJGviJ.full"
+      },
+      "modified_date": 1784131325,
+      "author": 292420
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 508854,
+      "langid": "en",
+      "title": "LG Dryer",
+      "display_title": "LG Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Repair information for LG dryers.",
+      "url": "https://www.ifixit.com/Device/LG_Dryer",
+      "text": "Repair information for LG dryers.",
+      "image": {
+        "id": 4603589,
+        "guid": "qJZbVKEPSQG3uPtZ",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.full"
+      },
+      "modified_date": 1784131726,
+      "author": 4026158
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 123287,
+      "langid": "en",
+      "title": "Maytag dryer",
+      "display_title": "Maytag Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Dryers made by Maytag",
+      "url": "https://www.ifixit.com/Device/Maytag_dryer",
+      "text": "Dryers made by Maytag",
+      "image": {
+        "id": 1657666,
+        "guid": "ENwqeJlJARIvpZrM",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/ENwqeJlJARIvpZrM.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/ENwqeJlJARIvpZrM.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/ENwqeJlJARIvpZrM.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/ENwqeJlJARIvpZrM.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/ENwqeJlJARIvpZrM.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/ENwqeJlJARIvpZrM.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/ENwqeJlJARIvpZrM.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/ENwqeJlJARIvpZrM.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/ENwqeJlJARIvpZrM.full"
+      },
+      "modified_date": 1781550350,
+      "author": 2586407
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 624067,
+      "langid": "en",
+      "title": "Midea Dryer",
+      "display_title": "Midea Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Midea_Dryer",
+      "text": "Repair guides, manuals, and troubleshooting help for Midea Dryer. Get everything you need to repair your Midea Dryer yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium"
+      },
+      "modified_date": 1738660462,
+      "author": 3586011
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 508841,
+      "langid": "en",
+      "title": "Miele Dryer",
+      "display_title": "Miele Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Repair information for Miele clothes dryers.",
+      "url": "https://www.ifixit.com/Device/Miele_Dryer",
+      "text": "Repair information for Miele clothes dryers.",
+      "image": {
+        "id": 2914110,
+        "guid": "bbHoW2t4A3etlAQS",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bbHoW2t4A3etlAQS.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bbHoW2t4A3etlAQS.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bbHoW2t4A3etlAQS.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bbHoW2t4A3etlAQS.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bbHoW2t4A3etlAQS.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bbHoW2t4A3etlAQS.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bbHoW2t4A3etlAQS.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bbHoW2t4A3etlAQS.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bbHoW2t4A3etlAQS.full"
+      },
+      "modified_date": 1763431179,
+      "author": 4026158
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 640686,
+      "langid": "en",
+      "title": "Roper Dryer",
+      "display_title": "Roper Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Roper_Dryer",
+      "text": "Repair guides, manuals, and troubleshooting help for Roper Dryer. Get everything you need to repair your Roper Dryer yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium"
+      },
+      "modified_date": 1770855615,
+      "author": 4026158
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 116976,
+      "langid": "en",
+      "title": "Samsung dryer",
+      "display_title": "Samsung Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Repair information for Samsung clothes dryers.",
+      "url": "https://www.ifixit.com/Device/Samsung_dryer",
+      "text": "Repair information for Samsung clothes dryers.",
+      "image": {
+        "id": 2913159,
+        "guid": "PkDQjnbBIAhP3VF4",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.full"
+      },
+      "modified_date": 1757653941,
+      "author": 3945491
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 508981,
+      "langid": "en",
+      "title": "Siemens Dryer",
+      "display_title": "Siemens Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Guides and repair information for dryers produced by Siemens.",
+      "url": "https://www.ifixit.com/Device/Siemens_Dryer",
+      "text": "Guides and repair information for dryers produced by Siemens.",
+      "image": {
+        "id": 2920670,
+        "guid": "qsjbt5eQrhCBGKK3",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/qsjbt5eQrhCBGKK3.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/qsjbt5eQrhCBGKK3.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/qsjbt5eQrhCBGKK3.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/qsjbt5eQrhCBGKK3.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/qsjbt5eQrhCBGKK3.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/qsjbt5eQrhCBGKK3.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/qsjbt5eQrhCBGKK3.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/qsjbt5eQrhCBGKK3.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/qsjbt5eQrhCBGKK3.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/qsjbt5eQrhCBGKK3.full"
+      },
+      "modified_date": 1704825796,
+      "author": 4205461
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 508982,
+      "langid": "en",
+      "title": "Speed Queen Dryer",
+      "display_title": "Speed Queen Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Guides and repair information for dryers produced by Speed Queen.",
+      "url": "https://www.ifixit.com/Device/Speed_Queen_Dryer",
+      "text": "Guides and repair information for dryers produced by Speed Queen.",
+      "image": {
+        "id": 2920714,
+        "guid": "oDJ6oFxuVIIIGU31",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/oDJ6oFxuVIIIGU31.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/oDJ6oFxuVIIIGU31.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/oDJ6oFxuVIIIGU31.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/oDJ6oFxuVIIIGU31.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/oDJ6oFxuVIIIGU31.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/oDJ6oFxuVIIIGU31.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/oDJ6oFxuVIIIGU31.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/oDJ6oFxuVIIIGU31.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/oDJ6oFxuVIIIGU31.full"
+      },
+      "modified_date": 1704826119,
+      "author": 4205461
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 508852,
+      "langid": "en",
+      "title": "Whirlpool Dryer",
+      "display_title": "Whirlpool Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Repair guides and support for Whirlpool brand dryers.",
+      "url": "https://www.ifixit.com/Device/Whirlpool_Dryer",
+      "text": "Repair guides and support for Whirlpool brand dryers.",
+      "image": {
+        "id": 2914310,
+        "guid": "wayH3f4jMUXTZPHW",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.full"
+      },
+      "modified_date": 1704826712,
+      "author": 4205461
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 519327,
+      "langid": "en",
+      "title": "Zokop Dryer",
+      "display_title": "Zokop Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Repair information for ZOKOP clothes dryers.",
+      "url": "https://www.ifixit.com/Device/Zokop_Dryer",
+      "text": "Repair information for ZOKOP clothes dryers.",
+      "image": {
+        "id": 3055516,
+        "guid": "clQoWRnNePw6dgOZ",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/clQoWRnNePw6dgOZ.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/clQoWRnNePw6dgOZ.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/clQoWRnNePw6dgOZ.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/clQoWRnNePw6dgOZ.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/clQoWRnNePw6dgOZ.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/clQoWRnNePw6dgOZ.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/clQoWRnNePw6dgOZ.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/clQoWRnNePw6dgOZ.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/clQoWRnNePw6dgOZ.full"
+      },
+      "modified_date": 1704826849,
+      "author": 4026158
+    }
+  ],
+  "category_lists": {},
+  "featured_guides": [
+    {
+      "dataType": "guide",
+      "guideid": 145790,
+      "locale": "en",
+      "revisionid": 1788584,
+      "modified_date": 1784332992,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Clean+Out+a+Dryer+Vent/145790",
+      "type": "technique",
+      "category": "Dryer",
+      "subject": "",
+      "title": "How to Clean Out a Dryer Vent",
+      "summary": "Many dryers are connected to a dryer vent,...",
+      "difficulty": "Moderate",
+      "time_required_max": 2400,
+      "public": true,
+      "userid": 4030084,
+      "username": "Mary Lindsey",
+      "flags": [
+        "GUIDE_FEATURED_STUDENT"
+      ],
+      "image": {
+        "id": 2516028,
+        "guid": "eCJlWtnVDtDWsC6p",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.full"
+      }
+    }
+  ],
+  "guides": [
+    {
+      "dataType": "guide",
+      "guideid": 145790,
+      "locale": "en",
+      "revisionid": 1788584,
+      "modified_date": 1784332992,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Clean+Out+a+Dryer+Vent/145790",
+      "type": "technique",
+      "category": "Dryer",
+      "subject": "",
+      "title": "How to Clean Out a Dryer Vent",
+      "summary": "Many dryers are connected to a dryer vent,...",
+      "difficulty": "Moderate",
+      "time_required_max": 2400,
+      "public": true,
+      "userid": 4030084,
+      "username": "Mary Lindsey",
+      "flags": [
+        "GUIDE_FEATURED_STUDENT"
+      ],
+      "image": {
+        "id": 2516028,
+        "guid": "eCJlWtnVDtDWsC6p",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/eCJlWtnVDtDWsC6p.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 137486,
+      "locale": "en",
+      "revisionid": 1587488,
+      "modified_date": 1784337648,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Fix+the+Door+Swing+Direction+of+an+LG+DLEX5170W+SteamDryer+Clothes+Dryer/137486",
+      "type": "technique",
+      "category": "Dryer",
+      "subject": "",
+      "title": "How to Fix the Door Swing Direction of an LG DLEX5170W SteamDryer Clothes Dryer",
+      "summary": "No one notices the direction that a clothes...",
+      "difficulty": "Moderate",
+      "time_required_max": 3600,
+      "public": true,
+      "userid": 3681176,
+      "username": "Lis Cinelli",
+      "flags": [],
+      "image": {
+        "id": 2231862,
+        "guid": "dBJKlvSPFvYaboDy",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/dBJKlvSPFvYaboDy.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/dBJKlvSPFvYaboDy.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/dBJKlvSPFvYaboDy.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/dBJKlvSPFvYaboDy.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/dBJKlvSPFvYaboDy.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/dBJKlvSPFvYaboDy.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/dBJKlvSPFvYaboDy.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/dBJKlvSPFvYaboDy.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/dBJKlvSPFvYaboDy.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/dBJKlvSPFvYaboDy.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 221356,
+      "locale": "en",
+      "revisionid": 2341408,
+      "modified_date": 1784337575,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Troubleshoot+Power+Supply+in+a+Dryer/221356",
+      "type": "technique",
+      "category": "Dryer",
+      "subject": "",
+      "title": "How to Troubleshoot Power Supply in a Dryer",
+      "summary": "Use this guide to check whether an electric...",
+      "difficulty": "Moderate",
+      "time_required_max": 3600,
+      "public": true,
+      "userid": 2012381,
+      "username": "eCuration",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4251648,
+        "guid": "yPGfvTMuW11bldhP",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yPGfvTMuW11bldhP.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yPGfvTMuW11bldhP.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yPGfvTMuW11bldhP.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yPGfvTMuW11bldhP.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yPGfvTMuW11bldhP.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yPGfvTMuW11bldhP.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yPGfvTMuW11bldhP.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yPGfvTMuW11bldhP.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yPGfvTMuW11bldhP.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 221371,
+      "locale": "en",
+      "revisionid": 2341494,
+      "modified_date": 1784337605,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Troubleshoot+Slow+Drying+in+a+Dryer/221371",
+      "type": "technique",
+      "category": "Dryer",
+      "subject": "",
+      "title": "How to Troubleshoot Slow Drying in a Dryer",
+      "summary": "Use this guide to find airflow restrictions...",
+      "difficulty": "Moderate",
+      "time_required_max": 3600,
+      "public": true,
+      "userid": 2012381,
+      "username": "eCuration",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4251747,
+        "guid": "KamOXhbqEMxlIJ1A",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/KamOXhbqEMxlIJ1A.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/KamOXhbqEMxlIJ1A.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/KamOXhbqEMxlIJ1A.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/KamOXhbqEMxlIJ1A.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/KamOXhbqEMxlIJ1A.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/KamOXhbqEMxlIJ1A.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/KamOXhbqEMxlIJ1A.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/KamOXhbqEMxlIJ1A.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/KamOXhbqEMxlIJ1A.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 198645,
+      "locale": "en",
+      "revisionid": 2221648,
+      "modified_date": 1784336245,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+perform+a+full+service+on+your+dryer/198645",
+      "type": "technique",
+      "category": "Dryer",
+      "subject": "",
+      "title": "How to perform a full service on your dryer",
+      "summary": "Use this guide to give your dryer a complete...",
+      "difficulty": "Difficult",
+      "time_required_max": 2400,
+      "public": true,
+      "userid": 4635348,
+      "username": "Ula Gantar",
+      "flags": [
+        "GUIDE_USER_CONTRIBUTED"
+      ],
+      "image": {
+        "id": 3818968,
+        "guid": "AOdWGL4TH2WPsm2W",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/AOdWGL4TH2WPsm2W.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/AOdWGL4TH2WPsm2W.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/AOdWGL4TH2WPsm2W.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/AOdWGL4TH2WPsm2W.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/AOdWGL4TH2WPsm2W.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/AOdWGL4TH2WPsm2W.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/AOdWGL4TH2WPsm2W.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/AOdWGL4TH2WPsm2W.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/AOdWGL4TH2WPsm2W.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 198584,
+      "locale": "en",
+      "revisionid": 2221386,
+      "modified_date": 1784335475,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+replace+the+belt+tensioner+in+your+dryer/198584",
+      "type": "replacement",
+      "category": "Dryer",
+      "subject": "Belt Tensioner",
+      "title": "How to replace the belt tensioner in your dryer",
+      "summary": "A worn belt tensioner lets the drum belt...",
+      "difficulty": "Moderate",
+      "time_required_max": 1800,
+      "public": true,
+      "userid": 4635348,
+      "username": "Ula Gantar",
+      "flags": [
+        "GUIDE_USER_CONTRIBUTED"
+      ],
+      "image": null
+    },
+    {
+      "dataType": "guide",
+      "guideid": 198581,
+      "locale": "en",
+      "revisionid": 2211445,
+      "modified_date": 1784335466,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+replace+the+condensate+pump+in+your+dryer/198581",
+      "type": "replacement",
+      "category": "Dryer",
+      "subject": "Condensate Pump",
+      "title": "How to replace the condensate pump in your dryer",
+      "summary": "A condenser dryer needs a small pump to lift...",
+      "difficulty": "Moderate",
+      "time_required_max": 0,
+      "public": true,
+      "userid": 4635348,
+      "username": "Ula Gantar",
+      "flags": [
+        "GUIDE_USER_CONTRIBUTED"
+      ],
+      "image": null
+    },
+    {
+      "dataType": "guide",
+      "guideid": 181822,
+      "locale": "en",
+      "revisionid": 2108433,
+      "modified_date": 1784335304,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+To+Replace+The+Condenser+In+Your+Dryer/181822",
+      "type": "replacement",
+      "category": "Dryer",
+      "subject": "Condenser",
+      "title": "How To Replace The Condenser In Your Dryer",
+      "summary": "This guide shows you how to replace a faulty...",
+      "difficulty": "Moderate",
+      "time_required_max": 1500,
+      "public": true,
+      "userid": 2012381,
+      "username": "eCuration",
+      "flags": [
+        "GUIDE_IN_PROGRESS"
+      ],
+      "image": null
+    },
+    {
+      "dataType": "guide",
+      "guideid": 17592,
+      "locale": "en",
+      "revisionid": 924598,
+      "modified_date": 1784328915,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Electric+dryer+defective+drive+belt+Replacement/17592",
+      "type": "replacement",
+      "category": "Dryer",
+      "subject": "Defective Drive Belt",
+      "title": "Electric dryer defective drive belt Replacement",
+      "summary": "One of the common problems with electric...",
+      "difficulty": "Moderate",
+      "time_required_max": 3600,
+      "public": true,
+      "userid": 364577,
+      "username": "Nick Ivanov",
+      "flags": [
+        "GUIDE_USER_CONTRIBUTED"
+      ],
+      "image": {
+        "id": 280031,
+        "guid": "TW1dkybCdSgEvn1n",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/TW1dkybCdSgEvn1n.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/TW1dkybCdSgEvn1n.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/TW1dkybCdSgEvn1n.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/TW1dkybCdSgEvn1n.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/TW1dkybCdSgEvn1n.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/TW1dkybCdSgEvn1n.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/TW1dkybCdSgEvn1n.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/TW1dkybCdSgEvn1n.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/TW1dkybCdSgEvn1n.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/TW1dkybCdSgEvn1n.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 198638,
+      "locale": "en",
+      "revisionid": 2221624,
+      "modified_date": 1784336226,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+replace+the+drive+belt+in+your+dryer/198638",
+      "type": "replacement",
+      "category": "Dryer",
+      "subject": "Drive Belt",
+      "title": "How to replace the drive belt in your dryer",
+      "summary": "If the drum in your dryer no longer turns but...",
+      "difficulty": "Moderate",
+      "time_required_max": 2400,
+      "public": true,
+      "userid": 4635348,
+      "username": "Ula Gantar",
+      "flags": [
+        "GUIDE_USER_CONTRIBUTED"
+      ],
+      "image": null
+    },
+    {
+      "dataType": "guide",
+      "guideid": 165618,
+      "locale": "en",
+      "revisionid": 2186070,
+      "modified_date": 1784333812,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Admiral+AGD4675YQ3+Drum+Belt+Replacement/165618",
+      "type": "replacement",
+      "category": "Dryer",
+      "subject": "Drum Belt",
+      "title": "Admiral AGD4675YQ3 Drum Belt Replacement",
+      "summary": "The unthinkable has happened. Your AGD4675YQ3...",
+      "difficulty": "Moderate",
+      "time_required_max": 3600,
+      "public": true,
+      "userid": 4389577,
+      "username": "Clayton Biehunko",
+      "flags": [],
+      "image": {
+        "id": 3180289,
+        "guid": "jowHg4kAxkJvRYKq",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/jowHg4kAxkJvRYKq.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/jowHg4kAxkJvRYKq.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/jowHg4kAxkJvRYKq.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/jowHg4kAxkJvRYKq.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/jowHg4kAxkJvRYKq.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/jowHg4kAxkJvRYKq.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/jowHg4kAxkJvRYKq.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/jowHg4kAxkJvRYKq.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/jowHg4kAxkJvRYKq.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/jowHg4kAxkJvRYKq.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 153763,
+      "locale": "en",
+      "revisionid": 2004280,
+      "modified_date": 1784332999,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Dryer+Power+Cord+Replacement/153763",
+      "type": "replacement",
+      "category": "Dryer",
+      "subject": "Dryer Power Cord",
+      "title": "Dryer Power Cord Replacement",
+      "summary": "In this guide we will be replacing a dryer...",
+      "difficulty": "Easy",
+      "time_required_max": 1800,
+      "public": true,
+      "userid": 4033014,
+      "username": "Ronnie Mitchell",
+      "flags": [],
+      "image": {
+        "id": 2751384,
+        "guid": "VMUVOlMkJLy14VZP",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/VMUVOlMkJLy14VZP.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/VMUVOlMkJLy14VZP.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/VMUVOlMkJLy14VZP.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/VMUVOlMkJLy14VZP.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/VMUVOlMkJLy14VZP.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/VMUVOlMkJLy14VZP.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/VMUVOlMkJLy14VZP.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/VMUVOlMkJLy14VZP.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/VMUVOlMkJLy14VZP.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/VMUVOlMkJLy14VZP.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 162199,
+      "locale": "en",
+      "revisionid": 2039804,
+      "modified_date": 1784333810,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Dryer+Vent+Hose+Replacement/162199",
+      "type": "replacement",
+      "category": "Dryer",
+      "subject": "Dryer Vent Hose",
+      "title": "Dryer Vent Hose Replacement",
+      "summary": "",
+      "difficulty": "Moderate",
+      "time_required_max": 0,
+      "public": true,
+      "userid": 4330690,
+      "username": "Rachel Chapman",
+      "flags": [
+        "GUIDE_IMPROPER_ACTION",
+        "GUIDE_MISSING_IMAGES",
+        "INTRODUCTION_ISSUES"
+      ],
+      "image": {
+        "id": 3000467,
+        "guid": "Tym2niGDYXGx1Ej4",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/Tym2niGDYXGx1Ej4.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/Tym2niGDYXGx1Ej4.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/Tym2niGDYXGx1Ej4.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/Tym2niGDYXGx1Ej4.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/Tym2niGDYXGx1Ej4.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/Tym2niGDYXGx1Ej4.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/Tym2niGDYXGx1Ej4.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/Tym2niGDYXGx1Ej4.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/Tym2niGDYXGx1Ej4.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/Tym2niGDYXGx1Ej4.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 198646,
+      "locale": "en",
+      "revisionid": 2221651,
+      "modified_date": 1784336289,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+replace+the+felt+seal+in+your+dryer/198646",
+      "type": "replacement",
+      "category": "Dryer",
+      "subject": "Felt Seal",
+      "title": "How to replace the felt seal in your dryer",
+      "summary": "The felt seal stops lint and hot air from...",
+      "difficulty": "Difficult",
+      "time_required_max": 2700,
+      "public": true,
+      "userid": 4635348,
+      "username": "Ula Gantar",
+      "flags": [
+        "GUIDE_USER_CONTRIBUTED"
+      ],
+      "image": null
+    },
+    {
+      "dataType": "guide",
+      "guideid": 145015,
+      "locale": "en",
+      "revisionid": 1931556,
+      "modified_date": 1784332604,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Manatee+V2S+Intelligent+Clothes+Dryer+Filter+Replacement/145015",
+      "type": "replacement",
+      "category": "Dryer",
+      "subject": "Filter",
+      "title": "Manatee V2S Intelligent Clothes Dryer Filter Replacement",
+      "summary": "Use this guide to clean/replace the air filter...",
+      "difficulty": "Easy",
+      "time_required_max": 900,
+      "public": true,
+      "userid": 4028089,
+      "username": "[deleted]",
+      "flags": [
+        "GUIDE_LOUSY_PICTURES",
+        "GUIDE_MISSING_IMAGES"
+      ],
+      "image": {
+        "id": 2482202,
+        "guid": "qfqWynejKy5CBuum",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/qfqWynejKy5CBuum.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/qfqWynejKy5CBuum.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/qfqWynejKy5CBuum.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/qfqWynejKy5CBuum.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/qfqWynejKy5CBuum.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/qfqWynejKy5CBuum.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/qfqWynejKy5CBuum.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/qfqWynejKy5CBuum.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/qfqWynejKy5CBuum.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/qfqWynejKy5CBuum.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 198582,
+      "locale": "en",
+      "revisionid": 2221381,
+      "modified_date": 1784335437,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+replace+the+heater+element+in+your+dryer/198582",
+      "type": "replacement",
+      "category": "Dryer",
+      "subject": "Heater Element",
+      "title": "How to replace the heater element in your dryer",
+      "summary": "If your dryer no longer produces heat or starts...",
+      "difficulty": "Difficult",
+      "time_required_max": 1800,
+      "public": true,
+      "userid": 4635348,
+      "username": "Ula Gantar",
+      "flags": [
+        "GUIDE_USER_CONTRIBUTED"
+      ],
+      "image": null
+    },
+    {
+      "dataType": "guide",
+      "guideid": 185596,
+      "locale": "en",
+      "revisionid": 2127120,
+      "modified_date": 1784335483,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+replace+the+temperature+sensor+in+your+dryer/185596",
+      "type": "replacement",
+      "category": "Dryer",
+      "subject": "Temperature Sensor",
+      "title": "How to replace the temperature sensor in your dryer",
+      "summary": "If your dryer is running too hot, not heating...",
+      "difficulty": "Moderate",
+      "time_required_max": 900,
+      "public": true,
+      "userid": 4635348,
+      "username": "Ula Gantar",
+      "flags": [
+        "GUIDE_USER_CONTRIBUTED"
+      ],
+      "image": null
+    },
+    {
+      "dataType": "guide",
+      "guideid": 165904,
+      "locale": "en",
+      "revisionid": 1942360,
+      "modified_date": 1784333475,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Whirlpool+WGD4800XQ+Thermal+Fuse+Replacement/165904",
+      "type": "replacement",
+      "category": "Dryer",
+      "subject": "Thermal Fuse",
+      "title": "Whirlpool WGD4800XQ Thermal Fuse Replacement",
+      "summary": "Use this guide to replace the thermal fuse on a...",
+      "difficulty": "Moderate",
+      "time_required_max": 2700,
+      "public": true,
+      "userid": 4375468,
+      "username": "JAvila21",
+      "flags": [
+        "GUIDE_LOUSY_PICTURES",
+        "GUIDE_MISSING_IMAGES"
+      ],
+      "image": {
+        "id": 3123204,
+        "guid": "bXnjphbMsXQvmVSX",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bXnjphbMsXQvmVSX.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bXnjphbMsXQvmVSX.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bXnjphbMsXQvmVSX.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bXnjphbMsXQvmVSX.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bXnjphbMsXQvmVSX.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bXnjphbMsXQvmVSX.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bXnjphbMsXQvmVSX.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bXnjphbMsXQvmVSX.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/bXnjphbMsXQvmVSX.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bXnjphbMsXQvmVSX.full"
+      }
+    }
+  ],
+  "related_wikis": [
+    {
+      "dataType": "wiki",
+      "wikiid": 479830,
+      "langid": "en",
+      "title": "Gas Dryer Not Heating",
+      "display_title": "Gas Dryer Not Heating",
+      "namespace": "WIKI",
+      "summary": "Is your gas dryer spinning, turning on, or starting loads, but not heating up? Does the dryer complete, but your clothes are still wet? Try these fixes!",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Gas+Dryer+Not+Heating/479830",
+      "text": "Is your gas dryer spinning, turning on, or starting loads, but not heating up? Does the dryer complete, but your clothes are still wet? Try these fixes!",
+      "image": {
+        "id": 2716602,
+        "guid": "VGKaBMGIubKTY1kw",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.full"
+      },
+      "modified_date": 1714092623,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 478855,
+      "langid": "en",
+      "title": "Dryer Will Not Start",
+      "display_title": "Dryer Won't Start",
+      "namespace": "WIKI",
+      "summary": "Your clothes dryer is unresponsive, and will not turn on.  Seems to be dead, but may show some signs of life.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Will+Not+Start/478855",
+      "text": "Your clothes dryer is unresponsive, and will not turn on.  Seems to be dead, but may show some signs of life.",
+      "image": {
+        "id": 2693874,
+        "guid": "OCUUOdJ6ZwUtO2cp",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.full"
+      },
+      "modified_date": 1743020256,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479829,
+      "langid": "en",
+      "title": "Electric Dryer Not Heating",
+      "display_title": "Electric Dryer Not Heating",
+      "namespace": "WIKI",
+      "summary": "Your electric dryer isn't heating up.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Electric+Dryer+Not+Heating/479829",
+      "text": "Your electric dryer isn't heating up.",
+      "image": {
+        "id": 2716585,
+        "guid": "LDYDFtHGccaQOYsp",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.full"
+      },
+      "modified_date": 1743020717,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 478872,
+      "langid": "en",
+      "title": "Dryer Not Spinning",
+      "display_title": "Dryer Not Spinning",
+      "namespace": "WIKI",
+      "summary": "Your dryer shows some life, but won't spin or tumble the clothes. It's not turning, though there may be a humming sound.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Not+Spinning/478872",
+      "text": "Your dryer shows some life, but won't spin or tumble the clothes. It's not turning, though there may be a humming sound.",
+      "image": {
+        "id": 2693874,
+        "guid": "OCUUOdJ6ZwUtO2cp",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.full"
+      },
+      "modified_date": 1681151096,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479415,
+      "langid": "en",
+      "title": "Dryer Making Loud Noise",
+      "display_title": "Dryer Making Loud Noise",
+      "namespace": "WIKI",
+      "summary": "Is your dryer grinding, thumping, rattling or rumbling, or a combination of these?",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Making+Loud+Noise/479415",
+      "text": "Is your dryer grinding, thumping, rattling or rumbling, or a combination of these?",
+      "image": {
+        "id": 2710140,
+        "guid": "GNVTZxbAFWokVdOY",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.full"
+      },
+      "modified_date": 1681150703,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479708,
+      "langid": "en",
+      "title": "Dryer Smells Like Gas",
+      "display_title": "Dryer Smells Like Gas",
+      "namespace": "WIKI",
+      "summary": "Your dryer smells like it is leaking gas.  The odor may be especially strong when you open the door on the dryer.  Here are some steps to take to figure out what's wrong.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Smells+Like+Gas/479708",
+      "text": "Your dryer smells like it is leaking gas.  The odor may be especially strong when you open the door on the dryer.  Here are some steps to take to figure out what's wrong.",
+      "image": {
+        "id": 2711704,
+        "guid": "Q4IuO4TmGOHKqP6m",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.full"
+      },
+      "modified_date": 1702948546,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 478885,
+      "langid": "en",
+      "title": "Dryer Not Heating",
+      "display_title": "Dryer Not Heating",
+      "namespace": "WIKI",
+      "summary": "Your dryer spins, but is not heating up to dry the clothes.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Not+Heating/478885",
+      "text": "Your dryer spins, but is not heating up to dry the clothes.",
+      "image": {
+        "id": 2701897,
+        "guid": "SWLL2GOVWbyUxQWY",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.full"
+      },
+      "modified_date": 1681160581,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479208,
+      "langid": "en",
+      "title": "Dryer Squeaking",
+      "display_title": "Dryer Squeaking",
+      "namespace": "WIKI",
+      "summary": "Your dryer is making those annoying squeaking, squealing noises as it runs.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Squeaking/479208",
+      "text": "Your dryer is making those annoying squeaking, squealing noises as it runs.",
+      "image": {
+        "id": 2701896,
+        "guid": "L2mFJbygb23iPmvH",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.full"
+      },
+      "modified_date": 1681151190,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479298,
+      "langid": "en",
+      "title": "Dryer Maintenance",
+      "display_title": "Dryer Maintenance",
+      "namespace": "WIKI",
+      "summary": "Procedures for maintaining your dryer to keep it operating well.",
+      "url": "https://www.ifixit.com/Wiki/Dryer_Maintenance",
+      "text": "Procedures for maintaining your dryer to keep it operating well.",
+      "image": {
+        "id": 2706431,
+        "guid": "xSbBkkoDauPvyOrb",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.full"
+      },
+      "modified_date": 1692405485,
+      "author": 4152395
+    }
+  ],
+  "solutions_url": "https://www.ifixit.com/Answers/Device/Dryer",
+  "parts": {
+    "url": "https://www.ifixit.com/en-ca/Parts/Dryer",
+    "categories": []
+  },
+  "tools": [
+    {
+      "title": "Spudger",
+      "target_url": "https://www.ifixit.com/en-ca/products/spudger",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/XX6VnHhECOJblSRD.mini",
+      "itemcode": "IF145-002-2"
+    },
+    {
+      "title": "Narwhal 6-in-1 Driver",
+      "target_url": "https://www.ifixit.com/en-ca/products/narwhal-driver-standard",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/TYxXAEakvLjTuLxZ.mini",
+      "itemcode": "IF145-552-1"
+    },
+    {
+      "title": "Mako Driver Kit - 64 Precision Bits",
+      "target_url": "https://www.ifixit.com/en-ca/products/mako-driver-kit-64-precision-bits",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/WqPHdEQElATwTkhB.mini",
+      "itemcode": "IF145-299-4"
+    },
+    {
+      "title": "Digital Multimeter",
+      "target_url": "https://www.ifixit.com/en-ca/products/digital-multimeter",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/dHrHd34jgh4d6OTs.mini",
+      "itemcode": "IF145-035-8"
+    },
+    {
+      "title": "Magnetic Mat Replacement Pen",
+      "target_url": "https://www.ifixit.com/en-ca/products/magnetic-mat-replacement-pen",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/mPaHPLkO5WcQvPNr.mini",
+      "itemcode": "IF145-177-1"
+    },
+    {
+      "title": "Digital Multimeter",
+      "target_url": "https://www.ifixit.com/en-ca/products/digital-multimeter",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/dHrHd34jgh4d6OTs.mini",
+      "itemcode": "IF145-035-8"
+    },
+    {
+      "title": "iFixit Safety Glasses",
+      "target_url": "https://www.ifixit.com/en-ca/products/ifixit-safety-glasses?variant=44989198237893",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/Rb1cHgrFiTJPqN1o.mini",
+      "itemcode": "IF145-556-1"
+    }
+  ],
+  "repairability_score": null,
+  "category_info": [],
+  "source_revisionid": null,
+  "diagrams": [],
+  "info": [
+    {
+      "name": "Device Category",
+      "value": "Appliance",
+      "inheritedFrom": "Appliance"
+    }
+  ],
+  "maintenance_schedule": {
+    "schedules": [],
+    "inheritedFrom": null,
+    "langid": "en"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "wikiid": 651957,
+  "langid": "en",
+  "namespace": "ITEM",
+  "title": "Dryer Motor Pulley",
+  "revisionid": 1473211,
+  "contents_raw": "",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": []
+      }
+    ]
+  },
+  "contents_rendered": "",
+  "linked_wikis": [],
+  "can_edit": true,
+  "available_langids": [
+    "en"
+  ],
+  "ancestors": [],
+  "created_date": 1782857625,
+  "modified_date": 1782857625,
+  "is_troubleshooting": false,
+  "authors": [
+    {
+      "userid": 4026158,
+      "percent": 100,
+      "username": "Evan Gattuso",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/UiqiRwGMAZBCJonm.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4026158/Evan+Gattuso"
+    }
+  ],
+  "tags": [],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": null,
+  "documents": [],
+  "author": 4026158,
+  "display_title": "Dryer Motor Pulley",
+  "description": "",
+  "suppliers": [
+    {
+      "type": "",
+      "part_#": "",
+      "supplier": "",
+      "url": "http:///Item/Dryer_Motor_Pulley"
+    }
+  ],
+  "source_revisionid": null,
+  "info": []
+}

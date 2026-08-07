@@ -1,0 +1,1848 @@
+{
+  "wikiid": 17758,
+  "langid": "en",
+  "namespace": "CATEGORY",
+  "title": "Hair Dryer",
+  "revisionid": 1245416,
+  "contents_raw": "== Background and Identification ==\n\nHair dryers are self-care appliances designed to dry hair. Hair dryers achieve this by blowing hot air out of a nozzle that the user can move around their head and point at specific areas that need to be dried.\n\nThe hair dryer was first invented in 1890 by Alexander Godefroy. Godefroy invented this device for use in his hair salon. It was a non-portable, over head installation that dried users\u2019 hair when they sat beneath it. The portable, handheld hair dryer evolved from this invention. However, handheld hair dryers didn\u2019t enter the consumer market until around 1920.\n\nHair dryers are often made of electric heating coils and a fan. These electric heating coils are either made of PTC (positive temperature coefficient) ceramic or wire. Hair dryers with ceramic heating elements are more common because they heat up faster than wire components. Hair dryers include a power cord, which supplies electricity to the heating coils. These coils then heat up the air, which is blown out of the hair dryer by the fan.\n\nHair dryers today are either permanent over-head dryers, which are commonly installed in hair salons, or portable, handheld appliances. They are manufactured by numerous companies, including Revlon, Dyson, Remington, Conair, and more.\n\n== ***Follow us and investigate....*** ==\n\n=== Presentation ===\n\nThis type of study aims to enable future repairers to repair ***autonomously*** a category of appliance using an example in the form of photos, diagrams, explanations, and repair guides.\n\nIn this page, we explain what the device is made of, show the different components, the roles they play, how they work individually, and how they work together.\n\nWe do not only show the disassembly or reassembly of the devices, since we aim to study a category of objects. Within the same category, no two devices are alike, either from one brand to another or within the same brand. So it's impossible to say which tool to use and how to go about it. If you're having trouble, you'll have to search iFixit and the Internet for the right tool for the right model.\n\nWe aim to show that you can learn by doing. The advantage is that you can progress \"smartly\" by understanding \"***how it works***\". Once you've got the hang of it, you can do it again and again, and on other machines.\n\nNor is it a question of redoing what has already been done. We select the quality content that already exists, add to it if necessary, and aggregate it around a \"methodological\" axis designed to provide solutions in an autonomous and secure repair approach.\n\n=== Repair methodology ===\n\nCarrying out a repair is like conducting an investigation. You have to gather evidence, ask questions, observe, find clues, analyze evidence, and verify alibis. Then it's on to identifying and catching the suspect :-)\n\nThis investigation must be carried out methodically.\n\nThis is the method we'd like you to discover. To start repairing any appliance, from the simplest to the most sophisticated, before even dismantling anything, we suggest you ask yourself 3 questions. This is the information-gathering phase.\n\n=== Information-gathering phase ===\n\nThis first phase is just as important as the repair itself because if the analysis has been carried out correctly, the repair will be that much easier.\n\nThe 3 questions to ask systematically are, in order:\n\n* What are the different functions of the device?\n* What are its user instructions?\n* What is the problem?\n\n[quote]***What are the device's functions?***[/quote]\n\nIn the case of simple objects, it may seem pointless to ask this question, but for more complex ones, it's important to understand the origin of the failure. In this way, you can avoid going down the wrong path as much as possible.\n\n[quote]***What are the user instructions?***[/quote]\n\nThis is the logical follow-up to the first question. When you've grasped all the functions of the device, you need to understand how to use it. To do this, you can refer to the user manual, if available.\n\n[quote]***What's the problem?***[/quote]\n\nThe last question to ask is what's wrong with the device?\n\nWe need to determine whether the device is totally or partially out of order (hence the importance of the first question), what the symptoms are, whether an event has led to the failure, and anything else that can help us pinpoint the origin of the problem.\n\nDuring this phase, it is necessary to test the object, ***observe what happens (*1)*** and confirm the nature of the problem(s), checking what works and what doesn't, to avoid any misunderstandings in further operations.\n\nOnce this initial information has been gathered, it's likely that an initial diagnosis can be established, enabling the next phase, the repair itself, to be carried out.\n\n=== Repair execution phase ===\n\nThis phase consists of:\n\n* dismantling the unit ***(*2)***\n* examining, observing, measuring and analyzing the behavior of the various components that make it up\n* documenting, if necessary (thanks to the Internet)\n* identify the defective component(s), if any\n* replace them\n* make adjustments\n* reassemble\n\nAt the end of this phase, it's time to test the unit to make sure it's working properly.\n\nIn the workshop, this should be done with the user, and the success (or otherwise) of the operation confirmed.\n\n***(*1) Repairing is an exercise in observation that calls on (almost) all our senses.***\n\n* ***sight, to visualize what's going on***\n* ***hearing, to listen for any noises produced by the device***\n* ***the sense of smell to identify burnt odors, for example***\n* ***touch, to feel vibrations, heat, cold, etc.***\n\nFor a successful repair, it's best to be in a quiet place, with plenty of space and good lighting.\n\n***(*2) IMPORTANT*** The dismantling of equipment, especially the latest models, is often a long and delicate operation, so make sure you have the necessary time and tools. Be aware that this may damage the appearance of the device, or even render it unusable in the worst case. It's a good idea to search iFixit and the Internet for dismantling tips, based on the model and make of the appliance.\n\n=== Safety ===\n\nRepairing electrical or electronic devices almost always involves opening them up, so you need to take certain precautions to avoid the risk of ***electrocution or other hazards*** (burns, explosion, fire, etc.).\n\nYou should be ***familiar*** with the basics of electricity, and know and apply the relevant safety rules when opening a device of this type.\n\nIf you don\u2019t feel comfortable, just carry out the checks with the ***power off***.\n\nIf you're taking a live measurement, make sure you prepare for the measurement when the power is off, by plugging in the multimeter with grip-wires, for example. This allows you to carry out the check without having to handle potentially dangerous instruments.\n\n== Additional Information ==\n\n* [[Hairdryer Troubleshooting|Hairdryer Troubleshooting]]\n* [link|https://en.wikipedia.org/wiki/Hair_dryer|Hair Dryer (Wikipedia)]\n* [link|https://www.amazon.com/s?k=hair+dryer&ref=nb_sb_noss_2|Hair Dryers on Amazon]",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Background and Identification"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Hair dryers are self-care appliances designed to dry hair. Hair dryers achieve this by blowing hot air out of a nozzle that the user can move around their head and point at specific areas that need to be dried."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The hair dryer was first invented in 1890 by Alexander Godefroy. Godefroy invented this device for use in his hair salon. It was a non-portable, over head installation that dried users\u2019 hair when they sat beneath it. The portable, handheld hair dryer evolved from this invention. However, handheld hair dryers didn\u2019t enter the consumer market until around 1920."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Hair dryers are often made of electric heating coils and a fan. These electric heating coils are either made of PTC (positive temperature coefficient) ceramic or wire. Hair dryers with ceramic heating elements are more common because they heat up faster than wire components. Hair dryers include a power cord, which supplies electricity to the heating coils. These coils then heat up the air, which is blown out of the hair dryer by the fan."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Hair dryers today are either permanent over-head dryers, which are commonly installed in hair salons, or portable, handheld appliances. They are manufactured by numerous companies, including Revlon, Dyson, Remington, Conair, and more."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Follow us and investigate....",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Presentation"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This type of study aims to enable future repairers to repair "
+          },
+          {
+            "type": "text",
+            "text": "autonomously",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " a category of appliance using an example in the form of photos, diagrams, explanations, and repair guides."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In this page, we explain what the device is made of, show the different components, the roles they play, how they work individually, and how they work together."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We do not only show the disassembly or reassembly of the devices, since we aim to study a category of objects. Within the same category, no two devices are alike, either from one brand to another or within the same brand. So it's impossible to say which tool to use and how to go about it. If you're having trouble, you'll have to search iFixit and the Internet for the right tool for the right model."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We aim to show that you can learn by doing. The advantage is that you can progress \"smartly\" by understanding \""
+          },
+          {
+            "type": "text",
+            "text": "how it works",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\". Once you've got the hang of it, you can do it again and again, and on other machines."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Nor is it a question of redoing what has already been done. We select the quality content that already exists, add to it if necessary, and aggregate it around a \"methodological\" axis designed to provide solutions in an autonomous and secure repair approach."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Repair methodology"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Carrying out a repair is like conducting an investigation. You have to gather evidence, ask questions, observe, find clues, analyze evidence, and verify alibis. Then it's on to identifying and catching the suspect :-)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This investigation must be carried out methodically."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This is the method we'd like you to discover. To start repairing any appliance, from the simplest to the most sophisticated, before even dismantling anything, we suggest you ask yourself 3 questions. This is the information-gathering phase."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Information-gathering phase"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This first phase is just as important as the repair itself because if the analysis has been carried out correctly, the repair will be that much easier."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The 3 questions to ask systematically are, in order:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What are the different functions of the device?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What are its user instructions?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "What is the problem?"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "attrs": {
+          "format": "long",
+          "attribute": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "What are the device's functions?",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In the case of simple objects, it may seem pointless to ask this question, but for more complex ones, it's important to understand the origin of the failure. In this way, you can avoid going down the wrong path as much as possible."
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "attrs": {
+          "format": "long",
+          "attribute": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "What are the user instructions?",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This is the logical follow-up to the first question. When you've grasped all the functions of the device, you need to understand how to use it. To do this, you can refer to the user manual, if available."
+          }
+        ]
+      },
+      {
+        "type": "blockquote",
+        "attrs": {
+          "format": "long",
+          "attribute": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "What's the problem?",
+                "marks": [
+                  {
+                    "type": "bold"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The last question to ask is what's wrong with the device?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We need to determine whether the device is totally or partially out of order (hence the importance of the first question), what the symptoms are, whether an event has led to the failure, and anything else that can help us pinpoint the origin of the problem."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "During this phase, it is necessary to test the object, "
+          },
+          {
+            "type": "text",
+            "text": "observe what happens (*1)",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " and confirm the nature of the problem(s), checking what works and what doesn't, to avoid any misunderstandings in further operations."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Once this initial information has been gathered, it's likely that an initial diagnosis can be established, enabling the next phase, the repair itself, to be carried out."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Repair execution phase"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This phase consists of:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "dismantling the unit "
+                  },
+                  {
+                    "type": "text",
+                    "text": "(*2)",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "examining, observing, measuring and analyzing the behavior of the various components that make it up"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "documenting, if necessary (thanks to the Internet)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "identify the defective component(s), if any"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "replace them"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "make adjustments"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "reassemble"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "At the end of this phase, it's time to test the unit to make sure it's working properly."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "In the workshop, this should be done with the user, and the success (or otherwise) of the operation confirmed."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "(*1) Repairing is an exercise in observation that calls on (almost) all our senses.",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "sight, to visualize what's going on",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "hearing, to listen for any noises produced by the device",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "the sense of smell to identify burnt odors, for example",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "touch, to feel vibrations, heat, cold, etc.",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "For a successful repair, it's best to be in a quiet place, with plenty of space and good lighting."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "(*2) IMPORTANT",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " The dismantling of equipment, especially the latest models, is often a long and delicate operation, so make sure you have the necessary time and tools. Be aware that this may damage the appearance of the device, or even render it unusable in the worst case. It's a good idea to search iFixit and the Internet for dismantling tips, based on the model and make of the appliance."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Safety"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Repairing electrical or electronic devices almost always involves opening them up, so you need to take certain precautions to avoid the risk of "
+          },
+          {
+            "type": "text",
+            "text": "electrocution or other hazards",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " (burns, explosion, fire, etc.)."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "You should be "
+          },
+          {
+            "type": "text",
+            "text": "familiar",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " with the basics of electricity, and know and apply the relevant safety rules when opening a device of this type."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you don\u2019t feel comfortable, just carry out the checks with the "
+          },
+          {
+            "type": "text",
+            "text": "power off",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you're taking a live measurement, make sure you prepare for the measurement when the power is off, by plugging in the multimeter with grip-wires, for example. This allows you to carry out the check without having to handle potentially dangerous instruments."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Additional Information"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hairdryer Troubleshooting",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Hairdryer Troubleshooting",
+                          "tag": null,
+                          "newWindow": false,
+                          "href": "/Wiki/Hairdryer_Troubleshooting"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://en.wikipedia.org/wiki/Hair_dryer",
+                          "target": false
+                        }
+                      }
+                    ],
+                    "text": "Hair Dryer (Wikipedia)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.amazon.com/s?k=hair+dryer&ref=nb_sb_noss_2",
+                          "target": false
+                        }
+                      }
+                    ],
+                    "text": "Hair Dryers on Amazon"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "contents_rendered": "<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Background_and_Identification\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Background_and_Identification\" class=\"header\">Background and Identification</h2></div>\n\n<p>Hair dryers are self-care appliances designed to dry hair. Hair dryers achieve this by blowing hot air out of a nozzle that the user can move around their head and point at specific areas that need to be dried.</p>\n\n<p>The hair dryer was first invented in 1890 by Alexander Godefroy. Godefroy invented this device for use in his hair salon. It was a non-portable, over head installation that dried users\u2019 hair when they sat beneath it. The portable, handheld hair dryer evolved from this invention. However, handheld hair dryers didn\u2019t enter the consumer market until around 1920.</p>\n\n<p>Hair dryers are often made of electric heating coils and a fan. These electric heating coils are either made of PTC (positive temperature coefficient) ceramic or wire. Hair dryers with ceramic heating elements are more common because they heat up faster than wire components. Hair dryers include a power cord, which supplies electricity to the heating coils. These coils then heat up the air, which is blown out of the hair dryer by the fan.</p>\n\n<p>Hair dryers today are either permanent over-head dryers, which are commonly installed in hair salons, or portable, handheld appliances. They are manufactured by numerous companies, including Revlon, Dyson, Remington, Conair, and more.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section__Follow_us_and_investigate\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section__Follow_us_and_investigate\" class=\"header\"><strong>Follow us and investigate....</strong></h2></div>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Presentation\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h3 id=\"Section_Presentation\" class=\"header\">Presentation</h3></div>\n\n<p>This type of study aims to enable future repairers to repair <strong>autonomously</strong> a category of appliance using an example in the form of photos, diagrams, explanations, and repair guides.</p>\n\n<p>In this page, we explain what the device is made of, show the different components, the roles they play, how they work individually, and how they work together.</p>\n\n<p>We do not only show the disassembly or reassembly of the devices, since we aim to study a category of objects. Within the same category, no two devices are alike, either from one brand to another or within the same brand. So it's impossible to say which tool to use and how to go about it. If you're having trouble, you'll have to search iFixit and the Internet for the right tool for the right model.</p>\n\n<p>We aim to show that you can learn by doing. The advantage is that you can progress &quot;smartly&quot; by understanding &quot;<strong>how it works</strong>&quot;. Once you've got the hang of it, you can do it again and again, and on other machines.</p>\n\n<p>Nor is it a question of redoing what has already been done. We select the quality content that already exists, add to it if necessary, and aggregate it around a &quot;methodological&quot; axis designed to provide solutions in an autonomous and secure repair approach.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Repair_methodology\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h3 id=\"Section_Repair_methodology\" class=\"header\">Repair methodology</h3></div>\n\n<p>Carrying out a repair is like conducting an investigation. You have to gather evidence, ask questions, observe, find clues, analyze evidence, and verify alibis. Then it's on to identifying and catching the suspect :-)</p>\n\n<p>This investigation must be carried out methodically.</p>\n\n<p>This is the method we'd like you to discover. To start repairing any appliance, from the simplest to the most sophisticated, before even dismantling anything, we suggest you ask yourself 3 questions. This is the information-gathering phase.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Information_gathering_phase\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h3 id=\"Section_Information_gathering_phase\" class=\"header\">Information-gathering phase</h3></div>\n\n<p>This first phase is just as important as the repair itself because if the analysis has been carried out correctly, the repair will be that much easier.</p>\n\n<p>The 3 questions to ask systematically are, in order:</p>\n\n<ul><li>What are the different functions of the device?</li><li>What are its user instructions?</li><li>What is the problem?</li></ul>\n\n<blockquote class=\"long\"><p><strong>What are the device's functions?</strong></p></blockquote>\n\n<p>In the case of simple objects, it may seem pointless to ask this question, but for more complex ones, it's important to understand the origin of the failure. In this way, you can avoid going down the wrong path as much as possible.</p>\n\n<blockquote class=\"long\"><p><strong>What are the user instructions?</strong></p></blockquote>\n\n<p>This is the logical follow-up to the first question. When you've grasped all the functions of the device, you need to understand how to use it. To do this, you can refer to the user manual, if available.</p>\n\n<blockquote class=\"long\"><p><strong>What's the problem?</strong></p></blockquote>\n\n<p>The last question to ask is what's wrong with the device?</p>\n\n<p>We need to determine whether the device is totally or partially out of order (hence the importance of the first question), what the symptoms are, whether an event has led to the failure, and anything else that can help us pinpoint the origin of the problem.</p>\n\n<p>During this phase, it is necessary to test the object, <strong>observe what happens (*1)</strong> and confirm the nature of the problem(s), checking what works and what doesn't, to avoid any misunderstandings in further operations.</p>\n\n<p>Once this initial information has been gathered, it's likely that an initial diagnosis can be established, enabling the next phase, the repair itself, to be carried out.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Repair_execution_phase\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h3 id=\"Section_Repair_execution_phase\" class=\"header\">Repair execution phase</h3></div>\n\n<p>This phase consists of:</p>\n\n<ul><li>dismantling the unit <strong>(*2)</strong></li><li>examining, observing, measuring and analyzing the behavior of the various components that make it up</li><li>documenting, if necessary (thanks to the Internet)</li><li>identify the defective component(s), if any</li><li>replace them</li><li>make adjustments</li><li>reassemble</li></ul>\n\n<p>At the end of this phase, it's time to test the unit to make sure it's working properly.</p>\n\n<p>In the workshop, this should be done with the user, and the success (or otherwise) of the operation confirmed.</p>\n\n<p><strong>(*1) Repairing is an exercise in observation that calls on (almost) all our senses.</strong></p>\n\n<ul><li><strong>sight, to visualize what's going on</strong></li><li><strong>hearing, to listen for any noises produced by the device</strong></li><li><strong>the sense of smell to identify burnt odors, for example</strong></li><li><strong>touch, to feel vibrations, heat, cold, etc.</strong></li></ul>\n\n<p>For a successful repair, it's best to be in a quiet place, with plenty of space and good lighting.</p>\n\n<p><strong>(*2) IMPORTANT</strong> The dismantling of equipment, especially the latest models, is often a long and delicate operation, so make sure you have the necessary time and tools. Be aware that this may damage the appearance of the device, or even render it unusable in the worst case. It's a good idea to search iFixit and the Internet for dismantling tips, based on the model and make of the appliance.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Safety\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h3 id=\"Section_Safety\" class=\"header\">Safety</h3></div>\n\n<p>Repairing electrical or electronic devices almost always involves opening them up, so you need to take certain precautions to avoid the risk of <strong>electrocution or other hazards</strong> (burns, explosion, fire, etc.).</p>\n\n<p>You should be <strong>familiar</strong> with the basics of electricity, and know and apply the relevant safety rules when opening a device of this type.</p>\n\n<p>If you don\u2019t feel comfortable, just carry out the checks with the <strong>power off</strong>.</p>\n\n<p>If you're taking a live measurement, make sure you prepare for the measurement when the power is off, by plugging in the multimeter with grip-wires, for example. This allows you to carry out the check without having to handle potentially dangerous instruments.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Additional_Information\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Additional_Information\" class=\"header\">Additional Information</h2></div>\n\n<ul><li><a href=\"/Wiki/Hairdryer_Troubleshooting\">Hairdryer Troubleshooting</a></li><li><a href=\"https://en.wikipedia.org/wiki/Hair_dryer\">Hair Dryer (Wikipedia)</a></li><li><a href=\"https://www.amazon.com/s?k=hair%2Bdryer&amp;ref=nb_sb_noss_2&amp;tag=ifixitam-20\" rel=\"nofollow noopener noreferrer\">Hair Dryers on Amazon</a></li></ul>",
+  "linked_wikis": [
+    {
+      "wikiid": 12393,
+      "namespace": "WIKI",
+      "title": "Hairdryer Troubleshooting"
+    }
+  ],
+  "can_edit": true,
+  "available_langids": [
+    "en",
+    "de",
+    "es",
+    "fr",
+    "nl"
+  ],
+  "ancestors": [
+    {
+      "dataType": "wiki",
+      "wikiid": 14894,
+      "langid": "en",
+      "title": "Health And Personal Care",
+      "display_title": "Health And Personal Care",
+      "namespace": "CATEGORY",
+      "summary": "Repair information on products used in health and personal care. Fixes tend to be simple and require only common tools.",
+      "url": "https://www.ifixit.com/Device/Health_And_Personal_Care",
+      "text": "Repair information on products used in health and personal care. Fixes tend to be simple and require only common tools.",
+      "image": {
+        "id": 3106191,
+        "guid": "vemavPf3JY2fL4fw",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vemavPf3JY2fL4fw.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vemavPf3JY2fL4fw.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/vemavPf3JY2fL4fw.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/vemavPf3JY2fL4fw.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vemavPf3JY2fL4fw.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/vemavPf3JY2fL4fw.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vemavPf3JY2fL4fw.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/vemavPf3JY2fL4fw.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/vemavPf3JY2fL4fw.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/vemavPf3JY2fL4fw.full"
+      },
+      "modified_date": 1704821495,
+      "author": 18
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 783,
+      "langid": "en",
+      "title": "Household",
+      "display_title": "Household",
+      "namespace": "CATEGORY",
+      "summary": "DIY guides for many household repairs, ranging from furniture to plumbing solutions.",
+      "url": "https://www.ifixit.com/Device/Household",
+      "text": "DIY guides for many household repairs, ranging from furniture to plumbing solutions.",
+      "image": {
+        "id": 3076820,
+        "guid": "IbYeQcWW16qkPfWE",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/IbYeQcWW16qkPfWE.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/IbYeQcWW16qkPfWE.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/IbYeQcWW16qkPfWE.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/IbYeQcWW16qkPfWE.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/IbYeQcWW16qkPfWE.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/IbYeQcWW16qkPfWE.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/IbYeQcWW16qkPfWE.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/IbYeQcWW16qkPfWE.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/IbYeQcWW16qkPfWE.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/IbYeQcWW16qkPfWE.full"
+      },
+      "modified_date": 1780121402,
+      "author": 17
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 11000,
+      "langid": "en",
+      "title": "Root",
+      "display_title": "Root",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Root",
+      "text": "Repair guides, manuals, and troubleshooting help for Root. Get everything you need to repair your Root yourself.",
+      "image": {
+        "id": 243440,
+        "guid": "bhofAWyrmGwRFlak",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.full"
+      },
+      "modified_date": 1705097689,
+      "author": 1
+    }
+  ],
+  "created_date": 1388789297,
+  "modified_date": 1717544835,
+  "is_troubleshooting": false,
+  "authors": [
+    {
+      "userid": 524640,
+      "percent": 25,
+      "username": "Sam Goldheart",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/goWW1KSXtt5RIr4A.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/524640/Sam+Goldheart"
+    },
+    {
+      "userid": 3369971,
+      "percent": 33.33,
+      "username": "Claire Franz",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/KxcFdc1ejH5lpPmb.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/3369971/Claire+Franz"
+    },
+    {
+      "userid": 2471037,
+      "percent": 25,
+      "username": "Lutin Communaut\u00e9",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/sJIsCmFAsEsRvoUo.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/2471037/Lutin+Communaut%C3%A9"
+    },
+    {
+      "userid": 1,
+      "percent": 8.33,
+      "username": "iRobot",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/AjiayMD6LWqf5FAL.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/1/iRobot"
+    },
+    {
+      "userid": 4026158,
+      "percent": 8.33,
+      "username": "Evan Gattuso",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/UiqiRwGMAZBCJonm.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4026158/Evan+Gattuso"
+    }
+  ],
+  "tags": [],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": {
+    "id": 3336999,
+    "guid": "pOEUwESEJUBQjKoI",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.large",
+    "huge": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.huge",
+    "original": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.full"
+  },
+  "documents": [],
+  "author": 524640,
+  "display_title": "Hair Dryer",
+  "page_title": "Hair Dryer Repair",
+  "description": "Repair guides and troubleshooting information for hair dryers.",
+  "children": [
+    {
+      "dataType": "wiki",
+      "wikiid": 563179,
+      "langid": "en",
+      "title": "Babyliss Ionic SL hairdryer",
+      "display_title": "Babyliss Ionic SL Hairdryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Babyliss_Ionic_SL_hairdryer",
+      "text": "Repair guides, manuals, and troubleshooting help for Babyliss Ionic SL Hairdryer. Get everything you need to repair your Babyliss Ionic SL Hairdryer yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.medium"
+      },
+      "modified_date": 1719871314,
+      "author": 3945491
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 551600,
+      "langid": "en",
+      "title": "Braun Hair Dryer Repair",
+      "display_title": "Braun Hair Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Braun_Hair_Dryer_Repair",
+      "text": "Repair guides, manuals, and troubleshooting help for Braun Hair Dryer. Get everything you need to repair your Braun Hair Dryer yourself.",
+      "image": {
+        "id": 3248202,
+        "guid": "fDEI6xMr33HKmJ1Y",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/fDEI6xMr33HKmJ1Y.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/fDEI6xMr33HKmJ1Y.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/fDEI6xMr33HKmJ1Y.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/fDEI6xMr33HKmJ1Y.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/fDEI6xMr33HKmJ1Y.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/fDEI6xMr33HKmJ1Y.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/fDEI6xMr33HKmJ1Y.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/fDEI6xMr33HKmJ1Y.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/fDEI6xMr33HKmJ1Y.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/fDEI6xMr33HKmJ1Y.full"
+      },
+      "modified_date": 1780611743,
+      "author": 4288385
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 60662,
+      "langid": "en",
+      "title": "Classique 087CQA",
+      "display_title": "Classique 087CQA",
+      "namespace": "CATEGORY",
+      "summary": "Classique's 1600-watt hair dryer blows hot and cold air. Model: 087CQA. Made in Costa Rica and distributed by Western Wholesale, Oregon.",
+      "url": "https://www.ifixit.com/Device/Classique_087CQA",
+      "text": "Classique's 1600-watt hair dryer blows hot and cold air. Model: 087CQA. Made in Costa Rica and distributed by Western Wholesale, Oregon.",
+      "image": {
+        "id": 1042761,
+        "guid": "hcNUYvEUkNGWQmUp",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/hcNUYvEUkNGWQmUp.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/hcNUYvEUkNGWQmUp.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/hcNUYvEUkNGWQmUp.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/hcNUYvEUkNGWQmUp.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/hcNUYvEUkNGWQmUp.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/hcNUYvEUkNGWQmUp.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/hcNUYvEUkNGWQmUp.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/hcNUYvEUkNGWQmUp.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/hcNUYvEUkNGWQmUp.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/hcNUYvEUkNGWQmUp.full"
+      },
+      "modified_date": 1779813411,
+      "author": 1603374
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 535983,
+      "langid": "en",
+      "title": "Conair Hair Dryer",
+      "display_title": "Conair Hair Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Conair_Hair_Dryer",
+      "text": "Repair guides, manuals, and troubleshooting help for Conair Hair Dryer. Get everything you need to repair your Conair Hair Dryer yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.medium"
+      },
+      "modified_date": 1716919876,
+      "author": 1117590
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 535981,
+      "langid": "en",
+      "title": "Dyson Hair Dryer",
+      "display_title": "Dyson Hair Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Dyson_Hair_Dryer",
+      "text": "Repair guides, manuals, and troubleshooting help for Dyson Hair Dryer. Get everything you need to repair your Dyson Hair Dryer yourself.",
+      "image": {
+        "id": 3628321,
+        "guid": "HPjCIXWl5MEs2SBq",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/HPjCIXWl5MEs2SBq.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/HPjCIXWl5MEs2SBq.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/HPjCIXWl5MEs2SBq.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/HPjCIXWl5MEs2SBq.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/HPjCIXWl5MEs2SBq.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/HPjCIXWl5MEs2SBq.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/HPjCIXWl5MEs2SBq.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/HPjCIXWl5MEs2SBq.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/HPjCIXWl5MEs2SBq.full"
+      },
+      "modified_date": 1746714821,
+      "author": 1117590
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 535985,
+      "langid": "en",
+      "title": "Panasonic Hair Dryer",
+      "display_title": "Panasonic Hair Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Panasonic_Hair_Dryer",
+      "text": "Repair guides, manuals, and troubleshooting help for Panasonic Hair Dryer. Get everything you need to repair your Panasonic Hair Dryer yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.medium"
+      },
+      "modified_date": 1784819527,
+      "author": 1117590
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 535987,
+      "langid": "en",
+      "title": "RevAir Hair Dryer",
+      "display_title": "RevAir Hair Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/RevAir_Hair_Dryer",
+      "text": "Repair guides, manuals, and troubleshooting help for RevAir Hair Dryer. Get everything you need to repair your RevAir Hair Dryer yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.medium"
+      },
+      "modified_date": 1751044037,
+      "author": 1117590
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 535992,
+      "langid": "en",
+      "title": "Revlon Hair Dryer",
+      "display_title": "Revlon Hair Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Revlon_Hair_Dryer",
+      "text": "Repair guides, manuals, and troubleshooting help for Revlon Hair Dryer. Get everything you need to repair your Revlon Hair Dryer yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.medium"
+      },
+      "modified_date": 1716920255,
+      "author": 1117590
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 535982,
+      "langid": "en",
+      "title": "Shark Hair Dryer",
+      "display_title": "Shark Hair Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Shark_Hair_Dryer",
+      "text": "Repair guides, manuals, and troubleshooting help for Shark Hair Dryer. Get everything you need to repair your Shark Hair Dryer yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.medium"
+      },
+      "modified_date": 1754668912,
+      "author": 1117590
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 535986,
+      "langid": "en",
+      "title": "T3 Hair Dryer",
+      "display_title": "T3 Hair Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/T3_Hair_Dryer",
+      "text": "Repair guides, manuals, and troubleshooting help for T3 Hair Dryer. Get everything you need to repair your T3 Hair Dryer yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.medium"
+      },
+      "modified_date": 1703716591,
+      "author": 1117590
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 535984,
+      "langid": "en",
+      "title": "Tymo Hair Dryer",
+      "display_title": "Tymo Hair Dryer",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Tymo_Hair_Dryer",
+      "text": "Repair guides, manuals, and troubleshooting help for Tymo Hair Dryer. Get everything you need to repair your Tymo Hair Dryer yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/pOEUwESEJUBQjKoI.medium"
+      },
+      "modified_date": 1703716582,
+      "author": 1117590
+    }
+  ],
+  "category_lists": {},
+  "featured_guides": [
+    {
+      "dataType": "guide",
+      "guideid": 145194,
+      "locale": "en",
+      "revisionid": 1681515,
+      "modified_date": 1726242430,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Laila+Ali+Ionic+Soft+Bonnet+Dryer+LADR5604+Hose+Replacement/145194",
+      "type": "replacement",
+      "category": "Hair Dryer",
+      "subject": "Hose",
+      "title": "Laila Ali Ionic Soft Bonnet Dryer LADR5604 Hose Replacement",
+      "summary": "Use this guide to replace the hose on your...",
+      "difficulty": "Easy",
+      "time_required_max": 2700,
+      "public": true,
+      "userid": 4029855,
+      "username": "Paige Guillory",
+      "flags": [
+        "GUIDE_FEATURED_STUDENT"
+      ],
+      "image": {
+        "id": 2488974,
+        "guid": "y4lbqL6xDnRGiNcH",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.full"
+      }
+    }
+  ],
+  "guides": [
+    {
+      "dataType": "guide",
+      "guideid": 169680,
+      "locale": "en",
+      "revisionid": 2121412,
+      "modified_date": 1748328336,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/2-+Hair+dryer+-+How+does+it+work-/169680",
+      "type": "technique",
+      "category": "Hair Dryer",
+      "subject": "",
+      "title": "2- Hair dryer - How does it work?",
+      "summary": "The aim of this guide is to see the different...",
+      "difficulty": "Moderate",
+      "time_required_max": 0,
+      "public": true,
+      "userid": 2850098,
+      "username": "Atelier Soud\u00e9",
+      "flags": [
+        "GUIDE_USER_CONTRIBUTED"
+      ],
+      "image": {
+        "id": 3206894,
+        "guid": "kxSi6Jul4HKU2lbG",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/kxSi6Jul4HKU2lbG.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/kxSi6Jul4HKU2lbG.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/kxSi6Jul4HKU2lbG.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/kxSi6Jul4HKU2lbG.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/kxSi6Jul4HKU2lbG.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/kxSi6Jul4HKU2lbG.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/kxSi6Jul4HKU2lbG.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/kxSi6Jul4HKU2lbG.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/kxSi6Jul4HKU2lbG.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 11259,
+      "locale": "en",
+      "revisionid": 1871983,
+      "modified_date": 1726325411,
+      "prereq_modified_date": 1726324031,
+      "url": "https://www.ifixit.com/Guide/Hair+Dryer+Button+Switchboard+Replacement/11259",
+      "type": "replacement",
+      "category": "Hair Dryer",
+      "subject": "Button Switchboard",
+      "title": "Hair Dryer Button Switchboard Replacement",
+      "summary": "Is your hairdryer not producing the right...",
+      "difficulty": "Moderate",
+      "time_required_max": 3600,
+      "public": true,
+      "userid": 517803,
+      "username": "Mitch",
+      "flags": [
+        "GUIDE_INCORRECT_TOOLS",
+        "GUIDE_SPLIT_PREREQ"
+      ],
+      "image": {
+        "id": 200684,
+        "guid": "caDYE6llOoJDVQFi",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/caDYE6llOoJDVQFi.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/caDYE6llOoJDVQFi.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/caDYE6llOoJDVQFi.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/caDYE6llOoJDVQFi.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/caDYE6llOoJDVQFi.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/caDYE6llOoJDVQFi.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/caDYE6llOoJDVQFi.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/caDYE6llOoJDVQFi.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/caDYE6llOoJDVQFi.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/caDYE6llOoJDVQFi.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 148979,
+      "locale": "en",
+      "revisionid": 1737546,
+      "modified_date": 1726325807,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Hair+Dryer+Electrical+Brushes+Replacement/148979",
+      "type": "replacement",
+      "category": "Hair Dryer",
+      "subject": "Electrical Brushes",
+      "title": "Hair Dryer Electrical Brushes Replacement",
+      "summary": "This guide details how to replace worn-out...",
+      "difficulty": "Moderate",
+      "time_required_max": 1500,
+      "public": true,
+      "userid": 4105042,
+      "username": "Alejandra Medina",
+      "flags": [],
+      "image": {
+        "id": 2620867,
+        "guid": "T1HKOe5TJeluRRIq",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/T1HKOe5TJeluRRIq.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/T1HKOe5TJeluRRIq.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/T1HKOe5TJeluRRIq.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/T1HKOe5TJeluRRIq.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/T1HKOe5TJeluRRIq.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/T1HKOe5TJeluRRIq.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/T1HKOe5TJeluRRIq.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/T1HKOe5TJeluRRIq.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/T1HKOe5TJeluRRIq.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/T1HKOe5TJeluRRIq.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 11260,
+      "locale": "en",
+      "revisionid": 496166,
+      "modified_date": 1726326331,
+      "prereq_modified_date": 1726324031,
+      "url": "https://www.ifixit.com/Guide/Hair+Dryer+Fan-+Motor+Assembly+Replacement/11260",
+      "type": "replacement",
+      "category": "Hair Dryer",
+      "subject": "Fan/ Motor Assembly",
+      "title": "Hair Dryer Fan/ Motor Assembly Replacement",
+      "summary": "Instead of buying a new hairdryer, simply use...",
+      "difficulty": "Moderate",
+      "time_required_max": 0,
+      "public": true,
+      "userid": 517803,
+      "username": "Mitch",
+      "flags": [],
+      "image": {
+        "id": 200648,
+        "guid": "wcur2IUyWEEBeKpK",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/wcur2IUyWEEBeKpK.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/wcur2IUyWEEBeKpK.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/wcur2IUyWEEBeKpK.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/wcur2IUyWEEBeKpK.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/wcur2IUyWEEBeKpK.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/wcur2IUyWEEBeKpK.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/wcur2IUyWEEBeKpK.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/wcur2IUyWEEBeKpK.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/wcur2IUyWEEBeKpK.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/wcur2IUyWEEBeKpK.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 145662,
+      "locale": "en",
+      "revisionid": 1812616,
+      "modified_date": 1726326088,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Dyson+Supersonic+HD03+Hairdryer+Filter+Replacement/145662",
+      "type": "replacement",
+      "category": "Hair Dryer",
+      "subject": "Filter",
+      "title": "Dyson Supersonic HD03 Hairdryer Filter Replacement",
+      "summary": "A hairdryer is commonly used in our daily life,...",
+      "difficulty": "Very easy",
+      "time_required_max": 1800,
+      "public": true,
+      "userid": 4028268,
+      "username": "Huan-Che Hsu",
+      "flags": [],
+      "image": {
+        "id": 2505666,
+        "guid": "pvrOjXtuijLHChv5",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/pvrOjXtuijLHChv5.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/pvrOjXtuijLHChv5.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/pvrOjXtuijLHChv5.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/pvrOjXtuijLHChv5.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/pvrOjXtuijLHChv5.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/pvrOjXtuijLHChv5.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/pvrOjXtuijLHChv5.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/pvrOjXtuijLHChv5.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/pvrOjXtuijLHChv5.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/pvrOjXtuijLHChv5.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 182514,
+      "locale": "en",
+      "revisionid": 2105853,
+      "modified_date": 1744625780,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+To+Service+Your+Hair+Dryer/182514",
+      "type": "disassembly",
+      "category": "Hair Dryer",
+      "subject": "General Maintenance",
+      "title": "How To Service Your Hair Dryer",
+      "summary": "Use this guide to safely disassemble, clean,...",
+      "difficulty": "Moderate",
+      "time_required_max": 1200,
+      "public": true,
+      "userid": 4635348,
+      "username": "Ula Gantar",
+      "flags": [
+        "GUIDE_MISSING_IMAGES",
+        "GUIDE_USER_CONTRIBUTED"
+      ],
+      "image": {
+        "id": 3564150,
+        "guid": "bfSZY2fgXaXLjbfg",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bfSZY2fgXaXLjbfg.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bfSZY2fgXaXLjbfg.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bfSZY2fgXaXLjbfg.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bfSZY2fgXaXLjbfg.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bfSZY2fgXaXLjbfg.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bfSZY2fgXaXLjbfg.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bfSZY2fgXaXLjbfg.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bfSZY2fgXaXLjbfg.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bfSZY2fgXaXLjbfg.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 11261,
+      "locale": "en",
+      "revisionid": 1264861,
+      "modified_date": 1726324031,
+      "prereq_modified_date": 1726319579,
+      "url": "https://www.ifixit.com/Guide/Hair+Dryer+Grating+Replacement/11261",
+      "type": "replacement",
+      "category": "Hair Dryer",
+      "subject": "Grating",
+      "title": "Hair Dryer Grating Replacement",
+      "summary": "",
+      "difficulty": "Moderate",
+      "time_required_max": 0,
+      "public": true,
+      "userid": 517803,
+      "username": "Mitch",
+      "flags": [
+        "INTRODUCTION_ISSUES",
+        "NO_DETAILS"
+      ],
+      "image": {
+        "id": 200639,
+        "guid": "JgXaxsRIaa5IXcZY",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/JgXaxsRIaa5IXcZY.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/JgXaxsRIaa5IXcZY.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/JgXaxsRIaa5IXcZY.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/JgXaxsRIaa5IXcZY.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/JgXaxsRIaa5IXcZY.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/JgXaxsRIaa5IXcZY.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/JgXaxsRIaa5IXcZY.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/JgXaxsRIaa5IXcZY.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/JgXaxsRIaa5IXcZY.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/JgXaxsRIaa5IXcZY.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 11257,
+      "locale": "en",
+      "revisionid": 1895622,
+      "modified_date": 1704404454,
+      "prereq_modified_date": 1686684530,
+      "url": "https://www.ifixit.com/Guide/Hair+Dryer+Heating+Element+Replacement/11257",
+      "type": "replacement",
+      "category": "Hair Dryer",
+      "subject": "Heating Element",
+      "title": "Hair Dryer Heating Element Replacement",
+      "summary": "Is your hair dryer only blowing cold air? You...",
+      "difficulty": "Moderate",
+      "time_required_max": 7200,
+      "public": true,
+      "userid": 517803,
+      "username": "Mitch",
+      "flags": [
+        "GUIDE_SPLIT_PREREQ"
+      ],
+      "image": {
+        "id": 200644,
+        "guid": "yhMUhkBVt3gVClCT",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yhMUhkBVt3gVClCT.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yhMUhkBVt3gVClCT.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yhMUhkBVt3gVClCT.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yhMUhkBVt3gVClCT.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yhMUhkBVt3gVClCT.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yhMUhkBVt3gVClCT.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yhMUhkBVt3gVClCT.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yhMUhkBVt3gVClCT.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/yhMUhkBVt3gVClCT.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yhMUhkBVt3gVClCT.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 145194,
+      "locale": "en",
+      "revisionid": 1681515,
+      "modified_date": 1726242430,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Laila+Ali+Ionic+Soft+Bonnet+Dryer+LADR5604+Hose+Replacement/145194",
+      "type": "replacement",
+      "category": "Hair Dryer",
+      "subject": "Hose",
+      "title": "Laila Ali Ionic Soft Bonnet Dryer LADR5604 Hose Replacement",
+      "summary": "Use this guide to replace the hose on your...",
+      "difficulty": "Easy",
+      "time_required_max": 2700,
+      "public": true,
+      "userid": 4029855,
+      "username": "Paige Guillory",
+      "flags": [
+        "GUIDE_FEATURED_STUDENT"
+      ],
+      "image": {
+        "id": 2488974,
+        "guid": "y4lbqL6xDnRGiNcH",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/y4lbqL6xDnRGiNcH.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 213289,
+      "locale": "en",
+      "revisionid": 2345487,
+      "modified_date": 1782507436,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Conair+1875+Mesh+Filter+Replacement/213289",
+      "type": "replacement",
+      "category": "Hair Dryer",
+      "subject": "Mesh Filter",
+      "title": "Conair 1875 Mesh Filter Replacement",
+      "summary": "",
+      "difficulty": "Moderate",
+      "time_required_max": 0,
+      "public": true,
+      "userid": 5275816,
+      "username": "DEAN HELLMANN",
+      "flags": [
+        "GUIDE_GRAMMAR_ERRORS",
+        "GUIDE_INCORRECT_TEXT",
+        "INTRODUCTION_ISSUES",
+        "NO_DETAILS"
+      ],
+      "image": {
+        "id": 4352434,
+        "guid": "G4AOCPOJSaCVempi",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/G4AOCPOJSaCVempi.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/G4AOCPOJSaCVempi.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/G4AOCPOJSaCVempi.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/G4AOCPOJSaCVempi.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/G4AOCPOJSaCVempi.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/G4AOCPOJSaCVempi.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/G4AOCPOJSaCVempi.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/G4AOCPOJSaCVempi.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/G4AOCPOJSaCVempi.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/G4AOCPOJSaCVempi.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 11189,
+      "locale": "en",
+      "revisionid": 1852173,
+      "modified_date": 1726319579,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Hair+Dryer+Nozzle+Replacement/11189",
+      "type": "replacement",
+      "category": "Hair Dryer",
+      "subject": "Nozzle",
+      "title": "Hair Dryer Nozzle Replacement",
+      "summary": "",
+      "difficulty": "Moderate",
+      "time_required_max": 60,
+      "public": true,
+      "userid": 524385,
+      "username": "ben",
+      "flags": [
+        "INTRODUCTION_ISSUES"
+      ],
+      "image": {
+        "id": 200673,
+        "guid": "BETJ6p1wphiZq4OU",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/BETJ6p1wphiZq4OU.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/BETJ6p1wphiZq4OU.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/BETJ6p1wphiZq4OU.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/BETJ6p1wphiZq4OU.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/BETJ6p1wphiZq4OU.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/BETJ6p1wphiZq4OU.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/BETJ6p1wphiZq4OU.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/BETJ6p1wphiZq4OU.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/BETJ6p1wphiZq4OU.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/BETJ6p1wphiZq4OU.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 65189,
+      "locale": "en",
+      "revisionid": 1017208,
+      "modified_date": 1726322790,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Andis+1875-Watt+Fold-N-Go+Ionic+Hair+Dryer+Outer+Casing+Replacement/65189",
+      "type": "replacement",
+      "category": "Hair Dryer",
+      "subject": "Outer Casing",
+      "title": "Andis 1875-Watt Fold-N-Go Ionic Hair Dryer Outer Casing Replacement",
+      "summary": "No-one likes hot air coming from broken...",
+      "difficulty": "Moderate",
+      "time_required_max": 0,
+      "public": true,
+      "userid": 1637259,
+      "username": "Scott Havard",
+      "flags": [],
+      "image": {
+        "id": 892621,
+        "guid": "KNFBQTyVVTUKsDlF",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/KNFBQTyVVTUKsDlF.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/KNFBQTyVVTUKsDlF.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/KNFBQTyVVTUKsDlF.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/KNFBQTyVVTUKsDlF.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/KNFBQTyVVTUKsDlF.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/KNFBQTyVVTUKsDlF.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/KNFBQTyVVTUKsDlF.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/KNFBQTyVVTUKsDlF.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/KNFBQTyVVTUKsDlF.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/KNFBQTyVVTUKsDlF.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 11258,
+      "locale": "en",
+      "revisionid": 1986015,
+      "modified_date": 1736443134,
+      "prereq_modified_date": 1726324031,
+      "url": "https://www.ifixit.com/Guide/Hair+Dryer+Power+Supply+Replacement/11258",
+      "type": "replacement",
+      "category": "Hair Dryer",
+      "subject": "Power Supply",
+      "title": "Hair Dryer Power Supply Replacement",
+      "summary": "If the power supply of your hair dryer is...",
+      "difficulty": "Difficult",
+      "time_required_max": 3600,
+      "public": true,
+      "userid": 517803,
+      "username": "Mitch",
+      "flags": [
+        "GUIDE_SPLIT_PREREQ"
+      ],
+      "image": {
+        "id": 200688,
+        "guid": "HLFsDaDABToLuGyR",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/HLFsDaDABToLuGyR.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/HLFsDaDABToLuGyR.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/HLFsDaDABToLuGyR.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/HLFsDaDABToLuGyR.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/HLFsDaDABToLuGyR.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/HLFsDaDABToLuGyR.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/HLFsDaDABToLuGyR.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/HLFsDaDABToLuGyR.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/HLFsDaDABToLuGyR.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/HLFsDaDABToLuGyR.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 75364,
+      "locale": "en",
+      "revisionid": 1030686,
+      "modified_date": 1726323862,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/BaByliss-Expert+Plus+2000+Hairdryer+Thermal+Fuse++Replacement/75364",
+      "type": "replacement",
+      "category": "Hair Dryer",
+      "subject": "Thermal Fuse",
+      "title": "BaByliss-Expert Plus 2000 Hairdryer Thermal Fuse  Replacement",
+      "summary": "",
+      "difficulty": "Moderate",
+      "time_required_max": 1800,
+      "public": true,
+      "userid": 1818292,
+      "username": "Tiago",
+      "flags": [
+        "INTRODUCTION_ISSUES"
+      ],
+      "image": {
+        "id": 988717,
+        "guid": "IpMXN52sM2mEgKiJ",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/IpMXN52sM2mEgKiJ.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/IpMXN52sM2mEgKiJ.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/IpMXN52sM2mEgKiJ.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/IpMXN52sM2mEgKiJ.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/IpMXN52sM2mEgKiJ.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/IpMXN52sM2mEgKiJ.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/IpMXN52sM2mEgKiJ.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/IpMXN52sM2mEgKiJ.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/IpMXN52sM2mEgKiJ.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/IpMXN52sM2mEgKiJ.full"
+      }
+    }
+  ],
+  "related_wikis": [],
+  "solutions_url": "https://www.ifixit.com/Answers/Device/Hair_Dryer",
+  "parts": {
+    "url": "https://www.ifixit.com/en-ca/Parts/Hair_Dryer",
+    "categories": []
+  },
+  "tools": [
+    {
+      "title": "Narwhal 6-in-1 Driver",
+      "target_url": "https://www.ifixit.com/en-ca/products/narwhal-driver-standard",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/TYxXAEakvLjTuLxZ.mini",
+      "itemcode": "IF145-552-1"
+    },
+    {
+      "title": "Tweezers",
+      "target_url": "https://www.ifixit.com/en-ca/products/tweezers",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/eQGTt3iN1MmOAQDy.mini",
+      "itemcode": "IF145-020-4"
+    },
+    {
+      "title": "Tweezers",
+      "target_url": "https://www.ifixit.com/en-ca/products/tweezers?variant=46179083452613",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/dHWMTxibZKNbXnxu.mini",
+      "itemcode": "IF145-020-5"
+    },
+    {
+      "title": "Tweezers",
+      "target_url": "https://www.ifixit.com/en-ca/products/tweezers",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/eQGTt3iN1MmOAQDy.mini",
+      "itemcode": "IF145-020-4"
+    }
+  ],
+  "repairability_score": null,
+  "category_info": [],
+  "source_revisionid": null,
+  "diagrams": [],
+  "info": [
+    {
+      "name": "Device Category",
+      "value": "Household",
+      "inheritedFrom": "Household"
+    }
+  ],
+  "maintenance_schedule": {
+    "schedules": [],
+    "inheritedFrom": null,
+    "langid": "en"
+  }
+}

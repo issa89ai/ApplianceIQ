@@ -1,0 +1,792 @@
+{
+  "wikiid": 508854,
+  "langid": "en",
+  "namespace": "CATEGORY",
+  "title": "LG Dryer",
+  "revisionid": 1480045,
+  "contents_raw": "== Background ==\n\nLG Electronics was established in 1958 as GoldStar. The company first produced TVs and radios and eventually began to produce home appliances such as refrigerators, washing machines, and dryers. Today dryers are equipped with TurboSteam technology.\n\n== Identification ==\n\nThe model number can be found inside the dryer, around the drum. Common LG dryer models include the DLE3500W, DLEX3700W, and DLGX3701W.\n\n== Additional Information ==\n\n* [link|https://www.lg.com/us/support/help-library/find-my-lg-model-and-serial-number--20152254906058|LG Washing Machine Model Number Lookup]\n* [link|https://www.lg.com/us/support/manuals-documents|LG Owner's Manuals]\n* ***LG Customer Support Phone Number***: 1-800-243-0000",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Background"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "LG Electronics was established in 1958 as GoldStar. The company first produced TVs and radios and eventually began to produce home appliances such as refrigerators, washing machines, and dryers. Today dryers are equipped with TurboSteam technology."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Identification"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The model number can be found inside the dryer, around the drum. Common LG dryer models include the DLE3500W, DLEX3700W, and DLGX3701W."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Additional Information"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.lg.com/us/support/help-library/find-my-lg-model-and-serial-number--20152254906058",
+                          "target": false
+                        }
+                      }
+                    ],
+                    "text": "LG Washing Machine Model Number Lookup"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.lg.com/us/support/manuals-documents",
+                          "target": false
+                        }
+                      }
+                    ],
+                    "text": "LG Owner's Manuals"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "LG Customer Support Phone Number",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ": 1-800-243-0000"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "contents_rendered": "<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Background\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Background\" class=\"header\">Background</h2></div>\n\n<p>LG Electronics was established in 1958 as GoldStar. The company first produced TVs and radios and eventually began to produce home appliances such as refrigerators, washing machines, and dryers. Today dryers are equipped with TurboSteam technology.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Identification\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Identification\" class=\"header\">Identification</h2></div>\n\n<p>The model number can be found inside the dryer, around the drum. Common LG dryer models include the DLE3500W, DLEX3700W, and DLGX3701W.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Additional_Information\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Additional_Information\" class=\"header\">Additional Information</h2></div>\n\n<ul><li><a href=\"https://www.lg.com/us/support/help-library/find-my-lg-model-and-serial-number--20152254906058\" rel=\"nofollow noopener noreferrer\">LG Washing Machine Model Number Lookup</a></li><li><a href=\"https://www.lg.com/us/support/manuals-documents\" rel=\"nofollow noopener noreferrer\">LG Owner's Manuals</a></li><li><strong>LG Customer Support Phone Number</strong>: 1-800-243-0000</li></ul>",
+  "linked_wikis": [],
+  "can_edit": true,
+  "available_langids": [
+    "en",
+    "ru"
+  ],
+  "ancestors": [
+    {
+      "dataType": "wiki",
+      "wikiid": 15470,
+      "langid": "en",
+      "title": "Dryer",
+      "display_title": "Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Clothes dryer repair and support guides.",
+      "url": "https://www.ifixit.com/Device/Dryer",
+      "text": "Clothes dryer repair and support guides.",
+      "image": {
+        "id": 3076729,
+        "guid": "vgNFvy6MlKqgA14d",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.full"
+      },
+      "modified_date": 1708467455,
+      "author": 524640
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 1383,
+      "langid": "en",
+      "title": "Appliance",
+      "display_title": "Appliance",
+      "namespace": "CATEGORY",
+      "summary": "Comprehensive disassembly and installation guides for home appliances.",
+      "url": "https://www.ifixit.com/Device/Appliance",
+      "text": "Comprehensive disassembly and installation guides for home appliances.",
+      "image": {
+        "id": 3076640,
+        "guid": "yuk1YxQANOYorSCI",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.full"
+      },
+      "modified_date": 1785755929,
+      "author": 225663
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 11000,
+      "langid": "en",
+      "title": "Root",
+      "display_title": "Root",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Root",
+      "text": "Repair guides, manuals, and troubleshooting help for Root. Get everything you need to repair your Root yourself.",
+      "image": {
+        "id": 243440,
+        "guid": "bhofAWyrmGwRFlak",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.full"
+      },
+      "modified_date": 1705097689,
+      "author": 1
+    }
+  ],
+  "created_date": 1680898599,
+  "modified_date": 1784131726,
+  "is_troubleshooting": false,
+  "authors": [
+    {
+      "userid": 4026158,
+      "percent": 42.86,
+      "username": "Evan Gattuso",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/UiqiRwGMAZBCJonm.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4026158/Evan+Gattuso"
+    },
+    {
+      "userid": 1,
+      "percent": 28.57,
+      "username": "iRobot",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/AjiayMD6LWqf5FAL.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/1/iRobot"
+    },
+    {
+      "userid": 4152395,
+      "percent": 14.29,
+      "username": "Bill Gilbert",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/XF2HtcnjpXb4XA6l.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4152395/Bill+Gilbert"
+    },
+    {
+      "userid": 5350058,
+      "percent": 14.29,
+      "username": "Albert Einstein",
+      "avatar_url": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-8.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/5350058/Albert+Einstein"
+    }
+  ],
+  "tags": [],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": {
+    "id": 4603589,
+    "guid": "qJZbVKEPSQG3uPtZ",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.large",
+    "huge": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.huge",
+    "original": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.full"
+  },
+  "documents": [],
+  "author": 4026158,
+  "display_title": "LG Dryer",
+  "page_title": "LG Dryer Repair",
+  "description": "Repair information for LG dryers.",
+  "children": [
+    {
+      "dataType": "wiki",
+      "wikiid": 559616,
+      "langid": "en",
+      "title": "LG Dryer - DLE3",
+      "display_title": "LG Dryer - DLE3",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/LG_Dryer_-_DLE3",
+      "text": "Repair guides, manuals, and troubleshooting help for LG Dryer - DLE3. Get everything you need to repair your LG Dryer - DLE3 yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.medium"
+      },
+      "modified_date": 1768591995,
+      "author": 1117590
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 559617,
+      "langid": "en",
+      "title": "LG Dryer - DLEX",
+      "display_title": "LG Dryer - DLEX",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/LG_Dryer_-_DLEX",
+      "text": "Repair guides, manuals, and troubleshooting help for LG Dryer - DLEX. Get everything you need to repair your LG Dryer - DLEX yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.medium"
+      },
+      "modified_date": 1714679120,
+      "author": 1117590
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 559618,
+      "langid": "en",
+      "title": "LG Dryer - DLG3",
+      "display_title": "LG Dryer - DLG3",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/LG_Dryer_-_DLG3",
+      "text": "Repair guides, manuals, and troubleshooting help for LG Dryer - DLG3. Get everything you need to repair your LG Dryer - DLG3 yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.medium"
+      },
+      "modified_date": 1714679127,
+      "author": 1117590
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 559619,
+      "langid": "en",
+      "title": "LG Dryer - DLGX3",
+      "display_title": "LG Dryer - DLGX3",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/LG_Dryer_-_DLGX3",
+      "text": "Repair guides, manuals, and troubleshooting help for LG Dryer - DLGX3. Get everything you need to repair your LG Dryer - DLGX3 yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.medium"
+      },
+      "modified_date": 1714679133,
+      "author": 1117590
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 559620,
+      "langid": "en",
+      "title": "LG Dryer - DLGX4",
+      "display_title": "LG Dryer - DLGX4",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/LG_Dryer_-_DLGX4",
+      "text": "Repair guides, manuals, and troubleshooting help for LG Dryer - DLGX4. Get everything you need to repair your LG Dryer - DLGX4 yourself.",
+      "image": {
+        "mini": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.thumbnail",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.standard",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/qJZbVKEPSQG3uPtZ.medium"
+      },
+      "modified_date": 1714679139,
+      "author": 1117590
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 431766,
+      "langid": "en",
+      "title": "LG TrueSteam",
+      "display_title": "LG TrueSteam",
+      "namespace": "CATEGORY",
+      "summary": "Repair and service information for the LG TrueSteam clothes dryer. Model numbers DLEX3570V, WM3670HRA, and DLEX3570W for graphite, red, and white colors respectively.",
+      "url": "https://www.ifixit.com/Device/LG_TrueSteam",
+      "text": "Repair and service information for the LG TrueSteam clothes dryer. Model numbers DLEX3570V, WM3670HRA, and DLEX3570W for graphite, red, and white colors respectively.",
+      "image": {
+        "id": 2179581,
+        "guid": "nRdIxgMQZosSfvZE",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/nRdIxgMQZosSfvZE.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/nRdIxgMQZosSfvZE.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/nRdIxgMQZosSfvZE.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/nRdIxgMQZosSfvZE.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/nRdIxgMQZosSfvZE.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/nRdIxgMQZosSfvZE.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/nRdIxgMQZosSfvZE.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/nRdIxgMQZosSfvZE.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/nRdIxgMQZosSfvZE.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/nRdIxgMQZosSfvZE.full"
+      },
+      "modified_date": 1711402086,
+      "author": 2989538
+    }
+  ],
+  "category_lists": {},
+  "featured_guides": [],
+  "guides": [
+    {
+      "dataType": "guide",
+      "guideid": 207395,
+      "locale": "en",
+      "revisionid": 2333165,
+      "modified_date": 1784336280,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Troubleshoot+a+Noisy+LG+Dryer/207395",
+      "type": "technique",
+      "category": "LG Dryer",
+      "subject": "",
+      "title": "How to Troubleshoot a Noisy LG Dryer",
+      "summary": "If an LG dryer is squealing, thumping, or...",
+      "difficulty": "Moderate",
+      "time_required_max": 10800,
+      "public": true,
+      "userid": 4642420,
+      "username": "Ben Schlichter",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4005177,
+        "guid": "uZxu66CkSSvNtkMt",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/uZxu66CkSSvNtkMt.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/uZxu66CkSSvNtkMt.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/uZxu66CkSSvNtkMt.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/uZxu66CkSSvNtkMt.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/uZxu66CkSSvNtkMt.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/uZxu66CkSSvNtkMt.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/uZxu66CkSSvNtkMt.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/uZxu66CkSSvNtkMt.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/uZxu66CkSSvNtkMt.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 207396,
+      "locale": "en",
+      "revisionid": 2328111,
+      "modified_date": 1784336273,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Troubleshoot+an+LG+Dryer+That+Won't+Heat/207396",
+      "type": "technique",
+      "category": "LG Dryer",
+      "subject": "",
+      "title": "How to Troubleshoot an LG Dryer That Won't Heat",
+      "summary": "If an LG dryer runs but doesn't heat, the...",
+      "difficulty": "Moderate",
+      "time_required_max": 10800,
+      "public": true,
+      "userid": 4642420,
+      "username": "Ben Schlichter",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4005180,
+        "guid": "jdbPldKWhssiRCVL",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/jdbPldKWhssiRCVL.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/jdbPldKWhssiRCVL.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/jdbPldKWhssiRCVL.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/jdbPldKWhssiRCVL.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/jdbPldKWhssiRCVL.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/jdbPldKWhssiRCVL.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/jdbPldKWhssiRCVL.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/jdbPldKWhssiRCVL.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/jdbPldKWhssiRCVL.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 207447,
+      "locale": "en",
+      "revisionid": 2326450,
+      "modified_date": 1784336251,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/LG+Heat-Pump+Dryer+Maintenance/207447",
+      "type": "technique",
+      "category": "LG Dryer",
+      "subject": "",
+      "title": "LG Heat-Pump Dryer Maintenance",
+      "summary": "Routine maintenance on an LG heat-pump dryer...",
+      "difficulty": "Moderate",
+      "time_required_max": 5400,
+      "public": true,
+      "userid": 4642420,
+      "username": "Ben Schlichter",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4005981,
+        "guid": "MGLBLICImRNBg2j1",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/MGLBLICImRNBg2j1.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/MGLBLICImRNBg2j1.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/MGLBLICImRNBg2j1.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/MGLBLICImRNBg2j1.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/MGLBLICImRNBg2j1.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/MGLBLICImRNBg2j1.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/MGLBLICImRNBg2j1.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/MGLBLICImRNBg2j1.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/MGLBLICImRNBg2j1.full"
+      }
+    }
+  ],
+  "related_wikis": [
+    {
+      "dataType": "wiki",
+      "wikiid": 519241,
+      "langid": "en",
+      "title": "LG Dryer D80 Code",
+      "display_title": "LG Dryer D80 Code",
+      "namespace": "WIKI",
+      "summary": "Your LG Dryer is showing a D80 or d80 code. Not to worry, it is a safety feature and the fixes to clear the code are very straightforward.",
+      "url": "https://www.ifixit.com/Troubleshooting/LG_Dryer/D80+Code/519241",
+      "text": "Your LG Dryer is showing a D80 or d80 code. Not to worry, it is a safety feature and the fixes to clear the code are very straightforward.",
+      "image": {
+        "id": 2961940,
+        "guid": "ePJaN6ITj3144rVj",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/ePJaN6ITj3144rVj.full"
+      },
+      "modified_date": 1692832077,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479830,
+      "langid": "en",
+      "title": "Gas Dryer Not Heating",
+      "display_title": "Gas Dryer Not Heating",
+      "namespace": "WIKI",
+      "summary": "Is your gas dryer spinning, turning on, or starting loads, but not heating up? Does the dryer complete, but your clothes are still wet? Try these fixes!",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Gas+Dryer+Not+Heating/479830",
+      "text": "Is your gas dryer spinning, turning on, or starting loads, but not heating up? Does the dryer complete, but your clothes are still wet? Try these fixes!",
+      "image": {
+        "id": 2716602,
+        "guid": "VGKaBMGIubKTY1kw",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.full"
+      },
+      "modified_date": 1714092623,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 478855,
+      "langid": "en",
+      "title": "Dryer Will Not Start",
+      "display_title": "Dryer Won't Start",
+      "namespace": "WIKI",
+      "summary": "Your clothes dryer is unresponsive, and will not turn on.  Seems to be dead, but may show some signs of life.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Will+Not+Start/478855",
+      "text": "Your clothes dryer is unresponsive, and will not turn on.  Seems to be dead, but may show some signs of life.",
+      "image": {
+        "id": 2693874,
+        "guid": "OCUUOdJ6ZwUtO2cp",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.full"
+      },
+      "modified_date": 1743020256,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479829,
+      "langid": "en",
+      "title": "Electric Dryer Not Heating",
+      "display_title": "Electric Dryer Not Heating",
+      "namespace": "WIKI",
+      "summary": "Your electric dryer isn't heating up.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Electric+Dryer+Not+Heating/479829",
+      "text": "Your electric dryer isn't heating up.",
+      "image": {
+        "id": 2716585,
+        "guid": "LDYDFtHGccaQOYsp",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.full"
+      },
+      "modified_date": 1743020717,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 478872,
+      "langid": "en",
+      "title": "Dryer Not Spinning",
+      "display_title": "Dryer Not Spinning",
+      "namespace": "WIKI",
+      "summary": "Your dryer shows some life, but won't spin or tumble the clothes. It's not turning, though there may be a humming sound.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Not+Spinning/478872",
+      "text": "Your dryer shows some life, but won't spin or tumble the clothes. It's not turning, though there may be a humming sound.",
+      "image": {
+        "id": 2693874,
+        "guid": "OCUUOdJ6ZwUtO2cp",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.full"
+      },
+      "modified_date": 1681151096,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479415,
+      "langid": "en",
+      "title": "Dryer Making Loud Noise",
+      "display_title": "Dryer Making Loud Noise",
+      "namespace": "WIKI",
+      "summary": "Is your dryer grinding, thumping, rattling or rumbling, or a combination of these?",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Making+Loud+Noise/479415",
+      "text": "Is your dryer grinding, thumping, rattling or rumbling, or a combination of these?",
+      "image": {
+        "id": 2710140,
+        "guid": "GNVTZxbAFWokVdOY",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.full"
+      },
+      "modified_date": 1681150703,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479708,
+      "langid": "en",
+      "title": "Dryer Smells Like Gas",
+      "display_title": "Dryer Smells Like Gas",
+      "namespace": "WIKI",
+      "summary": "Your dryer smells like it is leaking gas.  The odor may be especially strong when you open the door on the dryer.  Here are some steps to take to figure out what's wrong.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Smells+Like+Gas/479708",
+      "text": "Your dryer smells like it is leaking gas.  The odor may be especially strong when you open the door on the dryer.  Here are some steps to take to figure out what's wrong.",
+      "image": {
+        "id": 2711704,
+        "guid": "Q4IuO4TmGOHKqP6m",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.full"
+      },
+      "modified_date": 1702948546,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 478885,
+      "langid": "en",
+      "title": "Dryer Not Heating",
+      "display_title": "Dryer Not Heating",
+      "namespace": "WIKI",
+      "summary": "Your dryer spins, but is not heating up to dry the clothes.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Not+Heating/478885",
+      "text": "Your dryer spins, but is not heating up to dry the clothes.",
+      "image": {
+        "id": 2701897,
+        "guid": "SWLL2GOVWbyUxQWY",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.full"
+      },
+      "modified_date": 1681160581,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479298,
+      "langid": "en",
+      "title": "Dryer Maintenance",
+      "display_title": "Dryer Maintenance",
+      "namespace": "WIKI",
+      "summary": "Procedures for maintaining your dryer to keep it operating well.",
+      "url": "https://www.ifixit.com/Wiki/Dryer_Maintenance",
+      "text": "Procedures for maintaining your dryer to keep it operating well.",
+      "image": {
+        "id": 2706431,
+        "guid": "xSbBkkoDauPvyOrb",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.full"
+      },
+      "modified_date": 1692405485,
+      "author": 4152395
+    }
+  ],
+  "solutions_url": "https://www.ifixit.com/Answers/Device/LG_Dryer",
+  "parts": {
+    "url": "https://www.ifixit.com/en-ca/Parts/LG_Dryer",
+    "categories": []
+  },
+  "tools": [
+    {
+      "title": "Digital Multimeter",
+      "target_url": "https://www.ifixit.com/en-ca/products/digital-multimeter",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/dHrHd34jgh4d6OTs.mini",
+      "itemcode": "IF145-035-8"
+    }
+  ],
+  "repairability_score": null,
+  "category_info": [],
+  "source_revisionid": null,
+  "diagrams": [],
+  "info": [
+    {
+      "name": "Device Category",
+      "value": "Appliance",
+      "inheritedFrom": "Appliance"
+    }
+  ],
+  "maintenance_schedule": {
+    "schedules": [],
+    "inheritedFrom": null,
+    "langid": "en"
+  }
+}

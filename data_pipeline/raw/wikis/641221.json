@@ -1,0 +1,47 @@
+{
+  "wikiid": 641221,
+  "langid": "en",
+  "namespace": "ITEM",
+  "title": "Dryer noise repair kit",
+  "revisionid": 1435981,
+  "contents_raw": "",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": []
+      }
+    ]
+  },
+  "contents_rendered": "",
+  "linked_wikis": [],
+  "can_edit": true,
+  "available_langids": [
+    "en"
+  ],
+  "ancestors": [],
+  "created_date": 1770931762,
+  "modified_date": 1770931762,
+  "is_troubleshooting": false,
+  "authors": [
+    {
+      "userid": 4026158,
+      "percent": 100,
+      "username": "Evan Gattuso",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/UiqiRwGMAZBCJonm.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4026158/Evan+Gattuso"
+    }
+  ],
+  "tags": [],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": null,
+  "documents": [],
+  "author": 4026158,
+  "display_title": "Dryer noise repair kit",
+  "description": "",
+  "suppliers": [],
+  "source_revisionid": null,
+  "info": []
+}

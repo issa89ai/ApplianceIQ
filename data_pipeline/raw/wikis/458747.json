@@ -1,0 +1,61 @@
+{
+  "wikiid": 458747,
+  "langid": "en",
+  "namespace": "ITEM",
+  "title": "Dryer sheets",
+  "revisionid": 937462,
+  "contents_raw": "",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": []
+      }
+    ]
+  },
+  "contents_rendered": "",
+  "linked_wikis": [],
+  "can_edit": true,
+  "available_langids": [
+    "en"
+  ],
+  "ancestors": [],
+  "created_date": 1633461080,
+  "modified_date": 1639435111,
+  "is_troubleshooting": false,
+  "authors": [
+    {
+      "userid": 4027523,
+      "percent": 50,
+      "username": "Jerome Amegbeto",
+      "avatar_url": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-5.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4027523/Jerome+Amegbeto"
+    },
+    {
+      "userid": 1020837,
+      "percent": 50,
+      "username": "Kristen Gismondi",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/pfySb4UP4HQwgp6h.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/1020837/Kristen+Gismondi"
+    }
+  ],
+  "tags": [],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": null,
+  "documents": [],
+  "author": 4027523,
+  "display_title": "Dryer Sheets",
+  "description": "Leaves a fresh scent on clothes when put in the dryer.",
+  "suppliers": [
+    {
+      "type": "",
+      "part_#": "",
+      "supplier": "Amazon",
+      "url": "https://www.amazon.com/Gain-Dryer-Sheets-Original-Packaging/dp/B00WE2GD4O/ref=sr_1_9?keywords=dryer+sheets&qid=1639435043&rdc=1&s=hpc&sr=1-9"
+    }
+  ],
+  "source_revisionid": null,
+  "info": []
+}

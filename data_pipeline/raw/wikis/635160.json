@@ -1,0 +1,54 @@
+{
+  "wikiid": 635160,
+  "langid": "en",
+  "namespace": "ITEM",
+  "title": "Dryer wheel drum roller assembly",
+  "revisionid": 1412269,
+  "contents_raw": "",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": []
+      }
+    ]
+  },
+  "contents_rendered": "",
+  "linked_wikis": [],
+  "can_edit": true,
+  "available_langids": [
+    "en"
+  ],
+  "ancestors": [],
+  "created_date": 1762368668,
+  "modified_date": 1762368668,
+  "is_troubleshooting": false,
+  "authors": [
+    {
+      "userid": 4890976,
+      "percent": 100,
+      "username": "Kim",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/Qg1lhMDg36TQXoHL.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4890976/Kim"
+    }
+  ],
+  "tags": [],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": null,
+  "documents": [],
+  "author": 4890976,
+  "display_title": "Dryer wheel drum roller assembly",
+  "description": "Drum roller kit",
+  "suppliers": [
+    {
+      "type": "",
+      "part_#": "",
+      "supplier": "",
+      "url": "https://www.partselect.com/adlander/PS373088-Whirlpool-4392067-Dryer-Repair-Kit.htm?gad_source=1&gad_campaignid=21971150580&gbraid=0AAAAADNFHWnUV7nogvjIEyvdozEWgtE0b&gclid=Cj0KCQjwsPzHBhDCARIsALlWNG3OD2F2Bva6KUxik60uSCGbs3ilc0aBQrAg-xliczrJ8LrYozhwkz8aAhOXEALw_wcB"
+    }
+  ],
+  "source_revisionid": null,
+  "info": []
+}

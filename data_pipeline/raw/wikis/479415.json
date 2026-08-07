@@ -1,0 +1,966 @@
+{
+  "wikiid": 479415,
+  "langid": "en",
+  "namespace": "WIKI",
+  "title": "Dryer Making Loud Noise",
+  "revisionid": 1036387,
+  "contents_raw": "Here we look into the causes for the various noises.  If your dryer is squeaking you might want to check out our [[Dryer Squeaking|Dryer Squeaking|new_window=true]] page. Since you may think of a noise differently than the descriptions below, it's a good idea to go through them all.  As you're checking, spinning the drum by hand, and carefully listening can be very helpful.\n\n[comment]solutions[/comment]\n\n== Grinding Noises ==\n\nGrinding noises are likely the most alarming.  Grinding means metal is touching metal or a bearing has failed.\n\n* Likely culprits include the the drum glides, the felt seal, the drum support rollers and the drum bearing.\n* The location of the sound can help you to know what to check first.\n* To start, run through [[Dryer Squeaking#Section_Try_to_Locate_the_Noise|this test set|new_window=true]] on the [[Dryer Squeaking|Dryer Squeaking|new_window=true]] page to locate the sound and start the checks.\n* Follow the steps on the Dryer Squeaking page according to noise location, and check each item.\n* Grinding noises are important to fix as they can lead to motor overheating  and burnout because of the increased friction.\n* Check the items in [[Dryer Making Loud Noise#Section_Rumbling_Noises|Rumbling Noises|new_window=true]] as well.\n\n== Thumping or Banging Noises ==\n\nThumping noises likely indicate a shifting part or uneven wear.  Some causes include:\n\n* A loose drum baffle or lifter.  It's the part inside the dryer that makes your clothes tumble.  (Sound this part makes when loose can vary)\n* A worn spot on the drive belt (a rhythmic sound that repeats about once each revolution of the drum).\n* A flat spot on a drum roller (a steady rapid thump).\n* A worn out drum roller or rollers. These bang and thump and even grind, and can sound like a pair of boots in the dryer. If you find one bad, replace all of them since they can just fail one after another.\n* A worn out drum roller axle.\n* To check the drum baffles or lifters you will want to reach inside the dryer drum and try to shake each one.  Some may be made as part of the drum, but they are often plastic or metal attachments that can come loose. Tighten them or replace the fasteners if lost.\n* Check each of the other listed parts, and make sure to do them all, there might be more than one problem. The [[Dryer Squeaking|dryer squeaking|new_window=true]] page will have helpful information on how to do this.\n\n== Rattling Noises ==\n\nLoose parts or loose pulleys can contribute to rattling noises.\n\n* Check the motor drive pulley; the sound will be heard best when the machine is running.\n* Check the idler pulley, especially the type that uses a leaf spring.\n* Coins or screws can get loose in the drum and make a racket.  They can sometimes get under the dryer baffles (hollow plastic ones especially) and act like giant rattles.\n* A loose door latch can allow the door to rattle, as can a worn door gasket.\n* Parts of the cabinet or housing can be hit so that they come loose and will rattle.  The tops and control consoles of many machines are held on by spring clips that can be loosened this way.  Some people actually release them this way.\n* Check that the motor mountings fasteners are tight.\n\n== Rumbling Noises ==\n\n* One cause of such is frequently the blower wheel with debris in it.\n* The blower wheel  may be contacting the blower housing.  Check it at the same time, it may have come loose\n* The motor mountings could also be loose.\n* If you haven't already done so, check the items in the [[Dryer Making Loud Noise#Section_Grinding_Noises|Grinding Noises|new_window=true]] section, especially drum rollers.\n\n[comment]conclusion[/comment]\n\n== Related Pages ==\n\n[[Dryer Will Not Start|Dryer Won't Start|new_window=true]]\n\n[[Dryer Not Spinning|Dryer Not Spinning|new_window=true]]\n\n[[Dryer Not Heating|Dryer Not Heating|new_window=true]]\n\n[[Dryer Squeaking|Dryer Squeaking|new_window=true]]\n\n[[Gas Dryer Overheating|Gas Dryer Overheating|new_window=true]]\n\n[[Electric Dryer Overheating|Electric Dryer Overheating|new_window=true]]\n\n[[Dryer Stops Mid Cycle|Dryer Stops Mid Cycle|new_window=true]]\n\n[[Dryer Maintenance|Dryer Maintenance|new_window=true]]\n\n== Additional Information ==\n\n[post|543152|Noisy Dryer - Drum Rollers|new_window=true]\n\n[link|https://www.davesmithappliance.com/ge-dryer-making-noise/|GE Dryer Noises]",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Here we look into the causes for the various noises.  If your dryer is squeaking you might want to check out our "
+          },
+          {
+            "type": "text",
+            "text": "Dryer Squeaking",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Squeaking",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Squeaking/479208"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " page. Since you may think of a noise differently than the descriptions below, it's a good idea to go through them all.  As you're checking, spinning the drum by hand, and carefully listening can be very helpful."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]solutions[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Grinding Noises"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Grinding noises are likely the most alarming.  Grinding means metal is touching metal or a bearing has failed."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Likely culprits include the the drum glides, the felt seal, the drum support rollers and the drum bearing."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The location of the sound can help you to know what to check first."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "To start, run through "
+                  },
+                  {
+                    "type": "text",
+                    "text": "this test set",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Dryer Squeaking#Section_Try_to_Locate_the_Noise",
+                          "tag": null,
+                          "newWindow": true,
+                          "href": "/Troubleshooting/Dryer/Squeaking/479208#Section_Try_to_Locate_the_Noise"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " on the "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Dryer Squeaking",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Dryer Squeaking",
+                          "tag": null,
+                          "newWindow": true,
+                          "href": "/Troubleshooting/Dryer/Squeaking/479208"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " page to locate the sound and start the checks."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Follow the steps on the Dryer Squeaking page according to noise location, and check each item."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Grinding noises are important to fix as they can lead to motor overheating  and burnout because of the increased friction."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Check the items in "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Rumbling Noises",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Dryer Making Loud Noise#Section_Rumbling_Noises",
+                          "tag": null,
+                          "newWindow": true,
+                          "href": "/Troubleshooting/Dryer/Making+Loud+Noise/479415#Section_Rumbling_Noises"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " as well."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Thumping or Banging Noises"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Thumping noises likely indicate a shifting part or uneven wear.  Some causes include:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A loose drum baffle or lifter.  It's the part inside the dryer that makes your clothes tumble.  (Sound this part makes when loose can vary)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A worn spot on the drive belt (a rhythmic sound that repeats about once each revolution of the drum)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A flat spot on a drum roller (a steady rapid thump)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A worn out drum roller or rollers. These bang and thump and even grind, and can sound like a pair of boots in the dryer. If you find one bad, replace all of them since they can just fail one after another."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A worn out drum roller axle."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "To check the drum baffles or lifters you will want to reach inside the dryer drum and try to shake each one.  Some may be made as part of the drum, but they are often plastic or metal attachments that can come loose. Tighten them or replace the fasteners if lost."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Check each of the other listed parts, and make sure to do them all, there might be more than one problem. The "
+                  },
+                  {
+                    "type": "text",
+                    "text": "dryer squeaking",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Dryer Squeaking",
+                          "tag": null,
+                          "newWindow": true,
+                          "href": "/Troubleshooting/Dryer/Squeaking/479208"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " page will have helpful information on how to do this."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Rattling Noises"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Loose parts or loose pulleys can contribute to rattling noises."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Check the motor drive pulley; the sound will be heard best when the machine is running."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Check the idler pulley, especially the type that uses a leaf spring."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Coins or screws can get loose in the drum and make a racket.  They can sometimes get under the dryer baffles (hollow plastic ones especially) and act like giant rattles."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A loose door latch can allow the door to rattle, as can a worn door gasket."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Parts of the cabinet or housing can be hit so that they come loose and will rattle.  The tops and control consoles of many machines are held on by spring clips that can be loosened this way.  Some people actually release them this way."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Check that the motor mountings fasteners are tight."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Rumbling Noises"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "One cause of such is frequently the blower wheel with debris in it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The blower wheel  may be contacting the blower housing.  Check it at the same time, it may have come loose"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The motor mountings could also be loose."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you haven't already done so, check the items in the "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Grinding Noises",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Dryer Making Loud Noise#Section_Grinding_Noises",
+                          "tag": null,
+                          "newWindow": true,
+                          "href": "/Troubleshooting/Dryer/Making+Loud+Noise/479415#Section_Grinding_Noises"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " section, especially drum rollers."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]conclusion[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Related Pages"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Won't Start",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Will Not Start",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Will+Not+Start/478855"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Not Spinning",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Not Spinning",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Not+Spinning/478872"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Not Heating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Not Heating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Not+Heating/478885"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Squeaking",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Squeaking",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Squeaking/479208"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Gas Dryer Overheating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Gas Dryer Overheating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Electric Dryer Overheating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Electric Dryer Overheating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Stops Mid Cycle",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Stops Mid Cycle",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Stops+Mid+Cycle/479370"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Maintenance",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Maintenance",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Wiki/Dryer_Maintenance"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Additional Information"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[post|543152|Noisy Dryer - Drum Rollers|new_window=true]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.davesmithappliance.com/ge-dryer-making-noise/",
+                  "target": false
+                }
+              }
+            ],
+            "text": "GE Dryer Noises"
+          }
+        ]
+      }
+    ]
+  },
+  "contents_rendered": "<p>Here we look into the causes for the various noises.  If your dryer is squeaking you might want to check out our <a href=\"/Troubleshooting/Dryer/Squeaking/479208\" target=\"_blank\">Dryer Squeaking</a> page. Since you may think of a noise differently than the descriptions below, it's a good idea to go through them all.  As you're checking, spinning the drum by hand, and carefully listening can be very helpful.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Grinding_Noises\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Grinding_Noises\" class=\"header\">Grinding Noises</h2></div>\n\n<p>Grinding noises are likely the most alarming.  Grinding means metal is touching metal or a bearing has failed.</p>\n\n<ul><li>Likely culprits include the the drum glides, the felt seal, the drum support rollers and the drum bearing.</li><li>The location of the sound can help you to know what to check first.</li><li>To start, run through <a href=\"/Troubleshooting/Dryer/Squeaking/479208#Section_Try_to_Locate_the_Noise\" target=\"_blank\">this test set</a> on the <a href=\"/Troubleshooting/Dryer/Squeaking/479208\" target=\"_blank\">Dryer Squeaking</a> page to locate the sound and start the checks.</li><li>Follow the steps on the Dryer Squeaking page according to noise location, and check each item.</li><li>Grinding noises are important to fix as they can lead to motor overheating  and burnout because of the increased friction.</li><li>Check the items in <a href=\"/Troubleshooting/Dryer/Making+Loud+Noise/479415#Section_Rumbling_Noises\" target=\"_blank\">Rumbling Noises</a> as well.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Thumping_or_Banging_Noises\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Thumping_or_Banging_Noises\" class=\"header\">Thumping or Banging Noises</h2></div>\n\n<p>Thumping noises likely indicate a shifting part or uneven wear.  Some causes include:</p>\n\n<ul><li>A loose drum baffle or lifter.  It's the part inside the dryer that makes your clothes tumble.  (Sound this part makes when loose can vary)</li><li>A worn spot on the drive belt (a rhythmic sound that repeats about once each revolution of the drum).</li><li>A flat spot on a drum roller (a steady rapid thump).</li><li>A worn out drum roller or rollers. These bang and thump and even grind, and can sound like a pair of boots in the dryer. If you find one bad, replace all of them since they can just fail one after another.</li><li>A worn out drum roller axle.</li><li>To check the drum baffles or lifters you will want to reach inside the dryer drum and try to shake each one.  Some may be made as part of the drum, but they are often plastic or metal attachments that can come loose. Tighten them or replace the fasteners if lost.</li><li>Check each of the other listed parts, and make sure to do them all, there might be more than one problem. The <a href=\"/Troubleshooting/Dryer/Squeaking/479208\" target=\"_blank\">dryer squeaking</a> page will have helpful information on how to do this.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Rattling_Noises\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Rattling_Noises\" class=\"header\">Rattling Noises</h2></div>\n\n<p>Loose parts or loose pulleys can contribute to rattling noises.</p>\n\n<ul><li>Check the motor drive pulley; the sound will be heard best when the machine is running.</li><li>Check the idler pulley, especially the type that uses a leaf spring.</li><li>Coins or screws can get loose in the drum and make a racket.  They can sometimes get under the dryer baffles (hollow plastic ones especially) and act like giant rattles.</li><li>A loose door latch can allow the door to rattle, as can a worn door gasket.</li><li>Parts of the cabinet or housing can be hit so that they come loose and will rattle.  The tops and control consoles of many machines are held on by spring clips that can be loosened this way.  Some people actually release them this way.</li><li>Check that the motor mountings fasteners are tight.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Rumbling_Noises\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Rumbling_Noises\" class=\"header\">Rumbling Noises</h2></div>\n\n<ul><li>One cause of such is frequently the blower wheel with debris in it.</li><li>The blower wheel  may be contacting the blower housing.  Check it at the same time, it may have come loose</li><li>The motor mountings could also be loose.</li><li>If you haven't already done so, check the items in the <a href=\"/Troubleshooting/Dryer/Making+Loud+Noise/479415#Section_Grinding_Noises\" target=\"_blank\">Grinding Noises</a> section, especially drum rollers.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Related_Pages\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Related_Pages\" class=\"header\">Related Pages</h2></div>\n\n<p><a href=\"/Troubleshooting/Dryer/Will+Not+Start/478855\" target=\"_blank\">Dryer Won't Start</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Not+Spinning/478872\" target=\"_blank\">Dryer Not Spinning</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Not+Heating/478885\" target=\"_blank\">Dryer Not Heating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Squeaking/479208\" target=\"_blank\">Dryer Squeaking</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355\" target=\"_blank\">Gas Dryer Overheating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356\" target=\"_blank\">Electric Dryer Overheating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Stops+Mid+Cycle/479370\" target=\"_blank\">Dryer Stops Mid Cycle</a></p>\n\n<p><a href=\"/Wiki/Dryer_Maintenance\" target=\"_blank\">Dryer Maintenance</a></p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Additional_Information\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Additional_Information\" class=\"header\">Additional Information</h2></div>\n\n<p><a href=\"/Answers/View/543152/Dryer+suddenly+very+noisy+and+vibrating-rumbling\" target=\"_blank\">Noisy Dryer - Drum Rollers</a></p>\n\n<p><a href=\"https://www.davesmithappliance.com/ge-dryer-making-noise/\" rel=\"nofollow noopener noreferrer\">GE Dryer Noises</a></p>",
+  "linked_wikis": [
+    {
+      "wikiid": 479208,
+      "namespace": "WIKI",
+      "title": "Dryer Squeaking"
+    },
+    {
+      "wikiid": 479415,
+      "namespace": "WIKI",
+      "title": "Dryer Making Loud Noise"
+    },
+    {
+      "wikiid": 478855,
+      "namespace": "WIKI",
+      "title": "Dryer Will Not Start"
+    },
+    {
+      "wikiid": 478872,
+      "namespace": "WIKI",
+      "title": "Dryer Not Spinning"
+    },
+    {
+      "wikiid": 478885,
+      "namespace": "WIKI",
+      "title": "Dryer Not Heating"
+    },
+    {
+      "wikiid": 479355,
+      "namespace": "WIKI",
+      "title": "Gas Dryer Overheating"
+    },
+    {
+      "wikiid": 479356,
+      "namespace": "WIKI",
+      "title": "Electric Dryer Overheating"
+    },
+    {
+      "wikiid": 479370,
+      "namespace": "WIKI",
+      "title": "Dryer Stops Mid Cycle"
+    },
+    {
+      "wikiid": 479298,
+      "namespace": "WIKI",
+      "title": "Dryer Maintenance"
+    }
+  ],
+  "can_edit": true,
+  "available_langids": [
+    "en",
+    "ru"
+  ],
+  "ancestors": [
+    {
+      "dataType": "wiki",
+      "wikiid": 15470,
+      "langid": "en",
+      "title": "Dryer",
+      "display_title": "Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Clothes dryer repair and support guides.",
+      "url": "https://www.ifixit.com/Device/Dryer",
+      "text": "Clothes dryer repair and support guides.",
+      "image": {
+        "id": 3076729,
+        "guid": "vgNFvy6MlKqgA14d",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.full"
+      },
+      "modified_date": 1708467455,
+      "author": 524640
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 1383,
+      "langid": "en",
+      "title": "Appliance",
+      "display_title": "Appliance",
+      "namespace": "CATEGORY",
+      "summary": "Comprehensive disassembly and installation guides for home appliances.",
+      "url": "https://www.ifixit.com/Device/Appliance",
+      "text": "Comprehensive disassembly and installation guides for home appliances.",
+      "image": {
+        "id": 3076640,
+        "guid": "yuk1YxQANOYorSCI",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.full"
+      },
+      "modified_date": 1785755929,
+      "author": 225663
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 11000,
+      "langid": "en",
+      "title": "Root",
+      "display_title": "Root",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Root",
+      "text": "Repair guides, manuals, and troubleshooting help for Root. Get everything you need to repair your Root yourself.",
+      "image": {
+        "id": 243440,
+        "guid": "bhofAWyrmGwRFlak",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.full"
+      },
+      "modified_date": 1705097689,
+      "author": 1
+    }
+  ],
+  "created_date": 1659382441,
+  "modified_date": 1681150703,
+  "is_troubleshooting": true,
+  "authors": [
+    {
+      "userid": 4152395,
+      "percent": 96.15,
+      "username": "Bill Gilbert",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/XF2HtcnjpXb4XA6l.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4152395/Bill+Gilbert"
+    },
+    {
+      "userid": 2989458,
+      "percent": 3.85,
+      "username": "Austin Blakely",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/U2yM4NVNHFvF3FV3.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/2989458/Austin+Blakely"
+    }
+  ],
+  "tags": [
+    "problem",
+    "problem-sound"
+  ],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": {
+    "id": 2710140,
+    "guid": "GNVTZxbAFWokVdOY",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.large",
+    "huge": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.huge",
+    "original": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.full"
+  },
+  "documents": [],
+  "author": 4152395,
+  "display_title": "Dryer Making Loud Noise",
+  "page_title": null,
+  "description": "Is your dryer grinding, thumping, rattling or rumbling, or a combination of these?",
+  "source_revisionid": null
+}

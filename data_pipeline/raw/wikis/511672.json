@@ -1,0 +1,2140 @@
+{
+  "wikiid": 511672,
+  "langid": "en",
+  "namespace": "WIKI",
+  "title": "Whirlpool Dryer Not Spinning",
+  "revisionid": 1070237,
+  "contents_raw": "Some initial considerations:\n\n* Is your Whirlpool dryer making noises, but not spinning when you try to start it?\n* Do the lights come on in the drum, but it won't spin?\n* When you try to start a cycle, can you hear the motor turn on, but all it does is hum smoothly?\n* Maybe you get a different hum and the drum turns slowly.\n* Maybe no motor sounds, but you hear the timer running.\n\nThis is the spot to walk through the causes for this situation.\n\n[comment]solutions[/comment]\n\n== Bad Door Switch ==\n\nSome dryers may show some signs of life, like lights, but won't spin when the start button is pressed. On older or simpler dryers, if the door switch goes bad, the dryer acts completely dead or you can just hear the timer motor. Sometimes your dryer will spin if you slam the door, but not otherwise.\n\nDoor switch problems are so common that we want to work hard checking them.\n\nWe check the door switch from outside the dryer first. You don\u2019t need to open the cabinet for these checks. Keep in mind, the door switch could be good, so these outside checks are just preliminary.\n\n* For door switches that don\u2019t have an external button or lever, a quick check is to try to operate the door switch button with a pencil or your finger, and listen for a click,\n* If you hear one, plug the dryer in and operate the switch again. See if the dryer starts.\n* You can try the switch button or lever by using your finger to see if you can get the dryer to start. ***++Be careful, the drum could start turning!++***\n\nIf it does start, you know the switch can work. And you know that your dryer can spin too, so the problem is the door switch system. Either the switch isn\u2019t working, or it\u2019s worn or loose, or the door has a problem.\n\n* Is your dryer door damaged or bent? Worn or bent hinges can make a door close improperly and not activate the switch. Repair or replace the hinges.\n* Has the switch come loose?\n** If it's tight, replace it, it's worn out and you know the dryer works otherwise.\n** If it wiggles or is loose, tighten it, then check it again with the door. If it doesn't work, replace it.\n* Some dryers have a small boss or probe that operates the door switch, if this is broken or bent it will not operate the switch. Replace the boss or probe.\n* Some dryers may also have a catch that just holds the door shut, but if it has partially lost its grip, the switch might not operate because the door doesn\u2019t stay closed enough.\n\nIf the door's ok, the switch may work, but be worn inside or have a broken operating lever so that the door isn\u2019t able to operate it anymore. This is especially true if you can get the dryer to start with your finger operating the switch, but not the door.\n\n* If there's no click, and it doesn't start, unplug the dryer. It's time to test the switch with a meter.\n** Disconnect one terminal on the switch.\n** Using a multimeter set to the continuity or Rx1 setting to check the switch.\n** When the switch is pushed it should show continuity. If it does you can try it one more time in the door. If possible, test continuity on the switch using the door to operate it, you may find the problem is wear as described above.\n** If it doesn't show continuity, replace it.\n* If it tests good, and closing the door to test it makes it show continuity, move on to the start switch.\n\n{table\n| [image|2956931|caption=Door Switch Testing-closed]\n| [image|2956932|caption=Door Switch Testing-open]\n}\n\n== Start Switch Failed ==\n\nUnplug the dryer. If you have a mechanical push button or knob to start the dryer, this is the one to check; if the start switch doesn't work, the dryer won't start.\n\n* You may be able to get to this switch in an upper console on the unit, and not have to open the whole dryer up.\n* Disconnect it from the machine (you probably don't have to remove it).\n* Test continuity when the switch is pushed as it is only a momentary contact.\n* If it doesn't show continuity when pressed (a continuity beeper on the meter helps here) it needs to be replaced.\n* If it's good, go to the next step.\n\nIf you have a dryer with electronic controls which has a touch type button for the start switch, you can run a diagnostic test depending on your model. Given that looking for the tech sheet will involve opening the machine, you should consider skipping to the next steps and returning here later.\n\nYou can look for a tech sheet tucked in your machine either inside the top console where the controls are, or tucked under the top of the machine on those machines with front controls.\n\nThis sheet will have more instructions on how to get into the diagnostic mode, which has a user interface test (including the start button).\n\n== Drive Belt Problems ==\n\nSome dryers will also show some small activity with a broken drive belt. Lights may still come on, and you may be able to enter a cycle, but basically, that\u2019s it. It won\u2019t spin the drum.\n\nOn some older dryers, the motor will run, but the drum won't turn. That's a sure sign of a belt problem.\n\nOn newer dryers, when a cycle is selected and you try to start it, the unit will not do anything if it has a broken belt. The belt switch disables the motor.\n\n* To check quickly for a broken drive belt:\n** Reach into the dryer and try to spin the drum by hand.\n** If it spins very easily, that's an indication of a broken drive belt. Go to the [[Whirlpool Dryer Not Spinning#Section_Loose_or_Broken_Drive_Belt|Loose or Broken Drive Belt]] step below.\n** If it won't spin at all or is very hard to turn, it could be a bearing problem or a clogged blower. It is possible that this condition has caused the belt to break.\n* You'll need to check the belt and blower visually to be sure, which means some disassembly of your dryer. Go to the next step.\n\n== Thermal Fuse / Thermal Cutoff Is Blown ==\n\n{table\n| [image|2956552|caption=Thermal Cutoff on Heater Shroud]\n| [image|2956553|caption=Closeup of Thermal Cutoff]\n|--\n| [image|2956551|caption=Thermal Fuse On Blower Outlet Housing]\n| [image|2956547]\n|--\n| [image|2956554|caption=Testing Thermal Cutoff]\n| [image|2956904|caption=Testing Thermal Fuse]\n}\n\nOnce you are inside the dryer cabinet, check the thermal fuse and thermal cutout at the same time you check the belt and blower. This fuse is a possible culprit for dryers that won't spin. The cutout is more often the culprit when they won't heat.\n\n* Unplug the dryer. Many dryers are designed so that if the thermal fuse blows, the dryer will not start because the motor can't run when it is blown. The fuse will likely be located near the lint filter location and the blower, where the heated air will flow out of the dryer drum.\n** If the lint filter is just inside the door of the dryer, the thermal fuse is located just below. On these units, access to the thermal fuse requires a fair amount of disassembly. You may be able to test it by just removing the front panel of the machine.\n** If the lint filter is under a door on top of the machine, the thermal fuse will be accessed from the rear of the machine.\n* The thermal cutout or cutoff is located near the heat source, like on the heating element shroud on an electric dryer or the burner cone on a gas model.\n* To test these you just need to check continuity. Make sure the dryer is unplugged. (don't find out the hard way). Disconnect the wires from the thermal fuse and then check it. Use the continuity beeper of your meter if it has one. Does it indicate continuity? If no continuity, it needs to be replaced. The same thing can be done for the thermal cutout/ cutoff.\n* If either the cutout or the thermal fuse has blown, it's an extremely good idea at this point to also make sure that all the exhaust ducts are not blocked with lint or other objects. These will slow the airflow and make the dryer overheat and blow the thermal fuse again. For more tips on thermal fuse issues see [[Dryer Not Heating#Section_No_Heat_Both_Thermal_Fuse_Blown|this page]]\n* If either the cutout or the thermal fuse has blown, but your drum is hard to turn, you should also check bearings, rollers, and the blower too. Make sure everything is spinning freely. A clogged or partially jammed blower running slowly can be a problem and can make the motor thermal protection activate from being overloaded which will also make your dryer not spin.\n\n== Drive Belt Is Loose or Broken ==\n\nYou're looking at the inside of your dryer and you can see the drive belt that goes around the dryer drum. The drum works like a huge pulley for the belt to run on.\n\n* Check the belt. Is it snug to the drum so you can barely slide it side to side? If it's loose, pull on it to see if it is broken, if it\u2019s still in one piece, keep going. If it\u2019s broken, replace it.\n* Is the ribbed side against the drum? If you see the [link|https://guide-images.cdn.ifixit.com/igi/sLZ65sggatKOVXDA.full|ribs showing] where the belt wraps around the drum, you need to flip the belt over.\n** Loosen the belt by slipping it off the idler pulley (note carefully how it went on before you do; maybe even take a picture.) Make sure to check the idler pulley condition too as mentioned below.\n** Flip the loose belt over on the drum, then reach below and flip it on the motor pulley.\n** Put tension back on the belt with the idler pulley, and spin things by hand to see that the belt is now [link|https://guide-images.cdn.ifixit.com/igi/QKZK3xlnTaSjXZZB.full|smooth side out] on the drum and the motor pulley.\n\n=== Idler Pulley ===\n\n[image|2956538|size=medium|align=center|caption=Idler Pulley Circled in Red]\n\nIs the belt loose, but not broken? Was it flipped over? This is likely a problem with the idler or tensioner pulley. The belt may have slipped off the pulley, or the spring has broken. The idler pulley is usually located down low inside the machine, near the motor.\n\n* Check that it turns freely. You might have to loosen the belt slightly to spin the pulley. If It doesn\u2019t turn freely, replace it.\n* Slip the belt back on if it fell off. The spring tension on the idler pulley should work so that the pulley makes the belt tight. If the spring is broken, replace it.\n* The belt should be looped around the pulley in a way that the spring on the pulley tightens the belt. If the pulley shows any damage like the belt has been sliding, or the rim of the pulley is worn or broken, replace it.\n* If the belt is broken, you'll need to replace it. Make sure you get one for your exact model.\n\n== Clogged or Jammed Blower ==\n\n[image|2956914|size=medium|align=center|caption=Blower With the Cover On]\n\nYour dryer's blower might have an impediment that will not allow the blower wheel to turn freely. This can be a small sock or other small piece of laundry that may have fallen down the lint filter holder, and been sucked into the blower. It could even be a chunk of lint that has been compacted. If you have the machine partially disassembled, it is worth cleaning the blower.\n\n* Remove the blower cover and check inside for lint or small pieces of laundry\n* Clean out any lint you find as well as any laundry items.\n\n== Drum Bearing Worn Out ==\n\nA few Whirlpool dryers have a bearing in the center rear part of the drum which supports the drum. This bearing can fail making the drum more difficult to turn.\n\n* Take a look; does it look like the drum is supported from the back panel of the dryer?\n* Is your dryer one of the compact 24\u201d wide models?\u00a0 If so it likely has a rear bearing.\n* If your unit has rollers that support the drum from below, front and rear, go to the next step, [[Whirlpool Dryer Not Spinning#Section_Drum_Rollers_Failed|Drum Rollers Failed]]***.***\n\nIf the bearing is bad enough, the motor won't turn the drum. Loosen the belt by slipping it off the tension pulley (note carefully how it went on before you do)\n\n* Try to turn the drum by hand, and watch if it turns easily. If not, the drum bearing or the glides at the front of the drum are bad. You need to replace them.\n* If things spin freely, then it's time to check the belt switch.\n\n== Drum Rollers Failed ==\n\nMany dryers have rollers that support the drum both at the front and at the rear. To check this, you will try spinning the drum with the belt loose.\n\n* Loosen the belt by slipping it off the idler pulley (note carefully how it went on before you do) (pic from guides)\n* Try to turn the drum by hand, and watch if it turns easily. If not, one or more of your drum rollers have gone bad. You need to replace them.\n* If any are bad, it's a good idea to replace all of them at one time, since others may be wearing out too. It is worth pulling the drum to check the rollers one at a time too.\n* If everything turns freely, go to the next step.\n\n== Belt Switch Problem ==\n\nYou checked the drive belt, the tensioner or idler, and the bearings or rollers and all is ok. What else? Try checking the belt switch. It doesn't often fail, but it is fairly simple to check. You may have to do some major disassembly to access it sufficiently for testing.\n\n* If you skipped to the [[Whirlpool Dryer Not Spinning#Section_Loose_or_Broken_Drive_Belt|Loose or Broken Drive Belt]] step earlier, go back and do the [[Whirlpool Dryer Not Spinning#Section_Blown_Thermal_Fuse_Thermal_Cutout|Blown Thermal Fuse/ Thermal Cutout step]] then do this check next.\n* This is a switch that is usually located next to the tensioner or idler pulley assembly. (in the photo at the Idler Pulley subsection it is the ivory-colored toggle right below the idler arm)\n* This pulley is generally mounted on a spring-loaded arm. Your dryer may just have the pulley mounted on a leaf spring and doesn't have a belt switch, if this is the case, skip to the next topic.\n* The arm is set up so that when there is no belt going around the idler pulley (like when the belt is broken) the spring pulls the arm down so that it operates the switch. This switch shuts down the dryer and for safety keeps it from operating. If the switch fails the dryer will not work.\n* Make sure the dryer is unplugged. You want to test for continuity with the switch in the un-operated or normal position, between the COM and NC terminals. On some models, this will require considerable disassembly. (Link to Guide)\n\n== Motor Failure ==\n\nIf your motor has failed, you are likely having issues with the [[Dryer Stops Mid Cycle|dryer stopping mid cycle|new_window=true]]. This can come about because a motor overheats and stops until it cools down. If this happens a lot, the motor will likely completely fail\n\nThe bearings can also fail. Not very common as a failure; the control board on those units that have one is probably just as likely. A few considerations:\n\n* Does the motor itself spin freely? If it doesn't, that's a problem that has to be corrected.\n* The motor bearings may have just worn out. You'll need to replace the motor.\n\nIf the motor spins well, go to the next item.\n\n== Timer Failed (For models with timers) ==\n\nThe timer may have failed, Replace it after you check the continuity on the contacts. This is something that can fail either because the contacts fail, or because the drive motor fails. You will need specific information on your model to do this. This is another repair that isn\u2019t super common, but contacts can fail and it does happen.\n\n== Faulty Main Control Board or Cycle Control Unit (Models with electronic controls***)*** ==\n\nThe main control board or Cycle Control Unit can fail but, like the motor, it is something of a last resort to replace. Among the usual failures, often the motor relay will go bad which will result in the machine not spinning. If nothing else has shown badly on the machine, the Cycle Control Unit is likely the culprit. Replace it.\n\n[comment]conclusion[/comment]\n\n== Related Pages ==\n\n[[Dryer Will Not Start]]\n\n[[Dryer Not Heating|Dryer Not Heating|new_window=true]]\n\n[[Dryer Squeaking|Dryer Squeaking|new_window=true]]\n\n[[Dryer Maintenance|Dryer Maintenance|new_window=true]]\n\n[[Gas Dryer Overheating|Gas Dryer Overheating|new_window=true]]\n\n[[Electric Dryer Overheating|Electric Dryer Overheating|new_window=true]]\n\n[[Dryer Stops Mid Cycle|Dryer Stops Mid Cycle|new_window=true]]\n\n[[Dryer Making Loud Noise|Dryer Making Loud Noise|new_window=true]]",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Some initial considerations:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Is your Whirlpool dryer making noises, but not spinning when you try to start it?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Do the lights come on in the drum, but it won't spin?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "When you try to start a cycle, can you hear the motor turn on, but all it does is hum smoothly?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Maybe you get a different hum and the drum turns slowly."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Maybe no motor sounds, but you hear the timer running."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This is the spot to walk through the causes for this situation."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]solutions[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Bad Door Switch"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Some dryers may show some signs of life, like lights, but won't spin when the start button is pressed. On older or simpler dryers, if the door switch goes bad, the dryer acts completely dead or you can just hear the timer motor. Sometimes your dryer will spin if you slam the door, but not otherwise."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Door switch problems are so common that we want to work hard checking them."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We check the door switch from outside the dryer first. You don\u2019t need to open the cabinet for these checks. Keep in mind, the door switch could be good, so these outside checks are just preliminary."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "For door switches that don\u2019t have an external button or lever, a quick check is to try to operate the door switch button with a pencil or your finger, and listen for a click,"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you hear one, plug the dryer in and operate the switch again. See if the dryer starts."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You can try the switch button or lever by using your finger to see if you can get the dryer to start. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Be careful, the drum could start turning!",
+                    "marks": [
+                      {
+                        "type": "underline"
+                      },
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If it does start, you know the switch can work. And you know that your dryer can spin too, so the problem is the door switch system. Either the switch isn\u2019t working, or it\u2019s worn or loose, or the door has a problem."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Is your dryer door damaged or bent? Worn or bent hinges can make a door close improperly and not activate the switch. Repair or replace the hinges."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Has the switch come loose?"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If it's tight, replace it, it's worn out and you know the dryer works otherwise."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If it wiggles or is loose, tighten it, then check it again with the door. If it doesn't work, replace it."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Some dryers have a small boss or probe that operates the door switch, if this is broken or bent it will not operate the switch. Replace the boss or probe."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Some dryers may also have a catch that just holds the door shut, but if it has partially lost its grip, the switch might not operate because the door doesn\u2019t stay closed enough."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If the door's ok, the switch may work, but be worn inside or have a broken operating lever so that the door isn\u2019t able to operate it anymore. This is especially true if you can get the dryer to start with your finger operating the switch, but not the door."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If there's no click, and it doesn't start, unplug the dryer. It's time to test the switch with a meter."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Disconnect one terminal on the switch."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Using a multimeter set to the continuity or Rx1 setting to check the switch."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "When the switch is pushed it should show continuity. If it does you can try it one more time in the door. If possible, test continuity on the switch using the door to operate it, you may find the problem is wear as described above."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If it doesn't show continuity, replace it."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If it tests good, and closing the door to test it makes it show continuity, move on to the start switch."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "text",
+            "text": "{table"
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "text",
+            "text": "| "
+          },
+          {
+            "type": "text",
+            "text": "[image|2956931|caption=Door Switch Testing-closed]"
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "text",
+            "text": "| "
+          },
+          {
+            "type": "text",
+            "text": "[image|2956932|caption=Door Switch Testing-open]"
+          },
+          {
+            "type": "text",
+            "text": "\n}"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Start Switch Failed"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Unplug the dryer. If you have a mechanical push button or knob to start the dryer, this is the one to check; if the start switch doesn't work, the dryer won't start."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You may be able to get to this switch in an upper console on the unit, and not have to open the whole dryer up."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Disconnect it from the machine (you probably don't have to remove it)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Test continuity when the switch is pushed as it is only a momentary contact."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If it doesn't show continuity when pressed (a continuity beeper on the meter helps here) it needs to be replaced."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If it's good, go to the next step."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If you have a dryer with electronic controls which has a touch type button for the start switch, you can run a diagnostic test depending on your model. Given that looking for the tech sheet will involve opening the machine, you should consider skipping to the next steps and returning here later."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "You can look for a tech sheet tucked in your machine either inside the top console where the controls are, or tucked under the top of the machine on those machines with front controls."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "This sheet will have more instructions on how to get into the diagnostic mode, which has a user interface test (including the start button)."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Drive Belt Problems"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Some dryers will also show some small activity with a broken drive belt. Lights may still come on, and you may be able to enter a cycle, but basically, that\u2019s it. It won\u2019t spin the drum."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "On some older dryers, the motor will run, but the drum won't turn. That's a sure sign of a belt problem."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "On newer dryers, when a cycle is selected and you try to start it, the unit will not do anything if it has a broken belt. The belt switch disables the motor."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "To check quickly for a broken drive belt:"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Reach into the dryer and try to spin the drum by hand."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If it spins very easily, that's an indication of a broken drive belt. Go to the "
+                          },
+                          {
+                            "type": "text",
+                            "text": "Loose or Broken Drive Belt",
+                            "marks": [
+                              {
+                                "type": "wikiLink",
+                                "attrs": {
+                                  "target": "Whirlpool Dryer Not Spinning#Section_Loose_or_Broken_Drive_Belt",
+                                  "tag": null,
+                                  "newWindow": false,
+                                  "href": "/Troubleshooting/Whirlpool_Dryer/Not+Spinning/511672#Section_Loose_or_Broken_Drive_Belt"
+                                }
+                              }
+                            ]
+                          },
+                          {
+                            "type": "text",
+                            "text": " step below."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If it won't spin at all or is very hard to turn, it could be a bearing problem or a clogged blower. It is possible that this condition has caused the belt to break."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You'll need to check the belt and blower visually to be sure, which means some disassembly of your dryer. Go to the next step."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Thermal Fuse / Thermal Cutoff Is Blown"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "type": "text",
+            "text": "{table"
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "text",
+            "text": "| "
+          },
+          {
+            "type": "text",
+            "text": "[image|2956552|caption=Thermal Cutoff on Heater Shroud]"
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "text",
+            "text": "| "
+          },
+          {
+            "type": "text",
+            "text": "[image|2956553|caption=Closeup of Thermal Cutoff]"
+          },
+          {
+            "type": "text",
+            "text": "\n|--\n"
+          },
+          {
+            "type": "text",
+            "text": "| "
+          },
+          {
+            "type": "text",
+            "text": "[image|2956551|caption=Thermal Fuse On Blower Outlet Housing]"
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "text",
+            "text": "| "
+          },
+          {
+            "type": "text",
+            "text": "[image|2956547]"
+          },
+          {
+            "type": "text",
+            "text": "\n|--\n"
+          },
+          {
+            "type": "text",
+            "text": "| "
+          },
+          {
+            "type": "text",
+            "text": "[image|2956554|caption=Testing Thermal Cutoff]"
+          },
+          {
+            "type": "text",
+            "text": "\n"
+          },
+          {
+            "type": "text",
+            "text": "| "
+          },
+          {
+            "type": "text",
+            "text": "[image|2956904|caption=Testing Thermal Fuse]"
+          },
+          {
+            "type": "text",
+            "text": "\n}"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Once you are inside the dryer cabinet, check the thermal fuse and thermal cutout at the same time you check the belt and blower. This fuse is a possible culprit for dryers that won't spin. The cutout is more often the culprit when they won't heat."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Unplug the dryer. Many dryers are designed so that if the thermal fuse blows, the dryer will not start because the motor can't run when it is blown. The fuse will likely be located near the lint filter location and the blower, where the heated air will flow out of the dryer drum."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If the lint filter is just inside the door of the dryer, the thermal fuse is located just below. On these units, access to the thermal fuse requires a fair amount of disassembly. You may be able to test it by just removing the front panel of the machine."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If the lint filter is under a door on top of the machine, the thermal fuse will be accessed from the rear of the machine."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The thermal cutout or cutoff is located near the heat source, like on the heating element shroud on an electric dryer or the burner cone on a gas model."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "To test these you just need to check continuity. Make sure the dryer is unplugged. (don't find out the hard way). Disconnect the wires from the thermal fuse and then check it. Use the continuity beeper of your meter if it has one. Does it indicate continuity? If no continuity, it needs to be replaced. The same thing can be done for the thermal cutout/ cutoff."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If either the cutout or the thermal fuse has blown, it's an extremely good idea at this point to also make sure that all the exhaust ducts are not blocked with lint or other objects. These will slow the airflow and make the dryer overheat and blow the thermal fuse again. For more tips on thermal fuse issues see "
+                  },
+                  {
+                    "type": "text",
+                    "text": "this page",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Dryer Not Heating#Section_No_Heat_Both_Thermal_Fuse_Blown",
+                          "tag": null,
+                          "newWindow": false,
+                          "href": "/Troubleshooting/Dryer/Not+Heating/478885#Section_No_Heat_Both_Thermal_Fuse_Blown"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If either the cutout or the thermal fuse has blown, but your drum is hard to turn, you should also check bearings, rollers, and the blower too. Make sure everything is spinning freely. A clogged or partially jammed blower running slowly can be a problem and can make the motor thermal protection activate from being overloaded which will also make your dryer not spin."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Drive Belt Is Loose or Broken"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "You're looking at the inside of your dryer and you can see the drive belt that goes around the dryer drum. The drum works like a huge pulley for the belt to run on."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Check the belt. Is it snug to the drum so you can barely slide it side to side? If it's loose, pull on it to see if it is broken, if it\u2019s still in one piece, keep going. If it\u2019s broken, replace it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Is the ribbed side against the drum? If you see the "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://guide-images.cdn.ifixit.com/igi/sLZ65sggatKOVXDA.full",
+                          "target": false
+                        }
+                      }
+                    ],
+                    "text": "ribs showing"
+                  },
+                  {
+                    "type": "text",
+                    "text": " where the belt wraps around the drum, you need to flip the belt over."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Loosen the belt by slipping it off the idler pulley (note carefully how it went on before you do; maybe even take a picture.) Make sure to check the idler pulley condition too as mentioned below."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Flip the loose belt over on the drum, then reach below and flip it on the motor pulley."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Put tension back on the belt with the idler pulley, and spin things by hand to see that the belt is now "
+                          },
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "link",
+                                "attrs": {
+                                  "href": "https://guide-images.cdn.ifixit.com/igi/QKZK3xlnTaSjXZZB.full",
+                                  "target": false
+                                }
+                              }
+                            ],
+                            "text": "smooth side out"
+                          },
+                          {
+                            "type": "text",
+                            "text": " on the drum and the motor pulley."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Idler Pulley"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[image|2956538|size=medium|align=center|caption=Idler Pulley Circled in Red]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Is the belt loose, but not broken? Was it flipped over? This is likely a problem with the idler or tensioner pulley. The belt may have slipped off the pulley, or the spring has broken. The idler pulley is usually located down low inside the machine, near the motor."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Check that it turns freely. You might have to loosen the belt slightly to spin the pulley. If It doesn\u2019t turn freely, replace it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Slip the belt back on if it fell off. The spring tension on the idler pulley should work so that the pulley makes the belt tight. If the spring is broken, replace it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The belt should be looped around the pulley in a way that the spring on the pulley tightens the belt. If the pulley shows any damage like the belt has been sliding, or the rim of the pulley is worn or broken, replace it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If the belt is broken, you'll need to replace it. Make sure you get one for your exact model."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Clogged or Jammed Blower"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[image|2956914|size=medium|align=center|caption=Blower With the Cover On]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Your dryer's blower might have an impediment that will not allow the blower wheel to turn freely. This can be a small sock or other small piece of laundry that may have fallen down the lint filter holder, and been sucked into the blower. It could even be a chunk of lint that has been compacted. If you have the machine partially disassembled, it is worth cleaning the blower."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Remove the blower cover and check inside for lint or small pieces of laundry"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Clean out any lint you find as well as any laundry items."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Drum Bearing Worn Out"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A few Whirlpool dryers have a bearing in the center rear part of the drum which supports the drum. This bearing can fail making the drum more difficult to turn."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Take a look; does it look like the drum is supported from the back panel of the dryer?"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Is your dryer one of the compact 24\u201d wide models?\u00a0 If so it likely has a rear bearing."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If your unit has rollers that support the drum from below, front and rear, go to the next step, "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Drum Rollers Failed",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Whirlpool Dryer Not Spinning#Section_Drum_Rollers_Failed",
+                          "tag": null,
+                          "newWindow": false,
+                          "href": "/Troubleshooting/Whirlpool_Dryer/Not+Spinning/511672#Section_Drum_Rollers_Failed"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ".",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If the bearing is bad enough, the motor won't turn the drum. Loosen the belt by slipping it off the tension pulley (note carefully how it went on before you do)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Try to turn the drum by hand, and watch if it turns easily. If not, the drum bearing or the glides at the front of the drum are bad. You need to replace them."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If things spin freely, then it's time to check the belt switch."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Drum Rollers Failed"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Many dryers have rollers that support the drum both at the front and at the rear. To check this, you will try spinning the drum with the belt loose."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Loosen the belt by slipping it off the idler pulley (note carefully how it went on before you do) (pic from guides)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Try to turn the drum by hand, and watch if it turns easily. If not, one or more of your drum rollers have gone bad. You need to replace them."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If any are bad, it's a good idea to replace all of them at one time, since others may be wearing out too. It is worth pulling the drum to check the rollers one at a time too."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If everything turns freely, go to the next step."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Belt Switch Problem"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "You checked the drive belt, the tensioner or idler, and the bearings or rollers and all is ok. What else? Try checking the belt switch. It doesn't often fail, but it is fairly simple to check. You may have to do some major disassembly to access it sufficiently for testing."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you skipped to the "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Loose or Broken Drive Belt",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Whirlpool Dryer Not Spinning#Section_Loose_or_Broken_Drive_Belt",
+                          "tag": null,
+                          "newWindow": false,
+                          "href": "/Troubleshooting/Whirlpool_Dryer/Not+Spinning/511672#Section_Loose_or_Broken_Drive_Belt"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " step earlier, go back and do the "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Blown Thermal Fuse/ Thermal Cutout step",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Whirlpool Dryer Not Spinning#Section_Blown_Thermal_Fuse_Thermal_Cutout",
+                          "tag": null,
+                          "newWindow": false,
+                          "href": "/Troubleshooting/Whirlpool_Dryer/Not+Spinning/511672#Section_Blown_Thermal_Fuse_Thermal_Cutout"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " then do this check next."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This is a switch that is usually located next to the tensioner or idler pulley assembly. (in the photo at the Idler Pulley subsection it is the ivory-colored toggle right below the idler arm)"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This pulley is generally mounted on a spring-loaded arm. Your dryer may just have the pulley mounted on a leaf spring and doesn't have a belt switch, if this is the case, skip to the next topic."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The arm is set up so that when there is no belt going around the idler pulley (like when the belt is broken) the spring pulls the arm down so that it operates the switch. This switch shuts down the dryer and for safety keeps it from operating. If the switch fails the dryer will not work."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Make sure the dryer is unplugged. You want to test for continuity with the switch in the un-operated or normal position, between the COM and NC terminals. On some models, this will require considerable disassembly. (Link to Guide)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Motor Failure"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If your motor has failed, you are likely having issues with the "
+          },
+          {
+            "type": "text",
+            "text": "dryer stopping mid cycle",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Stops Mid Cycle",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Stops+Mid+Cycle/479370"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". This can come about because a motor overheats and stops until it cools down. If this happens a lot, the motor will likely completely fail"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The bearings can also fail. Not very common as a failure; the control board on those units that have one is probably just as likely. A few considerations:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Does the motor itself spin freely? If it doesn't, that's a problem that has to be corrected."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The motor bearings may have just worn out. You'll need to replace the motor."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If the motor spins well, go to the next item."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Timer Failed (For models with timers)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The timer may have failed, Replace it after you check the continuity on the contacts. This is something that can fail either because the contacts fail, or because the drive motor fails. You will need specific information on your model to do this. This is another repair that isn\u2019t super common, but contacts can fail and it does happen."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Faulty Main Control Board or Cycle Control Unit (Models with electronic controls"
+          },
+          {
+            "type": "text",
+            "text": ")",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The main control board or Cycle Control Unit can fail but, like the motor, it is something of a last resort to replace. Among the usual failures, often the motor relay will go bad which will result in the machine not spinning. If nothing else has shown badly on the machine, the Cycle Control Unit is likely the culprit. Replace it."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]conclusion[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Related Pages"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Will Not Start",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": null,
+                  "tag": null,
+                  "newWindow": false,
+                  "href": "/Troubleshooting/Dryer/Will+Not+Start/478855"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Not Heating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Not Heating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Not+Heating/478885"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Squeaking",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Squeaking",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Squeaking/479208"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Maintenance",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Maintenance",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Wiki/Dryer_Maintenance"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Gas Dryer Overheating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Gas Dryer Overheating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Electric Dryer Overheating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Electric Dryer Overheating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Stops Mid Cycle",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Stops Mid Cycle",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Stops+Mid+Cycle/479370"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Making Loud Noise",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Making Loud Noise",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Making+Loud+Noise/479415"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "contents_rendered": "<p>Some initial considerations:</p>\n\n<ul><li>Is your Whirlpool dryer making noises, but not spinning when you try to start it?</li><li>Do the lights come on in the drum, but it won't spin?</li><li>When you try to start a cycle, can you hear the motor turn on, but all it does is hum smoothly?</li><li>Maybe you get a different hum and the drum turns slowly.</li><li>Maybe no motor sounds, but you hear the timer running.</li></ul>\n\n<p>This is the spot to walk through the causes for this situation.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Bad_Door_Switch\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Bad_Door_Switch\" class=\"header\">Bad Door Switch</h2></div>\n\n<p>Some dryers may show some signs of life, like lights, but won't spin when the start button is pressed. On older or simpler dryers, if the door switch goes bad, the dryer acts completely dead or you can just hear the timer motor. Sometimes your dryer will spin if you slam the door, but not otherwise.</p>\n\n<p>Door switch problems are so common that we want to work hard checking them.</p>\n\n<p>We check the door switch from outside the dryer first. You don\u2019t need to open the cabinet for these checks. Keep in mind, the door switch could be good, so these outside checks are just preliminary.</p>\n\n<ul><li>For door switches that don\u2019t have an external button or lever, a quick check is to try to operate the door switch button with a pencil or your finger, and listen for a click,</li><li>If you hear one, plug the dryer in and operate the switch again. See if the dryer starts.</li><li>You can try the switch button or lever by using your finger to see if you can get the dryer to start. <strong><ins>Be careful, the drum could start turning!</ins></strong></li></ul>\n\n<p>If it does start, you know the switch can work. And you know that your dryer can spin too, so the problem is the door switch system. Either the switch isn\u2019t working, or it\u2019s worn or loose, or the door has a problem.</p>\n\n<ul><li>Is your dryer door damaged or bent? Worn or bent hinges can make a door close improperly and not activate the switch. Repair or replace the hinges.</li><li>Has the switch come loose?<ul><li>If it's tight, replace it, it's worn out and you know the dryer works otherwise.</li><li>If it wiggles or is loose, tighten it, then check it again with the door. If it doesn't work, replace it.</li></ul></li><li>Some dryers have a small boss or probe that operates the door switch, if this is broken or bent it will not operate the switch. Replace the boss or probe.</li><li>Some dryers may also have a catch that just holds the door shut, but if it has partially lost its grip, the switch might not operate because the door doesn\u2019t stay closed enough.</li></ul>\n\n<p>If the door's ok, the switch may work, but be worn inside or have a broken operating lever so that the door isn\u2019t able to operate it anymore. This is especially true if you can get the dryer to start with your finger operating the switch, but not the door.</p>\n\n<ul><li>If there's no click, and it doesn't start, unplug the dryer. It's time to test the switch with a meter.<ul><li>Disconnect one terminal on the switch.</li><li>Using a multimeter set to the continuity or Rx1 setting to check the switch.</li><li>When the switch is pushed it should show continuity. If it does you can try it one more time in the door. If possible, test continuity on the switch using the door to operate it, you may find the problem is wear as described above.</li><li>If it doesn't show continuity, replace it.</li></ul></li><li>If it tests good, and closing the door to test it makes it show continuity, move on to the start switch.</li></ul>\n\n<div class=\"table-container\"><div class=\"table-overflow\"><table class=\"table table-bordered table-condensed\"><tr><td><div class=\"imageBox imageBox_left\"><img src=\"https://guide-images.cdn.ifixit.com/igi/UYlFM53AgMlxwlmF.standard\" width=\"282\" height=\"211\" class=\"hasMenu hasLarge\" alt=\"\" onclick=\"window.open(&quot;https:\\/\\/guide-images.cdn.ifixit.com\\/igi\\/UYlFM53AgMlxwlmF.huge&quot;, '', 'width=1600,height=1200')\" /><p>Door Switch Testing-closed</p></div></td><td><div class=\"imageBox imageBox_left\"><img src=\"https://guide-images.cdn.ifixit.com/igi/RIpPcgZjjZqugKAC.standard\" width=\"282\" height=\"211\" class=\"hasMenu hasLarge\" alt=\"\" onclick=\"window.open(&quot;https:\\/\\/guide-images.cdn.ifixit.com\\/igi\\/RIpPcgZjjZqugKAC.huge&quot;, '', 'width=1600,height=1200')\" /><p>Door Switch Testing-open</p></div></td></tr></table></div></div>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Start_Switch_Failed\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Start_Switch_Failed\" class=\"header\">Start Switch Failed</h2></div>\n\n<p>Unplug the dryer. If you have a mechanical push button or knob to start the dryer, this is the one to check; if the start switch doesn't work, the dryer won't start.</p>\n\n<ul><li>You may be able to get to this switch in an upper console on the unit, and not have to open the whole dryer up.</li><li>Disconnect it from the machine (you probably don't have to remove it).</li><li>Test continuity when the switch is pushed as it is only a momentary contact.</li><li>If it doesn't show continuity when pressed (a continuity beeper on the meter helps here) it needs to be replaced.</li><li>If it's good, go to the next step.</li></ul>\n\n<p>If you have a dryer with electronic controls which has a touch type button for the start switch, you can run a diagnostic test depending on your model. Given that looking for the tech sheet will involve opening the machine, you should consider skipping to the next steps and returning here later.</p>\n\n<p>You can look for a tech sheet tucked in your machine either inside the top console where the controls are, or tucked under the top of the machine on those machines with front controls.</p>\n\n<p>This sheet will have more instructions on how to get into the diagnostic mode, which has a user interface test (including the start button).</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Drive_Belt_Problems\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Drive_Belt_Problems\" class=\"header\">Drive Belt Problems</h2></div>\n\n<p>Some dryers will also show some small activity with a broken drive belt. Lights may still come on, and you may be able to enter a cycle, but basically, that\u2019s it. It won\u2019t spin the drum.</p>\n\n<p>On some older dryers, the motor will run, but the drum won't turn. That's a sure sign of a belt problem.</p>\n\n<p>On newer dryers, when a cycle is selected and you try to start it, the unit will not do anything if it has a broken belt. The belt switch disables the motor.</p>\n\n<ul><li>To check quickly for a broken drive belt:<ul><li>Reach into the dryer and try to spin the drum by hand.</li><li>If it spins very easily, that's an indication of a broken drive belt. Go to the <a href=\"/Troubleshooting/Whirlpool_Dryer/Not+Spinning/511672#Section_Loose_or_Broken_Drive_Belt\">Loose or Broken Drive Belt</a> step below.</li><li>If it won't spin at all or is very hard to turn, it could be a bearing problem or a clogged blower. It is possible that this condition has caused the belt to break.</li></ul></li><li>You'll need to check the belt and blower visually to be sure, which means some disassembly of your dryer. Go to the next step.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Thermal_Fuse_Thermal_Cutoff_Is_Blown\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Thermal_Fuse_Thermal_Cutoff_Is_Blown\" class=\"header\">Thermal Fuse / Thermal Cutoff Is Blown</h2></div>\n\n<div class=\"table-container\"><div class=\"table-overflow\"><table class=\"table table-bordered table-condensed\"><tr><td><div class=\"imageBox imageBox_left\"><img src=\"https://guide-images.cdn.ifixit.com/igi/wnjfPCEqZyYMQFSA.standard\" width=\"282\" height=\"211\" class=\"hasMenu hasLarge\" alt=\"\" onclick=\"window.open(&quot;https:\\/\\/guide-images.cdn.ifixit.com\\/igi\\/wnjfPCEqZyYMQFSA.huge&quot;, '', 'width=1600,height=1200')\" /><p>Thermal Cutoff on Heater Shroud</p></div></td><td><div class=\"imageBox imageBox_left\"><img src=\"https://guide-images.cdn.ifixit.com/igi/mdw6Sx2XxoKVJtsp.standard\" width=\"282\" height=\"211\" class=\"hasMenu hasLarge\" alt=\"\" onclick=\"window.open(&quot;https:\\/\\/guide-images.cdn.ifixit.com\\/igi\\/mdw6Sx2XxoKVJtsp.huge&quot;, '', 'width=1600,height=1200')\" /><p>Closeup of Thermal Cutoff</p></div></td></tr><tr><td><div class=\"imageBox imageBox_left\"><img src=\"https://guide-images.cdn.ifixit.com/igi/mjHXgAWDtFx3pk65.standard\" width=\"282\" height=\"187\" class=\"hasMenu hasLarge\" alt=\"\" onclick=\"window.open(&quot;https:\\/\\/guide-images.cdn.ifixit.com\\/igi\\/mjHXgAWDtFx3pk65.huge&quot;, '', 'width=1600,height=1060')\" /><p>Thermal Fuse On Blower Outlet Housing</p></div></td><td><div class=\"imageBox imageBox_left\"><img src=\"https://guide-images.cdn.ifixit.com/igi/e2HISgHaancKZsEk.standard\" width=\"282\" height=\"211\" class=\"hasMenu hasLarge\" alt=\"Image\" onclick=\"window.open(&quot;https:\\/\\/guide-images.cdn.ifixit.com\\/igi\\/e2HISgHaancKZsEk.huge&quot;, '', 'width=1600,height=1200')\" /></div></td></tr><tr><td><div class=\"imageBox imageBox_left\"><img src=\"https://guide-images.cdn.ifixit.com/igi/hMRn2Ze5bKuB1ePI.standard\" width=\"282\" height=\"187\" class=\"hasMenu hasLarge\" alt=\"\" onclick=\"window.open(&quot;https:\\/\\/guide-images.cdn.ifixit.com\\/igi\\/hMRn2Ze5bKuB1ePI.huge&quot;, '', 'width=1600,height=1060')\" /><p>Testing Thermal Cutoff</p></div></td><td><div class=\"imageBox imageBox_left\"><img src=\"https://guide-images.cdn.ifixit.com/igi/HkKy65fBG15HCHUR.standard\" width=\"282\" height=\"187\" class=\"hasMenu hasLarge\" alt=\"\" onclick=\"window.open(&quot;https:\\/\\/guide-images.cdn.ifixit.com\\/igi\\/HkKy65fBG15HCHUR.huge&quot;, '', 'width=1600,height=1060')\" /><p>Testing Thermal Fuse</p></div></td></tr></table></div></div>\n\n<p>Once you are inside the dryer cabinet, check the thermal fuse and thermal cutout at the same time you check the belt and blower. This fuse is a possible culprit for dryers that won't spin. The cutout is more often the culprit when they won't heat.</p>\n\n<ul><li>Unplug the dryer. Many dryers are designed so that if the thermal fuse blows, the dryer will not start because the motor can't run when it is blown. The fuse will likely be located near the lint filter location and the blower, where the heated air will flow out of the dryer drum.<ul><li>If the lint filter is just inside the door of the dryer, the thermal fuse is located just below. On these units, access to the thermal fuse requires a fair amount of disassembly. You may be able to test it by just removing the front panel of the machine.</li><li>If the lint filter is under a door on top of the machine, the thermal fuse will be accessed from the rear of the machine.</li></ul></li><li>The thermal cutout or cutoff is located near the heat source, like on the heating element shroud on an electric dryer or the burner cone on a gas model.</li><li>To test these you just need to check continuity. Make sure the dryer is unplugged. (don't find out the hard way). Disconnect the wires from the thermal fuse and then check it. Use the continuity beeper of your meter if it has one. Does it indicate continuity? If no continuity, it needs to be replaced. The same thing can be done for the thermal cutout/ cutoff.</li><li>If either the cutout or the thermal fuse has blown, it's an extremely good idea at this point to also make sure that all the exhaust ducts are not blocked with lint or other objects. These will slow the airflow and make the dryer overheat and blow the thermal fuse again. For more tips on thermal fuse issues see <a href=\"/Troubleshooting/Dryer/Not+Heating/478885#Section_No_Heat_Both_Thermal_Fuse_Blown\">this page</a></li><li>If either the cutout or the thermal fuse has blown, but your drum is hard to turn, you should also check bearings, rollers, and the blower too. Make sure everything is spinning freely. A clogged or partially jammed blower running slowly can be a problem and can make the motor thermal protection activate from being overloaded which will also make your dryer not spin.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Drive_Belt_Is_Loose_or_Broken\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Drive_Belt_Is_Loose_or_Broken\" class=\"header\">Drive Belt Is Loose or Broken</h2></div>\n\n<p>You're looking at the inside of your dryer and you can see the drive belt that goes around the dryer drum. The drum works like a huge pulley for the belt to run on.</p>\n\n<ul><li>Check the belt. Is it snug to the drum so you can barely slide it side to side? If it's loose, pull on it to see if it is broken, if it\u2019s still in one piece, keep going. If it\u2019s broken, replace it.</li><li>Is the ribbed side against the drum? If you see the <a href=\"https://guide-images.cdn.ifixit.com/igi/sLZ65sggatKOVXDA.full\">ribs showing</a> where the belt wraps around the drum, you need to flip the belt over.<ul><li>Loosen the belt by slipping it off the idler pulley (note carefully how it went on before you do; maybe even take a picture.) Make sure to check the idler pulley condition too as mentioned below.</li><li>Flip the loose belt over on the drum, then reach below and flip it on the motor pulley.</li><li>Put tension back on the belt with the idler pulley, and spin things by hand to see that the belt is now <a href=\"https://guide-images.cdn.ifixit.com/igi/QKZK3xlnTaSjXZZB.full\">smooth side out</a> on the drum and the motor pulley.</li></ul></li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Idler_Pulley\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h3 id=\"Section_Idler_Pulley\" class=\"header\">Idler Pulley</h3></div>\n\n<div class=\"imageBox imageBox_center\"><img src=\"https://guide-images.cdn.ifixit.com/igi/5eo3OoqcLBI16jMj.medium\" width=\"592\" height=\"444\" class=\"hasMenu hasLarge\" alt=\"\" onclick=\"window.open(&quot;https:\\/\\/guide-images.cdn.ifixit.com\\/igi\\/5eo3OoqcLBI16jMj.huge&quot;, '', 'width=1600,height=1200')\" /><p>Idler Pulley Circled in Red</p></div>\n\n<p>Is the belt loose, but not broken? Was it flipped over? This is likely a problem with the idler or tensioner pulley. The belt may have slipped off the pulley, or the spring has broken. The idler pulley is usually located down low inside the machine, near the motor.</p>\n\n<ul><li>Check that it turns freely. You might have to loosen the belt slightly to spin the pulley. If It doesn\u2019t turn freely, replace it.</li><li>Slip the belt back on if it fell off. The spring tension on the idler pulley should work so that the pulley makes the belt tight. If the spring is broken, replace it.</li><li>The belt should be looped around the pulley in a way that the spring on the pulley tightens the belt. If the pulley shows any damage like the belt has been sliding, or the rim of the pulley is worn or broken, replace it.</li><li>If the belt is broken, you'll need to replace it. Make sure you get one for your exact model.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Clogged_or_Jammed_Blower\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Clogged_or_Jammed_Blower\" class=\"header\">Clogged or Jammed Blower</h2></div>\n\n<div class=\"imageBox imageBox_center\"><img src=\"https://guide-images.cdn.ifixit.com/igi/11TcwbMJReAQuUbu.medium\" width=\"592\" height=\"444\" class=\"hasMenu hasLarge\" alt=\"\" onclick=\"window.open(&quot;https:\\/\\/guide-images.cdn.ifixit.com\\/igi\\/11TcwbMJReAQuUbu.huge&quot;, '', 'width=1600,height=1200')\" /><p>Blower With the Cover On</p></div>\n\n<p>Your dryer's blower might have an impediment that will not allow the blower wheel to turn freely. This can be a small sock or other small piece of laundry that may have fallen down the lint filter holder, and been sucked into the blower. It could even be a chunk of lint that has been compacted. If you have the machine partially disassembled, it is worth cleaning the blower.</p>\n\n<ul><li>Remove the blower cover and check inside for lint or small pieces of laundry</li><li>Clean out any lint you find as well as any laundry items.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Drum_Bearing_Worn_Out\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Drum_Bearing_Worn_Out\" class=\"header\">Drum Bearing Worn Out</h2></div>\n\n<p>A few Whirlpool dryers have a bearing in the center rear part of the drum which supports the drum. This bearing can fail making the drum more difficult to turn.</p>\n\n<ul><li>Take a look; does it look like the drum is supported from the back panel of the dryer?</li><li>Is your dryer one of the compact 24\u201d wide models?\u00a0 If so it likely has a rear bearing.</li><li>If your unit has rollers that support the drum from below, front and rear, go to the next step, <a href=\"/Troubleshooting/Whirlpool_Dryer/Not+Spinning/511672#Section_Drum_Rollers_Failed\">Drum Rollers Failed</a><strong>.</strong></li></ul>\n\n<p>If the bearing is bad enough, the motor won't turn the drum. Loosen the belt by slipping it off the tension pulley (note carefully how it went on before you do)</p>\n\n<ul><li>Try to turn the drum by hand, and watch if it turns easily. If not, the drum bearing or the glides at the front of the drum are bad. You need to replace them.</li><li>If things spin freely, then it's time to check the belt switch.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Drum_Rollers_Failed\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Drum_Rollers_Failed\" class=\"header\">Drum Rollers Failed</h2></div>\n\n<p>Many dryers have rollers that support the drum both at the front and at the rear. To check this, you will try spinning the drum with the belt loose.</p>\n\n<ul><li>Loosen the belt by slipping it off the idler pulley (note carefully how it went on before you do) (pic from guides)</li><li>Try to turn the drum by hand, and watch if it turns easily. If not, one or more of your drum rollers have gone bad. You need to replace them.</li><li>If any are bad, it's a good idea to replace all of them at one time, since others may be wearing out too. It is worth pulling the drum to check the rollers one at a time too.</li><li>If everything turns freely, go to the next step.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Belt_Switch_Problem\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Belt_Switch_Problem\" class=\"header\">Belt Switch Problem</h2></div>\n\n<p>You checked the drive belt, the tensioner or idler, and the bearings or rollers and all is ok. What else? Try checking the belt switch. It doesn't often fail, but it is fairly simple to check. You may have to do some major disassembly to access it sufficiently for testing.</p>\n\n<ul><li>If you skipped to the <a href=\"/Troubleshooting/Whirlpool_Dryer/Not+Spinning/511672#Section_Loose_or_Broken_Drive_Belt\">Loose or Broken Drive Belt</a> step earlier, go back and do the <a href=\"/Troubleshooting/Whirlpool_Dryer/Not+Spinning/511672#Section_Blown_Thermal_Fuse_Thermal_Cutout\">Blown Thermal Fuse/ Thermal Cutout step</a> then do this check next.</li><li>This is a switch that is usually located next to the tensioner or idler pulley assembly. (in the photo at the Idler Pulley subsection it is the ivory-colored toggle right below the idler arm)</li><li>This pulley is generally mounted on a spring-loaded arm. Your dryer may just have the pulley mounted on a leaf spring and doesn't have a belt switch, if this is the case, skip to the next topic.</li><li>The arm is set up so that when there is no belt going around the idler pulley (like when the belt is broken) the spring pulls the arm down so that it operates the switch. This switch shuts down the dryer and for safety keeps it from operating. If the switch fails the dryer will not work.</li><li>Make sure the dryer is unplugged. You want to test for continuity with the switch in the un-operated or normal position, between the COM and NC terminals. On some models, this will require considerable disassembly. (Link to Guide)</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Motor_Failure\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Motor_Failure\" class=\"header\">Motor Failure</h2></div>\n\n<p>If your motor has failed, you are likely having issues with the <a href=\"/Troubleshooting/Dryer/Stops+Mid+Cycle/479370\" target=\"_blank\">dryer stopping mid cycle</a>. This can come about because a motor overheats and stops until it cools down. If this happens a lot, the motor will likely completely fail</p>\n\n<p>The bearings can also fail. Not very common as a failure; the control board on those units that have one is probably just as likely. A few considerations:</p>\n\n<ul><li>Does the motor itself spin freely? If it doesn't, that's a problem that has to be corrected.</li><li>The motor bearings may have just worn out. You'll need to replace the motor.</li></ul>\n\n<p>If the motor spins well, go to the next item.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Timer_Failed_For_models_with_timers\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Timer_Failed_For_models_with_timers\" class=\"header\">Timer Failed (For models with timers)</h2></div>\n\n<p>The timer may have failed, Replace it after you check the continuity on the contacts. This is something that can fail either because the contacts fail, or because the drive motor fails. You will need specific information on your model to do this. This is another repair that isn\u2019t super common, but contacts can fail and it does happen.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Faulty_Main_Control_Board_or_Cycle_Control_Unit_Models_with_electronic_controls\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Faulty_Main_Control_Board_or_Cycle_Control_Unit_Models_with_electronic_controls\" class=\"header\">Faulty Main Control Board or Cycle Control Unit (Models with electronic controls<strong>)</strong></h2></div>\n\n<p>The main control board or Cycle Control Unit can fail but, like the motor, it is something of a last resort to replace. Among the usual failures, often the motor relay will go bad which will result in the machine not spinning. If nothing else has shown badly on the machine, the Cycle Control Unit is likely the culprit. Replace it.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Related_Pages\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Related_Pages\" class=\"header\">Related Pages</h2></div>\n\n<p><a href=\"/Troubleshooting/Dryer/Will+Not+Start/478855\">Dryer Won't Start</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Not+Heating/478885\" target=\"_blank\">Dryer Not Heating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Squeaking/479208\" target=\"_blank\">Dryer Squeaking</a></p>\n\n<p><a href=\"/Wiki/Dryer_Maintenance\" target=\"_blank\">Dryer Maintenance</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355\" target=\"_blank\">Gas Dryer Overheating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356\" target=\"_blank\">Electric Dryer Overheating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Stops+Mid+Cycle/479370\" target=\"_blank\">Dryer Stops Mid Cycle</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Making+Loud+Noise/479415\" target=\"_blank\">Dryer Making Loud Noise</a></p>",
+  "linked_wikis": [
+    {
+      "wikiid": 511672,
+      "namespace": "WIKI",
+      "title": "Whirlpool Dryer Not Spinning"
+    },
+    {
+      "wikiid": 478885,
+      "namespace": "WIKI",
+      "title": "Dryer Not Heating"
+    },
+    {
+      "wikiid": 479370,
+      "namespace": "WIKI",
+      "title": "Dryer Stops Mid Cycle"
+    },
+    {
+      "wikiid": 478855,
+      "namespace": "WIKI",
+      "title": "Dryer Will Not Start"
+    },
+    {
+      "wikiid": 479208,
+      "namespace": "WIKI",
+      "title": "Dryer Squeaking"
+    },
+    {
+      "wikiid": 479298,
+      "namespace": "WIKI",
+      "title": "Dryer Maintenance"
+    },
+    {
+      "wikiid": 479355,
+      "namespace": "WIKI",
+      "title": "Gas Dryer Overheating"
+    },
+    {
+      "wikiid": 479356,
+      "namespace": "WIKI",
+      "title": "Electric Dryer Overheating"
+    },
+    {
+      "wikiid": 479415,
+      "namespace": "WIKI",
+      "title": "Dryer Making Loud Noise"
+    }
+  ],
+  "can_edit": true,
+  "available_langids": [
+    "en",
+    "ru"
+  ],
+  "ancestors": [
+    {
+      "dataType": "wiki",
+      "wikiid": 508852,
+      "langid": "en",
+      "title": "Whirlpool Dryer",
+      "display_title": "Whirlpool Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Repair guides and support for Whirlpool brand dryers.",
+      "url": "https://www.ifixit.com/Device/Whirlpool_Dryer",
+      "text": "Repair guides and support for Whirlpool brand dryers.",
+      "image": {
+        "id": 2914310,
+        "guid": "wayH3f4jMUXTZPHW",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/wayH3f4jMUXTZPHW.full"
+      },
+      "modified_date": 1704826712,
+      "author": 4205461
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 15470,
+      "langid": "en",
+      "title": "Dryer",
+      "display_title": "Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Clothes dryer repair and support guides.",
+      "url": "https://www.ifixit.com/Device/Dryer",
+      "text": "Clothes dryer repair and support guides.",
+      "image": {
+        "id": 3076729,
+        "guid": "vgNFvy6MlKqgA14d",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.full"
+      },
+      "modified_date": 1708467455,
+      "author": 524640
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 1383,
+      "langid": "en",
+      "title": "Appliance",
+      "display_title": "Appliance",
+      "namespace": "CATEGORY",
+      "summary": "Comprehensive disassembly and installation guides for home appliances.",
+      "url": "https://www.ifixit.com/Device/Appliance",
+      "text": "Comprehensive disassembly and installation guides for home appliances.",
+      "image": {
+        "id": 3076640,
+        "guid": "yuk1YxQANOYorSCI",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.full"
+      },
+      "modified_date": 1785755929,
+      "author": 225663
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 11000,
+      "langid": "en",
+      "title": "Root",
+      "display_title": "Root",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Root",
+      "text": "Repair guides, manuals, and troubleshooting help for Root. Get everything you need to repair your Root yourself.",
+      "image": {
+        "id": 243440,
+        "guid": "bhofAWyrmGwRFlak",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.full"
+      },
+      "modified_date": 1705097689,
+      "author": 1
+    }
+  ],
+  "created_date": 1683766556,
+  "modified_date": 1691709811,
+  "is_troubleshooting": true,
+  "authors": [
+    {
+      "userid": 4152395,
+      "percent": 91.89,
+      "username": "Bill Gilbert",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/XF2HtcnjpXb4XA6l.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4152395/Bill+Gilbert"
+    },
+    {
+      "userid": 2989458,
+      "percent": 5.41,
+      "username": "Austin Blakely",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/U2yM4NVNHFvF3FV3.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/2989458/Austin+Blakely"
+    },
+    {
+      "userid": 4026158,
+      "percent": 2.7,
+      "username": "Evan Gattuso",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/UiqiRwGMAZBCJonm.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4026158/Evan+Gattuso"
+    }
+  ],
+  "tags": [
+    "problem",
+    "problem-mobility"
+  ],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": {
+    "id": 2956941,
+    "guid": "bYrVHEoEgY4ZRoYJ",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/bYrVHEoEgY4ZRoYJ.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bYrVHEoEgY4ZRoYJ.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/bYrVHEoEgY4ZRoYJ.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/bYrVHEoEgY4ZRoYJ.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/bYrVHEoEgY4ZRoYJ.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/bYrVHEoEgY4ZRoYJ.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/bYrVHEoEgY4ZRoYJ.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/bYrVHEoEgY4ZRoYJ.large",
+    "original": "https://guide-images.cdn.ifixit.com/igi/bYrVHEoEgY4ZRoYJ.full"
+  },
+  "documents": [],
+  "author": 4152395,
+  "display_title": "Whirlpool Dryer Not Spinning",
+  "page_title": null,
+  "description": "Your Whirlpool dryer isn't tumbling the laundry. Let's look for the causes and solutions. We can walk through this together.",
+  "source_revisionid": null
+}

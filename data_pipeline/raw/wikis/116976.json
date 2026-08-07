@@ -1,0 +1,996 @@
+{
+  "wikiid": 116976,
+  "langid": "en",
+  "namespace": "CATEGORY",
+  "title": "Samsung dryer",
+  "revisionid": 1342174,
+  "contents_raw": "== Background ==\n\nSamsung first released dryers in the 1970s along with washing machines and other home appliances. Today, Samsung dryers often come equipped with MultiSteam and SensorDry technology.\n\n== Identification ==\n\nThe model number can be found inside the dryer, around the drum. Common models include the DVE45T6000W, DVE50R8500V, and DV90T8240SH.\n\n== Additional Information ==\n\n* [link|https://www.samsung.com/us/support/downloads/|Samsung Dryer Model Number Lookup|new_window=true]\n* [link|https://www.samsung.com/us/support/downloads/|Samsung Owner's Manuals|new_window=true]\n* ***Samsung Customer Support Phone Number:*** 1-800-726-7864 (1-800-SAMSUNG)\n** Get help via text: message \"SUPPORT\" to 1-800-726-7864.",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Background"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Samsung first released dryers in the 1970s along with washing machines and other home appliances. Today, Samsung dryers often come equipped with MultiSteam and SensorDry technology."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Identification"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The model number can be found inside the dryer, around the drum. Common models include the DVE45T6000W, DVE50R8500V, and DV90T8240SH."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Additional Information"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.samsung.com/us/support/downloads/",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "text": "Samsung Dryer Model Number Lookup"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.samsung.com/us/support/downloads/",
+                          "target": "_blank"
+                        }
+                      }
+                    ],
+                    "text": "Samsung Owner's Manuals"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Samsung Customer Support Phone Number:",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " 1-800-726-7864 (1-800-SAMSUNG)"
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Get help via text: message \"SUPPORT\" to 1-800-726-7864."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "contents_rendered": "<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Background\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Background\" class=\"header\">Background</h2></div>\n\n<p>Samsung first released dryers in the 1970s along with washing machines and other home appliances. Today, Samsung dryers often come equipped with MultiSteam and SensorDry technology.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Identification\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Identification\" class=\"header\">Identification</h2></div>\n\n<p>The model number can be found inside the dryer, around the drum. Common models include the DVE45T6000W, DVE50R8500V, and DV90T8240SH.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Additional_Information\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Additional_Information\" class=\"header\">Additional Information</h2></div>\n\n<ul><li><a href=\"https://www.samsung.com/us/support/downloads/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Samsung Dryer Model Number Lookup</a></li><li><a href=\"https://www.samsung.com/us/support/downloads/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Samsung Owner's Manuals</a></li><li><strong>Samsung Customer Support Phone Number:</strong> 1-800-726-7864 (1-800-SAMSUNG)<ul><li>Get help via text: message &quot;SUPPORT&quot; to 1-800-726-7864.</li></ul></li></ul>",
+  "linked_wikis": [],
+  "can_edit": true,
+  "available_langids": [
+    "en",
+    "ru"
+  ],
+  "ancestors": [
+    {
+      "dataType": "wiki",
+      "wikiid": 15470,
+      "langid": "en",
+      "title": "Dryer",
+      "display_title": "Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Clothes dryer repair and support guides.",
+      "url": "https://www.ifixit.com/Device/Dryer",
+      "text": "Clothes dryer repair and support guides.",
+      "image": {
+        "id": 3076729,
+        "guid": "vgNFvy6MlKqgA14d",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.full"
+      },
+      "modified_date": 1708467455,
+      "author": 524640
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 1383,
+      "langid": "en",
+      "title": "Appliance",
+      "display_title": "Appliance",
+      "namespace": "CATEGORY",
+      "summary": "Comprehensive disassembly and installation guides for home appliances.",
+      "url": "https://www.ifixit.com/Device/Appliance",
+      "text": "Comprehensive disassembly and installation guides for home appliances.",
+      "image": {
+        "id": 3076640,
+        "guid": "yuk1YxQANOYorSCI",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.full"
+      },
+      "modified_date": 1785755929,
+      "author": 225663
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 11000,
+      "langid": "en",
+      "title": "Root",
+      "display_title": "Root",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Root",
+      "text": "Repair guides, manuals, and troubleshooting help for Root. Get everything you need to repair your Root yourself.",
+      "image": {
+        "id": 243440,
+        "guid": "bhofAWyrmGwRFlak",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.full"
+      },
+      "modified_date": 1705097689,
+      "author": 1
+    }
+  ],
+  "created_date": 1528168581,
+  "modified_date": 1732559059,
+  "is_troubleshooting": false,
+  "authors": [
+    {
+      "userid": 3945491,
+      "percent": 25,
+      "username": "Kris Rodriguez",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/TYRsgfOyqHJnJfDt.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/3945491/Kris+Rodriguez"
+    },
+    {
+      "userid": 4026158,
+      "percent": 25,
+      "username": "Evan Gattuso",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/UiqiRwGMAZBCJonm.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4026158/Evan+Gattuso"
+    },
+    {
+      "userid": 3812521,
+      "percent": 16.67,
+      "username": "Amber Taus",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/FEKYZnHotG6pfAVR.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/3812521/Amber+Taus"
+    },
+    {
+      "userid": 2536176,
+      "percent": 8.33,
+      "username": "Renato F Ferretti",
+      "avatar_url": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-7.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/2536176/Renato+F+Ferretti"
+    },
+    {
+      "userid": 2567860,
+      "percent": 8.33,
+      "username": "Taylor Dixon",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/N4PcYCXXFXODQ1iS.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/2567860/Taylor+Dixon"
+    },
+    {
+      "userid": 348413,
+      "percent": 8.33,
+      "username": "John Deters",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/OIPlFuNuHCraFM1M.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/348413/John+Deters"
+    },
+    {
+      "userid": 1162242,
+      "percent": 8.33,
+      "username": "Adam O'Camb",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/KCToEniXHcINvUmY.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/1162242/Adam+O%27Camb"
+    }
+  ],
+  "tags": [],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": {
+    "id": 2913159,
+    "guid": "PkDQjnbBIAhP3VF4",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.large",
+    "original": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.full"
+  },
+  "documents": [],
+  "author": 3945491,
+  "display_title": "Samsung Dryer",
+  "page_title": "Samsung Dryer Repair",
+  "description": "Repair information for Samsung clothes dryers.",
+  "children": [
+    {
+      "dataType": "wiki",
+      "wikiid": 504921,
+      "langid": "en",
+      "title": "Samsung DV457GVGSWR",
+      "display_title": "Samsung DV457GVGSWR",
+      "namespace": "CATEGORY",
+      "summary": "Samsung DV457GVGSWR Touchscreen Dryer",
+      "url": "https://www.ifixit.com/Device/Samsung_DV457GVGSWR",
+      "text": "Samsung DV457GVGSWR Touchscreen Dryer",
+      "image": {
+        "id": 2470321,
+        "guid": "mRGGVVujKGLFh4sh",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/mRGGVVujKGLFh4sh.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/mRGGVVujKGLFh4sh.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/mRGGVVujKGLFh4sh.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/mRGGVVujKGLFh4sh.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/mRGGVVujKGLFh4sh.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/mRGGVVujKGLFh4sh.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/mRGGVVujKGLFh4sh.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/mRGGVVujKGLFh4sh.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/mRGGVVujKGLFh4sh.full"
+      },
+      "modified_date": 1704825280,
+      "author": 2989538
+    }
+  ],
+  "category_lists": {},
+  "featured_guides": [],
+  "guides": [
+    {
+      "dataType": "guide",
+      "guideid": 221355,
+      "locale": "en",
+      "revisionid": 2341425,
+      "modified_date": 1784337554,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Troubleshoot+Mid+Cycle+Shutoff+in+a+Samsung+Dryer/221355",
+      "type": "technique",
+      "category": "Samsung dryer",
+      "subject": "",
+      "title": "How to Troubleshoot Mid Cycle Shutoff in a Samsung Dryer",
+      "summary": "Use this guide to troubleshoot a Samsung dryer...",
+      "difficulty": "Moderate",
+      "time_required_max": 3600,
+      "public": true,
+      "userid": 2012381,
+      "username": "eCuration",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4251641,
+        "guid": "Tvp3eWBneFPXhNW4",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/Tvp3eWBneFPXhNW4.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/Tvp3eWBneFPXhNW4.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/Tvp3eWBneFPXhNW4.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/Tvp3eWBneFPXhNW4.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/Tvp3eWBneFPXhNW4.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/Tvp3eWBneFPXhNW4.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/Tvp3eWBneFPXhNW4.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/Tvp3eWBneFPXhNW4.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/Tvp3eWBneFPXhNW4.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 207452,
+      "locale": "en",
+      "revisionid": 2332915,
+      "modified_date": 1784336256,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Troubleshoot+a+Noisy+Samsung+Front-Load+Dryer/207452",
+      "type": "technique",
+      "category": "Samsung dryer",
+      "subject": "",
+      "title": "How to Troubleshoot a Noisy Samsung Front-Load Dryer",
+      "summary": "If a Samsung front-load dryer is squeaking,...",
+      "difficulty": "Moderate",
+      "time_required_max": 10800,
+      "public": true,
+      "userid": 4642420,
+      "username": "Ben Schlichter",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4006001,
+        "guid": "GXNQxoVRBYQoSVpQ",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/GXNQxoVRBYQoSVpQ.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/GXNQxoVRBYQoSVpQ.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/GXNQxoVRBYQoSVpQ.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/GXNQxoVRBYQoSVpQ.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/GXNQxoVRBYQoSVpQ.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/GXNQxoVRBYQoSVpQ.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/GXNQxoVRBYQoSVpQ.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/GXNQxoVRBYQoSVpQ.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/GXNQxoVRBYQoSVpQ.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 207448,
+      "locale": "en",
+      "revisionid": 2328120,
+      "modified_date": 1784336273,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Troubleshoot+a+Samsung+Dryer+That+Heats+but+Won't+Dry+Clothes/207448",
+      "type": "technique",
+      "category": "Samsung dryer",
+      "subject": "",
+      "title": "How to Troubleshoot a Samsung Dryer That Heats but Won't Dry Clothes",
+      "summary": "If a Samsung dryer gets hot but clothes stay...",
+      "difficulty": "Moderate",
+      "time_required_max": 3600,
+      "public": true,
+      "userid": 4642420,
+      "username": "Ben Schlichter",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4005990,
+        "guid": "pHWRbhaOdy1GHqJ5",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/pHWRbhaOdy1GHqJ5.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/pHWRbhaOdy1GHqJ5.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/pHWRbhaOdy1GHqJ5.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/pHWRbhaOdy1GHqJ5.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/pHWRbhaOdy1GHqJ5.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/pHWRbhaOdy1GHqJ5.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/pHWRbhaOdy1GHqJ5.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/pHWRbhaOdy1GHqJ5.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/pHWRbhaOdy1GHqJ5.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 221357,
+      "locale": "en",
+      "revisionid": 2341934,
+      "modified_date": 1784337587,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Troubleshoot+a+Samsung+Dryer+That+Won't+Start+or+Spin/221357",
+      "type": "technique",
+      "category": "Samsung dryer",
+      "subject": "",
+      "title": "How to Troubleshoot a Samsung Dryer That Won't Start or Spin",
+      "summary": "Use this guide to diagnose a Samsung dryer that...",
+      "difficulty": "Moderate",
+      "time_required_max": 3600,
+      "public": true,
+      "userid": 2012381,
+      "username": "eCuration",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4251654,
+        "guid": "Ek215sWeCluQkDmC",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/Ek215sWeCluQkDmC.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/Ek215sWeCluQkDmC.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/Ek215sWeCluQkDmC.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/Ek215sWeCluQkDmC.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/Ek215sWeCluQkDmC.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/Ek215sWeCluQkDmC.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/Ek215sWeCluQkDmC.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/Ek215sWeCluQkDmC.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/Ek215sWeCluQkDmC.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 207449,
+      "locale": "en",
+      "revisionid": 2325663,
+      "modified_date": 1784336202,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Samsung+Console+Top+Dryer+Belt+and+Idler+Pulley+Replacement/207449",
+      "type": "replacement",
+      "category": "Samsung dryer",
+      "subject": "Belt and Idler Pulley",
+      "title": "Samsung Console Top Dryer Belt and Idler Pulley Replacement",
+      "summary": "If your Samsung console-top dryer won\u2019t start,...",
+      "difficulty": "Moderate",
+      "time_required_max": 7200,
+      "public": true,
+      "userid": 4642420,
+      "username": "Ben Schlichter",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4005993,
+        "guid": "t4HsmdBFRW53KQwk",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/t4HsmdBFRW53KQwk.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/t4HsmdBFRW53KQwk.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/t4HsmdBFRW53KQwk.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/t4HsmdBFRW53KQwk.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/t4HsmdBFRW53KQwk.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/t4HsmdBFRW53KQwk.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/t4HsmdBFRW53KQwk.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/t4HsmdBFRW53KQwk.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/t4HsmdBFRW53KQwk.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 162818,
+      "locale": "en",
+      "revisionid": 1961874,
+      "modified_date": 1784333808,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Samsung+DV45H7000EW+Door+Replacement/162818",
+      "type": "replacement",
+      "category": "Samsung dryer",
+      "subject": "Door",
+      "title": "Samsung DV45H7000EW Door Replacement",
+      "summary": "If the door to your Samsung DV45H7000EW dryer...",
+      "difficulty": "Easy",
+      "time_required_max": 900,
+      "public": true,
+      "userid": 4345578,
+      "username": "Angela Villarreal",
+      "flags": [],
+      "image": {
+        "id": 3057411,
+        "guid": "CWldXT6ElW3OFWbH",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/CWldXT6ElW3OFWbH.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/CWldXT6ElW3OFWbH.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/CWldXT6ElW3OFWbH.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/CWldXT6ElW3OFWbH.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/CWldXT6ElW3OFWbH.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/CWldXT6ElW3OFWbH.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/CWldXT6ElW3OFWbH.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/CWldXT6ElW3OFWbH.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/CWldXT6ElW3OFWbH.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 210844,
+      "locale": "en",
+      "revisionid": 2324843,
+      "modified_date": 1784337060,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Samsung+Dryer+Drive+Belt+and+Idler+Pulley+Replacement/210844",
+      "type": "replacement",
+      "category": "Samsung dryer",
+      "subject": "Drive Belt and Idler Pulley",
+      "title": "Samsung Dryer Drive Belt and Idler Pulley Replacement",
+      "summary": "A broken drive belt or a failed idler pulley...",
+      "difficulty": "Moderate",
+      "time_required_max": 7200,
+      "public": true,
+      "userid": 4642420,
+      "username": "Ben Schlichter",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4058925,
+        "guid": "EgUWcHprcMebK3hf",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/EgUWcHprcMebK3hf.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/EgUWcHprcMebK3hf.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/EgUWcHprcMebK3hf.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/EgUWcHprcMebK3hf.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/EgUWcHprcMebK3hf.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/EgUWcHprcMebK3hf.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/EgUWcHprcMebK3hf.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/EgUWcHprcMebK3hf.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/EgUWcHprcMebK3hf.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 207450,
+      "locale": "en",
+      "revisionid": 2333155,
+      "modified_date": 1784337741,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Samsung+Front+Load+Dryer+Disassembly/207450",
+      "type": "disassembly",
+      "category": "Samsung dryer",
+      "subject": "Front Load Dryer Assembly",
+      "title": "Samsung Front Load Dryer Disassembly",
+      "summary": "Use this guide to disassemble a Samsung...",
+      "difficulty": "Moderate",
+      "time_required_max": 10800,
+      "public": true,
+      "userid": 4642420,
+      "username": "Ben Schlichter",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4005995,
+        "guid": "YYbURrF4UDUygJWW",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/YYbURrF4UDUygJWW.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/YYbURrF4UDUygJWW.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/YYbURrF4UDUygJWW.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/YYbURrF4UDUygJWW.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/YYbURrF4UDUygJWW.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/YYbURrF4UDUygJWW.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/YYbURrF4UDUygJWW.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/YYbURrF4UDUygJWW.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/YYbURrF4UDUygJWW.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 207453,
+      "locale": "en",
+      "revisionid": 2333043,
+      "modified_date": 1784336242,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Samsung+Front+Load+Dryer+Heating+Element+Replacement/207453",
+      "type": "replacement",
+      "category": "Samsung dryer",
+      "subject": "Heating Element",
+      "title": "Samsung Front Load Dryer Heating Element Replacement",
+      "summary": "Use this guide to access and replace the...",
+      "difficulty": "Moderate",
+      "time_required_max": 10800,
+      "public": true,
+      "userid": 4642420,
+      "username": "Ben Schlichter",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4006003,
+        "guid": "bZPJyZZOAQpGnhFT",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bZPJyZZOAQpGnhFT.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bZPJyZZOAQpGnhFT.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bZPJyZZOAQpGnhFT.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bZPJyZZOAQpGnhFT.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bZPJyZZOAQpGnhFT.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bZPJyZZOAQpGnhFT.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bZPJyZZOAQpGnhFT.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bZPJyZZOAQpGnhFT.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bZPJyZZOAQpGnhFT.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 207454,
+      "locale": "en",
+      "revisionid": 2330943,
+      "modified_date": 1784336294,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Samsung+Console+Top+Dryer+Heating+Element+Replacement/207454",
+      "type": "replacement",
+      "category": "Samsung dryer",
+      "subject": "Heating Element (Top Console Type)",
+      "title": "Samsung Console Top Dryer Heating Element Replacement",
+      "summary": "If a Samsung dryer runs but won\u2019t heat, a...",
+      "difficulty": "Moderate",
+      "time_required_max": 10800,
+      "public": true,
+      "userid": 4642420,
+      "username": "Ben Schlichter",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4006005,
+        "guid": "TPwYBAKahCggR5ZM",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/TPwYBAKahCggR5ZM.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/TPwYBAKahCggR5ZM.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/TPwYBAKahCggR5ZM.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/TPwYBAKahCggR5ZM.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/TPwYBAKahCggR5ZM.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/TPwYBAKahCggR5ZM.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/TPwYBAKahCggR5ZM.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/TPwYBAKahCggR5ZM.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/TPwYBAKahCggR5ZM.full"
+      }
+    }
+  ],
+  "related_wikis": [
+    {
+      "dataType": "wiki",
+      "wikiid": 479762,
+      "langid": "en",
+      "title": "Samsung Dryer Not Heating",
+      "display_title": "Samsung Dryer Not Heating",
+      "namespace": "WIKI",
+      "summary": "Your Samsung Dryer won't heat; where do you start?  Let's break it down step by step.  Since there are both gas and electric models, we will start with the problems that both can have. Then we'll look at the electric models, then the gas models.  Hang on, we'll try and work through it.",
+      "url": "https://www.ifixit.com/Troubleshooting/Samsung_dryer/Samsung+Dryer+Not+Heating/479762",
+      "text": "Your Samsung Dryer won't heat; where do you start?  Let's break it down step by step.  Since there are both gas and electric models, we will start with the problems that both can have. Then we'll look at the electric models, then the gas models.  Hang on, we'll try and work through it.",
+      "image": {
+        "id": 2713684,
+        "guid": "1JVYMoLP66kaw1PL",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.full"
+      },
+      "modified_date": 1691700265,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 523533,
+      "langid": "en",
+      "title": "Samsung Dryer DE Code",
+      "display_title": "Samsung Dryer DE Code",
+      "namespace": "WIKI",
+      "summary": "A door error. Your machine won\u2019t run, and it gives a door error when you try. Let\u2019s walk through these fixes.",
+      "url": "https://www.ifixit.com/Troubleshooting/Samsung_dryer/Samsung+Dryer+DE+Code/523533",
+      "text": "A door error. Your machine won\u2019t run, and it gives a door error when you try. Let\u2019s walk through these fixes.",
+      "image": {
+        "id": 3101053,
+        "guid": "nSwjn1jY44phNOkL",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/nSwjn1jY44phNOkL.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/nSwjn1jY44phNOkL.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/nSwjn1jY44phNOkL.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/nSwjn1jY44phNOkL.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/nSwjn1jY44phNOkL.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/nSwjn1jY44phNOkL.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/nSwjn1jY44phNOkL.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/nSwjn1jY44phNOkL.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/nSwjn1jY44phNOkL.full"
+      },
+      "modified_date": 1697258399,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479830,
+      "langid": "en",
+      "title": "Gas Dryer Not Heating",
+      "display_title": "Gas Dryer Not Heating",
+      "namespace": "WIKI",
+      "summary": "Is your gas dryer spinning, turning on, or starting loads, but not heating up? Does the dryer complete, but your clothes are still wet? Try these fixes!",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Gas+Dryer+Not+Heating/479830",
+      "text": "Is your gas dryer spinning, turning on, or starting loads, but not heating up? Does the dryer complete, but your clothes are still wet? Try these fixes!",
+      "image": {
+        "id": 2716602,
+        "guid": "VGKaBMGIubKTY1kw",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.full"
+      },
+      "modified_date": 1714092623,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 478855,
+      "langid": "en",
+      "title": "Dryer Will Not Start",
+      "display_title": "Dryer Won't Start",
+      "namespace": "WIKI",
+      "summary": "Your clothes dryer is unresponsive, and will not turn on.  Seems to be dead, but may show some signs of life.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Will+Not+Start/478855",
+      "text": "Your clothes dryer is unresponsive, and will not turn on.  Seems to be dead, but may show some signs of life.",
+      "image": {
+        "id": 2693874,
+        "guid": "OCUUOdJ6ZwUtO2cp",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.full"
+      },
+      "modified_date": 1743020256,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479829,
+      "langid": "en",
+      "title": "Electric Dryer Not Heating",
+      "display_title": "Electric Dryer Not Heating",
+      "namespace": "WIKI",
+      "summary": "Your electric dryer isn't heating up.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Electric+Dryer+Not+Heating/479829",
+      "text": "Your electric dryer isn't heating up.",
+      "image": {
+        "id": 2716585,
+        "guid": "LDYDFtHGccaQOYsp",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.full"
+      },
+      "modified_date": 1743020717,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 478872,
+      "langid": "en",
+      "title": "Dryer Not Spinning",
+      "display_title": "Dryer Not Spinning",
+      "namespace": "WIKI",
+      "summary": "Your dryer shows some life, but won't spin or tumble the clothes. It's not turning, though there may be a humming sound.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Not+Spinning/478872",
+      "text": "Your dryer shows some life, but won't spin or tumble the clothes. It's not turning, though there may be a humming sound.",
+      "image": {
+        "id": 2693874,
+        "guid": "OCUUOdJ6ZwUtO2cp",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.full"
+      },
+      "modified_date": 1681151096,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479415,
+      "langid": "en",
+      "title": "Dryer Making Loud Noise",
+      "display_title": "Dryer Making Loud Noise",
+      "namespace": "WIKI",
+      "summary": "Is your dryer grinding, thumping, rattling or rumbling, or a combination of these?",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Making+Loud+Noise/479415",
+      "text": "Is your dryer grinding, thumping, rattling or rumbling, or a combination of these?",
+      "image": {
+        "id": 2710140,
+        "guid": "GNVTZxbAFWokVdOY",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.full"
+      },
+      "modified_date": 1681150703,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479708,
+      "langid": "en",
+      "title": "Dryer Smells Like Gas",
+      "display_title": "Dryer Smells Like Gas",
+      "namespace": "WIKI",
+      "summary": "Your dryer smells like it is leaking gas.  The odor may be especially strong when you open the door on the dryer.  Here are some steps to take to figure out what's wrong.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Smells+Like+Gas/479708",
+      "text": "Your dryer smells like it is leaking gas.  The odor may be especially strong when you open the door on the dryer.  Here are some steps to take to figure out what's wrong.",
+      "image": {
+        "id": 2711704,
+        "guid": "Q4IuO4TmGOHKqP6m",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.full"
+      },
+      "modified_date": 1702948546,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479298,
+      "langid": "en",
+      "title": "Dryer Maintenance",
+      "display_title": "Dryer Maintenance",
+      "namespace": "WIKI",
+      "summary": "Procedures for maintaining your dryer to keep it operating well.",
+      "url": "https://www.ifixit.com/Wiki/Dryer_Maintenance",
+      "text": "Procedures for maintaining your dryer to keep it operating well.",
+      "image": {
+        "id": 2706431,
+        "guid": "xSbBkkoDauPvyOrb",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.full"
+      },
+      "modified_date": 1692405485,
+      "author": 4152395
+    }
+  ],
+  "solutions_url": "https://www.ifixit.com/Answers/Device/Samsung_dryer",
+  "parts": {
+    "url": "https://www.ifixit.com/en-ca/Parts/Samsung_dryer",
+    "categories": []
+  },
+  "tools": [
+    {
+      "title": "Narwhal 6-in-1 Driver",
+      "target_url": "https://www.ifixit.com/en-ca/products/narwhal-driver-standard",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/TYxXAEakvLjTuLxZ.mini",
+      "itemcode": "IF145-552-1"
+    },
+    {
+      "title": "Digital Multimeter",
+      "target_url": "https://www.ifixit.com/en-ca/products/digital-multimeter",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/dHrHd34jgh4d6OTs.mini",
+      "itemcode": "IF145-035-8"
+    },
+    {
+      "title": "iFixit Safety Glasses",
+      "target_url": "https://www.ifixit.com/en-ca/products/ifixit-safety-glasses?variant=44989198237893",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/Rb1cHgrFiTJPqN1o.mini",
+      "itemcode": "IF145-556-1"
+    },
+    {
+      "title": "Digital Multimeter",
+      "target_url": "https://www.ifixit.com/en-ca/products/digital-multimeter",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/dHrHd34jgh4d6OTs.mini",
+      "itemcode": "IF145-035-8"
+    }
+  ],
+  "repairability_score": null,
+  "category_info": [],
+  "source_revisionid": null,
+  "diagrams": [],
+  "info": [
+    {
+      "name": "Device Category",
+      "value": "Appliance",
+      "inheritedFrom": "Appliance"
+    }
+  ],
+  "maintenance_schedule": {
+    "schedules": [],
+    "inheritedFrom": null,
+    "langid": "en"
+  }
+}

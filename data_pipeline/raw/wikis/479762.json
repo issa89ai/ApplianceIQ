@@ -1,0 +1,1398 @@
+{
+  "wikiid": 479762,
+  "langid": "en",
+  "namespace": "WIKI",
+  "title": "Samsung Dryer Not Heating",
+  "revisionid": 1070170,
+  "contents_raw": "Do the controls show a little life but the start button gets you nowhere? If your dryer acts dead and won't start, you should go to our [[Dryer Will Not Start|Dryer Won't Start page|new_window=true]].  Will your dryer spin, but only blows cold? Keep going!\n\n== First Steps ==\n\n=== Check Power or Fuel ===\n\nSometimes it happens, so you want to check some of the easier items that can cause no heat.\n\n***Electric dryer*** - Make sure it is getting proper power.\n\n* Make sure your circuit breaker for the dryer is not tripped.\n* Since electric dryers operate on 240V, they use a 2-pole breaker, and sometimes one pole trips and the other doesn't.\n* The dryer will still spin, because the dryer still has 120V available from the un-tripped breaker, and this will run the motor and controls, but won't run the heating element. ***Turn off the dryer circuit breaker completely and then turn it back on***.\n* Then go to this page on [[Dryer Will Not Start#Section_Power_at_the_Outlet|checking the outlet feeding the dryer|new_window=true]]. If the power checks ok, move on to the next steps.\n\n***Gas dryer*** - it's simple:\n\n* Make sure your gas bill is paid, especially if this is your only gas appliance.\n* Make sure the gas is connected and turned on.\n* The gas valve or cock is turned on if the handle lines up with the pipe.\n* If this happens on a first startup, check the gas supply pipe for obstructions.  This will mean disassembling the supply line and checking that it's clear.\n\n=== Maintenance ===\n\nAt this point, the next items will require that you open up your dryer cabinet.\n\n* This is a good time to do some cleaning; a dirty dryer is subject to a lot of malfunctions.\n* Since you need to open the cabinet (or case or housing), there's nothing lost in cleaning, and you get a better work area for troubleshooting.\n\nYour dryer needs proper airflow.  Bad airflow, which can be caused by plugged exhaust ducts, leads to overheating which leads to no heat.  [[Dryer Maintenance|Our Dryer Maintenance page|new_window=true]] will walk you through how to clean both your machine and your exhaust ducts and check your airflow.\n\n[comment]solutions[/comment]\n\n== Faulty Thermal Cutoff or Hi-Limit Thermostat ==\n\nThe safety systems mentioned here often function because of problems with airflow, so now is a good time to check those, especially if your dryer or ducts were dirty.\n\n* Since your dryer does spin, it is very unlikely that the thermal fuse (situated on the blower outlet on Samsung electric models) or, on gas models, the thermal cutoff (located on the blower housing) has blown, as that causes the motor to stop and not start again.\n* You should first check the thermal cutoff on your electric dryer.\n** It is located toward the front of the dryer on the heater assembly.   Check it for continuity with a multimeter.\n** If it's good, go to the next item in this list.  If it's bad, replace it along with the Hi-Limit thermostat.  Move to the control devices.\n* Check the Hi-Limit thermostat.  These can fail (they won't open) and that failure causes the Thermal Cutoff to operate.\n** The Hi-Limit is located on the burner cone on gas models.\n** The Hi-Limit is on the heater box on electric models, right next to the terminals for the heating element. The thermal cutoff is right next to it.\n** Check the Hi-Limit for continuity with a multimeter. If it's good, and the thermal cutoff didn't blow, move to the control devices. If the thermal cutoff was blown, replace the Hi-Limit as well, and then check the control devices.\n\n== Faulty Control Devices ==\n\nMost Samsung Dryers use thermistors instead of thermostats for temperature control.\n\n* In order to test the resistance of these devices you will need a tech sheet that is usually enclosed inside your dryer cabinet.\n* Check the resistances of the thermistors with a multimeter. If any of the readings are off by more than 5% for the temperature, replace the thermistor.\n** Keep in mind that a thermistor reading a higher resistance for a given temperature will signal the machine to heat up more, leading to overheating.\n** This can be the cause of thermal cutoff operation as the machine will be running hot.\n* There are frequently two thermistors on the dryer.  Check both per the tech sheet; the resistances may be very different.\n\n== Heating Element Failure (Electric Models Only) ==\n\nOn your electric dryer, the heating element can burn out over time.\n\n* You can check the resistance with a multimeter.\n* You should get a reading between 10 and 30 ohms across the contacts.\n* Anything higher or no continuity at all, and you need to replace the heating element.\n\nSome higher-end Samsung dryers may have two heating elements. (DV45 series for example)\n\n* Frequently, one is higher wattage than the other.\n* If one is burnt out while the other works, you could experience slow drying, but not necessarily no drying, especially if the lower power element is burnt out.\n\n== Faulty Ignition System or Gas Burner (Gas Models Only) ==\n\nYour Samsung gas dryer may be having a problem with igniting the gas flame. Since this is a more complex series of events we will just run over the basics here. Here's a link for the [[Dryer Not Heating#Section_No_Heat_G_Ignition_System_Failure|full information on Ignition System Failure|new_window=true]], including testing. You may need to run your dryer with some of the cabinet parts removed to check operation so use caution.\n\n* Your gas dryer uses an igniter to ignite the gas.\n* The gas valves don't open unless the igniter appears to be hot enough.\n* The device which senses this and allows the gas valves to open (and keeps the flame going) is called the flame or radiant sensor.\n* The gas valves may not open because the solenoid coils which operate them have gone bad. On newer Samsung dryers, the coils come as part of a replacement gas valve and can't be obtained separately.\n* The gas valve itself may have failed.\n* There could be a problem with your supply pipe like a piece of pipe tape in the line blocking the flow (rare if the machine was already working).\n\n== Other Causes ==\n\n* The ***moisture sensor wiring*** may be bad and give the dryer an open circuit indication (no wet clothes) and the dryer won't heat on the automatic cycles but will likely heat on the timed dry cycles. It should show about 190 ohms with wet clothes.\n* On electronic models, the ***main control board*** may be bad. Usually, there are diagnostic procedures available to check, especially if there is a tech sheet enclosed in your dryer's cabinet.\n* The ***centrifugal switch*** on the motor may have failed which will make the dryer act as though there is no airflow (no motor turning=no airflow) and it will not allow the heat source to operate.\n* The ***timer*** (if present) may be bad, and it is a good idea if all the other tests show no problem to test the timer contacts.\n[comment]conclusion[/comment]\n\n== Related Pages ==\n\n[[Dryer Will Not Start|Dryer Won't Start|new_window=true]]\n\n[[Dryer Squeaking|Dryer Squeaking|new_window=true]]\n\n[[Dryer Not Spinning|Dryer Not Spinning|new_window=true]]\n\n[[Dryer Maintenance|Dryer Maintenance|new_window=true]]\n\n[[Gas Dryer Overheating|Gas Dryer Overheating|new_window=true]]\n\n[[Electric Dryer Overheating|Electric Dryer Overheating|new_window=true]]\n\n[[Dryer Making Loud Noise|Dryer Making Loud Noise|new_window=true]]\n\n[[Dryer Stops Mid Cycle|Dryer Stops Mid Cycle|new_window=true]]\n\n[[Kenmore Dryer Not Heating|Kenmore Dryer Not Heating|new_window=true]]",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Do the controls show a little life but the start button gets you nowhere? If your dryer acts dead and won't start, you should go to our "
+          },
+          {
+            "type": "text",
+            "text": "Dryer Won't Start page",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Will Not Start",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Will+Not+Start/478855"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ".  Will your dryer spin, but only blows cold? Keep going!"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "First Steps"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Check Power or Fuel"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Sometimes it happens, so you want to check some of the easier items that can cause no heat."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Electric dryer",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " - Make sure it is getting proper power."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Make sure your circuit breaker for the dryer is not tripped."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Since electric dryers operate on 240V, they use a 2-pole breaker, and sometimes one pole trips and the other doesn't."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The dryer will still spin, because the dryer still has 120V available from the un-tripped breaker, and this will run the motor and controls, but won't run the heating element. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "Turn off the dryer circuit breaker completely and then turn it back on",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Then go to this page on "
+                  },
+                  {
+                    "type": "text",
+                    "text": "checking the outlet feeding the dryer",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Dryer Will Not Start#Section_Power_at_the_Outlet",
+                          "tag": null,
+                          "newWindow": true,
+                          "href": "/Troubleshooting/Dryer/Will+Not+Start/478855#Section_Power_at_the_Outlet"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": ". If the power checks ok, move on to the next steps."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Gas dryer",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " - it's simple:"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Make sure your gas bill is paid, especially if this is your only gas appliance."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Make sure the gas is connected and turned on."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The gas valve or cock is turned on if the handle lines up with the pipe."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If this happens on a first startup, check the gas supply pipe for obstructions.  This will mean disassembling the supply line and checking that it's clear."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Maintenance"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "At this point, the next items will require that you open up your dryer cabinet."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This is a good time to do some cleaning; a dirty dryer is subject to a lot of malfunctions."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Since you need to open the cabinet (or case or housing), there's nothing lost in cleaning, and you get a better work area for troubleshooting."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Your dryer needs proper airflow.  Bad airflow, which can be caused by plugged exhaust ducts, leads to overheating which leads to no heat.  "
+          },
+          {
+            "type": "text",
+            "text": "Our Dryer Maintenance page",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Maintenance",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Wiki/Dryer_Maintenance"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": " will walk you through how to clean both your machine and your exhaust ducts and check your airflow."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]solutions[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Faulty Thermal Cutoff or Hi-Limit Thermostat"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The safety systems mentioned here often function because of problems with airflow, so now is a good time to check those, especially if your dryer or ducts were dirty."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Since your dryer does spin, it is very unlikely that the thermal fuse (situated on the blower outlet on Samsung electric models) or, on gas models, the thermal cutoff (located on the blower housing) has blown, as that causes the motor to stop and not start again."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You should first check the thermal cutoff on your electric dryer."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "It is located toward the front of the dryer on the heater assembly.   Check it for continuity with a multimeter."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If it's good, go to the next item in this list.  If it's bad, replace it along with the Hi-Limit thermostat.  Move to the control devices."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Check the Hi-Limit thermostat.  These can fail (they won't open) and that failure causes the Thermal Cutoff to operate."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "The Hi-Limit is located on the burner cone on gas models."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "The Hi-Limit is on the heater box on electric models, right next to the terminals for the heating element. The thermal cutoff is right next to it."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Check the Hi-Limit for continuity with a multimeter. If it's good, and the thermal cutoff didn't blow, move to the control devices. If the thermal cutoff was blown, replace the Hi-Limit as well, and then check the control devices."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Faulty Control Devices"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Most Samsung Dryers use thermistors instead of thermostats for temperature control."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In order to test the resistance of these devices you will need a tech sheet that is usually enclosed inside your dryer cabinet."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Check the resistances of the thermistors with a multimeter. If any of the readings are off by more than 5% for the temperature, replace the thermistor."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Keep in mind that a thermistor reading a higher resistance for a given temperature will signal the machine to heat up more, leading to overheating."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "This can be the cause of thermal cutoff operation as the machine will be running hot."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "There are frequently two thermistors on the dryer.  Check both per the tech sheet; the resistances may be very different."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Heating Element Failure (Electric Models Only)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "On your electric dryer, the heating element can burn out over time."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You can check the resistance with a multimeter."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You should get a reading between 10 and 30 ohms across the contacts."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Anything higher or no continuity at all, and you need to replace the heating element."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Some higher-end Samsung dryers may have two heating elements. (DV45 series for example)"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Frequently, one is higher wattage than the other."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If one is burnt out while the other works, you could experience slow drying, but not necessarily no drying, especially if the lower power element is burnt out."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Faulty Ignition System or Gas Burner (Gas Models Only)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Your Samsung gas dryer may be having a problem with igniting the gas flame. Since this is a more complex series of events we will just run over the basics here. Here's a link for the "
+          },
+          {
+            "type": "text",
+            "text": "full information on Ignition System Failure",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Not Heating#Section_No_Heat_G_Ignition_System_Failure",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Not+Heating/478885#Section_No_Heat_G_Ignition_System_Failure"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", including testing. You may need to run your dryer with some of the cabinet parts removed to check operation so use caution."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Your gas dryer uses an igniter to ignite the gas."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The gas valves don't open unless the igniter appears to be hot enough."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The device which senses this and allows the gas valves to open (and keeps the flame going) is called the flame or radiant sensor."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The gas valves may not open because the solenoid coils which operate them have gone bad. On newer Samsung dryers, the coils come as part of a replacement gas valve and can't be obtained separately."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The gas valve itself may have failed."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "There could be a problem with your supply pipe like a piece of pipe tape in the line blocking the flow (rare if the machine was already working)."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Other Causes"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The "
+                  },
+                  {
+                    "type": "text",
+                    "text": "moisture sensor wiring",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " may be bad and give the dryer an open circuit indication (no wet clothes) and the dryer won't heat on the automatic cycles but will likely heat on the timed dry cycles. It should show about 190 ohms with wet clothes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "On electronic models, the "
+                  },
+                  {
+                    "type": "text",
+                    "text": "main control board",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " may be bad. Usually, there are diagnostic procedures available to check, especially if there is a tech sheet enclosed in your dryer's cabinet."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The "
+                  },
+                  {
+                    "type": "text",
+                    "text": "centrifugal switch",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " on the motor may have failed which will make the dryer act as though there is no airflow (no motor turning=no airflow) and it will not allow the heat source to operate."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The "
+                  },
+                  {
+                    "type": "text",
+                    "text": "timer",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " (if present) may be bad, and it is a good idea if all the other tests show no problem to test the timer contacts."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]conclusion[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Related Pages"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Won't Start",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Will Not Start",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Will+Not+Start/478855"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Squeaking",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Squeaking",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Squeaking/479208"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Not Spinning",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Not Spinning",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Not+Spinning/478872"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Maintenance",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Maintenance",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Wiki/Dryer_Maintenance"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Gas Dryer Overheating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Gas Dryer Overheating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Electric Dryer Overheating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Electric Dryer Overheating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Making Loud Noise",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Making Loud Noise",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Making+Loud+Noise/479415"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Stops Mid Cycle",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Stops Mid Cycle",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Stops+Mid+Cycle/479370"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Kenmore Dryer Not Heating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Kenmore Dryer Not Heating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Kenmore_Dryer/Not+Heating/479709"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "contents_rendered": "<p>Do the controls show a little life but the start button gets you nowhere? If your dryer acts dead and won't start, you should go to our <a href=\"/Troubleshooting/Dryer/Will+Not+Start/478855\" target=\"_blank\">Dryer Won't Start page</a>.  Will your dryer spin, but only blows cold? Keep going!</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_First_Steps\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_First_Steps\" class=\"header\">First Steps</h2></div>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Check_Power_or_Fuel\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h3 id=\"Section_Check_Power_or_Fuel\" class=\"header\">Check Power or Fuel</h3></div>\n\n<p>Sometimes it happens, so you want to check some of the easier items that can cause no heat.</p>\n\n<p><strong>Electric dryer</strong> - Make sure it is getting proper power.</p>\n\n<ul><li>Make sure your circuit breaker for the dryer is not tripped.</li><li>Since electric dryers operate on 240V, they use a 2-pole breaker, and sometimes one pole trips and the other doesn't.</li><li>The dryer will still spin, because the dryer still has 120V available from the un-tripped breaker, and this will run the motor and controls, but won't run the heating element. <strong>Turn off the dryer circuit breaker completely and then turn it back on</strong>.</li><li>Then go to this page on <a href=\"/Troubleshooting/Dryer/Will+Not+Start/478855#Section_Power_at_the_Outlet\" target=\"_blank\">checking the outlet feeding the dryer</a>. If the power checks ok, move on to the next steps.</li></ul>\n\n<p><strong>Gas dryer</strong> - it's simple:</p>\n\n<ul><li>Make sure your gas bill is paid, especially if this is your only gas appliance.</li><li>Make sure the gas is connected and turned on.</li><li>The gas valve or cock is turned on if the handle lines up with the pipe.</li><li>If this happens on a first startup, check the gas supply pipe for obstructions.  This will mean disassembling the supply line and checking that it's clear.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Maintenance\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h3 id=\"Section_Maintenance\" class=\"header\">Maintenance</h3></div>\n\n<p>At this point, the next items will require that you open up your dryer cabinet.</p>\n\n<ul><li>This is a good time to do some cleaning; a dirty dryer is subject to a lot of malfunctions.</li><li>Since you need to open the cabinet (or case or housing), there's nothing lost in cleaning, and you get a better work area for troubleshooting.</li></ul>\n\n<p>Your dryer needs proper airflow.  Bad airflow, which can be caused by plugged exhaust ducts, leads to overheating which leads to no heat.  <a href=\"/Wiki/Dryer_Maintenance\" target=\"_blank\">Our Dryer Maintenance page</a> will walk you through how to clean both your machine and your exhaust ducts and check your airflow.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Faulty_Thermal_Cutoff_or_Hi_Limit_Thermostat\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Faulty_Thermal_Cutoff_or_Hi_Limit_Thermostat\" class=\"header\">Faulty Thermal Cutoff or Hi-Limit Thermostat</h2></div>\n\n<p>The safety systems mentioned here often function because of problems with airflow, so now is a good time to check those, especially if your dryer or ducts were dirty.</p>\n\n<ul><li>Since your dryer does spin, it is very unlikely that the thermal fuse (situated on the blower outlet on Samsung electric models) or, on gas models, the thermal cutoff (located on the blower housing) has blown, as that causes the motor to stop and not start again.</li><li>You should first check the thermal cutoff on your electric dryer.<ul><li>It is located toward the front of the dryer on the heater assembly.   Check it for continuity with a multimeter.</li><li>If it's good, go to the next item in this list.  If it's bad, replace it along with the Hi-Limit thermostat.  Move to the control devices.</li></ul></li><li>Check the Hi-Limit thermostat.  These can fail (they won't open) and that failure causes the Thermal Cutoff to operate.<ul><li>The Hi-Limit is located on the burner cone on gas models.</li><li>The Hi-Limit is on the heater box on electric models, right next to the terminals for the heating element. The thermal cutoff is right next to it.</li><li>Check the Hi-Limit for continuity with a multimeter. If it's good, and the thermal cutoff didn't blow, move to the control devices. If the thermal cutoff was blown, replace the Hi-Limit as well, and then check the control devices.</li></ul></li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Faulty_Control_Devices\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Faulty_Control_Devices\" class=\"header\">Faulty Control Devices</h2></div>\n\n<p>Most Samsung Dryers use thermistors instead of thermostats for temperature control.</p>\n\n<ul><li>In order to test the resistance of these devices you will need a tech sheet that is usually enclosed inside your dryer cabinet.</li><li>Check the resistances of the thermistors with a multimeter. If any of the readings are off by more than 5% for the temperature, replace the thermistor.<ul><li>Keep in mind that a thermistor reading a higher resistance for a given temperature will signal the machine to heat up more, leading to overheating.</li><li>This can be the cause of thermal cutoff operation as the machine will be running hot.</li></ul></li><li>There are frequently two thermistors on the dryer.  Check both per the tech sheet; the resistances may be very different.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Heating_Element_Failure_Electric_Models_Only\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Heating_Element_Failure_Electric_Models_Only\" class=\"header\">Heating Element Failure (Electric Models Only)</h2></div>\n\n<p>On your electric dryer, the heating element can burn out over time.</p>\n\n<ul><li>You can check the resistance with a multimeter.</li><li>You should get a reading between 10 and 30 ohms across the contacts.</li><li>Anything higher or no continuity at all, and you need to replace the heating element.</li></ul>\n\n<p>Some higher-end Samsung dryers may have two heating elements. (DV45 series for example)</p>\n\n<ul><li>Frequently, one is higher wattage than the other.</li><li>If one is burnt out while the other works, you could experience slow drying, but not necessarily no drying, especially if the lower power element is burnt out.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Faulty_Ignition_System_or_Gas_Burner_Gas_Models_Only\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Faulty_Ignition_System_or_Gas_Burner_Gas_Models_Only\" class=\"header\">Faulty Ignition System or Gas Burner (Gas Models Only)</h2></div>\n\n<p>Your Samsung gas dryer may be having a problem with igniting the gas flame. Since this is a more complex series of events we will just run over the basics here. Here's a link for the <a href=\"/Troubleshooting/Dryer/Not+Heating/478885#Section_No_Heat_G_Ignition_System_Failure\" target=\"_blank\">full information on Ignition System Failure</a>, including testing. You may need to run your dryer with some of the cabinet parts removed to check operation so use caution.</p>\n\n<ul><li>Your gas dryer uses an igniter to ignite the gas.</li><li>The gas valves don't open unless the igniter appears to be hot enough.</li><li>The device which senses this and allows the gas valves to open (and keeps the flame going) is called the flame or radiant sensor.</li><li>The gas valves may not open because the solenoid coils which operate them have gone bad. On newer Samsung dryers, the coils come as part of a replacement gas valve and can't be obtained separately.</li><li>The gas valve itself may have failed.</li><li>There could be a problem with your supply pipe like a piece of pipe tape in the line blocking the flow (rare if the machine was already working).</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Other_Causes\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Other_Causes\" class=\"header\">Other Causes</h2></div>\n\n<ul><li>The <strong>moisture sensor wiring</strong> may be bad and give the dryer an open circuit indication (no wet clothes) and the dryer won't heat on the automatic cycles but will likely heat on the timed dry cycles. It should show about 190 ohms with wet clothes.</li><li>On electronic models, the <strong>main control board</strong> may be bad. Usually, there are diagnostic procedures available to check, especially if there is a tech sheet enclosed in your dryer's cabinet.</li><li>The <strong>centrifugal switch</strong> on the motor may have failed which will make the dryer act as though there is no airflow (no motor turning=no airflow) and it will not allow the heat source to operate.</li><li>The <strong>timer</strong> (if present) may be bad, and it is a good idea if all the other tests show no problem to test the timer contacts.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Related_Pages\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Related_Pages\" class=\"header\">Related Pages</h2></div>\n\n<p><a href=\"/Troubleshooting/Dryer/Will+Not+Start/478855\" target=\"_blank\">Dryer Won't Start</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Squeaking/479208\" target=\"_blank\">Dryer Squeaking</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Not+Spinning/478872\" target=\"_blank\">Dryer Not Spinning</a></p>\n\n<p><a href=\"/Wiki/Dryer_Maintenance\" target=\"_blank\">Dryer Maintenance</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355\" target=\"_blank\">Gas Dryer Overheating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356\" target=\"_blank\">Electric Dryer Overheating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Making+Loud+Noise/479415\" target=\"_blank\">Dryer Making Loud Noise</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Stops+Mid+Cycle/479370\" target=\"_blank\">Dryer Stops Mid Cycle</a></p>\n\n<p><a href=\"/Troubleshooting/Kenmore_Dryer/Not+Heating/479709\" target=\"_blank\">Kenmore Dryer Not Heating</a></p>",
+  "linked_wikis": [
+    {
+      "wikiid": 478855,
+      "namespace": "WIKI",
+      "title": "Dryer Will Not Start"
+    },
+    {
+      "wikiid": 479298,
+      "namespace": "WIKI",
+      "title": "Dryer Maintenance"
+    },
+    {
+      "wikiid": 478885,
+      "namespace": "WIKI",
+      "title": "Dryer Not Heating"
+    },
+    {
+      "wikiid": 479208,
+      "namespace": "WIKI",
+      "title": "Dryer Squeaking"
+    },
+    {
+      "wikiid": 478872,
+      "namespace": "WIKI",
+      "title": "Dryer Not Spinning"
+    },
+    {
+      "wikiid": 479355,
+      "namespace": "WIKI",
+      "title": "Gas Dryer Overheating"
+    },
+    {
+      "wikiid": 479356,
+      "namespace": "WIKI",
+      "title": "Electric Dryer Overheating"
+    },
+    {
+      "wikiid": 479415,
+      "namespace": "WIKI",
+      "title": "Dryer Making Loud Noise"
+    },
+    {
+      "wikiid": 479370,
+      "namespace": "WIKI",
+      "title": "Dryer Stops Mid Cycle"
+    },
+    {
+      "wikiid": 479709,
+      "namespace": "WIKI",
+      "title": "Kenmore Dryer Not Heating"
+    }
+  ],
+  "can_edit": true,
+  "available_langids": [
+    "en",
+    "ru"
+  ],
+  "ancestors": [
+    {
+      "dataType": "wiki",
+      "wikiid": 116976,
+      "langid": "en",
+      "title": "Samsung dryer",
+      "display_title": "Samsung Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Repair information for Samsung clothes dryers.",
+      "url": "https://www.ifixit.com/Device/Samsung_dryer",
+      "text": "Repair information for Samsung clothes dryers.",
+      "image": {
+        "id": 2913159,
+        "guid": "PkDQjnbBIAhP3VF4",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/PkDQjnbBIAhP3VF4.full"
+      },
+      "modified_date": 1757653941,
+      "author": 3945491
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 15470,
+      "langid": "en",
+      "title": "Dryer",
+      "display_title": "Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Clothes dryer repair and support guides.",
+      "url": "https://www.ifixit.com/Device/Dryer",
+      "text": "Clothes dryer repair and support guides.",
+      "image": {
+        "id": 3076729,
+        "guid": "vgNFvy6MlKqgA14d",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.full"
+      },
+      "modified_date": 1708467455,
+      "author": 524640
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 1383,
+      "langid": "en",
+      "title": "Appliance",
+      "display_title": "Appliance",
+      "namespace": "CATEGORY",
+      "summary": "Comprehensive disassembly and installation guides for home appliances.",
+      "url": "https://www.ifixit.com/Device/Appliance",
+      "text": "Comprehensive disassembly and installation guides for home appliances.",
+      "image": {
+        "id": 3076640,
+        "guid": "yuk1YxQANOYorSCI",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.full"
+      },
+      "modified_date": 1785755929,
+      "author": 225663
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 11000,
+      "langid": "en",
+      "title": "Root",
+      "display_title": "Root",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Root",
+      "text": "Repair guides, manuals, and troubleshooting help for Root. Get everything you need to repair your Root yourself.",
+      "image": {
+        "id": 243440,
+        "guid": "bhofAWyrmGwRFlak",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.full"
+      },
+      "modified_date": 1705097689,
+      "author": 1
+    }
+  ],
+  "created_date": 1659983139,
+  "modified_date": 1691700265,
+  "is_troubleshooting": true,
+  "authors": [
+    {
+      "userid": 4152395,
+      "percent": 80,
+      "username": "Bill Gilbert",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/XF2HtcnjpXb4XA6l.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4152395/Bill+Gilbert"
+    },
+    {
+      "userid": 2989458,
+      "percent": 15,
+      "username": "Austin Blakely",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/U2yM4NVNHFvF3FV3.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/2989458/Austin+Blakely"
+    },
+    {
+      "userid": 4026158,
+      "percent": 5,
+      "username": "Evan Gattuso",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/UiqiRwGMAZBCJonm.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4026158/Evan+Gattuso"
+    }
+  ],
+  "tags": [
+    "problem",
+    "problem-temperature"
+  ],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": {
+    "id": 2713684,
+    "guid": "1JVYMoLP66kaw1PL",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.large",
+    "original": "https://guide-images.cdn.ifixit.com/igi/1JVYMoLP66kaw1PL.full"
+  },
+  "documents": [],
+  "author": 4152395,
+  "display_title": "Samsung Dryer Not Heating",
+  "page_title": null,
+  "description": "Your Samsung Dryer won't heat; where do you start?  Let's break it down step by step.  Since there are both gas and electric models, we will start with the problems that both can have. Then we'll look at the electric models, then the gas models.  Hang on, we'll try and work through it.",
+  "source_revisionid": null
+}

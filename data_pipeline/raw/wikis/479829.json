@@ -1,0 +1,1373 @@
+{
+  "wikiid": 479829,
+  "langid": "en",
+  "namespace": "WIKI",
+  "title": "Electric Dryer Not Heating",
+  "revisionid": 1370355,
+  "contents_raw": "Is your dryer not drying? Is it not heating up to its job, and has no warmth?  You start it and come back later to check and find your dryer running dutifully with wet clothes still inside. Maybe a little bit more dry, but not dry enough. Maybe you come back and it has finished its cycle but the clothes are still wet.  This is the place to walk through the possible causes, so you can understand what's going on and fix it.\n\nFor a great explanation of thermostats and thermal fuses, jump to [[Electric Dryer Not Heating#Section_A_Few_Words_About_Thermostats_and_Fuses|this appendix]].\n\n[comment]solutions[/comment]\n\n== Circuit Breaker ==\n\n* [guide|181738|Make sure your circuit breaker for the dryer is not tripped].\n* Since electric dryers operate on 240V, they use a 2-pole breaker, and sometimes one pole trips and the other doesn't.\n* The dryer will still spin, because the dryer still has 120V available from the un-tripped breaker, and this will run the motor and controls, but won't run the heating element. Turn off the dryer circuit breaker completely and then turn it back on.\n\n== Thermal Fuse Blown ==\n\nAt this point, you are getting inside the dryer cabinet or housing.  Unplug the dryer first. These first three checks are of safety devices built into the dryer. If any of them have operated, you should find out why.\n\nWe start with this check because the thermal fuse is a relatively frequent culprit.  It can be a sign of other problems, so follow all the checks and don't just stop after replacing the thermal fuse if it is blown.\n\n* Make sure the thermal fuse (TF) isn't blown. [guide|25632|Use a multimeter] and check it for continuity.\n* If it shows continuity, go on to Thermal Cutoff Blown, below.\n* If there's none, it has blown. Replace it.\n* If it has blown, the dryer ***may*** still spin, but won't heat.  In other circumstances, the dryer won't run at all.  Replace the thermal fuse and...\n## If TF is blown, make sure to check that your exhaust ducts are not clogged with lint.\n## If TF is blown, also check your blower wheel as well for lint buildup or stray clothing, like a sock, which will impede airflow and cause this sort of overheating.\n## More details on properly checking dryer airflow and ducts  can be found on our [[Dryer Maintenance|Dryer Maintenance page|new_window=true]]\n## If the TF is blown, check the Thermal Cutoff (below) as well.\n## If the TF is blown, it is a good idea to just replace the Hi-Limit thermostat as well, since intermittent failures in the Hi-Limit can cause blown thermal fuses.\n\n== Thermal Cutoff Blown ==\n\nIf the thermal cutoff (TC) is blown or tripped, the dryer won't heat, but it will likely spin. Check it for continuity.\n\n* It will be located near the heat source.  Test for continuity, if it checks, it's good. If no continuity, replace it.  Occasionally these will have a reset button on them, but most of the time they are, like the TF, a one-shot device.\n* If it has blown (no Continuity), replace the Hi-Limit Thermostat as well.\n* Like the thermal fuse, [[Dryer Maintenance|check for other problems with airflow.|new_window=true]] if it is blown.\n* If the TC shows continuity, go on to the Hi-Limit thermostat check.\n\n== Hi-Limit Thermostat ==\n\nIf the ducts are clear, it's a good idea to replace the Hi-Limit thermostat.\n\n* Check it for continuity, if it has none, replace it.\n* When the Hi-Limit fails and sticks on (has continuity all the time) because of a problem, the thermal fuse or thermal cutoff will blow (both very reliable).\n* Since this Hi-Limit sticking issue could be intermittent, and the part is relatively inexpensive, replace it along with the thermal fuse and thermal cutoff, especially if either of those parts had blown.\n\n== Cycling Thermostat ==\n\nThe cycling thermostat (found down by the blower housing with 4 wires usually) can stick open, causing the dryer to think it is hot enough, and not supply heat. Disconnect it from the wiring in the dryer and test for continuity (at room temperature).  If no continuity, replace it.\n\n== Temperature Control Thermistor ==\n\n* In place of a cycling thermostat, newer machines will have a two wire device, located in the same spot.\n* It sends a variable resistance to the control board which indicates the temperature of the dryer for the control unit.\n* You will need the tech sheet for your dryer to see what the proper resistance at room temperature should be.\n* if the tested value using a multimeter isn't close to the listed value, replace the thermistor.\n\n== Heating Element Failed ==\n\nMake sure your heating element doesn't have an open circuit.\n\n* Using a multimeter you can check the resistance of the heating element.  Expect a 10-ohm reading.\n* Some dryers have two elements that are connected in parallel, you should check each portion. Expect a reading in the 10-ohm range for each.\n* If you get no continuity, [guide|181738|the heating element is bad, replace it].\n\n== Centrifugal Switch Failure ==\n\nA less common failure is the centrifugal switch on the motor.\n\n* This switch closes to maintain contact between the motor and power source and also completes the circuit for the heating element.\n* Failure of this switch will keep power from the heating element, which will prevent heat from reaching your clothes.\n* The switch contacts can be replaced independently.\n* Test the switch for continuity.\n** You will need to determine which contacts are allowing current to flow through the heating element.\n** Disconnect one terminal and then check the switch for continuity. if none, the switch needs to be replaced (or possibly cleaned, but replacing is more sure) [link|https://www.google.com/search?q=dryer+centrifugal+switch+troubleshooting&source=hp&ei=jLH6YoSvHZ-hkPIPmLm4mAY&iflsig=AJiK0e8AAAAAYvq_nDEfrvIgkouBX6YExvdpMjhmsANq&oq=dryer+centrifu&gs_lcp=Cgdnd3Mtd2l6EAEYATIFCAAQgAQyBggAEB4QFjIICAAQHhAPEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyCQgAEB4QyQMQFjoOCC4QgAQQsQMQgwEQ1AI6EQguEIAEELEDEIMBEMcBENEDOggILhCxAxCDAToUCC4QgAQQsQMQgwEQxwEQ0QMQ1AI6CwgAEIAEELEDEIMBOgsILhCABBCxAxDUAjoICC4QgAQQsQM6CwguEIAEELEDEIMBOggIABCABBDJAzoFCAAQkgM6CwguEIAEEMcBEK8BOggIABCABBCxAzoOCC4QsQMQgwEQxwEQ0QM6DggAEIAEELEDEIMBEMkDOgoIABCxAxCDARAKOgcIABCxAxAKOgQIABAKOgcIABDJAxAKOgsILhCSAxDHARCvAToKCAAQHhAPEBYQClAAWN4fYPszaABwAHgAgAGSAYgBqAySAQQzLjExmAEAoAEB&sclient=gws-wiz#kpvalbx=_GLX6YsvSJY6ekPIPnKmYoAQ15|Here's a good video that shows how].\n* If the switch operating mechanism on the motor shaft has gone bad, you will have to replace the entire motor. In this case, the dryer motor probably won't be running right either.\n\n== Timer Assembly Failure ==\n\nAnother less common failure is the timer assembly; the contacts which control the heat source may have failed. If your timer assembly has failed, you'll have to replace it, but timers can be expensive and are commonly misdiagnosed. Use a multimeter to check for voltage at the heating circuit and motor circuit before replacing the timer assembly.\n\n[comment]conclusion[/comment]\n\n== Related Pages ==\n\n[[Dryer Not Spinning|Dryer Not Spinning|new_window=true]]\n\n[[Dryer Will Not Start|Dryer Won't Start|new_window=true]]\n\n[[Dryer Squeaking|Dryer Squeaking|new_window=true]]\n\n[[Gas Dryer Overheating|Gas Dryer Overheating|new_window=true]]\n\n[[Electric Dryer Overheating|Electric Dryer Overheating|new_window=true]]\n\n[[Dryer Stops Mid Cycle|Dryer Stops Mid Cycle|new_window=true]]\n\n[[Dryer Maintenance|Dryer Maintenance|new_window=true]]\n\n[[Dryer Making Loud Noise|Dryer Making Loud Noise|new_window=true]]\n\n== A Few Words About Thermostats and Fuses ==\n\nDryers are intended to get hot, but not too hot.  Because of this, they have multiple safety and control systems built in.  The components below are the ones you will hear about and check most frequently.\n\n* Operating or cycling thermostat - This is the first line of control for the temperature of the dryer.  It turns the heat source on and off.\n\nHere is a high-limit thermostat on an electric dryer\n\n[image|2702646]\n\n* Hi-Limit Thermostat -  This shuts off the heat in the event that the operating thermostat fails, or some other condition occurs, and the dryer is overheating.  Other things like restricted airflow can cause this to operate as well.  It is located near the heat source.\n* Thermal Cutoff - An alternate version of the Thermal Fuse.  In some cases, it controls the blower motor, in others the dryer's heat source.  It may be in tandem with the Thermal Fuse.  A few are resettable.  Usually located near the heat source.\n* Thermal Fuse - The last line of defense.  When it blows it means either the machine stops completely, or it will run with NO heat.  Backs up the Hi-Limit Thermostat and Thermal Cutoff.  A relatively frequent cause, they can just fail with age as well as from heat. They are usually located on the exhaust downstream of the blower.\n\nHere's a picture of a thermal fuse (red arrow and box):\n\n[image|2701899]\n\nImage from howtofixit.net\n\n* Thermistors - These take the place of the bi-metallic thermostats.  Instead of being an on-off switch, they are a heat-operated variable resistor.  Frequently, dryers with electronic controls will employ one or more thermistors in place of thermostats.  To test them, you need a service manual for your dryer, as there will be specific resistance readings to verify.",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Is your dryer not drying? Is it not heating up to its job, and has no warmth?  You start it and come back later to check and find your dryer running dutifully with wet clothes still inside. Maybe a little bit more dry, but not dry enough. Maybe you come back and it has finished its cycle but the clothes are still wet.  This is the place to walk through the possible causes, so you can understand what's going on and fix it."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "For a great explanation of thermostats and thermal fuses, jump to "
+          },
+          {
+            "type": "text",
+            "text": "this appendix",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Electric Dryer Not Heating#Section_A_Few_Words_About_Thermostats_and_Fuses",
+                  "tag": null,
+                  "newWindow": false,
+                  "href": "/Troubleshooting/Dryer/Electric+Dryer+Not+Heating/479829#Section_A_Few_Words_About_Thermostats_and_Fuses"
+                }
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]solutions[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Circuit Breaker"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "[guide|181738|Make sure your circuit breaker for the dryer is not tripped]"
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Since electric dryers operate on 240V, they use a 2-pole breaker, and sometimes one pole trips and the other doesn't."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The dryer will still spin, because the dryer still has 120V available from the un-tripped breaker, and this will run the motor and controls, but won't run the heating element. Turn off the dryer circuit breaker completely and then turn it back on."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Thermal Fuse Blown"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "At this point, you are getting inside the dryer cabinet or housing.  Unplug the dryer first. These first three checks are of safety devices built into the dryer. If any of them have operated, you should find out why."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "We start with this check because the thermal fuse is a relatively frequent culprit.  It can be a sign of other problems, so follow all the checks and don't just stop after replacing the thermal fuse if it is blown."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Make sure the thermal fuse (TF) isn't blown. "
+                  },
+                  {
+                    "type": "text",
+                    "text": "[guide|25632|Use a multimeter]"
+                  },
+                  {
+                    "type": "text",
+                    "text": " and check it for continuity."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If it shows continuity, go on to Thermal Cutoff Blown, below."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If there's none, it has blown. Replace it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If it has blown, the dryer "
+                  },
+                  {
+                    "type": "text",
+                    "text": "may",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " still spin, but won't heat.  In other circumstances, the dryer won't run at all.  Replace the thermal fuse and..."
+                  }
+                ]
+              },
+              {
+                "type": "orderedList",
+                "attrs": {
+                  "order": 1
+                },
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If TF is blown, make sure to check that your exhaust ducts are not clogged with lint."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If TF is blown, also check your blower wheel as well for lint buildup or stray clothing, like a sock, which will impede airflow and cause this sort of overheating."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "More details on properly checking dryer airflow and ducts  can be found on our "
+                          },
+                          {
+                            "type": "text",
+                            "text": "Dryer Maintenance page",
+                            "marks": [
+                              {
+                                "type": "wikiLink",
+                                "attrs": {
+                                  "target": "Dryer Maintenance",
+                                  "tag": null,
+                                  "newWindow": true,
+                                  "href": "/Wiki/Dryer_Maintenance"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If the TF is blown, check the Thermal Cutoff (below) as well."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If the TF is blown, it is a good idea to just replace the Hi-Limit thermostat as well, since intermittent failures in the Hi-Limit can cause blown thermal fuses."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Thermal Cutoff Blown"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If the thermal cutoff (TC) is blown or tripped, the dryer won't heat, but it will likely spin. Check it for continuity."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "It will be located near the heat source.  Test for continuity, if it checks, it's good. If no continuity, replace it.  Occasionally these will have a reset button on them, but most of the time they are, like the TF, a one-shot device."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If it has blown (no Continuity), replace the Hi-Limit Thermostat as well."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Like the thermal fuse, "
+                  },
+                  {
+                    "type": "text",
+                    "text": "check for other problems with airflow.",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Dryer Maintenance",
+                          "tag": null,
+                          "newWindow": true,
+                          "href": "/Wiki/Dryer_Maintenance"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " if it is blown."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If the TC shows continuity, go on to the Hi-Limit thermostat check."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Hi-Limit Thermostat"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If the ducts are clear, it's a good idea to replace the Hi-Limit thermostat."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Check it for continuity, if it has none, replace it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "When the Hi-Limit fails and sticks on (has continuity all the time) because of a problem, the thermal fuse or thermal cutoff will blow (both very reliable)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Since this Hi-Limit sticking issue could be intermittent, and the part is relatively inexpensive, replace it along with the thermal fuse and thermal cutoff, especially if either of those parts had blown."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Cycling Thermostat"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The cycling thermostat (found down by the blower housing with 4 wires usually) can stick open, causing the dryer to think it is hot enough, and not supply heat. Disconnect it from the wiring in the dryer and test for continuity (at room temperature).  If no continuity, replace it."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Temperature Control Thermistor"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "In place of a cycling thermostat, newer machines will have a two wire device, located in the same spot."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "It sends a variable resistance to the control board which indicates the temperature of the dryer for the control unit."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "You will need the tech sheet for your dryer to see what the proper resistance at room temperature should be."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "if the tested value using a multimeter isn't close to the listed value, replace the thermistor."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Heating Element Failed"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Make sure your heating element doesn't have an open circuit."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Using a multimeter you can check the resistance of the heating element.  Expect a 10-ohm reading."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Some dryers have two elements that are connected in parallel, you should check each portion. Expect a reading in the 10-ohm range for each."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If you get no continuity, "
+                  },
+                  {
+                    "type": "text",
+                    "text": "[guide|181738|the heating element is bad, replace it]"
+                  },
+                  {
+                    "type": "text",
+                    "text": "."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Centrifugal Switch Failure"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A less common failure is the centrifugal switch on the motor."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This switch closes to maintain contact between the motor and power source and also completes the circuit for the heating element."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Failure of this switch will keep power from the heating element, which will prevent heat from reaching your clothes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The switch contacts can be replaced independently."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Test the switch for continuity."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "You will need to determine which contacts are allowing current to flow through the heating element."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Disconnect one terminal and then check the switch for continuity. if none, the switch needs to be replaced (or possibly cleaned, but replacing is more sure) "
+                          },
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "link",
+                                "attrs": {
+                                  "href": "https://www.google.com/search?q=dryer+centrifugal+switch+troubleshooting&source=hp&ei=jLH6YoSvHZ-hkPIPmLm4mAY&iflsig=AJiK0e8AAAAAYvq_nDEfrvIgkouBX6YExvdpMjhmsANq&oq=dryer+centrifu&gs_lcp=Cgdnd3Mtd2l6EAEYATIFCAAQgAQyBggAEB4QFjIICAAQHhAPEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyCQgAEB4QyQMQFjoOCC4QgAQQsQMQgwEQ1AI6EQguEIAEELEDEIMBEMcBENEDOggILhCxAxCDAToUCC4QgAQQsQMQgwEQxwEQ0QMQ1AI6CwgAEIAEELEDEIMBOgsILhCABBCxAxDUAjoICC4QgAQQsQM6CwguEIAEELEDEIMBOggIABCABBDJAzoFCAAQkgM6CwguEIAEEMcBEK8BOggIABCABBCxAzoOCC4QsQMQgwEQxwEQ0QM6DggAEIAEELEDEIMBEMkDOgoIABCxAxCDARAKOgcIABCxAxAKOgQIABAKOgcIABDJAxAKOgsILhCSAxDHARCvAToKCAAQHhAPEBYQClAAWN4fYPszaABwAHgAgAGSAYgBqAySAQQzLjExmAEAoAEB&sclient=gws-wiz#kpvalbx=_GLX6YsvSJY6ekPIPnKmYoAQ15",
+                                  "target": false
+                                }
+                              }
+                            ],
+                            "text": "Here's a good video that shows how"
+                          },
+                          {
+                            "type": "text",
+                            "text": "."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If the switch operating mechanism on the motor shaft has gone bad, you will have to replace the entire motor. In this case, the dryer motor probably won't be running right either."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Timer Assembly Failure"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Another less common failure is the timer assembly; the contacts which control the heat source may have failed. If your timer assembly has failed, you'll have to replace it, but timers can be expensive and are commonly misdiagnosed. Use a multimeter to check for voltage at the heating circuit and motor circuit before replacing the timer assembly."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]conclusion[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Related Pages"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Not Spinning",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Not Spinning",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Not+Spinning/478872"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Won't Start",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Will Not Start",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Will+Not+Start/478855"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Squeaking",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Squeaking",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Squeaking/479208"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Gas Dryer Overheating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Gas Dryer Overheating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Electric Dryer Overheating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Electric Dryer Overheating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Stops Mid Cycle",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Stops Mid Cycle",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Stops+Mid+Cycle/479370"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Maintenance",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Maintenance",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Wiki/Dryer_Maintenance"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Making Loud Noise",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Making Loud Noise",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Making+Loud+Noise/479415"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A Few Words About Thermostats and Fuses"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryers are intended to get hot, but not too hot.  Because of this, they have multiple safety and control systems built in.  The components below are the ones you will hear about and check most frequently."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Operating or cycling thermostat - This is the first line of control for the temperature of the dryer.  It turns the heat source on and off."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Here is a high-limit thermostat on an electric dryer"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[image|2702646]"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hi-Limit Thermostat -  This shuts off the heat in the event that the operating thermostat fails, or some other condition occurs, and the dryer is overheating.  Other things like restricted airflow can cause this to operate as well.  It is located near the heat source."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Thermal Cutoff - An alternate version of the Thermal Fuse.  In some cases, it controls the blower motor, in others the dryer's heat source.  It may be in tandem with the Thermal Fuse.  A few are resettable.  Usually located near the heat source."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Thermal Fuse - The last line of defense.  When it blows it means either the machine stops completely, or it will run with NO heat.  Backs up the Hi-Limit Thermostat and Thermal Cutoff.  A relatively frequent cause, they can just fail with age as well as from heat. They are usually located on the exhaust downstream of the blower."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Here's a picture of a thermal fuse (red arrow and box):"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[image|2701899]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Image from howtofixit.net"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Thermistors - These take the place of the bi-metallic thermostats.  Instead of being an on-off switch, they are a heat-operated variable resistor.  Frequently, dryers with electronic controls will employ one or more thermistors in place of thermostats.  To test them, you need a service manual for your dryer, as there will be specific resistance readings to verify."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "contents_rendered": "<p>Is your dryer not drying? Is it not heating up to its job, and has no warmth?  You start it and come back later to check and find your dryer running dutifully with wet clothes still inside. Maybe a little bit more dry, but not dry enough. Maybe you come back and it has finished its cycle but the clothes are still wet.  This is the place to walk through the possible causes, so you can understand what's going on and fix it.</p>\n\n<p>For a great explanation of thermostats and thermal fuses, jump to <a href=\"/Troubleshooting/Dryer/Electric+Dryer+Not+Heating/479829#Section_A_Few_Words_About_Thermostats_and_Fuses\">this appendix</a>.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Circuit_Breaker\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Circuit_Breaker\" class=\"header\">Circuit Breaker</h2></div>\n\n<ul><li><a href=\"/Guide/How+to+Troubleshoot+a+GE+Dryer+Not+Heating/181738\">Make sure your circuit breaker for the dryer is not tripped</a>.</li><li>Since electric dryers operate on 240V, they use a 2-pole breaker, and sometimes one pole trips and the other doesn't.</li><li>The dryer will still spin, because the dryer still has 120V available from the un-tripped breaker, and this will run the motor and controls, but won't run the heating element. Turn off the dryer circuit breaker completely and then turn it back on.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Thermal_Fuse_Blown\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Thermal_Fuse_Blown\" class=\"header\">Thermal Fuse Blown</h2></div>\n\n<p>At this point, you are getting inside the dryer cabinet or housing.  Unplug the dryer first. These first three checks are of safety devices built into the dryer. If any of them have operated, you should find out why.</p>\n\n<p>We start with this check because the thermal fuse is a relatively frequent culprit.  It can be a sign of other problems, so follow all the checks and don't just stop after replacing the thermal fuse if it is blown.</p>\n\n<ul><li>Make sure the thermal fuse (TF) isn't blown. <a href=\"/Guide/How+To+Use+A+Multimeter/25632\">Use a multimeter</a> and check it for continuity.</li><li>If it shows continuity, go on to Thermal Cutoff Blown, below.</li><li>If there's none, it has blown. Replace it.</li><li>If it has blown, the dryer <strong>may</strong> still spin, but won't heat.  In other circumstances, the dryer won't run at all.  Replace the thermal fuse and...<ol><li>If TF is blown, make sure to check that your exhaust ducts are not clogged with lint.</li><li>If TF is blown, also check your blower wheel as well for lint buildup or stray clothing, like a sock, which will impede airflow and cause this sort of overheating.</li><li>More details on properly checking dryer airflow and ducts  can be found on our <a href=\"/Wiki/Dryer_Maintenance\" target=\"_blank\">Dryer Maintenance page</a></li><li>If the TF is blown, check the Thermal Cutoff (below) as well.</li><li>If the TF is blown, it is a good idea to just replace the Hi-Limit thermostat as well, since intermittent failures in the Hi-Limit can cause blown thermal fuses.</li></ol></li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Thermal_Cutoff_Blown\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Thermal_Cutoff_Blown\" class=\"header\">Thermal Cutoff Blown</h2></div>\n\n<p>If the thermal cutoff (TC) is blown or tripped, the dryer won't heat, but it will likely spin. Check it for continuity.</p>\n\n<ul><li>It will be located near the heat source.  Test for continuity, if it checks, it's good. If no continuity, replace it.  Occasionally these will have a reset button on them, but most of the time they are, like the TF, a one-shot device.</li><li>If it has blown (no Continuity), replace the Hi-Limit Thermostat as well.</li><li>Like the thermal fuse, <a href=\"/Wiki/Dryer_Maintenance\" target=\"_blank\">check for other problems with airflow.</a> if it is blown.</li><li>If the TC shows continuity, go on to the Hi-Limit thermostat check.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Hi_Limit_Thermostat\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Hi_Limit_Thermostat\" class=\"header\">Hi-Limit Thermostat</h2></div>\n\n<p>If the ducts are clear, it's a good idea to replace the Hi-Limit thermostat.</p>\n\n<ul><li>Check it for continuity, if it has none, replace it.</li><li>When the Hi-Limit fails and sticks on (has continuity all the time) because of a problem, the thermal fuse or thermal cutoff will blow (both very reliable).</li><li>Since this Hi-Limit sticking issue could be intermittent, and the part is relatively inexpensive, replace it along with the thermal fuse and thermal cutoff, especially if either of those parts had blown.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Cycling_Thermostat\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Cycling_Thermostat\" class=\"header\">Cycling Thermostat</h2></div>\n\n<p>The cycling thermostat (found down by the blower housing with 4 wires usually) can stick open, causing the dryer to think it is hot enough, and not supply heat. Disconnect it from the wiring in the dryer and test for continuity (at room temperature).  If no continuity, replace it.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Temperature_Control_Thermistor\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Temperature_Control_Thermistor\" class=\"header\">Temperature Control Thermistor</h2></div>\n\n<ul><li>In place of a cycling thermostat, newer machines will have a two wire device, located in the same spot.</li><li>It sends a variable resistance to the control board which indicates the temperature of the dryer for the control unit.</li><li>You will need the tech sheet for your dryer to see what the proper resistance at room temperature should be.</li><li>if the tested value using a multimeter isn't close to the listed value, replace the thermistor.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Heating_Element_Failed\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Heating_Element_Failed\" class=\"header\">Heating Element Failed</h2></div>\n\n<p>Make sure your heating element doesn't have an open circuit.</p>\n\n<ul><li>Using a multimeter you can check the resistance of the heating element.  Expect a 10-ohm reading.</li><li>Some dryers have two elements that are connected in parallel, you should check each portion. Expect a reading in the 10-ohm range for each.</li><li>If you get no continuity, <a href=\"/Guide/How+to+Troubleshoot+a+GE+Dryer+Not+Heating/181738\">the heating element is bad, replace it</a>.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Centrifugal_Switch_Failure\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Centrifugal_Switch_Failure\" class=\"header\">Centrifugal Switch Failure</h2></div>\n\n<p>A less common failure is the centrifugal switch on the motor.</p>\n\n<ul><li>This switch closes to maintain contact between the motor and power source and also completes the circuit for the heating element.</li><li>Failure of this switch will keep power from the heating element, which will prevent heat from reaching your clothes.</li><li>The switch contacts can be replaced independently.</li><li>Test the switch for continuity.<ul><li>You will need to determine which contacts are allowing current to flow through the heating element.</li><li>Disconnect one terminal and then check the switch for continuity. if none, the switch needs to be replaced (or possibly cleaned, but replacing is more sure) <a href=\"https://www.google.com/search?q=dryer+centrifugal+switch+troubleshooting&amp;source=hp&amp;ei=jLH6YoSvHZ-hkPIPmLm4mAY&amp;iflsig=AJiK0e8AAAAAYvq_nDEfrvIgkouBX6YExvdpMjhmsANq&amp;oq=dryer+centrifu&amp;gs_lcp=Cgdnd3Mtd2l6EAEYATIFCAAQgAQyBggAEB4QFjIICAAQHhAPEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyCQgAEB4QyQMQFjoOCC4QgAQQsQMQgwEQ1AI6EQguEIAEELEDEIMBEMcBENEDOggILhCxAxCDAToUCC4QgAQQsQMQgwEQxwEQ0QMQ1AI6CwgAEIAEELEDEIMBOgsILhCABBCxAxDUAjoICC4QgAQQsQM6CwguEIAEELEDEIMBOggIABCABBDJAzoFCAAQkgM6CwguEIAEEMcBEK8BOggIABCABBCxAzoOCC4QsQMQgwEQxwEQ0QM6DggAEIAEELEDEIMBEMkDOgoIABCxAxCDARAKOgcIABCxAxAKOgQIABAKOgcIABDJAxAKOgsILhCSAxDHARCvAToKCAAQHhAPEBYQClAAWN4fYPszaABwAHgAgAGSAYgBqAySAQQzLjExmAEAoAEB&amp;sclient=gws-wiz#kpvalbx=_GLX6YsvSJY6ekPIPnKmYoAQ15\" rel=\"nofollow noopener noreferrer\">Here's a good video that shows how</a>.</li></ul></li><li>If the switch operating mechanism on the motor shaft has gone bad, you will have to replace the entire motor. In this case, the dryer motor probably won't be running right either.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Timer_Assembly_Failure\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Timer_Assembly_Failure\" class=\"header\">Timer Assembly Failure</h2></div>\n\n<p>Another less common failure is the timer assembly; the contacts which control the heat source may have failed. If your timer assembly has failed, you'll have to replace it, but timers can be expensive and are commonly misdiagnosed. Use a multimeter to check for voltage at the heating circuit and motor circuit before replacing the timer assembly.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Related_Pages\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Related_Pages\" class=\"header\">Related Pages</h2></div>\n\n<p><a href=\"/Troubleshooting/Dryer/Not+Spinning/478872\" target=\"_blank\">Dryer Not Spinning</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Will+Not+Start/478855\" target=\"_blank\">Dryer Won't Start</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Squeaking/479208\" target=\"_blank\">Dryer Squeaking</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355\" target=\"_blank\">Gas Dryer Overheating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356\" target=\"_blank\">Electric Dryer Overheating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Stops+Mid+Cycle/479370\" target=\"_blank\">Dryer Stops Mid Cycle</a></p>\n\n<p><a href=\"/Wiki/Dryer_Maintenance\" target=\"_blank\">Dryer Maintenance</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Making+Loud+Noise/479415\" target=\"_blank\">Dryer Making Loud Noise</a></p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_A_Few_Words_About_Thermostats_and_Fuses\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_A_Few_Words_About_Thermostats_and_Fuses\" class=\"header\">A Few Words About Thermostats and Fuses</h2></div>\n\n<p>Dryers are intended to get hot, but not too hot.  Because of this, they have multiple safety and control systems built in.  The components below are the ones you will hear about and check most frequently.</p>\n\n<ul><li>Operating or cycling thermostat - This is the first line of control for the temperature of the dryer.  It turns the heat source on and off.</li></ul>\n\n<p>Here is a high-limit thermostat on an electric dryer</p>\n\n<div class=\"imageBox imageBox_left\"><img src=\"https://guide-images.cdn.ifixit.com/igi/LSKqyQfrxWXETatF.standard\" width=\"282\" height=\"211\" class=\"hasMenu hasLarge\" alt=\"Image\" onclick=\"window.open(&quot;https:\\/\\/guide-images.cdn.ifixit.com\\/igi\\/LSKqyQfrxWXETatF.huge&quot;, '', 'width=1600,height=1200')\" /></div>\n\n<ul><li>Hi-Limit Thermostat -  This shuts off the heat in the event that the operating thermostat fails, or some other condition occurs, and the dryer is overheating.  Other things like restricted airflow can cause this to operate as well.  It is located near the heat source.</li><li>Thermal Cutoff - An alternate version of the Thermal Fuse.  In some cases, it controls the blower motor, in others the dryer's heat source.  It may be in tandem with the Thermal Fuse.  A few are resettable.  Usually located near the heat source.</li><li>Thermal Fuse - The last line of defense.  When it blows it means either the machine stops completely, or it will run with NO heat.  Backs up the Hi-Limit Thermostat and Thermal Cutoff.  A relatively frequent cause, they can just fail with age as well as from heat. They are usually located on the exhaust downstream of the blower.</li></ul>\n\n<p>Here's a picture of a thermal fuse (red arrow and box):</p>\n\n<div class=\"imageBox imageBox_left\"><img src=\"https://guide-images.cdn.ifixit.com/igi/eVAStcFHHMRDLfE6.standard\" width=\"245\" height=\"225\" class=\"hasMenu hasLarge\" alt=\"Image\" onclick=\"window.open(&quot;https:\\/\\/guide-images.cdn.ifixit.com\\/igi\\/eVAStcFHHMRDLfE6.full&quot;, '', 'width=800,height=736')\" /></div>\n\n<p>Image from howtofixit.net</p>\n\n<ul><li>Thermistors - These take the place of the bi-metallic thermostats.  Instead of being an on-off switch, they are a heat-operated variable resistor.  Frequently, dryers with electronic controls will employ one or more thermistors in place of thermostats.  To test them, you need a service manual for your dryer, as there will be specific resistance readings to verify.</li></ul>",
+  "linked_wikis": [
+    {
+      "wikiid": 479829,
+      "namespace": "WIKI",
+      "title": "Electric Dryer Not Heating"
+    },
+    {
+      "wikiid": 479298,
+      "namespace": "WIKI",
+      "title": "Dryer Maintenance"
+    },
+    {
+      "wikiid": 478872,
+      "namespace": "WIKI",
+      "title": "Dryer Not Spinning"
+    },
+    {
+      "wikiid": 478855,
+      "namespace": "WIKI",
+      "title": "Dryer Will Not Start"
+    },
+    {
+      "wikiid": 479208,
+      "namespace": "WIKI",
+      "title": "Dryer Squeaking"
+    },
+    {
+      "wikiid": 479355,
+      "namespace": "WIKI",
+      "title": "Gas Dryer Overheating"
+    },
+    {
+      "wikiid": 479356,
+      "namespace": "WIKI",
+      "title": "Electric Dryer Overheating"
+    },
+    {
+      "wikiid": 479370,
+      "namespace": "WIKI",
+      "title": "Dryer Stops Mid Cycle"
+    },
+    {
+      "wikiid": 479415,
+      "namespace": "WIKI",
+      "title": "Dryer Making Loud Noise"
+    }
+  ],
+  "can_edit": true,
+  "available_langids": [
+    "en",
+    "es",
+    "nl",
+    "pt",
+    "ru"
+  ],
+  "ancestors": [
+    {
+      "dataType": "wiki",
+      "wikiid": 15470,
+      "langid": "en",
+      "title": "Dryer",
+      "display_title": "Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Clothes dryer repair and support guides.",
+      "url": "https://www.ifixit.com/Device/Dryer",
+      "text": "Clothes dryer repair and support guides.",
+      "image": {
+        "id": 3076729,
+        "guid": "vgNFvy6MlKqgA14d",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.full"
+      },
+      "modified_date": 1708467455,
+      "author": 524640
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 1383,
+      "langid": "en",
+      "title": "Appliance",
+      "display_title": "Appliance",
+      "namespace": "CATEGORY",
+      "summary": "Comprehensive disassembly and installation guides for home appliances.",
+      "url": "https://www.ifixit.com/Device/Appliance",
+      "text": "Comprehensive disassembly and installation guides for home appliances.",
+      "image": {
+        "id": 3076640,
+        "guid": "yuk1YxQANOYorSCI",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.full"
+      },
+      "modified_date": 1785755929,
+      "author": 225663
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 11000,
+      "langid": "en",
+      "title": "Root",
+      "display_title": "Root",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Root",
+      "text": "Repair guides, manuals, and troubleshooting help for Root. Get everything you need to repair your Root yourself.",
+      "image": {
+        "id": 243440,
+        "guid": "bhofAWyrmGwRFlak",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.full"
+      },
+      "modified_date": 1705097689,
+      "author": 1
+    }
+  ],
+  "created_date": 1660153831,
+  "modified_date": 1743020717,
+  "is_troubleshooting": true,
+  "authors": [
+    {
+      "userid": 4152395,
+      "percent": 53.33,
+      "username": "Bill Gilbert",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/XF2HtcnjpXb4XA6l.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4152395/Bill+Gilbert"
+    },
+    {
+      "userid": 2989458,
+      "percent": 26.67,
+      "username": "Austin Blakely",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/U2yM4NVNHFvF3FV3.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/2989458/Austin+Blakely"
+    },
+    {
+      "userid": 4026158,
+      "percent": 13.33,
+      "username": "Evan Gattuso",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/UiqiRwGMAZBCJonm.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4026158/Evan+Gattuso"
+    },
+    {
+      "userid": 1164779,
+      "percent": 6.67,
+      "username": "nicO",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/pmfPdsbDZe4dXrUP.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/1164779/nicO"
+    }
+  ],
+  "tags": [
+    "problem",
+    "problem-temperature"
+  ],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": {
+    "id": 2716585,
+    "guid": "LDYDFtHGccaQOYsp",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.large",
+    "huge": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.huge",
+    "original": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.full"
+  },
+  "documents": [],
+  "author": 4152395,
+  "display_title": "Electric Dryer Not Heating",
+  "page_title": null,
+  "description": "Your electric dryer isn't heating up.",
+  "source_revisionid": null
+}

@@ -1,0 +1,1507 @@
+{
+  "wikiid": 479830,
+  "langid": "en",
+  "namespace": "WIKI",
+  "title": "Gas Dryer Not Heating",
+  "revisionid": 1229621,
+  "contents_raw": "Is your dryer not drying? Is it not heating up to its job, and has no warmth? You start it and come back later to check and find your dryer running dutifully with wet clothes still inside. Maybe a little bit more dry, but not dry enough. Maybe you come back and it has finished its cycle but the clothes are still wet. This is the place to walk through the possible causes, so you can understand what's going on and fix it.\n\nFor a great explanation on thermostats and thermal fuses, jump to [[Gas Dryer Not Heating#Section_A_Few_Words_About_Thermostats_and_Fuses|this appendix.]]\n\n[comment]solutions[/comment]\n\n== Gas Supply Turned Off ==\n\nMake sure the gas to your dryer is turned on.\n\n* On the gas supply pipe to your dryer, there will be a small valve that controls the gas.\n* Make sure the handle lines up with the pipe (on), and is not turned so it is 90 degrees to the pipe (off).\n\n== Ignition System Failure ==\n\nYour gas dryer relies on a multi-step chain of events to ignite the gas and also to make sure that the gas doesn't get out when it shouldn't and ignite a fire in your home. To do this, the gas valve on your machine is really two valves in one.  One valve will only allow gas to flow to the second valve if the machine is turned on and has power and the controls are set to require heat.  The second valve will only allow gas to flow to the burner if the conditions are proper for the gas to be ignited.\n\n* Your gas is usually lit by an igniter, a device that glows brightly when energized and gets hot enough to ignite the gas.\n* A device called a flame or radiant sensor monitors this igniter and causes the gas to flow when the igniter is hot enough. It will allow the gas to continue to flow as long as the gas is burning properly.\n* The solenoid coils on the gas valve can wear out over time so that they won't open the gas valve when they should.\n\nYou can check to see if this process is happening by watching the gas burner through a small observation port in the front panel of your dryer.  Just pry off the small cover with a screwdriver.  Some dryers won't have this port, but if you remove the top of the unit you can still see.  Others will have a kick panel that can be removed.  Be careful if you have to remove some of the cabinet (case) because of moving parts and possible shock hazards.\n\n* Set the dryer to a setting that will require heat and start it.\n* Make sure the setting you use requires heat and is not a cool-down time, which can be the last part of some cycles.\n* It is best to test on a high heat setting and use a timed cycle.\n* Watch the gas burner and see if the igniter glows.\n* If there is no glow at all, you will need to check the igniter itself, along with the thermal fuse (see below).\n** Unplug the dryer and open the cabinet.\n** The Igniter should show about 80-400 ohms.\n** if it is showing more resistance or no continuity at all it's bad; replace it.\n** You can check the thermal fuse for simple continuity. If none, replace it.\n* If the igniter glows and stays on for a long time (five minutes), and no flame starts, the problem is the flame (or radiant) sensor.\n* If the igniter glows and stays on for a shorter time (up to two minutes) and then goes out with no flame igniting, the problem is the gas valve coils.  Unplug the dryer, and test them for proper resistance ([link|http://500-1500|500-1500] ohms).  Replace them if they show no continuity. Here's a [link|https://www.youtube.com/watch?v=vzqGJoNwKRE|good video] to help you check them.\n\n== Thermal Fuse Blown ==\n\nBecause the thermal fuse is a relatively frequent culprit, we start with this check. It can be a sign of other problems, so follow all the checks and don't just stop with replacing the thermal fuse if it is blown.\n\n* Make sure the thermal fuse (TF) isn't blown. Check it for continuity.\n* If it shows continuity, go on to Thermal Cutoff Blown, below.\n* If there's none, it has blown. Replace it.\n* If it has blown, the dryer ***may*** still spin, but won't heat. In other circumstances the dryer won't run at all. Replace the thermal fuse and....\n## If TF is blown, make sure to check that your exhaust ducts are not clogged with lint.\n## If TF is blown, also check your blower wheel as well for lint buildup or stray clothing, like a sock, which will impede airflow and cause this sort of overheating.\n## More details on properly checking dryer airflow and ducts can be found on our [[Dryer Maintenance|Dryer Maintenance page|new_window=true]]\n## If the TF is blown, check the Thermal Cutoff (below) as well.\n## If the TF is blown, it is a good idea to just replace the Hi-Limit thermostat as well, since intermittent failures in the Hi-Limit can cause blown thermal fuses.\n\n== Thermal Cutoff Tripped ==\n\nThe thermal cutoff, if blown or tripped can also cause the dryer to not heat.\n\n* Occasionally these will have a reset button on them, but most of the time they are like the TF a one-shot device.\n* It will be located near the heat source.  Test for continuity, if it checks, it's good. If no continuity, replace it, and like the thermal fuse, [[Dryer Maintenance|check for other problems with airflow.|new_window=true]]\n\n== Hi-Limit Thermostat Open ==\n\nIf the ducts are clear, it's a good idea to replace the Hi-Limit thermostat.\n\n* When the Hi-Limit fails and sticks on because of a problem, the thermal fuse will blow (it's very reliable).\n* Since this Hi-Limit issue could be intermittent, and the part is relatively inexpensive, replace it along with the thermal fuse.\n* Check it for continuity, if it has none, replace it.\n* If the Thermal Fuse or Thermal Cutoff was blown replace the Hi-Limit as well.\n\n== Faulty Cycling Thermostat ==\n\nThe cycling thermostat can stick open, causing the dryer to think it is hot enough, and not supply heat. Disconnect it from the wiring in the dryer and test for continuity (at room temperature).  If no continuity, replace it.\n\n== Centrifugal Switch Failure ==\n\nA less common failure is the centrifugal switch on the motor.\n\n* This switch closes to maintain contact between the motor and power source, and also completes the circuit for the gas control system.\n* Failure of this switch will keep power from the gas valve, which will ultimately prevent heat from reaching your clothes.\n* The switch contacts can be replaced independently.\n* Test the switch for continuity.\n** You will need to determine which contacts are allowing current to flow through the gas valve.\n** Disconnect one terminal and then check the switch for continuity. if none, the switch needs to be replaced (or possibly cleaned, but replacing is more sure) [link|https://www.google.com/search?q=dryer+centrifugal+switch+troubleshooting&source=hp&ei=jLH6YoSvHZ-hkPIPmLm4mAY&iflsig=AJiK0e8AAAAAYvq_nDEfrvIgkouBX6YExvdpMjhmsANq&oq=dryer+centrifu&gs_lcp=Cgdnd3Mtd2l6EAEYATIFCAAQgAQyBggAEB4QFjIICAAQHhAPEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyCQgAEB4QyQMQFjoOCC4QgAQQsQMQgwEQ1AI6EQguEIAEELEDEIMBEMcBENEDOggILhCxAxCDAToUCC4QgAQQsQMQgwEQxwEQ0QMQ1AI6CwgAEIAEELEDEIMBOgsILhCABBCxAxDUAjoICC4QgAQQsQM6CwguEIAEELEDEIMBOggIABCABBDJAzoFCAAQkgM6CwguEIAEEMcBEK8BOggIABCABBCxAzoOCC4QsQMQgwEQxwEQ0QM6DggAEIAEELEDEIMBEMkDOgoIABCxAxCDARAKOgcIABCxAxAKOgQIABAKOgcIABDJAxAKOgsILhCSAxDHARCvAToKCAAQHhAPEBYQClAAWN4fYPszaABwAHgAgAGSAYgBqAySAQQzLjExmAEAoAEB&sclient=gws-wiz#kpvalbx=_GLX6YsvSJY6ekPIPnKmYoAQ15|Here's a good video that shows how].\n* If the switch operating mechanism on the motor shaft has gone bad, you will have to replace the entire motor. In this case, the dryer motor probably won't be running right either.\n\n== Timer Assembly Failure ==\n\nAnother less common failure is the timer assembly; the contacts which control the heat source may have failed. If your timer assembly has failed, you'll have to replace it, but timers can be expensive and are commonly misdiagnosed. Use a [product|IF145-035|multimeter|new_window=true] to [guide|25632|check for voltage|new_window=true] at the heating circuit and motor circuit before replacing the timer assembly.\n\n== Gas Valve Relay / Control Board Failure ==\n\nWhen all else fails, you should check the Gas Valve relay on the control board if you can locate it and if it is replaceable. You can trace the wiring from the gas valve back to the control board and note if it is connected to a device on the control board that is usually a small rectangular component. the terminals are frequently on the device itself.  Check to see if the device can be removed from the control board. If so you can try changing it out.\n\nIf that isn't possible or doesn't fix things, you can replace the control board.\n\n[comment]conclusion[/comment]\n\n== Related Pages ==\n\n[[Dryer Not Spinning|Dryer Not Spinning|new_window=true]]\n\n[[Dryer Will Not Start|Dryer Won't Start|new_window=true]]\n\n[[Dryer Squeaking|Dryer Squeaking|new_window=true]]\n\n[[Gas Dryer Overheating|Gas Dryer Overheating|new_window=true]]\n\n[[Electric Dryer Overheating|Electric Dryer Overheating|new_window=true]]\n\n[[Dryer Stops Mid Cycle|Dryer Stops Mid Cycle|new_window=true]]\n\n[[Dryer Maintenance|Dryer Maintenance|new_window=true]]\n\n[[Dryer Making Loud Noise|Dryer Making Loud Noise|new_window=true]]\n\n== Other Resources ==\n\nHere is a video on [link|https://www.youtube.com/watch?v=7KaMwV85qUI|Gas Dryer Troubleshooting]\n\n== A Few Words About Thermostats and Fuses ==\n\nDryers are intended to get hot, but not too hot. Because of this they have multiple safety and control systems built in. The components below are the ones you will hear about and check most frequently.\n\n* Operating or cycling thermostat - This is the first line of control for the temperature of the dryer. It turns the heat source on and off.\n* Hi-Limit Thermostat - This shuts off the heat in the event that the operating thermostat fails, or some other condition occurs, and the dryer is overheating. Other things like restricted airflow can cause this to operate as well. It is located near the heat source.\n* Thermal Cutoff - An alternate version of the Thermal Fuse. In some cases, it controls the blower motor, in others the dryer's heat source. It may be in tandem with the Thermal Fuse. A few are resettable. They're usually located near the heat source.\n* Thermal Fuse - The last line of defense. When it blows it means either the machine stops completely, or it will run with NO heat. It backs up the Hi-Limit Thermostat and Thermal Cutoff. A relatively frequent cause, they can just fail with age as well as from excessive heat. They are usually located on the exhaust, downstream of the blower.\n\nHere's a picture of a thermal fuse (red arrow and box):\n\n[image|2714867]\n\nImage from howtofixit.net\n\n* Thermistors - These take the place of the bi-metallic thermostats. Instead of being an on-off switch, they are a heat-operated variable resistor. Frequently, dryers with electronic controls will employ one or more thermistors in place of thermostats. To test them, you need a service manual for your dryer, as there will be specific resistance readings to verify.",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Is your dryer not drying? Is it not heating up to its job, and has no warmth? You start it and come back later to check and find your dryer running dutifully with wet clothes still inside. Maybe a little bit more dry, but not dry enough. Maybe you come back and it has finished its cycle but the clothes are still wet. This is the place to walk through the possible causes, so you can understand what's going on and fix it."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "For a great explanation on thermostats and thermal fuses, jump to "
+          },
+          {
+            "type": "text",
+            "text": "this appendix.",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Gas Dryer Not Heating#Section_A_Few_Words_About_Thermostats_and_Fuses",
+                  "tag": null,
+                  "newWindow": false,
+                  "href": "/Troubleshooting/Dryer/Gas+Dryer+Not+Heating/479830#Section_A_Few_Words_About_Thermostats_and_Fuses"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]solutions[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Gas Supply Turned Off"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Make sure the gas to your dryer is turned on."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "On the gas supply pipe to your dryer, there will be a small valve that controls the gas."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Make sure the handle lines up with the pipe (on), and is not turned so it is 90 degrees to the pipe (off)."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Ignition System Failure"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Your gas dryer relies on a multi-step chain of events to ignite the gas and also to make sure that the gas doesn't get out when it shouldn't and ignite a fire in your home. To do this, the gas valve on your machine is really two valves in one.  One valve will only allow gas to flow to the second valve if the machine is turned on and has power and the controls are set to require heat.  The second valve will only allow gas to flow to the burner if the conditions are proper for the gas to be ignited."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Your gas is usually lit by an igniter, a device that glows brightly when energized and gets hot enough to ignite the gas."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "A device called a flame or radiant sensor monitors this igniter and causes the gas to flow when the igniter is hot enough. It will allow the gas to continue to flow as long as the gas is burning properly."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The solenoid coils on the gas valve can wear out over time so that they won't open the gas valve when they should."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "You can check to see if this process is happening by watching the gas burner through a small observation port in the front panel of your dryer.  Just pry off the small cover with a screwdriver.  Some dryers won't have this port, but if you remove the top of the unit you can still see.  Others will have a kick panel that can be removed.  Be careful if you have to remove some of the cabinet (case) because of moving parts and possible shock hazards."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Set the dryer to a setting that will require heat and start it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Make sure the setting you use requires heat and is not a cool-down time, which can be the last part of some cycles."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "It is best to test on a high heat setting and use a timed cycle."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Watch the gas burner and see if the igniter glows."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If there is no glow at all, you will need to check the igniter itself, along with the thermal fuse (see below)."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Unplug the dryer and open the cabinet."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "The Igniter should show about 80-400 ohms."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "if it is showing more resistance or no continuity at all it's bad; replace it."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "You can check the thermal fuse for simple continuity. If none, replace it."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If the igniter glows and stays on for a long time (five minutes), and no flame starts, the problem is the flame (or radiant) sensor."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If the igniter glows and stays on for a shorter time (up to two minutes) and then goes out with no flame igniting, the problem is the gas valve coils.  Unplug the dryer, and test them for proper resistance ("
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "http://500-1500",
+                          "target": false
+                        }
+                      }
+                    ],
+                    "text": "500-1500"
+                  },
+                  {
+                    "type": "text",
+                    "text": " ohms).  Replace them if they show no continuity. Here's a "
+                  },
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://www.youtube.com/watch?v=vzqGJoNwKRE",
+                          "target": false
+                        }
+                      }
+                    ],
+                    "text": "good video"
+                  },
+                  {
+                    "type": "text",
+                    "text": " to help you check them."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Thermal Fuse Blown"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Because the thermal fuse is a relatively frequent culprit, we start with this check. It can be a sign of other problems, so follow all the checks and don't just stop with replacing the thermal fuse if it is blown."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Make sure the thermal fuse (TF) isn't blown. Check it for continuity."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If it shows continuity, go on to Thermal Cutoff Blown, below."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If there's none, it has blown. Replace it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If it has blown, the dryer "
+                  },
+                  {
+                    "type": "text",
+                    "text": "may",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "text": " still spin, but won't heat. In other circumstances the dryer won't run at all. Replace the thermal fuse and...."
+                  }
+                ]
+              },
+              {
+                "type": "orderedList",
+                "attrs": {
+                  "order": 1
+                },
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If TF is blown, make sure to check that your exhaust ducts are not clogged with lint."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If TF is blown, also check your blower wheel as well for lint buildup or stray clothing, like a sock, which will impede airflow and cause this sort of overheating."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "More details on properly checking dryer airflow and ducts can be found on our "
+                          },
+                          {
+                            "type": "text",
+                            "text": "Dryer Maintenance page",
+                            "marks": [
+                              {
+                                "type": "wikiLink",
+                                "attrs": {
+                                  "target": "Dryer Maintenance",
+                                  "tag": null,
+                                  "newWindow": true,
+                                  "href": "/Wiki/Dryer_Maintenance"
+                                }
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If the TF is blown, check the Thermal Cutoff (below) as well."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "If the TF is blown, it is a good idea to just replace the Hi-Limit thermostat as well, since intermittent failures in the Hi-Limit can cause blown thermal fuses."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Thermal Cutoff Tripped"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The thermal cutoff, if blown or tripped can also cause the dryer to not heat."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Occasionally these will have a reset button on them, but most of the time they are like the TF a one-shot device."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "It will be located near the heat source.  Test for continuity, if it checks, it's good. If no continuity, replace it, and like the thermal fuse, "
+                  },
+                  {
+                    "type": "text",
+                    "text": "check for other problems with airflow.",
+                    "marks": [
+                      {
+                        "type": "wikiLink",
+                        "attrs": {
+                          "target": "Dryer Maintenance",
+                          "tag": null,
+                          "newWindow": true,
+                          "href": "/Wiki/Dryer_Maintenance"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Hi-Limit Thermostat Open"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If the ducts are clear, it's a good idea to replace the Hi-Limit thermostat."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "When the Hi-Limit fails and sticks on because of a problem, the thermal fuse will blow (it's very reliable)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Since this Hi-Limit issue could be intermittent, and the part is relatively inexpensive, replace it along with the thermal fuse."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Check it for continuity, if it has none, replace it."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If the Thermal Fuse or Thermal Cutoff was blown replace the Hi-Limit as well."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Faulty Cycling Thermostat"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "The cycling thermostat can stick open, causing the dryer to think it is hot enough, and not supply heat. Disconnect it from the wiring in the dryer and test for continuity (at room temperature).  If no continuity, replace it."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Centrifugal Switch Failure"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "A less common failure is the centrifugal switch on the motor."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "This switch closes to maintain contact between the motor and power source, and also completes the circuit for the gas control system."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Failure of this switch will keep power from the gas valve, which will ultimately prevent heat from reaching your clothes."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "The switch contacts can be replaced independently."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Test the switch for continuity."
+                  }
+                ]
+              },
+              {
+                "type": "bulletList",
+                "attrs": [],
+                "content": [
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "You will need to determine which contacts are allowing current to flow through the gas valve."
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "type": "listItem",
+                    "content": [
+                      {
+                        "type": "paragraph",
+                        "content": [
+                          {
+                            "type": "text",
+                            "text": "Disconnect one terminal and then check the switch for continuity. if none, the switch needs to be replaced (or possibly cleaned, but replacing is more sure) "
+                          },
+                          {
+                            "type": "text",
+                            "marks": [
+                              {
+                                "type": "link",
+                                "attrs": {
+                                  "href": "https://www.google.com/search?q=dryer+centrifugal+switch+troubleshooting&source=hp&ei=jLH6YoSvHZ-hkPIPmLm4mAY&iflsig=AJiK0e8AAAAAYvq_nDEfrvIgkouBX6YExvdpMjhmsANq&oq=dryer+centrifu&gs_lcp=Cgdnd3Mtd2l6EAEYATIFCAAQgAQyBggAEB4QFjIICAAQHhAPEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyCQgAEB4QyQMQFjoOCC4QgAQQsQMQgwEQ1AI6EQguEIAEELEDEIMBEMcBENEDOggILhCxAxCDAToUCC4QgAQQsQMQgwEQxwEQ0QMQ1AI6CwgAEIAEELEDEIMBOgsILhCABBCxAxDUAjoICC4QgAQQsQM6CwguEIAEELEDEIMBOggIABCABBDJAzoFCAAQkgM6CwguEIAEEMcBEK8BOggIABCABBCxAzoOCC4QsQMQgwEQxwEQ0QM6DggAEIAEELEDEIMBEMkDOgoIABCxAxCDARAKOgcIABCxAxAKOgQIABAKOgcIABDJAxAKOgsILhCSAxDHARCvAToKCAAQHhAPEBYQClAAWN4fYPszaABwAHgAgAGSAYgBqAySAQQzLjExmAEAoAEB&sclient=gws-wiz#kpvalbx=_GLX6YsvSJY6ekPIPnKmYoAQ15",
+                                  "target": false
+                                }
+                              }
+                            ],
+                            "text": "Here's a good video that shows how"
+                          },
+                          {
+                            "type": "text",
+                            "text": "."
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "If the switch operating mechanism on the motor shaft has gone bad, you will have to replace the entire motor. In this case, the dryer motor probably won't be running right either."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Timer Assembly Failure"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Another less common failure is the timer assembly; the contacts which control the heat source may have failed. If your timer assembly has failed, you'll have to replace it, but timers can be expensive and are commonly misdiagnosed. Use a "
+          },
+          {
+            "type": "text",
+            "text": "[product|IF145-035|multimeter|new_window=true]"
+          },
+          {
+            "type": "text",
+            "text": " to "
+          },
+          {
+            "type": "text",
+            "text": "[guide|25632|check for voltage|new_window=true]"
+          },
+          {
+            "type": "text",
+            "text": " at the heating circuit and motor circuit before replacing the timer assembly."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Gas Valve Relay / Control Board Failure"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "When all else fails, you should check the Gas Valve relay on the control board if you can locate it and if it is replaceable. You can trace the wiring from the gas valve back to the control board and note if it is connected to a device on the control board that is usually a small rectangular component. the terminals are frequently on the device itself.  Check to see if the device can be removed from the control board. If so you can try changing it out."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "If that isn't possible or doesn't fix things, you can replace the control board."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[comment]conclusion[/comment]"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Related Pages"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Not Spinning",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Not Spinning",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Not+Spinning/478872"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Won't Start",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Will Not Start",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Will+Not+Start/478855"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Squeaking",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Squeaking",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Squeaking/479208"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Gas Dryer Overheating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Gas Dryer Overheating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Electric Dryer Overheating",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Electric Dryer Overheating",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Stops Mid Cycle",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Stops Mid Cycle",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Stops+Mid+Cycle/479370"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Maintenance",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Maintenance",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Wiki/Dryer_Maintenance"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryer Making Loud Noise",
+            "marks": [
+              {
+                "type": "wikiLink",
+                "attrs": {
+                  "target": "Dryer Making Loud Noise",
+                  "tag": null,
+                  "newWindow": true,
+                  "href": "/Troubleshooting/Dryer/Making+Loud+Noise/479415"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "Other Resources"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Here is a video on "
+          },
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "link",
+                "attrs": {
+                  "href": "https://www.youtube.com/watch?v=7KaMwV85qUI",
+                  "target": false
+                }
+              }
+            ],
+            "text": "Gas Dryer Troubleshooting"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 2
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "A Few Words About Thermostats and Fuses"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Dryers are intended to get hot, but not too hot. Because of this they have multiple safety and control systems built in. The components below are the ones you will hear about and check most frequently."
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Operating or cycling thermostat - This is the first line of control for the temperature of the dryer. It turns the heat source on and off."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Hi-Limit Thermostat - This shuts off the heat in the event that the operating thermostat fails, or some other condition occurs, and the dryer is overheating. Other things like restricted airflow can cause this to operate as well. It is located near the heat source."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Thermal Cutoff - An alternate version of the Thermal Fuse. In some cases, it controls the blower motor, in others the dryer's heat source. It may be in tandem with the Thermal Fuse. A few are resettable. They're usually located near the heat source."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Thermal Fuse - The last line of defense. When it blows it means either the machine stops completely, or it will run with NO heat. It backs up the Hi-Limit Thermostat and Thermal Cutoff. A relatively frequent cause, they can just fail with age as well as from excessive heat. They are usually located on the exhaust, downstream of the blower."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Here's a picture of a thermal fuse (red arrow and box):"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "[image|2714867]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "Image from howtofixit.net"
+          }
+        ]
+      },
+      {
+        "type": "bulletList",
+        "attrs": [],
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "Thermistors - These take the place of the bi-metallic thermostats. Instead of being an on-off switch, they are a heat-operated variable resistor. Frequently, dryers with electronic controls will employ one or more thermistors in place of thermostats. To test them, you need a service manual for your dryer, as there will be specific resistance readings to verify."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "contents_rendered": "<p>Is your dryer not drying? Is it not heating up to its job, and has no warmth? You start it and come back later to check and find your dryer running dutifully with wet clothes still inside. Maybe a little bit more dry, but not dry enough. Maybe you come back and it has finished its cycle but the clothes are still wet. This is the place to walk through the possible causes, so you can understand what's going on and fix it.</p>\n\n<p>For a great explanation on thermostats and thermal fuses, jump to <a href=\"/Troubleshooting/Dryer/Gas+Dryer+Not+Heating/479830#Section_A_Few_Words_About_Thermostats_and_Fuses\">this appendix.</a></p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Gas_Supply_Turned_Off\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Gas_Supply_Turned_Off\" class=\"header\">Gas Supply Turned Off</h2></div>\n\n<p>Make sure the gas to your dryer is turned on.</p>\n\n<ul><li>On the gas supply pipe to your dryer, there will be a small valve that controls the gas.</li><li>Make sure the handle lines up with the pipe (on), and is not turned so it is 90 degrees to the pipe (off).</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Ignition_System_Failure\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Ignition_System_Failure\" class=\"header\">Ignition System Failure</h2></div>\n\n<p>Your gas dryer relies on a multi-step chain of events to ignite the gas and also to make sure that the gas doesn't get out when it shouldn't and ignite a fire in your home. To do this, the gas valve on your machine is really two valves in one.  One valve will only allow gas to flow to the second valve if the machine is turned on and has power and the controls are set to require heat.  The second valve will only allow gas to flow to the burner if the conditions are proper for the gas to be ignited.</p>\n\n<ul><li>Your gas is usually lit by an igniter, a device that glows brightly when energized and gets hot enough to ignite the gas.</li><li>A device called a flame or radiant sensor monitors this igniter and causes the gas to flow when the igniter is hot enough. It will allow the gas to continue to flow as long as the gas is burning properly.</li><li>The solenoid coils on the gas valve can wear out over time so that they won't open the gas valve when they should.</li></ul>\n\n<p>You can check to see if this process is happening by watching the gas burner through a small observation port in the front panel of your dryer.  Just pry off the small cover with a screwdriver.  Some dryers won't have this port, but if you remove the top of the unit you can still see.  Others will have a kick panel that can be removed.  Be careful if you have to remove some of the cabinet (case) because of moving parts and possible shock hazards.</p>\n\n<ul><li>Set the dryer to a setting that will require heat and start it.</li><li>Make sure the setting you use requires heat and is not a cool-down time, which can be the last part of some cycles.</li><li>It is best to test on a high heat setting and use a timed cycle.</li><li>Watch the gas burner and see if the igniter glows.</li><li>If there is no glow at all, you will need to check the igniter itself, along with the thermal fuse (see below).<ul><li>Unplug the dryer and open the cabinet.</li><li>The Igniter should show about 80-400 ohms.</li><li>if it is showing more resistance or no continuity at all it's bad; replace it.</li><li>You can check the thermal fuse for simple continuity. If none, replace it.</li></ul></li><li>If the igniter glows and stays on for a long time (five minutes), and no flame starts, the problem is the flame (or radiant) sensor.</li><li>If the igniter glows and stays on for a shorter time (up to two minutes) and then goes out with no flame igniting, the problem is the gas valve coils.  Unplug the dryer, and test them for proper resistance (<a href=\"http://500-1500\" rel=\"nofollow noopener noreferrer\">500-1500</a> ohms).  Replace them if they show no continuity. Here's a <a href=\"https://www.youtube.com/watch?v=vzqGJoNwKRE\">good video</a> to help you check them.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Thermal_Fuse_Blown\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Thermal_Fuse_Blown\" class=\"header\">Thermal Fuse Blown</h2></div>\n\n<p>Because the thermal fuse is a relatively frequent culprit, we start with this check. It can be a sign of other problems, so follow all the checks and don't just stop with replacing the thermal fuse if it is blown.</p>\n\n<ul><li>Make sure the thermal fuse (TF) isn't blown. Check it for continuity.</li><li>If it shows continuity, go on to Thermal Cutoff Blown, below.</li><li>If there's none, it has blown. Replace it.</li><li>If it has blown, the dryer <strong>may</strong> still spin, but won't heat. In other circumstances the dryer won't run at all. Replace the thermal fuse and....<ol><li>If TF is blown, make sure to check that your exhaust ducts are not clogged with lint.</li><li>If TF is blown, also check your blower wheel as well for lint buildup or stray clothing, like a sock, which will impede airflow and cause this sort of overheating.</li><li>More details on properly checking dryer airflow and ducts can be found on our <a href=\"/Wiki/Dryer_Maintenance\" target=\"_blank\">Dryer Maintenance page</a></li><li>If the TF is blown, check the Thermal Cutoff (below) as well.</li><li>If the TF is blown, it is a good idea to just replace the Hi-Limit thermostat as well, since intermittent failures in the Hi-Limit can cause blown thermal fuses.</li></ol></li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Thermal_Cutoff_Tripped\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Thermal_Cutoff_Tripped\" class=\"header\">Thermal Cutoff Tripped</h2></div>\n\n<p>The thermal cutoff, if blown or tripped can also cause the dryer to not heat.</p>\n\n<ul><li>Occasionally these will have a reset button on them, but most of the time they are like the TF a one-shot device.</li><li>It will be located near the heat source.  Test for continuity, if it checks, it's good. If no continuity, replace it, and like the thermal fuse, <a href=\"/Wiki/Dryer_Maintenance\" target=\"_blank\">check for other problems with airflow.</a></li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Hi_Limit_Thermostat_Open\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Hi_Limit_Thermostat_Open\" class=\"header\">Hi-Limit Thermostat Open</h2></div>\n\n<p>If the ducts are clear, it's a good idea to replace the Hi-Limit thermostat.</p>\n\n<ul><li>When the Hi-Limit fails and sticks on because of a problem, the thermal fuse will blow (it's very reliable).</li><li>Since this Hi-Limit issue could be intermittent, and the part is relatively inexpensive, replace it along with the thermal fuse.</li><li>Check it for continuity, if it has none, replace it.</li><li>If the Thermal Fuse or Thermal Cutoff was blown replace the Hi-Limit as well.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Faulty_Cycling_Thermostat\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Faulty_Cycling_Thermostat\" class=\"header\">Faulty Cycling Thermostat</h2></div>\n\n<p>The cycling thermostat can stick open, causing the dryer to think it is hot enough, and not supply heat. Disconnect it from the wiring in the dryer and test for continuity (at room temperature).  If no continuity, replace it.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Centrifugal_Switch_Failure\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Centrifugal_Switch_Failure\" class=\"header\">Centrifugal Switch Failure</h2></div>\n\n<p>A less common failure is the centrifugal switch on the motor.</p>\n\n<ul><li>This switch closes to maintain contact between the motor and power source, and also completes the circuit for the gas control system.</li><li>Failure of this switch will keep power from the gas valve, which will ultimately prevent heat from reaching your clothes.</li><li>The switch contacts can be replaced independently.</li><li>Test the switch for continuity.<ul><li>You will need to determine which contacts are allowing current to flow through the gas valve.</li><li>Disconnect one terminal and then check the switch for continuity. if none, the switch needs to be replaced (or possibly cleaned, but replacing is more sure) <a href=\"https://www.google.com/search?q=dryer+centrifugal+switch+troubleshooting&amp;source=hp&amp;ei=jLH6YoSvHZ-hkPIPmLm4mAY&amp;iflsig=AJiK0e8AAAAAYvq_nDEfrvIgkouBX6YExvdpMjhmsANq&amp;oq=dryer+centrifu&amp;gs_lcp=Cgdnd3Mtd2l6EAEYATIFCAAQgAQyBggAEB4QFjIICAAQHhAPEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyBggAEB4QFjIGCAAQHhAWMgYIABAeEBYyCQgAEB4QyQMQFjoOCC4QgAQQsQMQgwEQ1AI6EQguEIAEELEDEIMBEMcBENEDOggILhCxAxCDAToUCC4QgAQQsQMQgwEQxwEQ0QMQ1AI6CwgAEIAEELEDEIMBOgsILhCABBCxAxDUAjoICC4QgAQQsQM6CwguEIAEELEDEIMBOggIABCABBDJAzoFCAAQkgM6CwguEIAEEMcBEK8BOggIABCABBCxAzoOCC4QsQMQgwEQxwEQ0QM6DggAEIAEELEDEIMBEMkDOgoIABCxAxCDARAKOgcIABCxAxAKOgQIABAKOgcIABDJAxAKOgsILhCSAxDHARCvAToKCAAQHhAPEBYQClAAWN4fYPszaABwAHgAgAGSAYgBqAySAQQzLjExmAEAoAEB&amp;sclient=gws-wiz#kpvalbx=_GLX6YsvSJY6ekPIPnKmYoAQ15\" rel=\"nofollow noopener noreferrer\">Here's a good video that shows how</a>.</li></ul></li><li>If the switch operating mechanism on the motor shaft has gone bad, you will have to replace the entire motor. In this case, the dryer motor probably won't be running right either.</li></ul>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Timer_Assembly_Failure\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Timer_Assembly_Failure\" class=\"header\">Timer Assembly Failure</h2></div>\n\n<p>Another less common failure is the timer assembly; the contacts which control the heat source may have failed. If your timer assembly has failed, you'll have to replace it, but timers can be expensive and are commonly misdiagnosed. Use a <a href=\"https://www.ifixit.com/en-ca/products/digital-multimeter\" target=\"_blank\" class=\"product-link\">multimeter</a> to <a href=\"/Guide/How+To+Use+A+Multimeter/25632\" target=\"_blank\">check for voltage</a> at the heating circuit and motor circuit before replacing the timer assembly.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Gas_Valve_Relay_Control_Board_Failure\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Gas_Valve_Relay_Control_Board_Failure\" class=\"header\">Gas Valve Relay / Control Board Failure</h2></div>\n\n<p>When all else fails, you should check the Gas Valve relay on the control board if you can locate it and if it is replaceable. You can trace the wiring from the gas valve back to the control board and note if it is connected to a device on the control board that is usually a small rectangular component. the terminals are frequently on the device itself.  Check to see if the device can be removed from the control board. If so you can try changing it out.</p>\n\n<p>If that isn't possible or doesn't fix things, you can replace the control board.</p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Related_Pages\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Related_Pages\" class=\"header\">Related Pages</h2></div>\n\n<p><a href=\"/Troubleshooting/Dryer/Not+Spinning/478872\" target=\"_blank\">Dryer Not Spinning</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Will+Not+Start/478855\" target=\"_blank\">Dryer Won't Start</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Squeaking/479208\" target=\"_blank\">Dryer Squeaking</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Gas+Dryer+Overheating/479355\" target=\"_blank\">Gas Dryer Overheating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Electric+Dryer+Overheating/479356\" target=\"_blank\">Electric Dryer Overheating</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Stops+Mid+Cycle/479370\" target=\"_blank\">Dryer Stops Mid Cycle</a></p>\n\n<p><a href=\"/Wiki/Dryer_Maintenance\" target=\"_blank\">Dryer Maintenance</a></p>\n\n<p><a href=\"/Troubleshooting/Dryer/Making+Loud+Noise/479415\" target=\"_blank\">Dryer Making Loud Noise</a></p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_Other_Resources\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_Other_Resources\" class=\"header\">Other Resources</h2></div>\n\n<p>Here is a video on <a href=\"https://www.youtube.com/watch?v=7KaMwV85qUI\">Gas Dryer Troubleshooting</a></p>\n\n<div class=\"clearer\"></div><div class=\"headerContainer\"><a class=\"selfLink\" href=\"#Section_A_Few_Words_About_Thermostats_and_Fuses\" title=\"Link to this section\" aria-hidden=\"true\" tabindex=\"-1\"><span    class=\"fa-svg-icon\"><svg width=\"16\" height=\"16\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 512\"><!--! Font Awesome Pro 6.5.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d=\"M580.3 267.2c56.2-56.2 56.2-147.3 0-203.5C526.8 10.2 440.9 7.3 383.9 57.2l-6.1 5.4c-10 8.7-11 23.9-2.3 33.9s23.9 11 33.9 2.3l6.1-5.4c38-33.2 95.2-31.3 130.9 4.4c37.4 37.4 37.4 98.1 0 135.6L433.1 346.6c-37.4 37.4-98.2 37.4-135.6 0c-35.7-35.7-37.6-92.9-4.4-130.9l4.7-5.4c8.7-10 7.7-25.1-2.3-33.9s-25.1-7.7-33.9 2.3l-4.7 5.4c-49.8 57-46.9 142.9 6.6 196.4c56.2 56.2 147.3 56.2 203.5 0L580.3 267.2zM59.7 244.8C3.5 301 3.5 392.1 59.7 448.2c53.6 53.6 139.5 56.4 196.5 6.5l6.1-5.4c10-8.7 11-23.9 2.3-33.9s-23.9-11-33.9-2.3l-6.1 5.4c-38 33.2-95.2 31.3-130.9-4.4c-37.4-37.4-37.4-98.1 0-135.6L207 165.4c37.4-37.4 98.1-37.4 135.6 0c35.7 35.7 37.6 92.9 4.4 130.9l-5.4 6.1c-8.7 10-7.7 25.1 2.3 33.9s25.1 7.7 33.9-2.3l5.4-6.1c49.9-57 47-142.9-6.5-196.5c-56.2-56.2-147.3-56.2-203.5 0L59.7 244.8z\"/></svg></span></a><h2 id=\"Section_A_Few_Words_About_Thermostats_and_Fuses\" class=\"header\">A Few Words About Thermostats and Fuses</h2></div>\n\n<p>Dryers are intended to get hot, but not too hot. Because of this they have multiple safety and control systems built in. The components below are the ones you will hear about and check most frequently.</p>\n\n<ul><li>Operating or cycling thermostat - This is the first line of control for the temperature of the dryer. It turns the heat source on and off.</li><li>Hi-Limit Thermostat - This shuts off the heat in the event that the operating thermostat fails, or some other condition occurs, and the dryer is overheating. Other things like restricted airflow can cause this to operate as well. It is located near the heat source.</li><li>Thermal Cutoff - An alternate version of the Thermal Fuse. In some cases, it controls the blower motor, in others the dryer's heat source. It may be in tandem with the Thermal Fuse. A few are resettable. They're usually located near the heat source.</li><li>Thermal Fuse - The last line of defense. When it blows it means either the machine stops completely, or it will run with NO heat. It backs up the Hi-Limit Thermostat and Thermal Cutoff. A relatively frequent cause, they can just fail with age as well as from excessive heat. They are usually located on the exhaust, downstream of the blower.</li></ul>\n\n<p>Here's a picture of a thermal fuse (red arrow and box):</p>\n\n<div class=\"imageBox imageBox_left\"><img src=\"https://guide-images.cdn.ifixit.com/igi/SNGR2AEAFRArUFvT.standard\" width=\"245\" height=\"225\" class=\"hasMenu hasLarge\" alt=\"Image\" onclick=\"window.open(&quot;https:\\/\\/guide-images.cdn.ifixit.com\\/igi\\/SNGR2AEAFRArUFvT.full&quot;, '', 'width=800,height=736')\" /></div>\n\n<p>Image from howtofixit.net</p>\n\n<ul><li>Thermistors - These take the place of the bi-metallic thermostats. Instead of being an on-off switch, they are a heat-operated variable resistor. Frequently, dryers with electronic controls will employ one or more thermistors in place of thermostats. To test them, you need a service manual for your dryer, as there will be specific resistance readings to verify.</li></ul>",
+  "linked_wikis": [
+    {
+      "wikiid": 479830,
+      "namespace": "WIKI",
+      "title": "Gas Dryer Not Heating"
+    },
+    {
+      "wikiid": 479298,
+      "namespace": "WIKI",
+      "title": "Dryer Maintenance"
+    },
+    {
+      "wikiid": 478872,
+      "namespace": "WIKI",
+      "title": "Dryer Not Spinning"
+    },
+    {
+      "wikiid": 478855,
+      "namespace": "WIKI",
+      "title": "Dryer Will Not Start"
+    },
+    {
+      "wikiid": 479208,
+      "namespace": "WIKI",
+      "title": "Dryer Squeaking"
+    },
+    {
+      "wikiid": 479355,
+      "namespace": "WIKI",
+      "title": "Gas Dryer Overheating"
+    },
+    {
+      "wikiid": 479356,
+      "namespace": "WIKI",
+      "title": "Electric Dryer Overheating"
+    },
+    {
+      "wikiid": 479370,
+      "namespace": "WIKI",
+      "title": "Dryer Stops Mid Cycle"
+    },
+    {
+      "wikiid": 479415,
+      "namespace": "WIKI",
+      "title": "Dryer Making Loud Noise"
+    }
+  ],
+  "can_edit": true,
+  "available_langids": [
+    "en",
+    "es",
+    "nl",
+    "ru"
+  ],
+  "ancestors": [
+    {
+      "dataType": "wiki",
+      "wikiid": 15470,
+      "langid": "en",
+      "title": "Dryer",
+      "display_title": "Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Clothes dryer repair and support guides.",
+      "url": "https://www.ifixit.com/Device/Dryer",
+      "text": "Clothes dryer repair and support guides.",
+      "image": {
+        "id": 3076729,
+        "guid": "vgNFvy6MlKqgA14d",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.full"
+      },
+      "modified_date": 1708467455,
+      "author": 524640
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 1383,
+      "langid": "en",
+      "title": "Appliance",
+      "display_title": "Appliance",
+      "namespace": "CATEGORY",
+      "summary": "Comprehensive disassembly and installation guides for home appliances.",
+      "url": "https://www.ifixit.com/Device/Appliance",
+      "text": "Comprehensive disassembly and installation guides for home appliances.",
+      "image": {
+        "id": 3076640,
+        "guid": "yuk1YxQANOYorSCI",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.full"
+      },
+      "modified_date": 1785755929,
+      "author": 225663
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 11000,
+      "langid": "en",
+      "title": "Root",
+      "display_title": "Root",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Root",
+      "text": "Repair guides, manuals, and troubleshooting help for Root. Get everything you need to repair your Root yourself.",
+      "image": {
+        "id": 243440,
+        "guid": "bhofAWyrmGwRFlak",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.full"
+      },
+      "modified_date": 1705097689,
+      "author": 1
+    }
+  ],
+  "created_date": 1660153889,
+  "modified_date": 1714092623,
+  "is_troubleshooting": true,
+  "authors": [
+    {
+      "userid": 4152395,
+      "percent": 43.75,
+      "username": "Bill Gilbert",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/XF2HtcnjpXb4XA6l.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4152395/Bill+Gilbert"
+    },
+    {
+      "userid": 2989458,
+      "percent": 31.25,
+      "username": "Austin Blakely",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/U2yM4NVNHFvF3FV3.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/2989458/Austin+Blakely"
+    },
+    {
+      "userid": 3762137,
+      "percent": 12.5,
+      "username": "Alisha C",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/TbusSJ5rYvIOAl2W.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/3762137/Alisha+C"
+    },
+    {
+      "userid": 4026158,
+      "percent": 12.5,
+      "username": "Evan Gattuso",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/UiqiRwGMAZBCJonm.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4026158/Evan+Gattuso"
+    }
+  ],
+  "tags": [
+    "problem",
+    "problem-temperature"
+  ],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": {
+    "id": 2716602,
+    "guid": "VGKaBMGIubKTY1kw",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.large",
+    "huge": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.huge",
+    "original": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.full"
+  },
+  "documents": [],
+  "author": 4152395,
+  "display_title": "Gas Dryer Not Heating",
+  "page_title": null,
+  "description": "Is your gas dryer spinning, turning on, or starting loads, but not heating up? Does the dryer complete, but your clothes are still wet? Try these fixes!",
+  "source_revisionid": null
+}

@@ -1,0 +1,54 @@
+{
+  "wikiid": 523236,
+  "langid": "en",
+  "namespace": "ITEM",
+  "title": "Dryer belt",
+  "revisionid": 1469922,
+  "contents_raw": "",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": []
+      }
+    ]
+  },
+  "contents_rendered": "",
+  "linked_wikis": [],
+  "can_edit": true,
+  "available_langids": [
+    "en"
+  ],
+  "ancestors": [],
+  "created_date": 1696699872,
+  "modified_date": 1782157808,
+  "is_troubleshooting": false,
+  "authors": [
+    {
+      "userid": 4389577,
+      "percent": 50,
+      "username": "Clayton Biehunko",
+      "avatar_url": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-5.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4389577/Clayton+Biehunko"
+    },
+    {
+      "userid": 4026158,
+      "percent": 50,
+      "username": "Evan Gattuso",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/UiqiRwGMAZBCJonm.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/4026158/Evan+Gattuso"
+    }
+  ],
+  "tags": [],
+  "unreviewed_machine_translation": false,
+  "flags": [],
+  "image": null,
+  "documents": [],
+  "author": 4389577,
+  "display_title": "Dryer belt",
+  "description": "",
+  "suppliers": [],
+  "source_revisionid": null,
+  "info": []
+}

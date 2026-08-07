@@ -1,0 +1,841 @@
+{
+  "wikiid": 624066,
+  "langid": "en",
+  "namespace": "CATEGORY",
+  "title": "Frigidaire Dryer",
+  "revisionid": 1480043,
+  "contents_raw": "",
+  "contents_json": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": []
+      }
+    ]
+  },
+  "contents_rendered": "",
+  "linked_wikis": [],
+  "can_edit": true,
+  "available_langids": [
+    "en",
+    "ru"
+  ],
+  "ancestors": [
+    {
+      "dataType": "wiki",
+      "wikiid": 15470,
+      "langid": "en",
+      "title": "Dryer",
+      "display_title": "Dryer",
+      "namespace": "CATEGORY",
+      "summary": "Clothes dryer repair and support guides.",
+      "url": "https://www.ifixit.com/Device/Dryer",
+      "text": "Clothes dryer repair and support guides.",
+      "image": {
+        "id": 3076729,
+        "guid": "vgNFvy6MlKqgA14d",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/vgNFvy6MlKqgA14d.full"
+      },
+      "modified_date": 1708467455,
+      "author": 524640
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 1383,
+      "langid": "en",
+      "title": "Appliance",
+      "display_title": "Appliance",
+      "namespace": "CATEGORY",
+      "summary": "Comprehensive disassembly and installation guides for home appliances.",
+      "url": "https://www.ifixit.com/Device/Appliance",
+      "text": "Comprehensive disassembly and installation guides for home appliances.",
+      "image": {
+        "id": 3076640,
+        "guid": "yuk1YxQANOYorSCI",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/yuk1YxQANOYorSCI.full"
+      },
+      "modified_date": 1785755929,
+      "author": 225663
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 11000,
+      "langid": "en",
+      "title": "Root",
+      "display_title": "Root",
+      "namespace": "CATEGORY",
+      "summary": "",
+      "url": "https://www.ifixit.com/Device/Root",
+      "text": "Repair guides, manuals, and troubleshooting help for Root. Get everything you need to repair your Root yourself.",
+      "image": {
+        "id": 243440,
+        "guid": "bhofAWyrmGwRFlak",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/bhofAWyrmGwRFlak.full"
+      },
+      "modified_date": 1705097689,
+      "author": 1
+    }
+  ],
+  "created_date": 1738659511,
+  "modified_date": 1784131347,
+  "is_troubleshooting": false,
+  "authors": [
+    {
+      "userid": 3586011,
+      "percent": 60,
+      "username": "Ines Kreissig",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/ehQS1BqSg111ZyPB.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/3586011/Ines+Kreissig"
+    },
+    {
+      "userid": 1,
+      "percent": 20,
+      "username": "iRobot",
+      "avatar_url": "https://guide-images.cdn.ifixit.com/igi/AjiayMD6LWqf5FAL.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/1/iRobot"
+    },
+    {
+      "userid": 5350058,
+      "percent": 20,
+      "username": "Albert Einstein",
+      "avatar_url": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-8.thumbnail",
+      "profile_url": "https://www.ifixit.com/User/5350058/Albert+Einstein"
+    }
+  ],
+  "tags": [],
+  "unreviewed_machine_translation": false,
+  "flags": {
+    "WIKI_NO_SUMMARY": {
+      "flagid": "WIKI_NO_SUMMARY",
+      "title": "No Summary",
+      "text": "This wiki does not have a summary. <a href=\"/Device/Edit/Frigidaire_Dryer\">Help improve this page by writing one!</a>",
+      "isFontAwesome": true,
+      "image": "clipboard"
+    }
+  },
+  "image": {
+    "id": 4603528,
+    "guid": "WlDsNjDjc3gHbWLP",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.large",
+    "huge": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.huge",
+    "original": "https://guide-images.cdn.ifixit.com/igi/WlDsNjDjc3gHbWLP.full"
+  },
+  "documents": [],
+  "author": 3586011,
+  "display_title": "Frigidaire Dryer",
+  "page_title": "Frigidaire Dryer Repair",
+  "description": "",
+  "children": [],
+  "category_lists": {},
+  "featured_guides": [],
+  "guides": [
+    {
+      "dataType": "guide",
+      "guideid": 221319,
+      "locale": "en",
+      "revisionid": 2341921,
+      "modified_date": 1784337629,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Fix+the+Frigidaire+Dryer+DR+Error+Code/221319",
+      "type": "technique",
+      "category": "Frigidaire Dryer",
+      "subject": "",
+      "title": "How to Fix the Frigidaire Dryer DR Error Code",
+      "summary": "Use this guide to diagnose a Frigidaire dryer...",
+      "difficulty": "Moderate",
+      "time_required_max": 2400,
+      "public": true,
+      "userid": 2012381,
+      "username": "eCuration",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4250846,
+        "guid": "SPvpVPOdgFXgFfHr",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/SPvpVPOdgFXgFfHr.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/SPvpVPOdgFXgFfHr.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/SPvpVPOdgFXgFfHr.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/SPvpVPOdgFXgFfHr.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/SPvpVPOdgFXgFfHr.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/SPvpVPOdgFXgFfHr.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/SPvpVPOdgFXgFfHr.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/SPvpVPOdgFXgFfHr.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/SPvpVPOdgFXgFfHr.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 221312,
+      "locale": "en",
+      "revisionid": 2341891,
+      "modified_date": 1784337594,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Fix+the+Frigidaire+Dryer+E68+Error+Code/221312",
+      "type": "technique",
+      "category": "Frigidaire Dryer",
+      "subject": "",
+      "title": "How to Fix the Frigidaire Dryer E68 Error Code",
+      "summary": "Use this guide to diagnose and repair a...",
+      "difficulty": "Moderate",
+      "time_required_max": 3600,
+      "public": true,
+      "userid": 2012381,
+      "username": "eCuration",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4250770,
+        "guid": "wpy4ALYy1TdE1psa",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/wpy4ALYy1TdE1psa.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/wpy4ALYy1TdE1psa.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/wpy4ALYy1TdE1psa.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/wpy4ALYy1TdE1psa.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/wpy4ALYy1TdE1psa.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/wpy4ALYy1TdE1psa.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/wpy4ALYy1TdE1psa.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/wpy4ALYy1TdE1psa.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/wpy4ALYy1TdE1psa.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 221332,
+      "locale": "en",
+      "revisionid": 2341879,
+      "modified_date": 1784337474,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Fix+the+Frigidaire+Dryer+E8C+Error+Code/221332",
+      "type": "technique",
+      "category": "Frigidaire Dryer",
+      "subject": "",
+      "title": "How to Fix the Frigidaire Dryer E8C Error Code",
+      "summary": "Use this guide to troubleshoot a Frigidaire...",
+      "difficulty": "Moderate",
+      "time_required_max": 3600,
+      "public": true,
+      "userid": 2012381,
+      "username": "eCuration",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4251197,
+        "guid": "S1OaZWfXylsZJodr",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/S1OaZWfXylsZJodr.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/S1OaZWfXylsZJodr.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/S1OaZWfXylsZJodr.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/S1OaZWfXylsZJodr.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/S1OaZWfXylsZJodr.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/S1OaZWfXylsZJodr.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/S1OaZWfXylsZJodr.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/S1OaZWfXylsZJodr.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/S1OaZWfXylsZJodr.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 207227,
+      "locale": "en",
+      "revisionid": 2333182,
+      "modified_date": 1784337744,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Troubleshoot+Frigidaire+Dryer+Noises/207227",
+      "type": "technique",
+      "category": "Frigidaire Dryer",
+      "subject": "",
+      "title": "How to Troubleshoot Frigidaire Dryer Noises",
+      "summary": "Your Frigidaire front-load dryer should tumble...",
+      "difficulty": "Moderate",
+      "time_required_max": 7200,
+      "public": true,
+      "userid": 4642420,
+      "username": "Ben Schlichter",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4003202,
+        "guid": "21fNBFMF31NZ4aOl",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/21fNBFMF31NZ4aOl.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/21fNBFMF31NZ4aOl.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/21fNBFMF31NZ4aOl.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/21fNBFMF31NZ4aOl.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/21fNBFMF31NZ4aOl.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/21fNBFMF31NZ4aOl.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/21fNBFMF31NZ4aOl.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/21fNBFMF31NZ4aOl.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/21fNBFMF31NZ4aOl.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 210394,
+      "locale": "en",
+      "revisionid": 2326662,
+      "modified_date": 1784337820,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Troubleshoot+No+Heat+Issues+in+a+Frigidaire+Dryer/210394",
+      "type": "technique",
+      "category": "Frigidaire Dryer",
+      "subject": "",
+      "title": "How to Troubleshoot No Heat Issues in a Frigidaire Dryer",
+      "summary": "If your Frigidaire or Electrolux stackable...",
+      "difficulty": "Moderate",
+      "time_required_max": 10800,
+      "public": true,
+      "userid": 4642420,
+      "username": "Ben Schlichter",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4051866,
+        "guid": "hJtLNTWv446FDOM6",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/hJtLNTWv446FDOM6.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/hJtLNTWv446FDOM6.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/hJtLNTWv446FDOM6.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/hJtLNTWv446FDOM6.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/hJtLNTWv446FDOM6.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/hJtLNTWv446FDOM6.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/hJtLNTWv446FDOM6.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/hJtLNTWv446FDOM6.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/hJtLNTWv446FDOM6.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 207215,
+      "locale": "en",
+      "revisionid": 2326628,
+      "modified_date": 1784336291,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/How+to+Troubleshoot+a+Frigidaire+Dryer+That+Won't+Heat/207215",
+      "type": "technique",
+      "category": "Frigidaire Dryer",
+      "subject": "",
+      "title": "How to Troubleshoot a Frigidaire Dryer That Won't Heat",
+      "summary": "Use this guide to track down and correct a...",
+      "difficulty": "Moderate",
+      "time_required_max": 7200,
+      "public": true,
+      "userid": 4642420,
+      "username": "Ben Schlichter",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4003168,
+        "guid": "j3Eqjwe4ZqqyBPV2",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/j3Eqjwe4ZqqyBPV2.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/j3Eqjwe4ZqqyBPV2.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/j3Eqjwe4ZqqyBPV2.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/j3Eqjwe4ZqqyBPV2.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/j3Eqjwe4ZqqyBPV2.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/j3Eqjwe4ZqqyBPV2.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/j3Eqjwe4ZqqyBPV2.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/j3Eqjwe4ZqqyBPV2.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/j3Eqjwe4ZqqyBPV2.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/j3Eqjwe4ZqqyBPV2.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 221331,
+      "locale": "en",
+      "revisionid": 2341864,
+      "modified_date": 1784337580,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Frigidaire+Dryer+Belt+Replacement/221331",
+      "type": "replacement",
+      "category": "Frigidaire Dryer",
+      "subject": "Belt",
+      "title": "Frigidaire Dryer Belt Replacement",
+      "summary": "Use this guide to replace a broken belt in a...",
+      "difficulty": "Moderate",
+      "time_required_max": 3600,
+      "public": true,
+      "userid": 2012381,
+      "username": "eCuration",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4251182,
+        "guid": "xqCtXEjZgXXPAHaa",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/xqCtXEjZgXXPAHaa.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/xqCtXEjZgXXPAHaa.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/xqCtXEjZgXXPAHaa.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/xqCtXEjZgXXPAHaa.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/xqCtXEjZgXXPAHaa.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/xqCtXEjZgXXPAHaa.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/xqCtXEjZgXXPAHaa.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/xqCtXEjZgXXPAHaa.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/xqCtXEjZgXXPAHaa.full"
+      }
+    },
+    {
+      "dataType": "guide",
+      "guideid": 221321,
+      "locale": "en",
+      "revisionid": 2341450,
+      "modified_date": 1784337517,
+      "prereq_modified_date": 0,
+      "url": "https://www.ifixit.com/Guide/Frigidaire+Dryer+Rear+Drum+Bearing+Replacement/221321",
+      "type": "replacement",
+      "category": "Frigidaire Dryer",
+      "subject": "Rear Drum Bearing",
+      "title": "Frigidaire Dryer Rear Drum Bearing Replacement",
+      "summary": "Use this guide to replace a worn rear drum...",
+      "difficulty": "Moderate",
+      "time_required_max": 3600,
+      "public": true,
+      "userid": 2012381,
+      "username": "eCuration",
+      "flags": [
+        "AI_VIDEO_GUIDE"
+      ],
+      "image": {
+        "id": 4250854,
+        "guid": "dcYNRbBhGXQDrNLX",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/dcYNRbBhGXQDrNLX.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/dcYNRbBhGXQDrNLX.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/dcYNRbBhGXQDrNLX.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/dcYNRbBhGXQDrNLX.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/dcYNRbBhGXQDrNLX.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/dcYNRbBhGXQDrNLX.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/dcYNRbBhGXQDrNLX.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/dcYNRbBhGXQDrNLX.large",
+        "original": "https://guide-images.cdn.ifixit.com/igi/dcYNRbBhGXQDrNLX.full"
+      }
+    }
+  ],
+  "related_wikis": [
+    {
+      "dataType": "wiki",
+      "wikiid": 479830,
+      "langid": "en",
+      "title": "Gas Dryer Not Heating",
+      "display_title": "Gas Dryer Not Heating",
+      "namespace": "WIKI",
+      "summary": "Is your gas dryer spinning, turning on, or starting loads, but not heating up? Does the dryer complete, but your clothes are still wet? Try these fixes!",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Gas+Dryer+Not+Heating/479830",
+      "text": "Is your gas dryer spinning, turning on, or starting loads, but not heating up? Does the dryer complete, but your clothes are still wet? Try these fixes!",
+      "image": {
+        "id": 2716602,
+        "guid": "VGKaBMGIubKTY1kw",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/VGKaBMGIubKTY1kw.full"
+      },
+      "modified_date": 1714092623,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 478855,
+      "langid": "en",
+      "title": "Dryer Will Not Start",
+      "display_title": "Dryer Won't Start",
+      "namespace": "WIKI",
+      "summary": "Your clothes dryer is unresponsive, and will not turn on.  Seems to be dead, but may show some signs of life.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Will+Not+Start/478855",
+      "text": "Your clothes dryer is unresponsive, and will not turn on.  Seems to be dead, but may show some signs of life.",
+      "image": {
+        "id": 2693874,
+        "guid": "OCUUOdJ6ZwUtO2cp",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.full"
+      },
+      "modified_date": 1743020256,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479829,
+      "langid": "en",
+      "title": "Electric Dryer Not Heating",
+      "display_title": "Electric Dryer Not Heating",
+      "namespace": "WIKI",
+      "summary": "Your electric dryer isn't heating up.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Electric+Dryer+Not+Heating/479829",
+      "text": "Your electric dryer isn't heating up.",
+      "image": {
+        "id": 2716585,
+        "guid": "LDYDFtHGccaQOYsp",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/LDYDFtHGccaQOYsp.full"
+      },
+      "modified_date": 1743020717,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 478872,
+      "langid": "en",
+      "title": "Dryer Not Spinning",
+      "display_title": "Dryer Not Spinning",
+      "namespace": "WIKI",
+      "summary": "Your dryer shows some life, but won't spin or tumble the clothes. It's not turning, though there may be a humming sound.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Not+Spinning/478872",
+      "text": "Your dryer shows some life, but won't spin or tumble the clothes. It's not turning, though there may be a humming sound.",
+      "image": {
+        "id": 2693874,
+        "guid": "OCUUOdJ6ZwUtO2cp",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/OCUUOdJ6ZwUtO2cp.full"
+      },
+      "modified_date": 1681151096,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479415,
+      "langid": "en",
+      "title": "Dryer Making Loud Noise",
+      "display_title": "Dryer Making Loud Noise",
+      "namespace": "WIKI",
+      "summary": "Is your dryer grinding, thumping, rattling or rumbling, or a combination of these?",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Making+Loud+Noise/479415",
+      "text": "Is your dryer grinding, thumping, rattling or rumbling, or a combination of these?",
+      "image": {
+        "id": 2710140,
+        "guid": "GNVTZxbAFWokVdOY",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/GNVTZxbAFWokVdOY.full"
+      },
+      "modified_date": 1681150703,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479708,
+      "langid": "en",
+      "title": "Dryer Smells Like Gas",
+      "display_title": "Dryer Smells Like Gas",
+      "namespace": "WIKI",
+      "summary": "Your dryer smells like it is leaking gas.  The odor may be especially strong when you open the door on the dryer.  Here are some steps to take to figure out what's wrong.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Smells+Like+Gas/479708",
+      "text": "Your dryer smells like it is leaking gas.  The odor may be especially strong when you open the door on the dryer.  Here are some steps to take to figure out what's wrong.",
+      "image": {
+        "id": 2711704,
+        "guid": "Q4IuO4TmGOHKqP6m",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/Q4IuO4TmGOHKqP6m.full"
+      },
+      "modified_date": 1702948546,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 478885,
+      "langid": "en",
+      "title": "Dryer Not Heating",
+      "display_title": "Dryer Not Heating",
+      "namespace": "WIKI",
+      "summary": "Your dryer spins, but is not heating up to dry the clothes.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Not+Heating/478885",
+      "text": "Your dryer spins, but is not heating up to dry the clothes.",
+      "image": {
+        "id": 2701897,
+        "guid": "SWLL2GOVWbyUxQWY",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/SWLL2GOVWbyUxQWY.full"
+      },
+      "modified_date": 1681160581,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479208,
+      "langid": "en",
+      "title": "Dryer Squeaking",
+      "display_title": "Dryer Squeaking",
+      "namespace": "WIKI",
+      "summary": "Your dryer is making those annoying squeaking, squealing noises as it runs.",
+      "url": "https://www.ifixit.com/Troubleshooting/Dryer/Squeaking/479208",
+      "text": "Your dryer is making those annoying squeaking, squealing noises as it runs.",
+      "image": {
+        "id": 2701896,
+        "guid": "L2mFJbygb23iPmvH",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/L2mFJbygb23iPmvH.full"
+      },
+      "modified_date": 1681151190,
+      "author": 4152395
+    },
+    {
+      "dataType": "wiki",
+      "wikiid": 479298,
+      "langid": "en",
+      "title": "Dryer Maintenance",
+      "display_title": "Dryer Maintenance",
+      "namespace": "WIKI",
+      "summary": "Procedures for maintaining your dryer to keep it operating well.",
+      "url": "https://www.ifixit.com/Wiki/Dryer_Maintenance",
+      "text": "Procedures for maintaining your dryer to keep it operating well.",
+      "image": {
+        "id": 2706431,
+        "guid": "xSbBkkoDauPvyOrb",
+        "mini": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.mini",
+        "thumbnail": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.thumbnail",
+        "140x105": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.140x105",
+        "200x150": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.200x150",
+        "standard": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.standard",
+        "440x330": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.440x330",
+        "medium": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.medium",
+        "large": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.large",
+        "huge": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.huge",
+        "original": "https://guide-images.cdn.ifixit.com/igi/xSbBkkoDauPvyOrb.full"
+      },
+      "modified_date": 1692405485,
+      "author": 4152395
+    }
+  ],
+  "solutions_url": "https://www.ifixit.com/Answers/Device/Frigidaire_Dryer",
+  "parts": {
+    "url": "https://www.ifixit.com/en-ca/Parts/Frigidaire_Dryer",
+    "categories": []
+  },
+  "tools": [
+    {
+      "title": "Narwhal 6-in-1 Driver",
+      "target_url": "https://www.ifixit.com/en-ca/products/narwhal-driver-standard",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/TYxXAEakvLjTuLxZ.mini",
+      "itemcode": "IF145-552-1"
+    },
+    {
+      "title": "Digital Multimeter",
+      "target_url": "https://www.ifixit.com/en-ca/products/digital-multimeter",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/dHrHd34jgh4d6OTs.mini",
+      "itemcode": "IF145-035-8"
+    },
+    {
+      "title": "Digital Multimeter",
+      "target_url": "https://www.ifixit.com/en-ca/products/digital-multimeter",
+      "image_url": "https://cart-products.cdn.ifixit.com/cart-products/dHrHd34jgh4d6OTs.mini",
+      "itemcode": "IF145-035-8"
+    }
+  ],
+  "repairability_score": null,
+  "category_info": [],
+  "source_revisionid": null,
+  "diagrams": [],
+  "info": [
+    {
+      "name": "Device Category",
+      "value": "Appliance",
+      "inheritedFrom": "Appliance"
+    }
+  ],
+  "maintenance_schedule": {
+    "schedules": [
+      {
+        "wiki_maintenance_scheduleid": 1199,
+        "task": "Clean internal dryer vent and lint trap",
+        "status": "active",
+        "guideid": 221332,
+        "parts": null,
+        "triggers": [
+          {
+            "trigger_type": "time",
+            "metric": "elapsed_time",
+            "unit": "months",
+            "first_interval": null,
+            "repeat_interval": 6,
+            "comparator": null,
+            "threshold": null
+          }
+        ]
+      },
+      {
+        "wiki_maintenance_scheduleid": 1200,
+        "task": "Replace drum support rollers",
+        "status": "active",
+        "guideid": 207227,
+        "parts": [
+          {
+            "name": "5304523155 - Frigidaire Dryer Drum Roller Kit With Hardware"
+          }
+        ],
+        "triggers": [
+          {
+            "trigger_type": "condition",
+            "metric": "visible_wear",
+            "unit": "score",
+            "first_interval": null,
+            "repeat_interval": null,
+            "comparator": ">=",
+            "threshold": 1
+          }
+        ]
+      },
+      {
+        "wiki_maintenance_scheduleid": 1201,
+        "task": "Replace dryer belt",
+        "status": "active",
+        "guideid": 221331,
+        "parts": [
+          {
+            "name": "Dryer belt"
+          }
+        ],
+        "triggers": [
+          {
+            "trigger_type": "condition",
+            "metric": "visible_wear",
+            "unit": "score",
+            "first_interval": null,
+            "repeat_interval": null,
+            "comparator": ">=",
+            "threshold": 1
+          }
+        ]
+      },
+      {
+        "wiki_maintenance_scheduleid": 1202,
+        "task": "Replace idler pulley",
+        "status": "active",
+        "guideid": 207227,
+        "parts": [
+          {
+            "name": "134793511 - Frigidaire Idler Arm Assembly With Pulley"
+          }
+        ],
+        "triggers": [
+          {
+            "trigger_type": "condition",
+            "metric": "visible_wear",
+            "unit": "score",
+            "first_interval": null,
+            "repeat_interval": null,
+            "comparator": ">=",
+            "threshold": 1
+          }
+        ]
+      },
+      {
+        "wiki_maintenance_scheduleid": 1203,
+        "task": "Lubricate or replace rear drum bearing",
+        "status": "active",
+        "guideid": 221321,
+        "parts": [
+          {
+            "name": "5303281153 - Frigidaire Dryer Rear Drum Bearing Kit"
+          }
+        ],
+        "triggers": [
+          {
+            "trigger_type": "condition",
+            "metric": "visible_wear",
+            "unit": "score",
+            "first_interval": null,
+            "repeat_interval": null,
+            "comparator": ">=",
+            "threshold": 1
+          }
+        ]
+      }
+    ],
+    "inheritedFrom": null,
+    "langid": "en"
+  }
+}

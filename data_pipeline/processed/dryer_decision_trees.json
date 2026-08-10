@@ -1,0 +1,698 @@
+[
+  {
+    "wikiid": 478855,
+    "title": "Dryer Will Not Start",
+    "type": "leaf",
+    "description": "Your clothes dryer is unresponsive, and will not turn on.  Seems to be dead, but may show some signs of life.",
+    "causes": [
+      {
+        "title": "Not Plugged In",
+        "steps": "Is the dryer plugged in? This isn't an insult; it happens.\n\n- Someone else might have unplugged it and forgot to plug it in again.\n- If it's unplugged, plug it in. Does it start? You're done!\n\n"
+      },
+      {
+        "title": "Tripped Breaker",
+        "steps": "Do you have power turned on at the electrical panel? What kind of dryer you have will affect how you go about this.  We'll break it down here:\n\n- Gas Dryers:\u00a0 Check the circuit breaker at the panel that feeds the outlet for the dryer. - It may be marked \u201cLaundry\u201d for example because this kind of dryer can share an outlet with your washing machine.\n- Is it tripped or off? If so, turn it on.\n- Electric Dryers: Check the circuit breaker (or breakers) that are probably marked \u201cDryer\u201d on the panel.\n- On older homes, this breaker may be two breakers or a breaker with two handles.\n- In either case, the handles may be tied together with a rod or clip. - Occasionally, only one breaker of the pair will trip, especially with older panels.\n- Make sure both breakers are on. A good way to ensure this is to turn them both off and then turn them both on again.\n- If the breaker has only one handle, is it tripped or off?   If so, turn it on.\n\nCheck the dryer. Does it start? If it does, you're done!\n\n"
+      },
+      {
+        "title": "No Power at the Outlet",
+        "steps": "You've checked the breakers; they look good, but still no response.  Now it gets a little more involved, but still fairly easy.\n\nYou want to make sure that you are getting the right voltage at the outlet.   The steps for gas dryers and electric dryers are different.  Here's how to check.  You'll need something to measure AC voltage with, like a simple multimeter.\n\nFor Gas Dryers:\n\n- A time saver: if your washing machine works, and is plugged into the same pair of outlets, swap the plugs and see if your washing machine still works in the dryer's outlet.  If so, it's time to move to the next step for the dryer.\n- If you're using a meter, there should be about 120V\u00a0between the two slot\u00a0holes in the outlet (receptacle). If ok, skip ahead to the next possible cause.\n\nFor Electric Dryers, it is a little more complicated here. There are two types of\u00a0receptacles (outlets) encountered.  Look at the diagrams.\n\n[image|2693284]\n\n[image|2693347]\n\n- Older homes\u00a0will have the NEMA 10-30 3-hole receptacle layout. Newer homes will have the NEMA 14-30 4-hole layout for receptacles. - If you have the NEMA 14 layout\u00a0you should have 240V between the two \u201cline\u201d contacts on the receptacle.\n- For NEMA 10 you should have 240V between the two line contacts.\n- If you don't have 240V and instead have around 208 volts (you're probably in an apartment), that's ok, just check to see that you have 120 volts from each of the \"line\" contacts, to the neutral contact. Is the voltage ok?  Move on to the next step.\n- If all readings show good voltage, move to the next step.\n\nIf you don't have the right voltage (it's under 200V) you need to find out why. At this point calling an electrician may be the best thing.\n\nThere is a condition that can very occasionally occur, which will give good readings for voltage but will not allow the dryer to operate properly.  It usually involves a splice somewhere in the feed to the dryer which is still connected but is a very poor connection.  This is something for an electrician to locate.  For more info, check out this article about electrical wiring involving dryers.\n\n"
+      },
+      {
+        "title": "Damaged Cord or Plug",
+        "steps": "This last step, before we consider what's going on inside the dryer, is pretty straightforward.\n\n- Physically inspect the whole cord.  Does it have a really bad kink,  or has it been crushed or cut?\n- If it looks ok outwardly, you should physically move it around, especially at the plug, and at the back of the dryer where it goes in to the machine.  Move it a lot\u2014just wiggling it a bit probably won't work. You're checking to see if something is loose or broken. - If there is a change when you do this, like the machine shows some life, maybe intermittently, you may need to replace the cord on your appliance after you check to see if the cord connections are ok.\n- Unplug the dryer.  Check the cord connection near the rear of the dryer (you may have to open up a small cover, on the cabinet).  If a connection is loose, you will need to tighten it.\n- If there was no response, you need to start looking inside the unit.\n\n"
+      },
+      {
+        "title": "Faulty Door Switch",
+        "steps": "- Some dryers may show some signs of life, like a humming timer motor, but won't turn on and tumble the clothes when the start button is pressed.\n- On older or simpler dryers, if the door switch goes bad, the dryer acts completely dead.\n\nThe door switch can be more readily checked from the outside of the dryer, so we do it first.\n\n- A quick check is to plug the dryer in and try to operate the door switch with a pencil or your finger, listen for a click, and see if the dryer starts.\n- If it does start, you know the switch can work. - Check that your dryer door is not damaged or bent.\n- Some dryers have a small boss or probe that operates the door switch, if this is broken it will not work. Replace it.\n- If the door's ok,  the switch may work, but be worn out or have a broken operating lever so that the door won't operate it anymore,\n- Check to see if the switch has come loose or wiggles. - If it's snug, replace it, it's worn out.\n- If it wiggles or is loose, tighten it, then check it again with the door. If it doesn't work, replace it.\n- If there's no click, and it doesn't start, unplug the dryer. It's time to test it with a meter. - Disconnect one terminal on the switch.\n- Using a multimeter set to the continuity or Rx1 setting to check the switch.\n- When the switch is pushed it should show continuity. If it doesn't, replace it.\n- If it tests good, move on to the start switch.\n\n"
+      },
+      {
+        "title": "Start Switch Failure",
+        "steps": "Unplug the dryer.  If you have a mechanical push button or knob to start the dryer, this is the [guide|181812|one to check]; if the start switch doesn't work, the dryer won't start.\n\n- You may be able to get to this switch in an upper console on the unit, and not have to open the whole dryer up.\n- Disconnect it from the machine (you probably don't have to remove it).\n- Test continuity when the switch is pushed as it is only a momentary contact.\n- If it doesn't show continuity when pressed (a continuity beeper on the meter helps here) it needs to be replaced.\n- If it's good, go to the next step.\n\n"
+      },
+      {
+        "title": "Blown Thermal Fuse",
+        "steps": "Unplug the dryer.  At this point, we now have to get really inside the unit.\n\n- Virtually all dryers are designed so that if the thermal fuse blows, the dryer will not start because the motor can't run when it is blown.\n- There may be two of this type of protective device, on some models one is called the thermal fuse, and the other is called the thermal cutout. - The thermal fuse will likely be located near the rear part of the unit, where the heated air is leaving the blower for the exhaust duct.\n- The thermal cutout is usually located near the heat source, like the heating element on electric dryers. Often the dryer will start but not heat if the thermal cutout is the problem, but it's ok to check it here.\n- To test it you just need to [guide|181812|check continuity]. - Make sure the dryer is unplugged (we said it again).\n- Disconnect the wires from the thermal fuse(or cutout) and then check it.\n- Use the continuity beeper of your meter if it has one.\n- If no continuity, it needs to be replaced.\n\nIf the fuse blew, it's an extremely good idea to make sure that all the exhaust ducts are not blocked with lint, which will slow the airflow and make the dryer overheat.  Otherwise, you will just blow the thermal fuse again. Here is a link to ur Dryer Maintenance page which will help with this and other airflow issues.\n\n"
+      },
+      {
+        "title": "Broken Belt Switch or Belt",
+        "steps": "The belt switch doesn't often fail, but it is fairly simple to check.  This is a switch that is usually located next to the tensioner or idler pulley assembly that keeps the belt tight around the drum of the dryer. If the belt is broken, you have found your problem. [guide|181812|Replace it].\n\n- Your dryer may just have the pulley mounted on a leaf spring with no belt switch, if this is the case, jump to the next possible cause.\n- The idler pulley is frequently mounted on a spring-loaded arm. - The arm is set up so that when there is no belt going around the pulley (like when the belt is broken) the spring pulls the arm down so that it operates a switch.\n- The belt switch shuts down the dryer and keeps it from operating for safety.  If the clothes can't tumble, they could overheat, or block airflow. - If the switch fails the dryer will not work.\n- Make sure the dryer is unplugged.\n- When the arm mentioned above swings it operates the switch and opens the circuit.\n- You want to test for continuity with the switch in the UN-operated or normal position (like it has a belt on), between the COM and NC terminals.\n\n"
+      },
+      {
+        "title": "Control Board Failure",
+        "steps": "This is the least likely of the usually encountered problems and likely the most expensive.\n\nOccasionally there will be corrosion problems on some of the cables connecting the board which can cause the totally dead dryer effect. This can arise from humid air from the dryer leaking into the cabinet and condensing on the control board.\n\nIf you find any corrosion, clean it off with 90% (or higher) isopropyl alcohol and try reconnecting things enough to turn the dryer on. If it didn't work, you'll probably need to replace the control board to get your dryer working again.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 478872,
+    "title": "Dryer Not Spinning",
+    "type": "leaf",
+    "description": "Your dryer shows some life, but won't spin or tumble the clothes. It's not turning, though there may be a humming sound.",
+    "causes": [
+      {
+        "title": "Door Switch Failed",
+        "steps": "- Some dryers may show some signs of life, like a humming timer motor, but won't turn on and tumble the clothes when the start button is pressed.\n- On older or simpler dryers, if the door switch goes bad, the dryer acts completely dead.\n\nThe door switch can be more readily checked from the outside of the dryer, so we do it first.\n\n- A quick check is to plug the dryer in and try to operate the door switch with a pencil or your finger, listen for a click, and see if the dryer starts.\n- If it does start, you know the switch can work. - Check that your dryer door is not damaged or bent.\n- Some dryers have a small boss or probe that operates the door switch, if this is broken it will not work. Replace it.\n- If the door's ok,  the switch may work, but be worn out or have a broken operating lever so that the door won't operate it anymore,\n- Check to see if the switch has come loose or wiggles. - If it's snug, replace it, it's worn out.\n- If it wiggles or is loose, tighten it, then check it again with the door. If it doesn't work, replace it.\n- If there's no click, and it doesn't start, unplug the dryer. It's time to test it with a meter. - Disconnect one terminal on the switch.\n- Using a multimeter set to the continuity or Rx1 setting to check the switch.\n- When the switch is pushed it should show continuity. If it doesn't, replace it.\n- If it tests good, move on to the start switch.\n\n"
+      },
+      {
+        "title": "Start Switch Failed",
+        "steps": "Unplug the dryer.  If you have a mechanical push button or knob to start the dryer, this is the one to check; if the start switch doesn't work, the dryer won't start.\n\n- You may be able to get to this switch in an upper console on the unit, and not have to open the whole dryer up.\n- Disconnect it from the machine (you probably don't have to remove it).\n- Test continuity when the switch is pushed as it is only a momentary contact.\n- If it doesn't show continuity when pressed (a continuity beeper on the meter helps here) it needs to be replaced.\n- If it's good, go to the next step.\n\n"
+      },
+      {
+        "title": "Drive Belt Problem",
+        "steps": "Some dryers will also show some small activity with a broken drive belt.\n\n- In some cases, the motor will run, but the drum won't turn. That's a sure sign of a belt problem.\n- In others, especially newer dryers, the unit will not do anything if it has a broken belt when a cycle is selected and you try to start it. The belt switch disables the machine.\n- To check quickly for a broken drive belt: - Reach into the dryer and try to spin the drum by hand.\n- If it spins very easily, that's an indication of a broken drive belt.  Go to the Loose or Broken Drive Belt step below.\n- If it won't spin at all or is very hard to turn, it could be a bearing problem or a clogged blower.\n- You'll need to check the belt and blower visually to be sure, which means some disassembly of your dryer.  Go to the next step.\n\n"
+      },
+      {
+        "title": "Blown Thermal Fuse / Thermal Cutout",
+        "steps": "Once you are inside the dryer cabinet, check the thermal fuse and thermal cutout at the same time you check the belt and blower.  This fuse is a possible culprit for dryers that won't spin. The cutout is more often the culprit when they won't heat.\n\n- Unplug the dryer.  Many dryers are designed so that if the thermal fuse blows, the dryer will not start because the motor can't run when it is blown.  The fuse will likely be located near the rear part of the unit, where the heated air will flow out of the dryer drum.\n- There may be two of these fuses, on some models one is called the thermal fuse, and the other is called the thermal cutout. The cutout is usually located near the heat source, like on the heating element shroud on an electric dryer.\n- To test these you just need to check continuity.  Make sure the dryer is unplugged.  (don't find out the hard way). Disconnect the wires from the thermal fuse and then check it.  Use the continuity beeper of your meter if it has one.  Does it indicate continuity?  If no continuity, it needs to be replaced. The same thing can be done for the thermal cutout.\n- If either the cutout or the thermal fuse has blown, it's an extremely good idea at this point to also make sure that all the exhaust ducts are not blocked with lint or other objects.  These will slow the airflow and make the dryer overheat and blow the thermal fuse again. For more tips on thermal fuse issues see this page\n- If either the cutout or the thermal fuse has blown, but your drum was hard to turn, you should also check bearings and rollers too and make sure everything is spinning freely. A blower running slowly can be a problem, and can make the motor thermal protection activate from being overloaded.\n- If you came here from Belt Switch Problem, use this link to go back.\n\n"
+      },
+      {
+        "title": "Loose or Broken Drive Belt",
+        "steps": "You're looking at the inside of your dryer and you can see the drive belt that goes around the dryer drum.  The drum works like a huge pulley for the belt to run on.\n\n- Check the belt.   Is it snug to the drum so you can barely slide it side to side?  If its good, go to the next step.\n- Is it loose, but not broken?  This is likely a problem with the idler or tensioner pulley.  The belt may have slipped off the pulley, or the spring has broken.  The idler pulley is usually located down low inside the machine, near the motor. - Check that it turns freely.  You might have to loosen the belt slightly to spin the pulley.\n- Slip the belt back on if it fell off.  The spring tension on the idler pulley should work so that the pulley makes the belt tight.  So the belt should be looped around the pulley in a way that the spring on the pulley tightens the belt.\n- If the belt is broken, you'll need to replace it.  Make sure you get one for your exact model.\n\nAlso it's possible the belt was installed wrong side up or has become twisted.  Is the ribbed side against the drum?  If you see the ribs you need to flip the belt over.\n\n- Loosen the belt by slipping it off the tension pulley (note carefully how it went on before you do; maybe even take a picture.)\n- Flip the loose belt over on the drum, then reach below and flip it on the motor pulley.\n- Put tension back on the belt with the idler pulley, and spin things by hand to see that the belt is now smooth side out on the drum and the motor pulley.\n\n"
+      },
+      {
+        "title": "Clogged or Jammed Blower",
+        "steps": "Your dryer's blower might have an impediment which will not allow the blower wheel to turn freely. This can be a small sock or other small piece of laundry that may have fallen down the lint filter holder. and been sucked in to the blower.\n\n- Remove the blower cover and check inside for lint or small pieces of laundry\n- Clean out any lint you find as well as any laundry items.\n\n"
+      },
+      {
+        "title": "Drum Bearing Worn Out",
+        "steps": "Some dryers have a bearing in the center rear part of the drum, that supports the drum.  This bearing can fail making the drum very difficult to turn. Take a look; does it look like the drum is supported from the back panel of the dryer? If your unit has rollers that support the drum from below, go to the next step, Drum Rollers Failed.\n\nIf the bearing is bad enough, the motor won't turn the drum.  Loosen the belt by slipping it off the tension pulley (note carefully how it went on before you do)\n\n- Try to turn the drum by hand, and watch if it turns easily.  If not, the drum bearing is bad.  You need replace it\n- If things spin freely, then it's time to check the belt switch.\n\n"
+      },
+      {
+        "title": "Drum Rollers Failed",
+        "steps": "Many dryers have rollers that support the drum both at the front and at the rear.  To check this, you will try spinning the drum with the belt loose.\n\n- Loosen the belt by slipping it off the tension pulley (note carefully how it went on before you do)\n- Try to turn the drum by hand, and watch if it turns easily.  If not, one or more of your drum rollers have gone bad.  You need to replace them.\n- If any are bad, it's a good idea to replace all of them at one time, since others may be wearing out too.\n- If everything turns freely, go to the next step.\n\n"
+      },
+      {
+        "title": "Belt Switch Problem",
+        "steps": "You checked the drive belt, the tensioner or idler, and bearings and all is ok. What else?  Try checking the belt switch.  It doesn't often fail, but it is fairly simple to check.\n\n- If you skipped to the Loose or Broken Drive Belt step earlier, go back and do the Blown Thermal Fuse/ Thermal Cutout step then do this check next.\n- This is a switch that is usually located next to the tensioner or idler pulley assembly that keeps the belt tight around the drum of the dryer.  If you didn't already check, make sure this pulley spins freely.  Your dryer may just have the pulley mounted on a leaf spring and doesn't have a belt switch, if this is the case, skip to the next topic.\n- This pulley is frequently mounted on a spring loaded arm. The arm is set up so that when there is no belt going around the pulley (like when the belt is broken) the spring pulls the arm down so that it operates a switch.  This switch shuts down the dryer and keeps it from operating for safety.  If the clothes can't tumble, they could overheat, or block airflow.  If the switch fails the dryer will not work.\n- Make sure the dryer is unplugged.  You want to test for continuity with the switch in the un-operated or normal position, between the COM and NC terminals.\n\n"
+      },
+      {
+        "title": "Motor Bearings",
+        "steps": "- Does the motor itself spin freely?  If it doesn't that's a problem that has to be corrected.\n- The motor bearings may have just worn out. You'll need to replace the motor.\n\n"
+      },
+      {
+        "title": "Timer Failed",
+        "steps": "The timer may have failed, Replace it after you check continuity on the contacts.  You will need specific information on your model to do this.\n\n"
+      },
+      {
+        "title": "Motor Failure",
+        "steps": "If your motor has failed, you are likely having issues with the dryer stopping mid cycle. This can come about because a motor overheats and stops until it cools down.\n\n"
+      },
+      {
+        "title": "Faulty Main Control Board",
+        "steps": "The main control board can fail, but like the motor it is something of a last resort to replace.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 478885,
+    "title": "Dryer Not Heating",
+    "type": "router",
+    "description": "Your dryer spins, but is not heating up to dry the clothes.",
+    "branches": [
+      {
+        "wikiid": 479829,
+        "title": "Electric Dryer Not Heating"
+      },
+      {
+        "wikiid": 479830,
+        "title": "Gas Dryer Not Heating"
+      }
+    ]
+  },
+  {
+    "wikiid": 479208,
+    "title": "Dryer Squeaking",
+    "type": "leaf",
+    "description": "Your dryer is making those annoying squeaking, squealing noises as it runs.",
+    "causes": [
+      {
+        "title": "Slipped Belt or Faulty Idler Pulley",
+        "steps": "If the belt is slipping, it can cause a squeal or squeak.\n\n- The belt may slip: - because it is old and worn, or\n- because the idler pulley is not providing enough tension, or\n- because the idler pulley has frozen\n- because it has somehow rolled over so that the ribbed side of the belt is not against the drum.\n- To check this, open up the dryer cabinet and take a look at the belt on the drum.\n- You should not be able to lift the belt off the drum with your fingertips.\n- The belt should be in good condition. with the ribs on the drum.  If the ribs are facing up, you will need to flip the belt over. See the next point for guidance in releasing tension to do this\n- To check the belt condition, release tension on the belt by slipping it off the idler wheel down by the motor. Look carefully at how the belt is wrapped around the idler pulley so you can reinstall it later.  You'll need to move the idler pulley  against the spring tension so the belt goes loose.\n- While you are doing this make sure the idler pulley: - spins freely\n- is in line with the motor pulley and\n- is not cracked or its axle bent.\n- If there is a problem with it, you will have to replace it.\n- Check the ribbed side of the belt for fraying, wear, or worn spots where the belt has been damaged. If it is damaged, replace it.\n\n"
+      },
+      {
+        "title": "Broken Drum Support Rollers",
+        "steps": "You can check the drum support rollers (if your unit has them!) by disassembling the unit, and removing the drum.\n\n- Check each roller: - to see that it spins freely, without a grinding noise\n- that it is not wobbling on its axle\n- that the axle isn't bent\n- that the clip which holds it on the axle is present. You can look at all the support rollers to determine if they should have a clip since it is unlikely that they will all fall off or break.  They are usually a small triangular plastic piece that fits into a groove on the axle.\n- if one roller is bad you should replace all the rollers at once, otherwise they can just fail one after another, which means getting very skilled at disassembling your dryer.\n- If a roller is bad check its axle too, it may need replacement.  You don't have to do those all at once, since they are usually only damaged by a bad roller.\n\n"
+      },
+      {
+        "title": "Faulty Drum Glides",
+        "steps": "You can check the drum glides (if your unit has them!) by disassembling the unit and looking at the area right above the door on the front panel of the machine.\n\nThere are a number of different drum glide designs, but commonly they are small, almost flat, plastic pieces that act as bearings for the front part of the drum, which glides over them.  Some go completely around the front of the drum support and are a large round plastic circle.\n\nIf they are worn the drum will probably be rubbing on the front panel of the machine, and it will be noisy. It may damage the felt seal too.\n\nHere is a helpful video.\n\n"
+      },
+      {
+        "title": "Drum Support Bearing Failure",
+        "steps": "The drum support bearing is mounted on the rear bulkhead (panel) of the machine (if your unit has one!) and supports a small axle attached to the rear of the drum. If it fails, the drum will likely be more difficult to turn as well.  You will see the axle rubbing against a metal retainer.  The usual part to replace is a plastic support cup.\n\n"
+      },
+      {
+        "title": "Faulty Felt Seal",
+        "steps": "The felt seals do just that, they make the drum have a relatively airtight seal that also allows the drum to rotate.  They are usually on the drum itself and if they wear down, the drum may be able to rub against the front or rear panel of the machine.\n\n- You will likely see that the drum has shifted in the direction of the worn seal and the other seal may not even be sealing well at all.\n- Rub marks from the drum contacting the front or rear bulkheads of the machine are a sure sign.\n- if you find these signs, replace the felt that is showing wear; it might be worth doing both while it is all apart.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 479370,
+    "title": "Dryer Stops Mid Cycle",
+    "type": "leaf",
+    "description": "Your clothes dryer stops in the middle of a cycle.",
+    "causes": [
+      {
+        "title": "Faulty Door Switch",
+        "steps": "Run the dryer until it stops mid cycle again.\n\n- Can you get the dryer to start again immediately (maybe not every time) by opening and shutting the door and pressing the start button if it has one.\n\n*  Does it seem to still be in the middle of its cycle, if so:\n\n- Will it start if you  open and shut the door several times? - Can you get it to stop by giving the unit a hard blow near the door latch area?\n- This points to a faulty door latch or door switch which cause the dryer to think its door is open, and it will stop. Replace the door latch and / or switch.\n- If it won't restart this way, or the cycle seemed to be done, go to the next step, .\n\n"
+      },
+      {
+        "title": "Moisture Sensor Malfunction",
+        "steps": "Are the clothes still damp? Does the dryer show that it finished its cycle when it shut off?\n\n- Damp clothes points to a faulty moisture sensor or a failed cycling thermostat. First check the moisture sensor.\n- If it has a moisture sensor, the dryer will have an automatic dry cycle that doesn't set a fixed time, and will allow more dry or less dry settings.\n- The moisture sensor will be two shiny metal strips inside of the dryer. These strips are side by side about 1/4\"-3/8\" apart. - The dryer checks the resistance between the moisture sensor strips caused by the wet clothes touching the strips.\n- If there is a broken wire in the moisture sensor circuit, the dryer will think the clothes are very dry and shut off after a short time.\n- Try running the dryer on a timed dry cycle (which ignores the moisture sensor) with a load of clothes, and see if the dryer still shuts down. If it does, next cause item.\n- If not, check the moisture sensor connections for continuity. You need to check each strip and the wire corresponding to that strip back to the control board. Replace the moisture sensor or the wiring if there is any problem.\n\n"
+      },
+      {
+        "title": "Clogged Exhaust Duct",
+        "steps": "A clogged exhaust duct can lead to mid-cycle shutdowns. A number of dryers are designed to shut off if they sense that the airflow through the exhaust system is insufficient. This lack of airflow is most commonly caused by lint buildup in the dryer exhaust duct, or by objects or accumulated lint trapped in the blower wheel on the dryer.\n\n"
+      },
+      {
+        "title": "Faulty Motor / Cycling Thermostat",
+        "steps": "Can you get the dryer to start again after 5-10 minutes of cooling, but not immediately after it stops? Try running the dryer on a no-heat setting with a load of clothes, and see if it shuts down. Note the following outcomes:\n\n- Does it get hot at all on the no-heat setting? If so, that's a problem in itself and one which could be leading to the shutdowns.  Go to our Electric Dryer Overheats or Gas Dryer Overheats pages for more on this.\n- It doesn't get hot, but shuts down after 10-15 minutes with no immediate restart?  This is a bad motor; replace it.\n- It doesn't get hot and keeps running?  This points to a thermal issue with the heating system. - When set to a heat setting, the cycling thermostat is bad and won't open, and the Hi-Limit thermostat operates and shuts the dryer down. Usually, the Hi-Limit Thermostat will just shut off the heat source, but there may be some designs that shut off the entire unit.\n- When the Hi-Limit thermostat cools, which takes time, it resets and the dryer can be restarted.\n- Replace or test the cycling thermostat. You can see some methods of testing a thermostat here\n\n"
+      },
+      {
+        "title": "Motor Relay Failure",
+        "steps": "Another possibility is a weak or failing motor relay on the control board if your dryer has electronic controls. You'll want to test the relay with a multimeter and replace it if the readings are incorrect.\n\n"
+      },
+      {
+        "title": "Broken Drive Belt",
+        "steps": "A less likely failure is a broken drive belt.\n\n- On older machines without a broken belt switch, the dryer can continue to run without tumbling the clothes.\n- This can lead to overheating and repeated shutdowns, while the clothes remain damp or dry very slowly.\n- To check: - Listen for tumbling clothes, or empty the dryer and put a clean tennis ball in and see if you hear it bouncing.\n- If you don't hear anything try opening the door quickly and see if you can see the drum spin to a stop.\n- If it doesn't seem to be moving check the belt and replace it if it is broken or worn.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 479415,
+    "title": "Dryer Making Loud Noise",
+    "type": "leaf",
+    "description": "Is your dryer grinding, thumping, rattling or rumbling, or a combination of these?",
+    "causes": [
+      {
+        "title": "Grinding Noises",
+        "steps": "Grinding noises are likely the most alarming.  Grinding means metal is touching metal or a bearing has failed.\n\n- Likely culprits include the the drum glides, the felt seal, the drum support rollers and the drum bearing.\n- The location of the sound can help you to know what to check first.\n- To start, run through this test set on the Dryer Squeaking page to locate the sound and start the checks.\n- Follow the steps on the Dryer Squeaking page according to noise location, and check each item.\n- Grinding noises are important to fix as they can lead to motor overheating  and burnout because of the increased friction.\n- Check the items in Rumbling Noises as well.\n\n"
+      },
+      {
+        "title": "Thumping or Banging Noises",
+        "steps": "Thumping noises likely indicate a shifting part or uneven wear.  Some causes include:\n\n- A loose drum baffle or lifter.  It's the part inside the dryer that makes your clothes tumble.  (Sound this part makes when loose can vary)\n- A worn spot on the drive belt (a rhythmic sound that repeats about once each revolution of the drum).\n- A flat spot on a drum roller (a steady rapid thump).\n- A worn out drum roller or rollers. These bang and thump and even grind, and can sound like a pair of boots in the dryer. If you find one bad, replace all of them since they can just fail one after another.\n- A worn out drum roller axle.\n- To check the drum baffles or lifters you will want to reach inside the dryer drum and try to shake each one.  Some may be made as part of the drum, but they are often plastic or metal attachments that can come loose. Tighten them or replace the fasteners if lost.\n- Check each of the other listed parts, and make sure to do them all, there might be more than one problem. The dryer squeaking page will have helpful information on how to do this.\n\n"
+      },
+      {
+        "title": "Rattling Noises",
+        "steps": "Loose parts or loose pulleys can contribute to rattling noises.\n\n- Check the motor drive pulley; the sound will be heard best when the machine is running.\n- Check the idler pulley, especially the type that uses a leaf spring.\n- Coins or screws can get loose in the drum and make a racket.  They can sometimes get under the dryer baffles (hollow plastic ones especially) and act like giant rattles.\n- A loose door latch can allow the door to rattle, as can a worn door gasket.\n- Parts of the cabinet or housing can be hit so that they come loose and will rattle.  The tops and control consoles of many machines are held on by spring clips that can be loosened this way.  Some people actually release them this way.\n- Check that the motor mountings fasteners are tight.\n\n"
+      },
+      {
+        "title": "Rumbling Noises",
+        "steps": "- One cause of such is frequently the blower wheel with debris in it.\n- The blower wheel  may be contacting the blower housing.  Check it at the same time, it may have come loose\n- The motor mountings could also be loose.\n- If you haven't already done so, check the items in the Grinding Noises section, especially drum rollers.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 479708,
+    "title": "Dryer Smells Like Gas",
+    "type": "leaf",
+    "description": "Your dryer smells like it is leaking gas.  The odor may be especially strong when you open the door on the dryer.  Here are some steps to take to figure out what's wrong.",
+    "causes": [
+      {
+        "title": "Painting or Refinishing Fumes",
+        "steps": "Before you go further, consider if you have done any recent refinishing or painting in your home. If not, go to the next step.\n\n- The smells of this may be drawn into the dryer area.\n- Since a gas dryer uses air to burn the gas it will also burn the fumes in the air which can then make unusual odors.\n- They may not smell quite like gas but often have a more burnt scent.\n- You may notice them most when you open the door to the dryer.\n\n"
+      },
+      {
+        "title": "Home Gas Piping Leak",
+        "steps": "- The first step is to locate the gas shutoff valve for your dryer on the wall or floor and shut it off.\n- From outside the room blow fresh air into the room for 5 minutes with a fan.  Leave it running for the next step.\n- Run your dryer on a no-heat setting for 10 minutes.  Then run it on a heat setting (With the gas valve still closed) for 10 more minutes. This should exhaust any residual gas from the area and from the supply tube.\n- Shut everything down. Unplug the dryer.\n- Let the room sit undisturbed for 1/2 hour.  No fan, and if possible close the door.\n- Go into the area and check for the gas smell.  If it is present, there is likely something wrong with the gas piping in your home. Consult a plumber if needed.\n- If no gas smell, go to the next step.\n\n"
+      },
+      {
+        "title": "Supply Leaks",
+        "steps": "- Now turn on the gas valve or gas cock feeding the dryer.  Don't disturb anything else.\n- Allow 15 minutes with the room closed.\n- Check for the gas smell.\n- If there is a smell, start by doing the following:\n- Blow fresh air into the area with a fan located outside the area for 5 minutes.\n- Use soapy water, or a leak detection fluid and liberally apply it to all the fittings on the gas supply starting at the gas shutoff. - Apply fluid to the tube that runs from the gas shutoff to the dryer.\n- If no bubbles form go to the next step.\n- If you get bubbles forming, you have found your leak. Shut off the gas, and repair the leak.\n\n"
+      },
+      {
+        "title": "Gas Valve Leaks",
+        "steps": "You now need to check the inside of the machine for leaks.  It is unlikely that the factory-installed piping is leaking, but checking with soapy water is very easy.\n\nOne source of these leaks is the gas valve.\n\n- Occasionally you can have a loose fitting at the gas valve, so check there.\n- The gas valve solenoids may be weak and so they open slowly or not enough to form a correct mixture, and by the time they open, the igniter has cooled off too much.  The valve will close again as soon as the flame sensor cools and resets.\n- Some electronically controlled dryers use a relay on the main control board to operate the gas valve.  If this relay sticks the dryer will leak gas, especially when the unit is running, and you end up circulating air with unburned gas through your clothes.\n- It is possible that the internal valve seals on the solenoid plungers have cracked. This is more common the older the machine is.\n\n"
+      },
+      {
+        "title": "Ignition Problems",
+        "steps": "Another source is a failure in the ignition process.  This can be caused by:\n\n- A weak igniter.  It is strong enough to get the flame sensor to allow the gas valve to open, but not quite hot enough to ignite the gas when it is released.\n- A weak flame sensor.  A flame or radiant sensor can open too soon when the igniter isn't quite hot enough, the gas will flow for a time and not ignite and you will smell it. Then the sensor closes again and the gas shuts off.\n- An over-rich mixture; there is not enough air being mixed with the gas, so it won't ignite. - Making sure all lint is removed inside the dryer, especially the burner assembly, will help.\n- Make sure the air doors on the burner assembly are at least partially open.\n- A too-lean mixture, often caused by a dirty burner orifice.  You might notice that the flame goes out easily. If you can, it's worth cleaning the burner orifice using a soft copper wire. The copper won't damage the orifice.\n- A misplaced igniter.  Sometimes a mounting bracket can be bent so the igniter isn't close enough to the gas-air stream to ignite it. You can try adjusting the igniter to be closer to the burner cone.\n- Weak gas valve coils which have become sensitive to heat, and won't function properly once the dryer becomes hot.\n\n"
+      },
+      {
+        "title": "Low Fuel",
+        "steps": "With a dryer fueled by propane, a low level in the main fuel tank can make the ignition process slower, and thus more raw gas is released.  Other gas appliances in the home may also smell more like gas.\n\n"
+      },
+      {
+        "title": "Drawing in Its Own Exhaust",
+        "steps": "If the dryer is pulling intake air from someplace where its exhaust is going, you may get a recirculating effect which can make for a smell.\n\n- Make sure that the intake air for your dryer is separated from the exhaust from it.\n- This could be a window in the laundry area. If so close it and open a window on the opposite side of the home.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 479709,
+    "title": "Kenmore Dryer Not Heating",
+    "type": "leaf",
+    "description": "Your Kenmore Dryer is not producing any heat.  It doesn't warm up to its task. This page will walk you through things to check.  Since this is common for electric and gas dryers we will touch on both types.",
+    "causes": [
+      {
+        "title": "No Power or Fuel",
+        "steps": "Make sure your electric dryer is getting proper power.\n\n- Take a look at this page on checking the electrical supply.\n- Then go to this page on checking the outlet feeding the dryer.  If the power checks ok, move on to the next steps.\n\nFor your gas dryer, it's simple:\n\n- Make sure the gas is connected and turned on.\n- The gas valve or cock is turned on if the handle lines up with the pipe.\n\n"
+      },
+      {
+        "title": "Tripped Safety Devices",
+        "steps": "Dryers are equipped with a number of safety devices.  Dryers use heat, which not only dries clothes but can cause fires if not tamed. Here's a page with more information on the various safety devices and control sensors.\n\nIf any of these safety devices listed below turn out to be the problem, make sure you clean your machine and ducts as shown on our Dryer Maintenance page.\n\n- Unplug the dryer before performing these checks, as you will be working inside the dryer cabinet.\n- The thermal fuse could be the cause of no heat, but in most cases, the machine won't run at all if it is blown. Here's more info on how to check the thermal fuse.\n- Kenmore dryers also have thermal cutoffs. - They act like a fuse and trip and are not resettable.\n- Unlike the thermal fuse, the machine will, in many cases, still spin if this is blown.\n- On electric dryers, the thermal cutoff is usually located near the heating elements.\n- Gas dryers have a thermal cutoff located on the duct where the heated air enters the dryer drum.\n- Check it with a multimeter for continuity. If it is open, replace it.\n- There is also the Hi-Limit thermostat. - This cuts off the heat source if the temperature goes too high, and will reset on its own.\n- If it fails the machine will not heat.\n- It is frequently located near the heat source.\n- Here's more on how to check the Hi-Limit thermostat.\n\n"
+      },
+      {
+        "title": "Operating or Cycling Thermostat Failure",
+        "steps": "This is another item that the electric and Gas dryers have in common.\n\n- This thermostat controls the temperature inside the dryer by turning on and shutting off the heat source.\n- It should show continuity at room temperature.\n- Test it with a multimeter. If it is open, replace it. - The cycling/operating thermostat should be located at the back of the dryer behind the rear panel in most models.\n\n"
+      },
+      {
+        "title": "Faulty Heating Element (Electric Models)",
+        "steps": "Your Kenmore Electric dryer may have a burned-out heating element.\n\nIt will be located in the back cabinet of the dryer on most models. To check it:\n\n- You will need to disconnect it from the wires leading to it. If there are more than two wires coming from the machine to the element, it may be a multi-coil heating element. More below on that.\n- Measure the resistance with a multimeter. It should register 10-20 ohms (\u03a9)\n- If the element shows a much higher resistance (over 50 \u03a9) or an open circuit it should be replaced. A High resistance (over 30 \u03a9) may be a sign of a multi-part element. See below.\n\nSome elements may be set up with two (or more) parts. If one goes bad, the dryer will still dry, but much more slowly.\n\nMulti-coil Heating Elements will usually have 3 terminals (or more if there are more than 2 coil elements) where the heater coils are connected to the dryer. Each coil element will usually have the same resistance but occasionally can have different resistance values for each coil. Usually, there will be one \"common\" terminal and two coil terminals. We will assume 2 coils for the test below.\n\n- Measure the resistance of each coil to the common terminal. It will be usually in the 20-25 \u03a9 range.\n- Measuring through both coil terminals should give double the resistance of measuring through one coil terminal and the common terminal.\n- If it checks out go on to the next applicable item.\n\n"
+      },
+      {
+        "title": "Faulty Ignition System (Gas Models)",
+        "steps": "Your Kenmore gas dryer may be having a problem with igniting the gas flame. Since this is a more complex series of events we will just run over the basics here. Here's a link for the full information on Ignition System Failure, including testing. You may need to operate your dryer with some of the cabinet parts removed so use caution.\n\n- Your gas dryer uses an igniter to ignite the gas.\n- The gas valves don't open unless the igniter appears to be hot enough.\n- The device which senses this and allows the gas valves to open (and keeps the flame going) is called the flame sensor.\n- The gas valves may not open because the solenoid coils which operate them have gone bad.\n- The gas valve itself may have failed.\n\n"
+      },
+      {
+        "title": "Other Causes",
+        "steps": "- The moisture sensor wiring may be bad and give the dryer an open circuit indication (no wet clothes) and the dryer won't heat on the automatic cycles but will likely heat on the timed dry cycles.\n- The timer may be bad, and it is a good idea if all the other tests show no problem to test the timer contacts.\n- The centrifugal switch on the motor may have failed which will make the dryer act as though there is no airflow (no motor turning means no airflow) and it will not allow the heat source to operate.\n- On electronic models, the main control board may be bad. There are diagnostic procedures available on the tech sheet enclosed in your dryer's cabinet.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 479762,
+    "title": "Samsung Dryer Not Heating",
+    "type": "leaf",
+    "description": "Your Samsung Dryer won't heat; where do you start?  Let's break it down step by step.  Since there are both gas and electric models, we will start with the problems that both can have. Then we'll look at the electric models, then the gas models.  Hang on, we'll try and work through it.",
+    "causes": [
+      {
+        "title": "Faulty Thermal Cutoff or Hi-Limit Thermostat",
+        "steps": "The safety systems mentioned here often function because of problems with airflow, so now is a good time to check those, especially if your dryer or ducts were dirty.\n\n- Since your dryer does spin, it is very unlikely that the thermal fuse (situated on the blower outlet on Samsung electric models) or, on gas models, the thermal cutoff (located on the blower housing) has blown, as that causes the motor to stop and not start again.\n- You should first check the thermal cutoff on your electric dryer. - It is located toward the front of the dryer on the heater assembly.   Check it for continuity with a multimeter.\n- If it's good, go to the next item in this list.  If it's bad, replace it along with the Hi-Limit thermostat.  Move to the control devices.\n- Check the Hi-Limit thermostat.  These can fail (they won't open) and that failure causes the Thermal Cutoff to operate. - The Hi-Limit is located on the burner cone on gas models.\n- The Hi-Limit is on the heater box on electric models, right next to the terminals for the heating element. The thermal cutoff is right next to it.\n- Check the Hi-Limit for continuity with a multimeter. If it's good, and the thermal cutoff didn't blow, move to the control devices. If the thermal cutoff was blown, replace the Hi-Limit as well, and then check the control devices.\n\n"
+      },
+      {
+        "title": "Faulty Control Devices",
+        "steps": "Most Samsung Dryers use thermistors instead of thermostats for temperature control.\n\n- In order to test the resistance of these devices you will need a tech sheet that is usually enclosed inside your dryer cabinet.\n- Check the resistances of the thermistors with a multimeter. If any of the readings are off by more than 5% for the temperature, replace the thermistor. - Keep in mind that a thermistor reading a higher resistance for a given temperature will signal the machine to heat up more, leading to overheating.\n- This can be the cause of thermal cutoff operation as the machine will be running hot.\n- There are frequently two thermistors on the dryer.  Check both per the tech sheet; the resistances may be very different.\n\n"
+      },
+      {
+        "title": "Heating Element Failure (Electric Models Only)",
+        "steps": "On your electric dryer, the heating element can burn out over time.\n\n- You can check the resistance with a multimeter.\n- You should get a reading between 10 and 30 ohms across the contacts.\n- Anything higher or no continuity at all, and you need to replace the heating element.\n\nSome higher-end Samsung dryers may have two heating elements. (DV45 series for example)\n\n- Frequently, one is higher wattage than the other.\n- If one is burnt out while the other works, you could experience slow drying, but not necessarily no drying, especially if the lower power element is burnt out.\n\n"
+      },
+      {
+        "title": "Faulty Ignition System or Gas Burner (Gas Models Only)",
+        "steps": "Your Samsung gas dryer may be having a problem with igniting the gas flame. Since this is a more complex series of events we will just run over the basics here. Here's a link for the full information on Ignition System Failure, including testing. You may need to run your dryer with some of the cabinet parts removed to check operation so use caution.\n\n- Your gas dryer uses an igniter to ignite the gas.\n- The gas valves don't open unless the igniter appears to be hot enough.\n- The device which senses this and allows the gas valves to open (and keeps the flame going) is called the flame or radiant sensor.\n- The gas valves may not open because the solenoid coils which operate them have gone bad. On newer Samsung dryers, the coils come as part of a replacement gas valve and can't be obtained separately.\n- The gas valve itself may have failed.\n- There could be a problem with your supply pipe like a piece of pipe tape in the line blocking the flow (rare if the machine was already working).\n\n"
+      },
+      {
+        "title": "Other Causes",
+        "steps": "- The moisture sensor wiring may be bad and give the dryer an open circuit indication (no wet clothes) and the dryer won't heat on the automatic cycles but will likely heat on the timed dry cycles. It should show about 190 ohms with wet clothes.\n- On electronic models, the main control board may be bad. Usually, there are diagnostic procedures available to check, especially if there is a tech sheet enclosed in your dryer's cabinet.\n- The centrifugal switch on the motor may have failed which will make the dryer act as though there is no airflow (no motor turning=no airflow) and it will not allow the heat source to operate.\n- The timer (if present) may be bad, and it is a good idea if all the other tests show no problem to test the timer contacts.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 479829,
+    "title": "Electric Dryer Not Heating",
+    "type": "leaf",
+    "description": "Your electric dryer isn't heating up.",
+    "causes": [
+      {
+        "title": "Circuit Breaker",
+        "steps": "- [guide|181738|Make sure your circuit breaker for the dryer is not tripped].\n- Since electric dryers operate on 240V, they use a 2-pole breaker, and sometimes one pole trips and the other doesn't.\n- The dryer will still spin, because the dryer still has 120V available from the un-tripped breaker, and this will run the motor and controls, but won't run the heating element. Turn off the dryer circuit breaker completely and then turn it back on.\n\n"
+      },
+      {
+        "title": "Thermal Fuse Blown",
+        "steps": "At this point, you are getting inside the dryer cabinet or housing.  Unplug the dryer first. These first three checks are of safety devices built into the dryer. If any of them have operated, you should find out why.\n\nWe start with this check because the thermal fuse is a relatively frequent culprit.  It can be a sign of other problems, so follow all the checks and don't just stop after replacing the thermal fuse if it is blown.\n\n- Make sure the thermal fuse (TF) isn't blown. [guide|25632|Use a multimeter] and check it for continuity.\n- If it shows continuity, go on to Thermal Cutoff Blown, below.\n- If there's none, it has blown. Replace it.\n- If it has blown, the dryer may still spin, but won't heat.  In other circumstances, the dryer won't run at all.  Replace the thermal fuse and... - If TF is blown, make sure to check that your exhaust ducts are not clogged with lint.\n- If TF is blown, also check your blower wheel as well for lint buildup or stray clothing, like a sock, which will impede airflow and cause this sort of overheating.\n- More details on properly checking dryer airflow and ducts  can be found on our Dryer Maintenance page\n- If the TF is blown, check the Thermal Cutoff (below) as well.\n- If the TF is blown, it is a good idea to just replace the Hi-Limit thermostat as well, since intermittent failures in the Hi-Limit can cause blown thermal fuses.\n\n"
+      },
+      {
+        "title": "Thermal Cutoff Blown",
+        "steps": "If the thermal cutoff (TC) is blown or tripped, the dryer won't heat, but it will likely spin. Check it for continuity.\n\n- It will be located near the heat source.  Test for continuity, if it checks, it's good. If no continuity, replace it.  Occasionally these will have a reset button on them, but most of the time they are, like the TF, a one-shot device.\n- If it has blown (no Continuity), replace the Hi-Limit Thermostat as well.\n- Like the thermal fuse, check for other problems with airflow. if it is blown.\n- If the TC shows continuity, go on to the Hi-Limit thermostat check.\n\n"
+      },
+      {
+        "title": "Hi-Limit Thermostat",
+        "steps": "If the ducts are clear, it's a good idea to replace the Hi-Limit thermostat.\n\n- Check it for continuity, if it has none, replace it.\n- When the Hi-Limit fails and sticks on (has continuity all the time) because of a problem, the thermal fuse or thermal cutoff will blow (both very reliable).\n- Since this Hi-Limit sticking issue could be intermittent, and the part is relatively inexpensive, replace it along with the thermal fuse and thermal cutoff, especially if either of those parts had blown.\n\n"
+      },
+      {
+        "title": "Cycling Thermostat",
+        "steps": "The cycling thermostat (found down by the blower housing with 4 wires usually) can stick open, causing the dryer to think it is hot enough, and not supply heat. Disconnect it from the wiring in the dryer and test for continuity (at room temperature).  If no continuity, replace it.\n\n"
+      },
+      {
+        "title": "Temperature Control Thermistor",
+        "steps": "- In place of a cycling thermostat, newer machines will have a two wire device, located in the same spot.\n- It sends a variable resistance to the control board which indicates the temperature of the dryer for the control unit.\n- You will need the tech sheet for your dryer to see what the proper resistance at room temperature should be.\n- if the tested value using a multimeter isn't close to the listed value, replace the thermistor.\n\n"
+      },
+      {
+        "title": "Heating Element Failed",
+        "steps": "Make sure your heating element doesn't have an open circuit.\n\n- Using a multimeter you can check the resistance of the heating element.  Expect a 10-ohm reading.\n- Some dryers have two elements that are connected in parallel, you should check each portion. Expect a reading in the 10-ohm range for each.\n- If you get no continuity, [guide|181738|the heating element is bad, replace it].\n\n"
+      },
+      {
+        "title": "Centrifugal Switch Failure",
+        "steps": "A less common failure is the centrifugal switch on the motor.\n\n- This switch closes to maintain contact between the motor and power source and also completes the circuit for the heating element.\n- Failure of this switch will keep power from the heating element, which will prevent heat from reaching your clothes.\n- The switch contacts can be replaced independently.\n- Test the switch for continuity. - You will need to determine which contacts are allowing current to flow through the heating element.\n- Disconnect one terminal and then check the switch for continuity. if none, the switch needs to be replaced (or possibly cleaned, but replacing is more sure) Here's a good video that shows how.\n- If the switch operating mechanism on the motor shaft has gone bad, you will have to replace the entire motor. In this case, the dryer motor probably won't be running right either.\n\n"
+      },
+      {
+        "title": "Timer Assembly Failure",
+        "steps": "Another less common failure is the timer assembly; the contacts which control the heat source may have failed. If your timer assembly has failed, you'll have to replace it, but timers can be expensive and are commonly misdiagnosed. Use a multimeter to check for voltage at the heating circuit and motor circuit before replacing the timer assembly.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 479830,
+    "title": "Gas Dryer Not Heating",
+    "type": "leaf",
+    "description": "Is your gas dryer spinning, turning on, or starting loads, but not heating up? Does the dryer complete, but your clothes are still wet? Try these fixes!",
+    "causes": [
+      {
+        "title": "Gas Supply Turned Off",
+        "steps": "Make sure the gas to your dryer is turned on.\n\n- On the gas supply pipe to your dryer, there will be a small valve that controls the gas.\n- Make sure the handle lines up with the pipe (on), and is not turned so it is 90 degrees to the pipe (off).\n\n"
+      },
+      {
+        "title": "Ignition System Failure",
+        "steps": "Your gas dryer relies on a multi-step chain of events to ignite the gas and also to make sure that the gas doesn't get out when it shouldn't and ignite a fire in your home. To do this, the gas valve on your machine is really two valves in one.  One valve will only allow gas to flow to the second valve if the machine is turned on and has power and the controls are set to require heat.  The second valve will only allow gas to flow to the burner if the conditions are proper for the gas to be ignited.\n\n- Your gas is usually lit by an igniter, a device that glows brightly when energized and gets hot enough to ignite the gas.\n- A device called a flame or radiant sensor monitors this igniter and causes the gas to flow when the igniter is hot enough. It will allow the gas to continue to flow as long as the gas is burning properly.\n- The solenoid coils on the gas valve can wear out over time so that they won't open the gas valve when they should.\n\nYou can check to see if this process is happening by watching the gas burner through a small observation port in the front panel of your dryer.  Just pry off the small cover with a screwdriver.  Some dryers won't have this port, but if you remove the top of the unit you can still see.  Others will have a kick panel that can be removed.  Be careful if you have to remove some of the cabinet (case) because of moving parts and possible shock hazards.\n\n- Set the dryer to a setting that will require heat and start it.\n- Make sure the setting you use requires heat and is not a cool-down time, which can be the last part of some cycles.\n- It is best to test on a high heat setting and use a timed cycle.\n- Watch the gas burner and see if the igniter glows.\n- If there is no glow at all, you will need to check the igniter itself, along with the thermal fuse (see below). - Unplug the dryer and open the cabinet.\n- The Igniter should show about 80-400 ohms.\n- if it is showing more resistance or no continuity at all it's bad; replace it.\n- You can check the thermal fuse for simple continuity. If none, replace it.\n- If the igniter glows and stays on for a long time (five minutes), and no flame starts, the problem is the flame (or radiant) sensor.\n- If the igniter glows and stays on for a shorter time (up to two minutes) and then goes out with no flame igniting, the problem is the gas valve coils.  Unplug the dryer, and test them for proper resistance (500-1500 ohms).  Replace them if they show no continuity. Here's a good video to help you check them.\n\n"
+      },
+      {
+        "title": "Thermal Fuse Blown",
+        "steps": "Because the thermal fuse is a relatively frequent culprit, we start with this check. It can be a sign of other problems, so follow all the checks and don't just stop with replacing the thermal fuse if it is blown.\n\n- Make sure the thermal fuse (TF) isn't blown. Check it for continuity.\n- If it shows continuity, go on to Thermal Cutoff Blown, below.\n- If there's none, it has blown. Replace it.\n- If it has blown, the dryer may still spin, but won't heat. In other circumstances the dryer won't run at all. Replace the thermal fuse and.... - If TF is blown, make sure to check that your exhaust ducts are not clogged with lint.\n- If TF is blown, also check your blower wheel as well for lint buildup or stray clothing, like a sock, which will impede airflow and cause this sort of overheating.\n- More details on properly checking dryer airflow and ducts can be found on our Dryer Maintenance page\n- If the TF is blown, check the Thermal Cutoff (below) as well.\n- If the TF is blown, it is a good idea to just replace the Hi-Limit thermostat as well, since intermittent failures in the Hi-Limit can cause blown thermal fuses.\n\n"
+      },
+      {
+        "title": "Thermal Cutoff Tripped",
+        "steps": "The thermal cutoff, if blown or tripped can also cause the dryer to not heat.\n\n- Occasionally these will have a reset button on them, but most of the time they are like the TF a one-shot device.\n- It will be located near the heat source.  Test for continuity, if it checks, it's good. If no continuity, replace it, and like the thermal fuse, check for other problems with airflow.\n\n"
+      },
+      {
+        "title": "Hi-Limit Thermostat Open",
+        "steps": "If the ducts are clear, it's a good idea to replace the Hi-Limit thermostat.\n\n- When the Hi-Limit fails and sticks on because of a problem, the thermal fuse will blow (it's very reliable).\n- Since this Hi-Limit issue could be intermittent, and the part is relatively inexpensive, replace it along with the thermal fuse.\n- Check it for continuity, if it has none, replace it.\n- If the Thermal Fuse or Thermal Cutoff was blown replace the Hi-Limit as well.\n\n"
+      },
+      {
+        "title": "Faulty Cycling Thermostat",
+        "steps": "The cycling thermostat can stick open, causing the dryer to think it is hot enough, and not supply heat. Disconnect it from the wiring in the dryer and test for continuity (at room temperature).  If no continuity, replace it.\n\n"
+      },
+      {
+        "title": "Centrifugal Switch Failure",
+        "steps": "A less common failure is the centrifugal switch on the motor.\n\n- This switch closes to maintain contact between the motor and power source, and also completes the circuit for the gas control system.\n- Failure of this switch will keep power from the gas valve, which will ultimately prevent heat from reaching your clothes.\n- The switch contacts can be replaced independently.\n- Test the switch for continuity. - You will need to determine which contacts are allowing current to flow through the gas valve.\n- Disconnect one terminal and then check the switch for continuity. if none, the switch needs to be replaced (or possibly cleaned, but replacing is more sure) Here's a good video that shows how.\n- If the switch operating mechanism on the motor shaft has gone bad, you will have to replace the entire motor. In this case, the dryer motor probably won't be running right either.\n\n"
+      },
+      {
+        "title": "Timer Assembly Failure",
+        "steps": "Another less common failure is the timer assembly; the contacts which control the heat source may have failed. If your timer assembly has failed, you'll have to replace it, but timers can be expensive and are commonly misdiagnosed. Use a [product|IF145-035|multimeter|new_window=true] to [guide|25632|check for voltage|new_window=true] at the heating circuit and motor circuit before replacing the timer assembly.\n\n"
+      },
+      {
+        "title": "Gas Valve Relay / Control Board Failure",
+        "steps": "When all else fails, you should check the Gas Valve relay on the control board if you can locate it and if it is replaceable. You can trace the wiring from the gas valve back to the control board and note if it is connected to a device on the control board that is usually a small rectangular component. the terminals are frequently on the device itself.  Check to see if the device can be removed from the control board. If so you can try changing it out.\n\nIf that isn't possible or doesn't fix things, you can replace the control board.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 493607,
+    "title": "Dryer Smells Like Burning",
+    "type": "leaf",
+    "description": "Your dryer is making the room smell burnt. Maybe it's even making your clothes smell burnt. It may even be a little smoky. Let's look for the causes and work through the solutions.",
+    "causes": [
+      {
+        "title": "Overheated Motor",
+        "steps": "Did you just dry a very large heavy load? This can lead to a hot motor which may give a burning rubber/ hot electrical smell.\n\n- if that's the case, let the machine rest for a few hours, and see if the smell goes away.\n- You may even wan to run it again with only a couple dry towels. The hot smell may have been the motor complaining of overwork. Letting it run lightly loaded may allow the smell to dissipate.\n- Observe carefully the next time you run it with a normal load. It could also be that the motor is damaged, or that the centrifugal switch on the motor has failed causing it to overheat. If this goes on (or has gone on) repeatedly skip down to Motor\n- Clothes like socks in the blower housing can make it hard for the motor to turn and cause the motor to overheat. Since you cleaned it in the first step this shouldn't be a problem, as you should have removed anything like that.\n\n"
+      },
+      {
+        "title": "Failed Thermostat",
+        "steps": "If the cycling thermostat fails on your dryer (it's the one that controls the temperature that the dryer maintains) the dryer can run very hot, and may give a burning smell. Here's links to some more information about your dryer overheating:\n\nElectric Dryer Overheating\n\nGas Dryer Overheating\n\n"
+      },
+      {
+        "title": "Drive Belt Failure",
+        "steps": "If you smell a \"rubbery\" or \"plastic\" smell you should check your drive belt tension. A loose drive belt can be slipping on the motor pulley and getting hot. If you find that condition, replacing the belt is probably a good idea.\n\nIt might also be an idler pulley that has a failed bearing, and the belt is literally sliding on the pulley because it won't spin. In this case sometimes the pulley itself will melt or be grooved from the friction. If you find that, you should replace both the belt and the pulley assembly.\n\nHere's a link to some information on belt tension and inspecting the drive system. If the belt is okay, move on to the next item.\n\n"
+      },
+      {
+        "title": "Motor Failure",
+        "steps": "If you have checked the above items and found no issues, you may have a motor that is failing, [post|367548|Here's an example|new_window=true] from our Answers Forum. It may also be the bearings on the motor that have worn out and make it strain to operate.\n\n- While you are inspecting the belt, you can check to see if the motor bearings are free and smooth and not bound up.\n- If they are not, you will need to replace the motor.\n\nThe motor also has a centrifugal switch which can fail and cause the motor starting winding to be energized whenever the motor runs, not just starts. This winding will usually burn out, and you will smell it. Here's more Electric Dryer Not Heating#Section_Centrifugal_Switch_Failure information about the centrifugal switch. It is part of a page about your dryer not heating, but is still useful.\n\n"
+      },
+      {
+        "title": "Control Board Failure",
+        "steps": "Less likely but still possible is the failure of a control board in the dryer. Likely, this would be accompanied by the dryer not working properly, so it is a long shot.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 505079,
+    "title": "Whirlpool Dryer Not Heating",
+    "type": "leaf",
+    "description": "Your Whirlpool Dryer isn't getting hot at all. Or maybe it's not hot enough. The clothes are staying wet! Not to worry, you can fix this! Let's get started!",
+    "causes": [
+      {
+        "title": "Operating or Cycling Thermostat Failure",
+        "steps": "This is another item that the electric and gas dryers have in common.\n\nThis thermostat controls the temperature inside the dryer by turning on and shutting off the heat source.\n\nThe cycling/operating thermostat should be located at the back of the dryer behind the rear panel in most models. Frequently it is located on the outlet of the blower housing.\n\n- It should show continuity at room temperature.\n- Test it with a multimeter. If it is open, replace it.\n- If it is good go on to the next item.\n\n"
+      },
+      {
+        "title": "Faulty Electric Heating Element (Electric Models)",
+        "steps": "Your Whirlpool Electric dryer may have a burned out heating element.\n\nIt will be located in the back cabinet of the dryer on most models. To check it:\n\n- You will need to disconnect it from the wires leading to it. If there are more than two wires coming from the machine to the element, it may be a multi-coil heating element. More below on that.\n- Measure the resistance with a multimeter. It should register 10-20 ohms (\u03a9)\n- If the element shows a much higher resistance (over 50 \u03a9) or an open circuit it should be replaced. A High resistance (over 30 \u03a9) may be a sign of a multi part element. See below.\n\nSome elements may be set up with two (or more) parts. If one goes bad, the dryer will still dry, but much more slowly.\n\nMulti-coil Heating Elements will usually have 3 terminals (or more if there are more than 2 coil elements) where the heater coils are connected to the dryer. Each coil element will usually have the same resistance, but occasionally can have different resistance values for each coil. Usually there will be one \"common\" terminal and two coil terminals. We will assume 2 coils for the test below.\n\n- Measure the resistance of each coil to the common terminal. It will be usually in the 20-25 \u03a9 range.\n- Measuring through both coil terminals should give double the resistance of measuring through one coil terminal and the common terminal.\n- If it checks out go on to the next applicable item.\n\n"
+      },
+      {
+        "title": "Faulty Gas Ignition System (Gas Models)",
+        "steps": "Your Whirlpool gas dryer may be having a problem with igniting the gas flame. Since this is a more complex series of events we will just run over the basics here. Here's a link for the full information on Ignition System Failure, including testing. You may need to operate your dryer with some of the cabinet parts removed so use caution.\n\n- Your gas dryer uses an igniter which is electrically heated to ignite the gas.\n- The gas valves don't open unless the igniter appears to be hot enough.\n- The device which senses this and allows the gas valves to open (and keeps the flame going) is called the flame sensor.\n- The gas valves may not open because the solenoid coils which operate them have gone bad.\n- The gas valve itself may have failed.\n\n"
+      },
+      {
+        "title": "Other Causes",
+        "steps": "- The moisture sensor wiring may be bad and give the dryer an open circuit indication (no wet clothes) and the dryer won't heat on the automatic cycles but will likely heat on the timed dry cycles.\n- The timer may be bad, and it is a good idea if all the other tests show no problem to test the timer contacts.\n- The centrifugal switch on the motor may have failed which will make the dryer act as thought there is no airflow (no motor turning=no airflow) and it will not allow the heat source to operate.\n- On electronic models, the main control board may be bad. There are diagnostic procedures available on the tech sheet enclosed in your dryer's cabinet.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 508848,
+    "title": "GE Dryer Not Spinning",
+    "type": "leaf",
+    "description": "Your GE dryer shows some life, but won't spin or tumble the clothes. It's not turning, though there may be a humming sound.",
+    "causes": [
+      {
+        "title": "Door Switch Failed",
+        "steps": "- Some dryers may show some signs of life, like a humming timer motor, but won't turn on and tumble the clothes when the start button is pressed.\n- On older or simpler dryers, if the door switch goes bad, the dryer acts completely dead.\n\nThe door switch can be more readily checked from the outside of the dryer, so we do it first.\n\n- A quick check is to plug the dryer in and try to operate the door switch with a pencil or your finger, listen for a click, and see if the dryer starts.\n- If it does start, you know the switch can work. - Check that your dryer door is not damaged or bent.\n- Some dryers have a small boss or probe that operates the door switch, if this is broken it will not work. Replace it.\n- If the door's ok, the switch may work, but be worn out or have a broken operating lever so that the door won't operate it anymore,\n- Check to see if the switch has come loose or wiggles. - If it's snug, replace it, it's worn out.\n- If it wiggles or is loose, tighten it, then check it again with the door. If it doesn't work, replace it.\n- If there's no click, and it doesn't start, unplug the dryer. It's time to test it with a meter. - Disconnect one terminal on the switch.\n- Using a multimeter set to the continuity or Rx1 setting to check the switch.\n- When the switch is pushed it should show continuity. If it doesn't, replace it.\n- If it tests good, move on to the start switch.\n\n"
+      },
+      {
+        "title": "Start Switch Failed",
+        "steps": "Unplug the dryer. If you have a mechanical push button or knob to start the dryer, this is the one to check; if the start switch doesn't work, the dryer won't start.\n\n- You may be able to get to this switch in an upper console on the unit, and not have to open the whole dryer up.\n- Disconnect it from the machine (you probably don't have to remove it).\n- Test continuity when the switch is pushed as it is only a momentary contact.\n- If it doesn't show continuity when pressed (a continuity beeper on the meter helps here) it needs to be replaced.\n- If it's good, go to the next step.\n\n"
+      },
+      {
+        "title": "Drive Belt Problem",
+        "steps": "Some dryers will also show some small activity with a broken drive belt.\n\n- In some cases, the motor will run, but the drum won't turn. That's a sure sign of a belt problem.\n- In others, especially newer dryers, the unit will not do anything if it has a broken belt when a cycle is selected and you try to start it. The belt switch disables the machine.\n- To check quickly for a broken drive belt: - Reach into the dryer and try to spin the drum by hand.\n- If it spins very easily, that's an indication of a broken drive belt. Go to the Loose or Broken Drive Belt step below.\n- If it won't spin at all or is very hard to turn, it could be a bearing problem or a clogged blower.\n- You'll need to check the belt and blower visually to be sure, which means some disassembly of your dryer. Go to the next step.\n\n"
+      },
+      {
+        "title": "Blown Thermal Fuse / Thermal Cutout",
+        "steps": "Once you are inside the dryer cabinet, check the thermal fuse and thermal cutout at the same time you check the belt and blower. This fuse is a possible culprit for dryers that won't spin. The cutout is more often the culprit when they won't heat.\n\n- Unplug the dryer. Many dryers are designed so that if the thermal fuse blows, the dryer will not start because the motor can't run when it is blown. The fuse will likely be located near the rear part of the unit, where the heated air will flow out of the dryer drum.\n- There may be two of these fuses, on some models one is called the thermal fuse, and the other is called the thermal cutout. The cutout is usually located near the heat source, like on the heating element shroud on an electric dryer.\n- To test these you just need to check continuity. Make sure the dryer is unplugged. (don't find out the hard way). Disconnect the wires from the thermal fuse and then check it. Use the continuity beeper of your meter if it has one. Does it indicate continuity? If no continuity, it needs to be replaced. The same thing can be done for the thermal cutout.\n- If either the cutout or the thermal fuse has blown, it's an extremely good idea at this point to also make sure that all the exhaust ducts are not blocked with lint or other objects. These will slow the airflow and make the dryer overheat and blow the thermal fuse again. For more tips on thermal fuse issues see this page\n- If either the cutout or the thermal fuse has blown, but your drum was hard to turn, you should also check bearings and rollers too and make sure everything is spinning freely. A blower running slowly can be a problem and can make the motor thermal protection activate from being overloaded.\n\n"
+      },
+      {
+        "title": "Loose or Broken Drive Belt",
+        "steps": "You're looking at the inside of your dryer and you can see the drive belt that goes around the dryer drum. The drum works like a huge pulley for the belt to run on.\n\n- Check the belt. Is it snug to the drum so you can barely slide it side to side? If it's good, go to the next step.\n- Is it loose, but not broken? This is likely a problem with the idler or tensioner pulley. The belt may have slipped off the pulley, or the spring has broken. The idler pulley is usually located down low inside the machine, near the motor. - Check that it turns freely. You might have to loosen the belt slightly to spin the pulley.\n- Slip the belt back on if it fell off. The spring tension on the idler pulley should work so that the pulley makes the belt tight. So the belt should be looped around the pulley in a way that the spring on the pulley tightens the belt.\n- If the belt is broken, you'll need to replace it. Make sure you get one for your exact model.\n\nAlso, it's possible the belt was installed wrong side up or has become twisted. Is the ribbed side against the drum? If you see the ribs you need to flip the belt over.\n\n- Loosen the belt by slipping it off the tension pulley (note carefully how it went on before you do; maybe even take a picture.)\n- Flip the loose belt over on the drum, then reach below and flip it on the motor pulley.\n- Put tension back on the belt with the idler pulley, and spin things by hand to see that the belt is now smooth side out on the drum and the motor pulley.\n\n"
+      },
+      {
+        "title": "Clogged or Jammed Blower",
+        "steps": "Your dryer's blower might have an impediment which will not allow the blower wheel to turn freely. This can be a small sock or other small piece of laundry that may have fallen down the lint filter holder. and been sucked in to the blower.\n\n- Remove the blower cover and check inside for lint or small pieces of laundry\n- Clean out any lint you find as well as any laundry items.\n\n"
+      },
+      {
+        "title": "Drum Bearing Worn Out",
+        "steps": "Some dryers have a bearing in the center rear part of the drum, that supports the drum. This bearing can fail making the drum very difficult to turn. Take a look; does it look like the drum is supported from the back panel of the dryer? If your unit has rollers that support the drum from below, go to the next step, Drum Rollers Failed.\n\nIf the bearing is bad enough, the motor won't turn the drum. Loosen the belt by slipping it off the tension pulley (note carefully how it went on before you do)\n\n- Try to turn the drum by hand, and watch if it turns easily. If not, the drum bearing is bad. You need to replace it.\n- If things spin freely, then it's time to check the belt switch.\n\n"
+      },
+      {
+        "title": "Drum Rollers Failed",
+        "steps": "Many dryers have rollers that support the drum both at the front and at the rear. To check this, you will try spinning the drum with the belt loose.\n\n- Loosen the belt by slipping it off the tension pulley (note carefully how it went on before you do)\n- Try to turn the drum by hand, and watch if it turns easily. If not, one or more of your drum rollers have gone bad. You need to replace them.\n- If any are bad, it's a good idea to replace all of them at one time, since others may be wearing out too.\n- If everything turns freely, go to the next step.\n\n"
+      },
+      {
+        "title": "Belt Switch Problem",
+        "steps": "You checked the drive belt, the tensioner or idler, and the bearings and all is ok. What else? Try checking the belt switch. It doesn't often fail, but it is fairly simple to check.\n\n- If you skipped to the Loose or Broken Drive Belt step earlier, go back and do the Blown Thermal Fuse/ Thermal Cutout step then do this check next.\n- This is a switch that is usually located next to the tensioner or idler pulley assembly that keeps the belt tight around the drum of the dryer. If you didn't already check, make sure this pulley spins freely. Your dryer may just have the pulley mounted on a leaf spring and doesn't have a belt switch, if this is the case, skip to the next topic.\n- This pulley is frequently mounted on a spring loaded arm. The arm is set up so that when there is no belt going around the pulley (like when the belt is broken) the spring pulls the arm down so that it operates a switch. This switch shuts down the dryer and keeps it from operating for safety. If the clothes can't tumble, they could overheat, or block airflow. If the switch fails the dryer will not work.\n- Make sure the dryer is unplugged. You want to test for continuity with the switch in the un-operated or normal position, between the COM and NC terminals.\n\n"
+      },
+      {
+        "title": "Motor Bearings",
+        "steps": "- Does the motor itself spin freely? If it doesn't, that's a problem that has to be corrected.\n- The motor bearings may have just worn out. You'll need to replace the motor.\n\n"
+      },
+      {
+        "title": "Timer Failed",
+        "steps": "The timer may have failed, Replace it after you check continuity on the contacts. You will need specific information on your model to do this.\n\n"
+      },
+      {
+        "title": "Motor Failure",
+        "steps": "If your motor has failed, you are likely having issues with the dryer stopping mid cycle. This can come about because a motor overheats and stops until it cools down.\n\n"
+      },
+      {
+        "title": "Faulty Main Control Board",
+        "steps": "The main control board can fail, but like the motor it is something of a last resort to replace.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 511634,
+    "title": "Maytag Dryer Not Spinning",
+    "type": "leaf",
+    "description": "Your Maytag dryer won't spin. Where do you start to try and get it running again? Here are some solutions.",
+    "causes": [
+      {
+        "title": "Failed Door Switch",
+        "steps": "- Your dryer may show some signs of life, like a humming timer motor, but won't turn on and tumble the clothes when the start button is pressed.\n- On older or simpler dryers, if the door switch goes bad, the dryer acts completely dead.\n\nThe door switch can be quickly checked from the outside of the dryer, so we do it first.\n\n- A quick check is to plug the dryer in and try to operate the door switch with a pencil or your finger. Listen for a click, and see if the dryer starts.\n- If it does start, you know the switch can work, it just doesn't during normal operation. - Inspect your dryer door for damage or bend.\n- Some dryers have a small boss, or probe, that operates the door switch. If this is broken, it will not work. Replace it.\n- If the door is ok, the switch may work but is worn out or has a broken operating lever. so that the door won't operate it anymore.\n- Check to see if the switch has come loose or wiggles. - If it's snug, replace it, it's worn out.\n- If it wiggles or is loose, tighten it, then check it again with the door. If it still doesn't work, replace it.\n- If there's no click, and it doesn't start, unplug the dryer. It's time to test it with a meter. - Disconnect one terminal on the switch.\n- Using [product|IF145-035|a multimeter|new_window=true] set to the continuity or Rx1 setting to check the switch.\n- When the switch is pushed, it should show continuity. If it doesn't, replace it.\n- If it tests good, move on to the start switch.\n\n"
+      },
+      {
+        "title": "Start Switch Has Failed",
+        "steps": "Unplug the dryer. If you have a mechanical push button or knob to start the dryer, this is the one to check. If the start switch doesn't work, the dryer won't start.\n\n- You may be able to get to this switch in an upper console on the unit, and not have to open the whole dryer up.\n- Disconnect it from the machine (you probably don't have to remove it).\n- Test continuity when the switch is pushed as it is only a momentary contact.\n- If it doesn't show continuity when pressed (a continuity beeper on the meter helps here) it needs to be replaced.\n- If it's good, go to the next step.\n\nSome dryers with electronic controls may have a start button that is built into a control panel. These are much more involved to test.\n\n"
+      },
+      {
+        "title": "Drive Belt Problem",
+        "steps": "Some dryers may show minor signs of activity with a broken drive belt.\n\n- In some cases, the motor will run, but the drum won't turn. That's a sure sign of a belt problem.\n- In others, especially newer dryers, the unit will not do anything.\u00a0 When a cycle is selected and you try to start it, if it has a broken belt the unit will not do anything. The belt switch disables the machine.\n- To check quickly for a broken drive belt: - Reach into the dryer and try to spin the drum by hand.\n- If it spins very easily, that's an indication of a broken drive belt. Go to the Loose or Broken Drive Belt section below.\n- If it won't spin at all, or is very hard to turn, it could be a bearing problem or a clogged blower.\n- You'll need to check the belt and blower visually to be sure, which means some disassembly of your dryer. Go to the next step.\n\n"
+      },
+      {
+        "title": "Blown Thermal Fuse / Thermal Cutout or Cutoff",
+        "steps": "Once you are inside the dryer cabinet, check the thermal fuse and thermal cutout at the same time you check the belt and blower. This fuse is a possible culprit for dryers that won't spin. The cutout is more often the culprit when they won't heat. You may need to do quite a bit of disassembly to get to these parts. The location of the lint filter will often give you a clue about where these parts are located as it is usually very near the blower.\n\n- Unplug the dryer. Many dryers are designed so that if the thermal fuse blows, the dryer will not start because the motor can't run when it is blown. The fuse will likely be located near the blower, where the heated air will flow out of the dryer drum.\n- There may be two of these fuses, on some models one is called the thermal fuse, and the other is called the thermal cutout or cutoff. This is usually located near the heat source, like on the heating element shroud on an electric dryer.\n- To test these you will need to [guide|25632|check continuity|stepid=64987|new_window=true]. Make sure the dryer is unplugged. (Don't find out the hard way). Disconnect the wires from the thermal fuse and then check it. Use the continuity beeper of your meter if it has one. Does it indicate continuity? If no, it needs to be replaced. The same thing can be done for the thermal cutout.\n\nIf either the cutout or the thermal fuse has blown, it's an extremely good idea at this point to also make sure that all the exhaust ducts are not blocked with lint or other objects. These will slow the airflow and make the dryer overheat, blowing the thermal fuse again. For more tips on thermal fuse issues see this page\n\n- If either the cutout or the thermal fuse has blown, but your drum was hard to turn, you should also check bearings and rollers. Verify everything is spinning freely. A blower running slowly because it\u2019s clogged can be a problem and can make the motor's thermal protection activate from being overloaded.\n\n"
+      },
+      {
+        "title": "Loose or Broken Drive Belt",
+        "steps": "You're looking at the inside of your dryer and you can see the drive belt that goes around the dryer drum. The drum works like a huge pulley for the belt to run on.\n\n- Check the belt. Is it snug to the drum? You should barely be able to slide it side to side. If it's good, go to the next step.\n- Is it loose, but not broken? This is likely a problem with the idler or tensioner pulley. The belt may have slipped off the pulley, or the spring has broken. The idler pulley is usually located down low inside the machine, near the motor. - Check that it turns freely. You might have to loosen the belt slightly to spin the pulley.\n- Slip the belt back on if it fell off. The spring tension on the idler pulley should work so that the pulley makes the belt tight. So the belt should be looped around the pulley in a way that the spring on the pulley tightens the belt.\n- If the belt is broken, you'll need to replace it. Be sure to get one for your exact model.\n\nIt's also possible the belt was installed wrong side up, or has become twisted. Is the ribbed side against the drum? It should be. If you see the ribs, you need to flip the belt over.\n\n- Loosen the belt by slipping it off the tension pulley (note carefully how it went on before you do; take a picture for reference).\n- Flip the loose belt over on the drum, then reach below and flip it onto the motor pulley.\n- Put tension back on the belt with the idler pulley, and spin things by hand to see that the belt is now smooth side out on the drum and the motor pulley.\n\n"
+      },
+      {
+        "title": "Clogged or Jammed Blower",
+        "steps": "Your dryer's blower might have an impediment that will not allow the blower wheel to turn freely. This can be a small sock, or other piece of laundry that may have fallen down the lint filter holder. A jammed blower may be accompanied by the hum of the motor trying to turn. The clog may also be wedged in the blower vanes, making the blower harder to turn.\n\n- Remove the blower cover and check inside for lint or small pieces of laundry\n- Clean out any lint or laundry items you find.\n\n"
+      },
+      {
+        "title": "Drum Bearing Worn Out",
+        "steps": "Some Maytag dryers have a bearing in the center rear part of the drum that supports the drum. This bearing can fail making the drum very difficult to turn.\n\nTake a look; does it look like the drum is supported from the back panel of the dryer? These units will also use glides near the door of the dryer to support the drum. These can wear and make turning the drum harder. If your unit has rollers that support the drum from below, go to the next step.\n\nIf the bearing is bad enough, the motor won't turn the drum. Loosen the belt by slipping it off the tension pulley (note carefully how it went on before you do)\n\n- Try to turn the drum by hand, and watch if it moves easily. If not, the drum bearing is bad. You need to replace it.\n- If things spin freely, then it's time to check the belt switch.\n\n"
+      },
+      {
+        "title": "Drum Rollers Failed",
+        "steps": "Many dryers have rollers that support the drum at both the front and at the rear. To check this, try spinning the drum with the belt loose.\n\n- Loosen the belt by slipping it off the tension pulley (note carefully how it went on before you do).\n- Try to turn the drum by hand, and watch if it turns easily. If not, one or more of your drum rollers have gone bad. You need to replace them.\n- If any are bad, it's a good idea to replace all of them at one time, since others may be wearing out too.\n- If everything turns freely, go to the next step.\n\n"
+      },
+      {
+        "title": "Belt Switch Failed",
+        "steps": "You checked the drive belt, the tensioner or idler, and the bearings and all is ok. What else? Try checking the belt switch. It doesn't often fail, but it is fairly simple to check.\n\n- If you skipped to the then do this check next.\n- This is a switch that is usually located next to the tensioner or idler pulley assembly that keeps the belt tight around the drum of the dryer. If you didn't already check, make sure this pulley spins freely. Your dryer may just have the pulley mounted on a leaf spring and doesn't have a belt switch, if this is the case, skip to the next topic.\n- This pulley is frequently mounted on a spring-loaded arm. The arm is set up so that when there is no belt going around the pulley (like when the belt is broken) the spring pulls the arm down so that it operates a switch. This switch shuts down the dryer and keeps it from operating for safety. If the clothes can't tumble, they could overheat, or block airflow. If the switch fails the dryer will not work.\n- Make sure the dryer is unplugged. You want to [guide|25632|test for continuity|stepid=64987|new_window=true] with the switch in the un-operated or normal position, between the COM and NC terminals. You may need to do some substantial disassembly to do this.\n- If the belt switch tests ok, go to the next step.\n\n"
+      },
+      {
+        "title": "Motor Bearings Failed",
+        "steps": "- Does the motor itself spin freely? If it doesn't that's a problem that has to be corrected.\n- The motor bearings may have just worn out. If so, you'll need to replace the motor.\n\n"
+      },
+      {
+        "title": "Timer Failed",
+        "steps": "The timer may have failed, Replace it after you check continuity on the contacts. You will need specific information on your model to do this.\n\n"
+      },
+      {
+        "title": "Motor Failed",
+        "steps": "If your motor has failed, you are likely having issues with the dryer stopping mid cycle. This can result from the motor overheating. It stops until it cools down.\n\nIt's worth checking to see if the motor centrifugal switch has failed, as on some dryers the switch may be replaceable apart from the motor (lots cheaper). You will need to find the tech sheet for your dryer (in the console or under the top on one of the sidewalls of the cabinet) in order to test this switch. You might want to determine if that part is available separately from the motor by searching with your model number.\n\n"
+      },
+      {
+        "title": "Main Control Board Failure",
+        "steps": "The main control board can fail, but like the motor it is something of a last resort to replace.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 511672,
+    "title": "Whirlpool Dryer Not Spinning",
+    "type": "leaf",
+    "description": "Your Whirlpool dryer isn't tumbling the laundry. Let's look for the causes and solutions. We can walk through this together.",
+    "causes": [
+      {
+        "title": "Bad Door Switch",
+        "steps": "Some dryers may show some signs of life, like lights, but won't spin when the start button is pressed. On older or simpler dryers, if the door switch goes bad, the dryer acts completely dead or you can just hear the timer motor. Sometimes your dryer will spin if you slam the door, but not otherwise.\n\nDoor switch problems are so common that we want to work hard checking them.\n\nWe check the door switch from outside the dryer first. You don\u2019t need to open the cabinet for these checks. Keep in mind, the door switch could be good, so these outside checks are just preliminary.\n\n- For door switches that don\u2019t have an external button or lever, a quick check is to try to operate the door switch button with a pencil or your finger, and listen for a click,\n- If you hear one, plug the dryer in and operate the switch again. See if the dryer starts.\n- You can try the switch button or lever by using your finger to see if you can get the dryer to start. Be careful, the drum could start turning!\n\nIf it does start, you know the switch can work. And you know that your dryer can spin too, so the problem is the door switch system. Either the switch isn\u2019t working, or it\u2019s worn or loose, or the door has a problem.\n\n- Is your dryer door damaged or bent? Worn or bent hinges can make a door close improperly and not activate the switch. Repair or replace the hinges.\n- Has the switch come loose? - If it's tight, replace it, it's worn out and you know the dryer works otherwise.\n- If it wiggles or is loose, tighten it, then check it again with the door. If it doesn't work, replace it.\n- Some dryers have a small boss or probe that operates the door switch, if this is broken or bent it will not operate the switch. Replace the boss or probe.\n- Some dryers may also have a catch that just holds the door shut, but if it has partially lost its grip, the switch might not operate because the door doesn\u2019t stay closed enough.\n\nIf the door's ok, the switch may work, but be worn inside or have a broken operating lever so that the door isn\u2019t able to operate it anymore. This is especially true if you can get the dryer to start with your finger operating the switch, but not the door.\n\n- If there's no click, and it doesn't start, unplug the dryer. It's time to test the switch with a meter. - Disconnect one terminal on the switch.\n- Using a multimeter set to the continuity or Rx1 setting to check the switch.\n- When the switch is pushed it should show continuity. If it does you can try it one more time in the door. If possible, test continuity on the switch using the door to operate it, you may find the problem is wear as described above.\n- If it doesn't show continuity, replace it.\n- If it tests good, and closing the door to test it makes it show continuity, move on to the start switch.\n\n{table\n\n\n| \n[image|2956931|caption=Door Switch Testing-closed]\n\n\n| \n[image|2956932|caption=Door Switch Testing-open]\n\n}\n\n"
+      },
+      {
+        "title": "Start Switch Failed",
+        "steps": "Unplug the dryer. If you have a mechanical push button or knob to start the dryer, this is the one to check; if the start switch doesn't work, the dryer won't start.\n\n- You may be able to get to this switch in an upper console on the unit, and not have to open the whole dryer up.\n- Disconnect it from the machine (you probably don't have to remove it).\n- Test continuity when the switch is pushed as it is only a momentary contact.\n- If it doesn't show continuity when pressed (a continuity beeper on the meter helps here) it needs to be replaced.\n- If it's good, go to the next step.\n\nIf you have a dryer with electronic controls which has a touch type button for the start switch, you can run a diagnostic test depending on your model. Given that looking for the tech sheet will involve opening the machine, you should consider skipping to the next steps and returning here later.\n\nYou can look for a tech sheet tucked in your machine either inside the top console where the controls are, or tucked under the top of the machine on those machines with front controls.\n\nThis sheet will have more instructions on how to get into the diagnostic mode, which has a user interface test (including the start button).\n\n"
+      },
+      {
+        "title": "Drive Belt Problems",
+        "steps": "Some dryers will also show some small activity with a broken drive belt. Lights may still come on, and you may be able to enter a cycle, but basically, that\u2019s it. It won\u2019t spin the drum.\n\nOn some older dryers, the motor will run, but the drum won't turn. That's a sure sign of a belt problem.\n\nOn newer dryers, when a cycle is selected and you try to start it, the unit will not do anything if it has a broken belt. The belt switch disables the motor.\n\n- To check quickly for a broken drive belt: - Reach into the dryer and try to spin the drum by hand.\n- If it spins very easily, that's an indication of a broken drive belt. Go to the Loose or Broken Drive Belt step below.\n- If it won't spin at all or is very hard to turn, it could be a bearing problem or a clogged blower. It is possible that this condition has caused the belt to break.\n- You'll need to check the belt and blower visually to be sure, which means some disassembly of your dryer. Go to the next step.\n\n"
+      },
+      {
+        "title": "Thermal Fuse / Thermal Cutoff Is Blown",
+        "steps": "{table\n\n\n| \n[image|2956552|caption=Thermal Cutoff on Heater Shroud]\n\n\n| \n[image|2956553|caption=Closeup of Thermal Cutoff]\n\n|--\n\n| \n[image|2956551|caption=Thermal Fuse On Blower Outlet Housing]\n\n\n| \n[image|2956547]\n\n|--\n\n| \n[image|2956554|caption=Testing Thermal Cutoff]\n\n\n| \n[image|2956904|caption=Testing Thermal Fuse]\n\n}\n\nOnce you are inside the dryer cabinet, check the thermal fuse and thermal cutout at the same time you check the belt and blower. This fuse is a possible culprit for dryers that won't spin. The cutout is more often the culprit when they won't heat.\n\n- Unplug the dryer. Many dryers are designed so that if the thermal fuse blows, the dryer will not start because the motor can't run when it is blown. The fuse will likely be located near the lint filter location and the blower, where the heated air will flow out of the dryer drum. - If the lint filter is just inside the door of the dryer, the thermal fuse is located just below. On these units, access to the thermal fuse requires a fair amount of disassembly. You may be able to test it by just removing the front panel of the machine.\n- If the lint filter is under a door on top of the machine, the thermal fuse will be accessed from the rear of the machine.\n- The thermal cutout or cutoff is located near the heat source, like on the heating element shroud on an electric dryer or the burner cone on a gas model.\n- To test these you just need to check continuity. Make sure the dryer is unplugged. (don't find out the hard way). Disconnect the wires from the thermal fuse and then check it. Use the continuity beeper of your meter if it has one. Does it indicate continuity? If no continuity, it needs to be replaced. The same thing can be done for the thermal cutout/ cutoff.\n- If either the cutout or the thermal fuse has blown, it's an extremely good idea at this point to also make sure that all the exhaust ducts are not blocked with lint or other objects. These will slow the airflow and make the dryer overheat and blow the thermal fuse again. For more tips on thermal fuse issues see this page\n- If either the cutout or the thermal fuse has blown, but your drum is hard to turn, you should also check bearings, rollers, and the blower too. Make sure everything is spinning freely. A clogged or partially jammed blower running slowly can be a problem and can make the motor thermal protection activate from being overloaded which will also make your dryer not spin.\n\n"
+      },
+      {
+        "title": "Drive Belt Is Loose or Broken",
+        "steps": "You're looking at the inside of your dryer and you can see the drive belt that goes around the dryer drum. The drum works like a huge pulley for the belt to run on.\n\n- Check the belt. Is it snug to the drum so you can barely slide it side to side? If it's loose, pull on it to see if it is broken, if it\u2019s still in one piece, keep going. If it\u2019s broken, replace it.\n- Is the ribbed side against the drum? If you see the ribs showing where the belt wraps around the drum, you need to flip the belt over. - Loosen the belt by slipping it off the idler pulley (note carefully how it went on before you do; maybe even take a picture.) Make sure to check the idler pulley condition too as mentioned below.\n- Flip the loose belt over on the drum, then reach below and flip it on the motor pulley.\n- Put tension back on the belt with the idler pulley, and spin things by hand to see that the belt is now smooth side out on the drum and the motor pulley.\n\n"
+      },
+      {
+        "title": "Idler Pulley",
+        "steps": "[image|2956538|size=medium|align=center|caption=Idler Pulley Circled in Red]\n\nIs the belt loose, but not broken? Was it flipped over? This is likely a problem with the idler or tensioner pulley. The belt may have slipped off the pulley, or the spring has broken. The idler pulley is usually located down low inside the machine, near the motor.\n\n- Check that it turns freely. You might have to loosen the belt slightly to spin the pulley. If It doesn\u2019t turn freely, replace it.\n- Slip the belt back on if it fell off. The spring tension on the idler pulley should work so that the pulley makes the belt tight. If the spring is broken, replace it.\n- The belt should be looped around the pulley in a way that the spring on the pulley tightens the belt. If the pulley shows any damage like the belt has been sliding, or the rim of the pulley is worn or broken, replace it.\n- If the belt is broken, you'll need to replace it. Make sure you get one for your exact model.\n\n"
+      },
+      {
+        "title": "Clogged or Jammed Blower",
+        "steps": "[image|2956914|size=medium|align=center|caption=Blower With the Cover On]\n\nYour dryer's blower might have an impediment that will not allow the blower wheel to turn freely. This can be a small sock or other small piece of laundry that may have fallen down the lint filter holder, and been sucked into the blower. It could even be a chunk of lint that has been compacted. If you have the machine partially disassembled, it is worth cleaning the blower.\n\n- Remove the blower cover and check inside for lint or small pieces of laundry\n- Clean out any lint you find as well as any laundry items.\n\n"
+      },
+      {
+        "title": "Drum Bearing Worn Out",
+        "steps": "A few Whirlpool dryers have a bearing in the center rear part of the drum which supports the drum. This bearing can fail making the drum more difficult to turn.\n\n- Take a look; does it look like the drum is supported from the back panel of the dryer?\n- Is your dryer one of the compact 24\u201d wide models?\u00a0 If so it likely has a rear bearing.\n- If your unit has rollers that support the drum from below, front and rear, go to the next step, Drum Rollers Failed.\n\nIf the bearing is bad enough, the motor won't turn the drum. Loosen the belt by slipping it off the tension pulley (note carefully how it went on before you do)\n\n- Try to turn the drum by hand, and watch if it turns easily. If not, the drum bearing or the glides at the front of the drum are bad. You need to replace them.\n- If things spin freely, then it's time to check the belt switch.\n\n"
+      },
+      {
+        "title": "Drum Rollers Failed",
+        "steps": "Many dryers have rollers that support the drum both at the front and at the rear. To check this, you will try spinning the drum with the belt loose.\n\n- Loosen the belt by slipping it off the idler pulley (note carefully how it went on before you do) (pic from guides)\n- Try to turn the drum by hand, and watch if it turns easily. If not, one or more of your drum rollers have gone bad. You need to replace them.\n- If any are bad, it's a good idea to replace all of them at one time, since others may be wearing out too. It is worth pulling the drum to check the rollers one at a time too.\n- If everything turns freely, go to the next step.\n\n"
+      },
+      {
+        "title": "Belt Switch Problem",
+        "steps": "You checked the drive belt, the tensioner or idler, and the bearings or rollers and all is ok. What else? Try checking the belt switch. It doesn't often fail, but it is fairly simple to check. You may have to do some major disassembly to access it sufficiently for testing.\n\n- If you skipped to the Loose or Broken Drive Belt step earlier, go back and do the Blown Thermal Fuse/ Thermal Cutout step then do this check next.\n- This is a switch that is usually located next to the tensioner or idler pulley assembly. (in the photo at the Idler Pulley subsection it is the ivory-colored toggle right below the idler arm)\n- This pulley is generally mounted on a spring-loaded arm. Your dryer may just have the pulley mounted on a leaf spring and doesn't have a belt switch, if this is the case, skip to the next topic.\n- The arm is set up so that when there is no belt going around the idler pulley (like when the belt is broken) the spring pulls the arm down so that it operates the switch. This switch shuts down the dryer and for safety keeps it from operating. If the switch fails the dryer will not work.\n- Make sure the dryer is unplugged. You want to test for continuity with the switch in the un-operated or normal position, between the COM and NC terminals. On some models, this will require considerable disassembly. (Link to Guide)\n\n"
+      },
+      {
+        "title": "Motor Failure",
+        "steps": "If your motor has failed, you are likely having issues with the dryer stopping mid cycle. This can come about because a motor overheats and stops until it cools down. If this happens a lot, the motor will likely completely fail\n\nThe bearings can also fail. Not very common as a failure; the control board on those units that have one is probably just as likely. A few considerations:\n\n- Does the motor itself spin freely? If it doesn't, that's a problem that has to be corrected.\n- The motor bearings may have just worn out. You'll need to replace the motor.\n\nIf the motor spins well, go to the next item.\n\n"
+      },
+      {
+        "title": "Timer Failed (For models with timers)",
+        "steps": "The timer may have failed, Replace it after you check the continuity on the contacts. This is something that can fail either because the contacts fail, or because the drive motor fails. You will need specific information on your model to do this. This is another repair that isn\u2019t super common, but contacts can fail and it does happen.\n\n"
+      },
+      {
+        "title": "Faulty Main Control Board or Cycle Control Unit (Models with electronic controls\n)",
+        "steps": "The main control board or Cycle Control Unit can fail but, like the motor, it is something of a last resort to replace. Among the usual failures, often the motor relay will go bad which will result in the machine not spinning. If nothing else has shown badly on the machine, the Cycle Control Unit is likely the culprit. Replace it.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 519241,
+    "title": "LG Dryer D80 Code",
+    "type": "leaf",
+    "description": "Your LG Dryer is showing a D80 or d80 code. Not to worry, it is a safety feature and the fixes to clear the code are very straightforward.",
+    "causes": [
+      {
+        "title": "Clogged Lint Filter",
+        "steps": "A clogged lint filter can cause an airflow blockage that acts like an exhaust duct blockage. Before you check your ducts for lint, make sure that your lint filter is cleaned thoroughly, as shown on our Dryer Maintenance page.\n\n"
+      },
+      {
+        "title": "Clogged Exhaust Duct",
+        "steps": "The most likely cause for the code is the condition it was designed to guard against\u2014 clogged exhaust vent ductwork. Keep in mind that the entire exhaust system needs to be checked. This includes:\n\n- The internal lint filter on the dryer (mentioned above and hopefully already cleaned),\n- The internal ducting of the dryer, the blower, and the entire exhaust system, especially any flexible duct.\n- Remove any screens that a well-meaning person might have installed at the outlet for rodent protection. These are prohibited by code. A damper flap is required, but a screen or mesh should not be installed as it creates an easily clogged lint trap.\n\nGo to our Dryer Maintenance page for details on how to do these procedures.\n\nIf you can\u2019t get the code to clear after these steps and have run a full cycle, you are likely facing a component fault or the duct is too long. Go to the next step.\n\n"
+      },
+      {
+        "title": "Excessive Exhaust Duct Length",
+        "steps": "Your ducting may be just fine now as far as lint clogs go, but it may be too long for your dryer. This will cause lower airflow leading to a higher temperature rise in the dryer.\u00a0 Your LG dryer can run a duct check. Your Owner\u2019s Manual has the details.\n\n"
+      },
+      {
+        "title": "Faulty Duct Conditions",
+        "steps": "Before running the duct check, make sure that the following items have been verified. Since your duct system may be concealed or inaccessible, check these as much as you are able:\n\n- You are using the shortest possible connection between the dryer and the exhaust vent pipe.\n- You are using rigid ducts wherever possible: - Some localities require it for the whole system.\n- The joints should be arranged so that the pipe that fits inside the next pipe at each joint is toward the dryer.\n- There is no foil type or plastic flex duct in the system.\n- The system should be assembled with foil tape and without screws at the joints unless they protrude \u215b inch or less into the duct to avoid trapping lint.\n- Remove unnecessary elbows or bends from the system. - Sometimes older dryers may have needed extra fittings to connect to the system and the replacement doesn\u2019t need them.\n- Remember that changing your dryer to a side outlet (when possible) will add an elbow to the system.\n\nYour owner\u2019s manual should have more details on duct installation, such as the total acceptable length and number of bends.\n\n"
+      },
+      {
+        "title": "Duct Check",
+        "steps": "The duct check takes about two to three minutes and your dryer must be cool to start with. If your dryer is warm, you can run an Air Dry cycle for a few minutes to cool it off first.\n\n- Remove any laundry or drying racks inside the drum\n- Press the Power key\n- Then press at the same time the two keys specific to your model (found in your owner\u2019s manual under installation test) - E.g. Temp and Signal; Wrinkle Care and Temp\n- Some models will require all the buttons to be pressed at once, (dlex3885 model,\u00a0 Damp Dry, Power and Temp Control)\n- The display will show lnS\n- Press the Start button.\n- The test will run for a short time and then display End or 0 if there is no problem. You\u2019re done!\n- Otherwise, it will display error codes or no depending on the model.\n\nThe solution for a verified too-long duct is to install a duct booster fan. Known as a Dryer Exhaust Duct Power Ventilator (DEDPV for short), you install it downstream of your dryer to enable it to function properly with an over-long duct. Before trying that solution, you should check several of the components of the dryer.\n\nDo the following component checks, before going with the booster fan. The fan is expensive and requires a fairly involved installation.\n\n"
+      },
+      {
+        "title": "Faulty Hi-Limit Thermostat",
+        "steps": "The hi-limit thermostat is involved in the function of the Flow Sense system. Plugged exhaust ducts will cause a temperature rise in the dryer, especially at the heat source. This is where the hi-limit thermostat is located. If the temperature rise causes the hi-limit thermostat to operate, it will send a signal to the control board. This will result in an error message.\n\nIf the hi-limit thermostat is faulty, it may open at a lower temperature than designed. This \u201cfools\u201d the flow sense system into thinking the dryer is hotter than it is. Because it opens sooner than it should, the Flow Sense system treats that as a duct obstruction and displays the error code.\n\nHere\u2019s some information on testing your hi-limit thermostat. Even if the hi-limit tests ok, if it is at all borderline, it may be worthwhile to replace it, as the component is comparatively cheap.\n\nIf the hi-limit tests ok, go on to the next test.\n\n"
+      },
+      {
+        "title": "Failed Cycling Thermostat or Outlet Thermistor",
+        "steps": "The cycling thermostat or outlet thermistor controls the temperature in your dryer. If this component fails in the \u201cheat on\u201d position (closed in the case of a thermostat), the dryer will heat up excessively.\n\nThe first line of defense when this happens is the hi-limit thermostat. Since this failure will cause the hi-limit thermostat to regulate the temperature of the dryer, it will open and close, triggering a plugged duct error.\n\nThermostat failures are harder to test, since a cycling thermostat is supposed to open above a certain temperature in order to shut off the heating system. The thermostat will have continuity at lower temperatures, so a continuity test won\u2019t show if it will operate. You can use very hot or boiling water or a hot plate with a temperature control to see if the thermostat will open.\n\nYou can test the thermistor to see if it has the correct resistance for the room temperature it is at, and you may be able to use a water bath to test it at other temperatures.\n\nIf the thermostat or thermistor tests ok, you can proceed to the more involved fixes, depending on what seems to be the problem. There is no harm in replacing the thermostat or thermistor, though as often component bundles are sold which combine the hi-limit thermostat with the cycling thermostat or outlet thermistor. Some kits may even have an inlet thermistor combined with the hi-limit thermostat and outlet thermistor.\n\n"
+      },
+      {
+        "title": "Faulty Main Control Board",
+        "steps": "The last component to check is the main control board. This is a judgment call, based on what you know of your exhaust duct system. If you have reason to think that the exhaust duct is overly long or borderline, the duct booster might be a sensible step rather than the control board.\n\nIf your dryer was running fine for years, and then suddenly starts having these errors, that could point to the control board. This is especially true if:\n\n- You know that the duct system is clean\n- The errors didn\u2019t disappear after replacing the hi-limit thermostat, and any other control components.\n\nIf this is the case, you should replace the control board.\n\n"
+      }
+    ]
+  },
+  {
+    "wikiid": 535889,
+    "title": "Kenmore Dryer Won't Turn On or Power On",
+    "type": "leaf",
+    "description": "Is your Kenmore Dryer not turning or powering on? Is there no response when buttons are pressed? Try some of these fixes!",
+    "causes": [
+      {
+        "title": "Unplug the dryer or disconnect the power.",
+        "steps": "- Slide the dryer away from the wall enough to disconnect the vent pipe\n- If it's a gas dryer, turn off the gas valve and disconnect the gas pipe\n- If it's an electric dryer, turn off the breaker supplying power to the dryer\n- Unplug the dryer from the wall.\n\nYou can also remove the supply hose after turning off the gas valve.\n\n"
+      },
+      {
+        "title": "Remove the cover plate from the back of the dryer.",
+        "steps": "It will be near a hole about 3/4-inch in diameter in the dryer's back panel\n\n- Using a screwdriver or nut driver, remove the screws on the cover plate.\n- Remove the plate from the dryer to expose the wiring terminal block for the cord connections.\n\n"
+      },
+      {
+        "title": "Make sure the power cord is securely fastened to the terminal block",
+        "steps": "Ensure that the wire approximately fills the screw terminal. If it doesn't, you need a smaller terminal. There should not be any bare wire (stripped insulation) beyond the terminal itself\n\n"
+      },
+      {
+        "title": "Check for continuity at the terminal block",
+        "steps": "With an ohmmeter, check for continuity between the neutral (N) terminal of the plug and the center contact on the terminal block\n\n- If there is no continuity, replace the power cord and test the dryer.\n- If neither of the plug terminals have continuity with the left-most contact of the terminal block, replace the power cord and test the dryer.\n\n"
+      },
+      {
+        "title": "Check for continuity at the control board",
+        "steps": "Access the machine control electronics without disconnecting any wiring to the control board.\n\n- With an ohmmeter, check for continuity between the L1 terminal of the plug and P9-2 (black wire) on the machine control board - If there is continuity, continue to the next step.\n- If there is no continuity, check that wires to the terminal block are mechanically secure. If so, replace the main wire harness and test the dryer\n- Check for continuity between the neutral (N) terminal of the plug and P8-3 (white wire) on the machine control board - If there is continuity continue to the next step.\n- If there is no continuity and the mechanical connections of the wire are secure, replace the main wire harness.\n\n"
+      },
+      {
+        "title": "Visual Inspections",
+        "steps": "- Visually check that the P5 connector is inserted all the way into the machine control electronics.\n- Visually check that the user interface assembly is properly inserted into the front console.\n- If both visual checks pass, replace the user interface assembly\n\n"
+      },
+      {
+        "title": "Plug Back In and Test",
+        "steps": "- Plug in dryer or reconnect power\n- If the dryer still won't power on, then the control board has failed and will need to be replaced.\n\n"
+      }
+    ]
+  }
+]

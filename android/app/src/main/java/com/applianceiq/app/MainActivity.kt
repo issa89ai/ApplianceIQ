@@ -143,6 +143,14 @@ fun ApplianceIqScreen() {
                     )
                 }
             }
+            cacheMessage?.let { message ->
+                item {
+                    Text(
+                        text = message,
+                        color = MaterialTheme.colorScheme.primary
+                    )
+                }
+            }
 
             items(results, key = { it.wikiid }) { result ->
                 SearchResultCard(result)

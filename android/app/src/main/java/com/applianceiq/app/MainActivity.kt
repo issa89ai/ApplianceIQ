@@ -1,8 +1,5 @@
 package com.applianceiq.app
 
-
-import androidx.compose.ui.platform.LocalContext
-import androidx.compose.foundation.clickable
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -13,7 +10,6 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.lazy.items
 import androidx.compose.material3.Button
 import androidx.compose.material3.Card
 import androidx.compose.material3.CircularProgressIndicator
@@ -29,6 +25,7 @@ import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import com.applianceiq.app.ui.theme.ApplianceIQTheme
 import kotlinx.coroutines.launch
@@ -50,14 +47,16 @@ class MainActivity : ComponentActivity() {
 fun ApplianceIqScreen() {
     var query by rememberSaveable { mutableStateOf("") }
     var results by remember { mutableStateOf<List<SearchResult>>(emptyList()) }
+    var currentGuideIndex by remember { mutableStateOf(0) }
+    var diagnosisSession by remember { mutableStateOf(0) }
     var isLoading by remember { mutableStateOf(false) }
     var errorMessage by remember { mutableStateOf<String?>(null) }
+    var cacheMessage by remember { mutableStateOf<String?>(null) }
 
     val context = LocalContext.current
     val searchCache = remember(context) { SearchCache(context) }
-    var cacheMessage by remember { mutableStateOf<String?>(null) }
-
     val scope = rememberCoroutineScope()
+    val currentResult = results.getOrNull(currentGuideIndex)
 
     Scaffold { innerPadding ->
         LazyColumn(
@@ -76,7 +75,7 @@ fun ApplianceIqScreen() {
 
             item {
                 Text(
-                    text = "Describe your dryer's symptom to find likely causes.",
+                    text = "Describe your dryer's symptom to begin a guided diagnosis.",
                     style = MaterialTheme.typography.bodyMedium
                 )
             }
@@ -100,17 +99,21 @@ fun ApplianceIqScreen() {
                             isLoading = true
                             errorMessage = null
                             cacheMessage = null
+                            results = emptyList()
+                            currentGuideIndex = 0
 
                             try {
                                 val response = ApplianceIqApiClient.api.search(searchQuery)
 
                                 results = response.results
+                                diagnosisSession += 1
                                 searchCache.save(searchQuery, response)
                             } catch (exception: Exception) {
                                 val cachedResponse = searchCache.get(searchQuery)
 
                                 if (cachedResponse != null) {
                                     results = cachedResponse.results
+                                    diagnosisSession += 1
                                     cacheMessage = "Showing a saved result from this phone."
                                 } else {
                                     errorMessage =
@@ -125,7 +128,7 @@ fun ApplianceIqScreen() {
                     enabled = query.isNotBlank() && !isLoading,
                     modifier = Modifier.fillMaxWidth()
                 ) {
-                    Text("Search troubleshooting guides")
+                    Text("Start diagnosis")
                 }
             }
 
@@ -143,6 +146,7 @@ fun ApplianceIqScreen() {
                     )
                 }
             }
+
             cacheMessage?.let { message ->
                 item {
                     Text(
@@ -152,89 +156,160 @@ fun ApplianceIqScreen() {
                 }
             }
 
-            items(results, key = { it.wikiid }) { result ->
-                SearchResultCard(result)
+            currentResult?.let { result ->
+                item {
+                    GuidedDiagnosisCard(
+                        result = result,
+                        diagnosisSession = diagnosisSession,
+                        onTryNextGuide = if (currentGuideIndex < results.lastIndex) {
+                            { currentGuideIndex += 1 }
+                        } else {
+                            null
+                        }
+                    )
+                }
             }
         }
     }
 }
 
 @Composable
-fun SearchResultCard(result: SearchResult) {
+fun GuidedDiagnosisCard(
+    result: SearchResult,
+    diagnosisSession: Int,
+    onTryNextGuide: (() -> Unit)?
+) {
+    val causes = result.causes.orEmpty()
+
+    var currentCauseIndex by rememberSaveable(result.wikiid, diagnosisSession) {
+        mutableStateOf(0)
+    }
+    var showSteps by rememberSaveable(result.wikiid, diagnosisSession) {
+        mutableStateOf(false)
+    }
+    var isResolved by rememberSaveable(result.wikiid, diagnosisSession) {
+        mutableStateOf(false)
+    }
+
     Card(modifier = Modifier.fillMaxWidth()) {
         Column(
             modifier = Modifier.padding(16.dp),
-            verticalArrangement = Arrangement.spacedBy(8.dp)
+            verticalArrangement = Arrangement.spacedBy(12.dp)
         ) {
             Text(
-                text = result.title,
-                style = MaterialTheme.typography.titleMedium
+                text = "Best matching issue",
+                style = MaterialTheme.typography.labelLarge
             )
 
             Text(
-                text = "Match score: ${(result.score * 100).toInt()}%",
-                style = MaterialTheme.typography.bodySmall
+                text = result.title,
+                style = MaterialTheme.typography.titleLarge
             )
+
 
             Text(
                 text = result.description,
                 style = MaterialTheme.typography.bodyMedium
             )
 
-            result.causes?.takeIf { it.isNotEmpty() }?.let { causes ->
+            if (causes.isEmpty()) {
                 Text(
-                    text = "Possible causes:",
+                    text = "This issue needs a more specific troubleshooting guide.",
                     style = MaterialTheme.typography.titleSmall
                 )
 
-                causes.forEach { cause ->
-                    ExpandableCause(cause)
-                }
-            }
-
-            result.branches?.takeIf { it.isNotEmpty() }?.let { branches ->
-                Text(
-                    text = "Related troubleshooting guides:",
-                    style = MaterialTheme.typography.titleSmall
-                )
-
-                branches.forEach { branch ->
+                result.branches?.forEach { branch ->
                     Text(text = "• ${branch.title}")
                 }
-            }
-        }
-    }
-}
-@Composable
-fun ExpandableCause(cause: Cause) {
-    var isExpanded by remember { mutableStateOf(false) }
 
-    Column(
-        modifier = Modifier
-            .fillMaxWidth()
-            .clickable { isExpanded = !isExpanded }
-            .padding(vertical = 4.dp),
-        verticalArrangement = Arrangement.spacedBy(4.dp)
-    ) {
-        Text(
-            text = "• ${cause.title}",
-            style = MaterialTheme.typography.bodyLarge
-        )
+                onTryNextGuide?.let { showNextGuide ->
+                    Button(
+                        onClick = showNextGuide,
+                        modifier = Modifier.fillMaxWidth()
+                    ) {
+                        Text("Try the next matching issue")
+                    }
+                }
+            } else if (isResolved) {
+                Text(
+                    text = "Great — this issue has been marked as resolved.",
+                    style = MaterialTheme.typography.titleMedium
+                )
 
-        Text(
-            text = if (isExpanded) {
-                "Tap to hide repair steps"
+                Button(
+                    onClick = {
+                        currentCauseIndex = 0
+                        showSteps = false
+                        isResolved = false
+                    },
+                    modifier = Modifier.fillMaxWidth()
+                ) {
+                    Text("Start this guide again")
+                }
             } else {
-                "Tap to see repair steps"
-            },
-            style = MaterialTheme.typography.bodySmall
-        )
+                val cause = causes[currentCauseIndex]
 
-        if (isExpanded) {
-            Text(
-                text = cause.steps,
-                style = MaterialTheme.typography.bodyMedium
-            )
+                Text(
+                    text = "Suggested check ${currentCauseIndex + 1} of ${causes.size}",
+                    style = MaterialTheme.typography.titleSmall
+                )
+
+                Text(
+                    text = cause.title,
+                    style = MaterialTheme.typography.titleMedium
+                )
+
+                Button(
+                    onClick = { showSteps = !showSteps },
+                    modifier = Modifier.fillMaxWidth()
+                ) {
+                    Text(
+                        if (showSteps) {
+                            "Hide repair steps"
+                        } else {
+                            "Show repair steps"
+                        }
+                    )
+                }
+
+                if (showSteps) {
+                    Text(
+                        text = cause.steps,
+                        style = MaterialTheme.typography.bodyMedium
+                    )
+
+                    Button(
+                        onClick = { isResolved = true },
+                        modifier = Modifier.fillMaxWidth()
+                    ) {
+                        Text("This fixed it")
+                    }
+
+                    if (currentCauseIndex < causes.lastIndex) {
+                        Button(
+                            onClick = {
+                                currentCauseIndex += 1
+                                showSteps = false
+                            },
+                            modifier = Modifier.fillMaxWidth()
+                        ) {
+                            Text("Not this — show next check")
+                        }
+                    } else {
+                        onTryNextGuide?.let { showNextGuide ->
+                            Button(
+                                onClick = showNextGuide,
+                                modifier = Modifier.fillMaxWidth()
+                            ) {
+                                Text("None fixed it — try next matching issue")
+                            }
+                        } ?: Text(
+                            text = "No more matching troubleshooting guides are available.",
+                            style = MaterialTheme.typography.bodyMedium
+                        )
+                    }
+                }
+            }
         }
     }
 }

@@ -3,6 +3,7 @@ import os
 import re
 
 WIKIS_DIR = "data_pipeline/raw/wikis"
+SEARCH_RESULTS_PATH = "data_pipeline/raw/search_dryer.json"
 OUTPUT_PATH = "data_pipeline/processed/dryer_decision_trees.json"
 
 COMMENT_SOLUTIONS = "[comment]solutions[/comment]"
@@ -54,6 +55,35 @@ INLINE_NAVIGATION_PATTERNS = [
         re.IGNORECASE,
     ),
 ]
+
+IFIXIT_LICENSE = "CC BY-NC-SA 3.0"
+IFIXIT_LICENSE_URL = "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+
+def load_source_page_urls():
+    with open(SEARCH_RESULTS_PATH, "r", encoding="utf-8") as file:
+        search_data = json.load(file)
+
+    return {
+        item["wikiid"]: item["url"]
+        for item in search_data["results"]
+        if item.get("wikiid") and item.get("url")
+    }
+SOURCE_PAGE_URLS = load_source_page_urls()
+
+
+def build_source_metadata(page):
+    wikiid = page["wikiid"]
+
+    return {
+        "provider": "iFixit",
+        "source_page_id": wikiid,
+        "source_page_url": SOURCE_PAGE_URLS.get(wikiid),
+        "source_api_url": f"https://www.ifixit.com/api/2.0/wikis/{wikiid}",
+        "license": IFIXIT_LICENSE,
+        "license_url": IFIXIT_LICENSE_URL,
+        "source_modified_unix": page.get("modified_date"),
+        "adapted_for_applianceiq": True,
+    }
 
 def extract_text(node):
     node_type = node.get("type")
@@ -159,6 +189,7 @@ def load_troubleshooting_pages():
 def build_node(page):
     causes = parse_causes(page["contents_json"])
     description = clean_repair_text(page.get("description") or "")
+    source = build_source_metadata(page)
 
     if causes:
         return {
@@ -166,6 +197,7 @@ def build_node(page):
             "title": clean_repair_text(page["title"]),
             "type": "leaf",
             "description": description,
+            "source": source,
             "causes": causes,
         }
 
@@ -183,6 +215,7 @@ def build_node(page):
         "type": "router",
         "description": description,
         "branches": branches,
+        "source": source,
     }
 
 

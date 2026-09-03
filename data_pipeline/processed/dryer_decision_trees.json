@@ -4,6 +4,16 @@
     "title": "Dryer Will Not Start",
     "type": "leaf",
     "description": "Your clothes dryer is unresponsive, and will not turn on. Seems to be dead, but may show some signs of life.",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 478855,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Dryer/Will+Not+Start/478855",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/478855",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1743020256,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Not Plugged In",
@@ -48,6 +58,16 @@
     "title": "Dryer Not Spinning",
     "type": "leaf",
     "description": "Your dryer shows some life, but won't spin or tumble the clothes. It's not turning, though there may be a humming sound.",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 478872,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Dryer/Not+Spinning/478872",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/478872",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1681151096,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Door Switch Failed",
@@ -117,13 +137,33 @@
         "wikiid": 479830,
         "title": "Gas Dryer Not Heating"
       }
-    ]
+    ],
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 478885,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Dryer/Not+Heating/478885",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/478885",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1681160581,
+      "adapted_for_applianceiq": true
+    }
   },
   {
     "wikiid": 479208,
     "title": "Dryer Squeaking",
     "type": "leaf",
     "description": "Your dryer is making those annoying squeaking, squealing noises as it runs.",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 479208,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Dryer/Squeaking/479208",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/479208",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1681151190,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Slipped Belt or Faulty Idler Pulley",
@@ -152,6 +192,16 @@
     "title": "Dryer Stops Mid Cycle",
     "type": "leaf",
     "description": "Your clothes dryer stops in the middle of a cycle.",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 479370,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Dryer/Stops+Mid+Cycle/479370",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/479370",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1692656875,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Faulty Door Switch",
@@ -184,6 +234,16 @@
     "title": "Dryer Making Loud Noise",
     "type": "leaf",
     "description": "Is your dryer grinding, thumping, rattling or rumbling, or a combination of these?",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 479415,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Dryer/Making+Loud+Noise/479415",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/479415",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1681150703,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Grinding Noises",
@@ -208,6 +268,16 @@
     "title": "Dryer Smells Like Gas",
     "type": "leaf",
     "description": "Your dryer smells like it is leaking gas. The odor may be especially strong when you open the door on the dryer. Here are some steps to take to figure out what's wrong.",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 479708,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Dryer/Smells+Like+Gas/479708",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/479708",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1702948546,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Painting or Refinishing Fumes",
@@ -244,6 +314,16 @@
     "title": "Kenmore Dryer Not Heating",
     "type": "leaf",
     "description": "Your Kenmore Dryer is not producing any heat. It doesn't warm up to its task. This page will walk you through things to check. Since this is common for electric and gas dryers we will touch on both types.",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 479709,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Kenmore_Dryer/Not+Heating/479709",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/479709",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1691528614,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "No Power or Fuel",
@@ -276,6 +356,16 @@
     "title": "Samsung Dryer Not Heating",
     "type": "leaf",
     "description": "Your Samsung Dryer won't heat; where do you start? Let's break it down step by step. Since there are both gas and electric models, we will start with the problems that both can have. Then we'll look at the electric models, then the gas models. Hang on, we'll try and work through it.",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 479762,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Samsung_dryer/Samsung+Dryer+Not+Heating/479762",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/479762",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1691700265,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Faulty Thermal Cutoff or Hi-Limit Thermostat",
@@ -304,6 +394,16 @@
     "title": "Electric Dryer Not Heating",
     "type": "leaf",
     "description": "Your electric dryer isn't heating up.",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 479829,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Dryer/Electric+Dryer+Not+Heating/479829",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/479829",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1743020717,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Circuit Breaker",
@@ -348,6 +448,16 @@
     "title": "Gas Dryer Not Heating",
     "type": "leaf",
     "description": "Is your gas dryer spinning, turning on, or starting loads, but not heating up? Does the dryer complete, but your clothes are still wet? Try these fixes!",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 479830,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Dryer/Gas+Dryer+Not+Heating/479830",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/479830",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1714092623,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Gas Supply Turned Off",
@@ -392,6 +502,16 @@
     "title": "Dryer Smells Like Burning",
     "type": "leaf",
     "description": "Your dryer is making the room smell burnt. Maybe it's even making your clothes smell burnt. It may even be a little smoky. Let's look for the causes and work through the solutions.",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 493607,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Dryer/Smells+Like+Burning/493607",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/493607",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1706051969,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Overheated Motor",
@@ -420,6 +540,16 @@
     "title": "Whirlpool Dryer Not Heating",
     "type": "leaf",
     "description": "Your Whirlpool Dryer isn't getting hot at all. Or maybe it's not hot enough. The clothes are staying wet! Not to worry, you can fix this! Let's get started!",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 505079,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Whirlpool_Dryer/Not+Heating/505079",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/505079",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1691709199,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Operating or Cycling Thermostat Failure",
@@ -444,6 +574,16 @@
     "title": "GE Dryer Not Spinning",
     "type": "leaf",
     "description": "Your GE dryer shows some life, but won't spin or tumble the clothes. It's not turning, though there may be a humming sound.",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 508848,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/GE_Dryer/Not+Spinning/508848",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/508848",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1690997859,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Door Switch Failed",
@@ -504,6 +644,16 @@
     "title": "Maytag Dryer Not Spinning",
     "type": "leaf",
     "description": "Your Maytag dryer won't spin. Where do you start to try and get it running again? Here are some solutions.",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 511634,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Maytag_dryer/Maytag+Dryer+Not+Spinning/511634",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/511634",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1691538074,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Failed Door Switch",
@@ -564,6 +714,16 @@
     "title": "Whirlpool Dryer Not Spinning",
     "type": "leaf",
     "description": "Your Whirlpool dryer isn't tumbling the laundry. Let's look for the causes and solutions. We can walk through this together.",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 511672,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Whirlpool_Dryer/Not+Spinning/511672",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/511672",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1691709811,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Bad Door Switch",
@@ -624,6 +784,16 @@
     "title": "LG Dryer D80 Code",
     "type": "leaf",
     "description": "Your LG Dryer is showing a D80 or d80 code. Not to worry, it is a safety feature and the fixes to clear the code are very straightforward.",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 519241,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/LG_Dryer/D80+Code/519241",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/519241",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1692832077,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Clogged Lint Filter",
@@ -664,6 +834,16 @@
     "title": "Kenmore Dryer Won't Turn On or Power On",
     "type": "leaf",
     "description": "Is your Kenmore Dryer not turning or powering on? Is there no response when buttons are pressed? Try some of these fixes!",
+    "source": {
+      "provider": "iFixit",
+      "source_page_id": 535889,
+      "source_page_url": "https://www.ifixit.com/Troubleshooting/Kenmore_Dryer/Won't+Turn+On+or+Power+On/535889",
+      "source_api_url": "https://www.ifixit.com/api/2.0/wikis/535889",
+      "license": "CC BY-NC-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+      "source_modified_unix": 1703281580,
+      "adapted_for_applianceiq": true
+    },
     "causes": [
       {
         "title": "Unplug the dryer or disconnect the power.",

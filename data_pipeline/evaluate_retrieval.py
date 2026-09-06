@@ -101,31 +101,59 @@ def search(query, model, embeddings, metadata, top_k=3):
 def run_accuracy_eval(model, embeddings, metadata):
     top1_correct = 0
     top3_correct = 0
+    reciprocal_ranks = []
     correct_top1_scores = []
 
     for case in TEST_CASES:
-        results = search(case["query"], model, embeddings, metadata, top_k=3)
-        titles = [r[0] for r in results]
-        is_top1 = titles[0] in case["acceptable"]
-        is_top3 = any(t in case["acceptable"] for t in titles)
+        results = search(
+            case["query"],
+            model,
+            embeddings,
+            metadata,
+            top_k=len(metadata),
+        )
+
+        titles = [title for title, score in results]
+        
+
+        first_acceptable_rank = next(
+            (
+                rank
+                for rank, title in enumerate(titles, start=1)
+                if title in case["acceptable"]
+            ),
+            None,
+        )
+
+        is_top1 = first_acceptable_rank == 1
+        is_top3 = first_acceptable_rank is not None and first_acceptable_rank <= 3
 
         top1_correct += is_top1
         top3_correct += is_top3
+        reciprocal_ranks.append(
+            1 / first_acceptable_rank if first_acceptable_rank is not None else 0
+        )
+
         if is_top1:
             correct_top1_scores.append(results[0][1])
 
         status = "OK" if is_top1 else ("~" if is_top3 else "X")
         print(f"[{status}] \"{case['query']}\"")
         print(f"      got: {titles[0]} ({results[0][1]:.3f})")
-        if not is_top1:
+
+        if first_acceptable_rank is not None:
+            print(f"      first acceptable result rank: {first_acceptable_rank}")
+        else:
             print(f"      expected one of: {case['acceptable']}")
 
     total = len(TEST_CASES)
-    print(f"\nTop-1 accuracy: {top1_correct}/{total} ({100*top1_correct/total:.0f}%)")
-    print(f"Top-3 accuracy: {top3_correct}/{total} ({100*top3_correct/total:.0f}%)")
+    mrr = sum(reciprocal_ranks) / total
+
+    print(f"\nTop-1 accuracy: {top1_correct}/{total} ({100 * top1_correct / total:.0f}%)")
+    print(f"Top-3 accuracy: {top3_correct}/{total} ({100 * top3_correct / total:.0f}%)")
+    print(f"MRR: {mrr:.3f}")
 
     return correct_top1_scores
-
 
 def run_stress_tests(model, embeddings, metadata, correct_top1_scores):
     print("\n--- Out-of-scope queries (appliances we don't cover at all) ---")

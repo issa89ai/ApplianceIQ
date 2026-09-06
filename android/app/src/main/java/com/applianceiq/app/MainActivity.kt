@@ -211,7 +211,12 @@ fun GuidedDiagnosisCard(
                 text = result.description,
                 style = MaterialTheme.typography.bodyMedium
             )
-
+            result.source?.let { source ->
+                Text(
+                    text = "Source: ${source.provider} · ${source.license}",
+                    style = MaterialTheme.typography.labelSmall
+                )
+            }
             if (causes.isEmpty()) {
                 Text(
                     text = "This issue needs a more specific troubleshooting guide.",

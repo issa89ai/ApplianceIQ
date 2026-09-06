@@ -1,6 +1,8 @@
 package com.applianceiq.app
 
 import android.os.Bundle
+import android.content.Intent
+import android.net.Uri
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
@@ -27,6 +29,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
+import androidx.compose.foundation.clickable
 import com.applianceiq.app.ui.theme.ApplianceIQTheme
 import kotlinx.coroutines.launch
 
@@ -180,7 +183,7 @@ fun GuidedDiagnosisCard(
     onTryNextGuide: (() -> Unit)?
 ) {
     val causes = result.causes.orEmpty()
-
+    val context = LocalContext.current
     var currentCauseIndex by rememberSaveable(result.wikiid, diagnosisSession) {
         mutableStateOf(0)
     }
@@ -216,6 +219,18 @@ fun GuidedDiagnosisCard(
                     text = "Source: ${source.provider} · ${source.license}",
                     style = MaterialTheme.typography.labelSmall
                 )
+
+                source.source_page_url?.let { url ->
+                    Text(
+                        text = "View original source",
+                        style = MaterialTheme.typography.labelMedium,
+                        modifier = Modifier.clickable {
+                            context.startActivity(
+                                Intent(Intent.ACTION_VIEW, Uri.parse(url))
+                            )
+                        }
+                    )
+                }
             }
             if (causes.isEmpty()) {
                 Text(

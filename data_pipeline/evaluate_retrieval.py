@@ -3,67 +3,15 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 
 EMBEDDINGS_PATH = "data_pipeline/processed/dryer_embeddings.npz"
+TEST_CASES_PATH = "data_pipeline/evaluation/dryer_retrieval_cases.json"
 MODEL_NAME = "all-MiniLM-L6-v2"
 
-TEST_CASES = [
-    {
-        "query": "it makes a loud noise when spinning",
-        "acceptable": ["Dryer Making Loud Noise", "Dryer Squeaking"],
-    },
-    {
-        "query": "clothes come out still wet",
-        "acceptable": [
-            "Dryer Not Heating", "Gas Dryer Not Heating", "Electric Dryer Not Heating",
-            "Kenmore Dryer Not Heating", "Samsung Dryer Not Heating", "Whirlpool Dryer Not Heating",
-        ],
-    },
-    {
-        "query": "won't turn on at all",
-        "acceptable": ["Dryer Will Not Start", "Kenmore Dryer Won't Turn On or Power On"],
-    },
-    {
-        "query": "smells like it's burning",
-        "acceptable": ["Dryer Smells Like Burning"],
-    },
-    {
-        "query": "I smell gas near the dryer",
-        "acceptable": ["Dryer Smells Like Gas"],
-    },
-    {
-        "query": "the drum isn't turning",
-        "acceptable": [
-            "Dryer Not Spinning", "GE Dryer Not Spinning", "Maytag Dryer Not Spinning",
-            "Whirlpool Dryer Not Spinning",
-        ],
-    },
-    {
-        "query": "cycle stops halfway through",
-        "acceptable": ["Dryer Stops Mid Cycle"],
-    },
-    {
-        "query": "showing an error code D80",
-        "acceptable": ["LG Dryer D80 Code"],
-    },
-    {
-        "query": "squeaky sound while running",
-        "acceptable": ["Dryer Squeaking"],
-    },
-    {
-        "query": "dryer is completely dead, no lights, nothing",
-        "acceptable": ["Kenmore Dryer Won't Turn On or Power On", "Dryer Will Not Start"],
-    },
-    {
-        "query": "not warm at all after full cycle",
-        "acceptable": [
-            "Dryer Not Heating", "Gas Dryer Not Heating", "Electric Dryer Not Heating",
-            "Kenmore Dryer Not Heating", "Samsung Dryer Not Heating", "Whirlpool Dryer Not Heating",
-        ],
-    },
-    {
-        "query": "loud banging noise during tumble",
-        "acceptable": ["Dryer Making Loud Noise", "Dryer Squeaking"],
-    },
-]
+def load_test_cases():
+    with open(TEST_CASES_PATH, "r", encoding="utf-8") as file:
+        return json.load(file)
+
+
+TEST_CASES = load_test_cases()
 
 OUT_OF_SCOPE_QUERIES = [
     "my refrigerator isn't cooling",

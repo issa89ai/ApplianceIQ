@@ -1,0 +1,103 @@
+[
+  {
+    "id": "noise_while_spinning",
+    "query": "it makes a loud noise when spinning",
+    "acceptable": [
+      "Dryer Making Loud Noise",
+      "Dryer Squeaking"
+    ]
+  },
+  {
+    "id": "clothes_still_wet",
+    "query": "clothes come out still wet",
+    "acceptable": [
+      "Dryer Not Heating",
+      "Gas Dryer Not Heating",
+      "Electric Dryer Not Heating",
+      "Kenmore Dryer Not Heating",
+      "Samsung Dryer Not Heating",
+      "Whirlpool Dryer Not Heating"
+    ]
+  },
+  {
+    "id": "will_not_turn_on",
+    "query": "won't turn on at all",
+    "acceptable": [
+      "Dryer Will Not Start",
+      "Kenmore Dryer Won't Turn On or Power On"
+    ]
+  },
+  {
+    "id": "burning_smell",
+    "query": "smells like it's burning",
+    "acceptable": [
+      "Dryer Smells Like Burning"
+    ]
+  },
+  {
+    "id": "gas_smell",
+    "query": "I smell gas near the dryer",
+    "acceptable": [
+      "Dryer Smells Like Gas"
+    ]
+  },
+  {
+    "id": "drum_not_turning",
+    "query": "the drum isn't turning",
+    "acceptable": [
+      "Dryer Not Spinning",
+      "GE Dryer Not Spinning",
+      "Maytag Dryer Not Spinning",
+      "Whirlpool Dryer Not Spinning"
+    ]
+  },
+  {
+    "id": "stops_halfway",
+    "query": "cycle stops halfway through",
+    "acceptable": [
+      "Dryer Stops Mid Cycle"
+    ]
+  },
+  {
+    "id": "d80_error",
+    "query": "showing an error code D80",
+    "acceptable": [
+      "LG Dryer D80 Code"
+    ]
+  },
+  {
+    "id": "squeaky_running",
+    "query": "squeaky sound while running",
+    "acceptable": [
+      "Dryer Squeaking"
+    ]
+  },
+  {
+    "id": "completely_dead",
+    "query": "dryer is completely dead, no lights, nothing",
+    "acceptable": [
+      "Kenmore Dryer Won't Turn On or Power On",
+      "Dryer Will Not Start"
+    ]
+  },
+  {
+    "id": "no_heat_full_cycle",
+    "query": "not warm at all after full cycle",
+    "acceptable": [
+      "Dryer Not Heating",
+      "Gas Dryer Not Heating",
+      "Electric Dryer Not Heating",
+      "Kenmore Dryer Not Heating",
+      "Samsung Dryer Not Heating",
+      "Whirlpool Dryer Not Heating"
+    ]
+  },
+  {
+    "id": "banging_during_tumble",
+    "query": "loud banging noise during tumble",
+    "acceptable": [
+      "Dryer Making Loud Noise",
+      "Dryer Squeaking"
+    ]
+  }
+]

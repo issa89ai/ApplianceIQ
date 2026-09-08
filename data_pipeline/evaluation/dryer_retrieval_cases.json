@@ -99,5 +99,69 @@
       "Dryer Making Loud Noise",
       "Dryer Squeaking"
     ]
+    },
+
+  {
+    "id": "tumbles_but_cold",
+    "query": "the drum tumbles normally but the dryer never gets hot",
+    "acceptable": [
+      "Dryer Not Heating",
+      "Gas Dryer Not Heating",
+      "Electric Dryer Not Heating",
+      "Kenmore Dryer Not Heating",
+      "Samsung Dryer Not Heating",
+      "Whirlpool Dryer Not Heating"
+    ]
+  },
+  {
+    "id": "high_pitched_squeal",
+    "query": "there is a high-pitched squeal every time the dryer runs",
+    "acceptable": [
+      "Dryer Squeaking"
+    ]
+  },
+  {
+    "id": "thumping_drum",
+    "query": "the dryer makes a thumping sound as the drum rotates",
+    "acceptable": [
+      "Dryer Making Loud Noise",
+      "Dryer Squeaking"
+    ]
+  },
+  {
+    "id": "shuts_off_early",
+    "query": "the dryer shuts itself off before the cycle ends",
+    "acceptable": [
+      "Dryer Stops Mid Cycle"
+    ]
+  },
+  {
+    "id": "hot_plastic_smell",
+    "query": "I smell hot plastic coming from the dryer",
+    "acceptable": [
+      "Dryer Smells Like Burning"
+    ]
+  },
+  {
+    "id": "dead_control_panel",
+    "query": "the dryer screen is blank and pressing start does nothing",
+    "acceptable": [
+      "Dryer Will Not Start",
+      "Kenmore Dryer Won't Turn On or Power On"
+    ]
+  },
+  {
+    "id": "d80_airflow",
+    "query": "my LG dryer shows D80 and seems to have an airflow problem",
+    "acceptable": [
+      "LG Dryer D80 Code"
+    ]
+  },
+  {
+    "id": "gas_odor_before_cycle",
+    "query": "there is a gas odor near my dryer even before I start a cycle",
+    "acceptable": [
+      "Dryer Smells Like Gas"
+    ]
   }
 ]

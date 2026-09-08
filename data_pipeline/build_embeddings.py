@@ -14,14 +14,10 @@ def load_tree_nodes():
 
 
 def node_to_text(node):
+    title = node["title"]
     description = node.get("description", "")
-    if node["type"] == "leaf":
-        cause_titles = ", ".join(c["title"] for c in node["causes"])
-        return f"{node['title']}. {description} Possible causes: {cause_titles}"
-    else:
-        branch_titles = ", ".join(b["title"] for b in node["branches"])
-        return f"{node['title']}. {description} Related to: {branch_titles}"
 
+    return f"{title}. {description}"
 
 def main():
     nodes = load_tree_nodes()

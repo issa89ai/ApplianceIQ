@@ -1,0 +1,74 @@
+[
+  {
+    "id": "refrigerator_not_cooling",
+    "query": "my refrigerator is not cooling",
+    "expected": "reject",
+    "appliance": "refrigerator"
+  },
+  {
+    "id": "freezer_ice_buildup",
+    "query": "my freezer has too much ice buildup",
+    "expected": "reject",
+    "appliance": "freezer"
+  },
+  {
+    "id": "dishwasher_not_draining",
+    "query": "the dishwasher will not drain water",
+    "expected": "reject",
+    "appliance": "dishwasher"
+  },
+  {
+    "id": "dishwasher_leaking",
+    "query": "water is leaking from under my dishwasher",
+    "expected": "reject",
+    "appliance": "dishwasher"
+  },
+  {
+    "id": "oven_not_heating",
+    "query": "my oven is not heating up",
+    "expected": "reject",
+    "appliance": "oven"
+  },
+  {
+    "id": "stove_burner_not_working",
+    "query": "one burner on my electric stove will not turn on",
+    "expected": "reject",
+    "appliance": "stove"
+  },
+  {
+    "id": "washing_machine_leak",
+    "query": "my washing machine is leaking water",
+    "expected": "reject",
+    "appliance": "washing machine"
+  },
+  {
+    "id": "washer_not_spinning",
+    "query": "the washing machine does not spin during the cycle",
+    "expected": "reject",
+    "appliance": "washing machine"
+  },
+  {
+    "id": "microwave_not_heating",
+    "query": "my microwave runs but does not heat food",
+    "expected": "reject",
+    "appliance": "microwave"
+  },
+  {
+    "id": "air_conditioner_warm",
+    "query": "my air conditioner is blowing warm air",
+    "expected": "reject",
+    "appliance": "air conditioner"
+  },
+  {
+    "id": "water_heater_no_hot_water",
+    "query": "there is no hot water from my water heater",
+    "expected": "reject",
+    "appliance": "water heater"
+  },
+  {
+    "id": "vacuum_no_suction",
+    "query": "my vacuum cleaner has no suction",
+    "expected": "reject",
+    "appliance": "vacuum cleaner"
+  }
+]

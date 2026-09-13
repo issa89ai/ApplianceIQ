@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fridge_synonym",
+    "query": "my fridge is not getting cold",
+    "expected": "reject",
+    "reason": "Refrigerator synonym not present in the original appliance-word list."
+  },
+  {
+    "id": "ice_maker_context",
+    "query": "the ice maker stopped making ice",
+    "expected": "reject",
+    "reason": "A refrigerator-related problem without the word refrigerator."
+  },
+  {
+    "id": "dishwasher_spacing",
+    "query": "my dish washer leaves water in the bottom",
+    "expected": "reject",
+    "reason": "Variant spelling of dishwasher."
+  },
+  {
+    "id": "cooktop_burner",
+    "query": "the cooktop burner will not ignite",
+    "expected": "reject",
+    "reason": "Stove synonym not present in the original appliance-word list."
+  },
+  {
+    "id": "range_not_heating",
+    "query": "my range is not heating properly",
+    "expected": "reject",
+    "reason": "Oven/stove synonym not present in the original appliance-word list."
+  },
+  {
+    "id": "ac_abbreviation",
+    "query": "the AC is blowing warm air",
+    "expected": "reject",
+    "reason": "Common abbreviation for air conditioner."
+  },
+  {
+    "id": "tumble_dryer",
+    "query": "my tumble dryer runs but the clothes stay damp",
+    "expected": "accept",
+    "reason": "Valid dryer wording that differs from the original test queries."
+  },
+  {
+    "id": "dryer_typo",
+    "query": "dryer isnt heatng after a full cycle",
+    "expected": "accept",
+    "reason": "Valid dryer query with informal spelling."
+  },
+  {
+    "id": "dryer_lint",
+    "query": "my dryer has lint around the vent and takes too long",
+    "expected": "accept",
+    "reason": "Valid dryer and airflow query."
+  },
+  {
+    "id": "unidentified_machine",
+    "query": "the machine makes a loud bang during the cycle",
+    "expected": "clarify",
+    "reason": "The appliance is not identifiable, so the system should ask which appliance is involved."
+  }
+]

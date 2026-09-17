@@ -1,0 +1,101 @@
+[
+  {
+    "id": "hums_without_rotation",
+    "query": "the dryer hums but the drum never rotates",
+    "acceptable": [
+      "Dryer Not Spinning",
+      "GE Dryer Not Spinning",
+      "Maytag Dryer Not Spinning",
+      "Whirlpool Dryer Not Spinning"
+    ]
+  },
+  {
+    "id": "cold_damp_clothes",
+    "query": "the clothes are still damp and cold when the cycle finishes",
+    "acceptable": [
+      "Dryer Not Heating",
+      "Gas Dryer Not Heating",
+      "Electric Dryer Not Heating",
+      "Kenmore Dryer Not Heating",
+      "Samsung Dryer Not Heating",
+      "Whirlpool Dryer Not Heating"
+    ]
+  },
+  {
+    "id": "lit_panel_no_start",
+    "query": "the display lights up but pressing start does not begin a cycle",
+    "acceptable": [
+      "Dryer Will Not Start",
+      "Kenmore Dryer Won't Turn On or Power On"
+    ]
+  },
+  {
+    "id": "squeal_each_rotation",
+    "query": "there is a sharp squeal every time the drum turns",
+    "acceptable": [
+      "Dryer Squeaking"
+    ]
+  },
+  {
+    "id": "stops_after_minutes",
+    "query": "the drying cycle turns itself off after only a few minutes",
+    "acceptable": [
+      "Dryer Stops Mid Cycle"
+    ]
+  },
+  {
+    "id": "burning_rubber_odor",
+    "query": "there is a burning rubber odor while the dryer operates",
+    "acceptable": [
+      "Dryer Smells Like Burning"
+    ]
+  },
+  {
+    "id": "unburned_gas_odor",
+    "query": "I can smell unburned gas beside the dryer",
+    "acceptable": [
+      "Dryer Smells Like Gas"
+    ]
+  },
+  {
+    "id": "lg_airflow_code",
+    "query": "my LG dryer displays a D80 airflow warning",
+    "acceptable": [
+      "LG Dryer D80 Code"
+    ]
+  },
+  {
+    "id": "whirlpool_tumbles_cold",
+    "query": "my Whirlpool dryer tumbles normally but has no heat",
+    "acceptable": [
+      "Dryer Not Heating",
+      "Whirlpool Dryer Not Heating"
+    ]
+  },
+  {
+    "id": "kenmore_drum_stuck",
+    "query": "my Kenmore dryer makes a noise but the drum does not move",
+    "acceptable": [
+      "Dryer Not Spinning",
+      "GE Dryer Not Spinning",
+      "Maytag Dryer Not Spinning",
+      "Whirlpool Dryer Not Spinning"
+    ]
+  },
+  {
+    "id": "bang_each_revolution",
+    "query": "the dryer bangs loudly with every revolution",
+    "acceptable": [
+      "Dryer Making Loud Noise",
+      "Dryer Squeaking"
+    ]
+  },
+  {
+    "id": "electric_multiple_cycles",
+    "query": "my electric dryer needs two cycles because the clothes stay wet",
+    "acceptable": [
+      "Dryer Not Heating",
+      "Electric Dryer Not Heating"
+    ]
+  }
+]

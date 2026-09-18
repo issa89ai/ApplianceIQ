@@ -1,0 +1,99 @@
+[
+  {
+    "id": "runs_but_no_heat_high",
+    "query": "the dryer runs on high heat but the clothes never get warm",
+    "acceptable": [
+      "Dryer Not Heating",
+      "Gas Dryer Not Heating",
+      "Electric Dryer Not Heating",
+      "Kenmore Dryer Not Heating",
+      "Samsung Dryer Not Heating",
+      "Whirlpool Dryer Not Heating"
+    ]
+  },
+  {
+    "id": "powered_drum_stuck",
+    "query": "the dryer has power but the tumbler drum is stuck",
+    "acceptable": [
+      "Dryer Not Spinning",
+      "GE Dryer Not Spinning",
+      "Maytag Dryer Not Spinning",
+      "Whirlpool Dryer Not Spinning"
+    ]
+  },
+  {
+    "id": "squeal_from_back",
+    "query": "a loud squeal comes from the back of the dryer while it runs",
+    "acceptable": [
+      "Dryer Squeaking"
+    ]
+  },
+  {
+    "id": "d80_on_display",
+    "query": "the display on my LG dryer says D80",
+    "acceptable": [
+      "LG Dryer D80 Code"
+    ]
+  },
+  {
+    "id": "cycle_ends_minutes",
+    "query": "my dryer ends the cycle after a few minutes",
+    "acceptable": [
+      "Dryer Stops Mid Cycle"
+    ]
+  },
+  {
+    "id": "hot_electrical_smell",
+    "query": "there is a hot electrical smell coming from the dryer",
+    "acceptable": [
+      "Dryer Smells Like Burning"
+    ]
+  },
+  {
+    "id": "gas_odor_when_starting",
+    "query": "I notice a gas odor when the dryer starts",
+    "acceptable": [
+      "Dryer Smells Like Gas"
+    ]
+  },
+  {
+    "id": "samsung_cold_clothes",
+    "query": "my Samsung dryer completes the cycle but the clothes are cold",
+    "acceptable": [
+      "Dryer Not Heating",
+      "Samsung Dryer Not Heating"
+    ]
+  },
+  {
+    "id": "whirlpool_start_button",
+    "query": "my Whirlpool dryer will not begin when I press the start button",
+    "acceptable": [
+      "Dryer Will Not Start",
+      "Kenmore Dryer Won't Turn On or Power On"
+    ]
+  },
+  {
+    "id": "clunking_spin",
+    "query": "the dryer makes a heavy clunking noise as it spins",
+    "acceptable": [
+      "Dryer Making Loud Noise",
+      "Dryer Squeaking"
+    ]
+  },
+  {
+    "id": "electric_air_no_dry",
+    "query": "my electric dryer blows air but does not dry the laundry",
+    "acceptable": [
+      "Dryer Not Heating",
+      "Electric Dryer Not Heating"
+    ]
+  },
+  {
+    "id": "kenmore_power_no_cycle",
+    "query": "my Kenmore dryer has power but nothing happens after I press start",
+    "acceptable": [
+      "Dryer Will Not Start",
+      "Kenmore Dryer Won't Turn On or Power On"
+    ]
+  }
+]

@@ -15,6 +15,28 @@ MODEL_NAME = "all-MiniLM-L6-v2"
 SEMANTIC_WEIGHT = 0.80
 LEXICAL_WEIGHT = 0.20
 
+BRAND_ALIASES = {
+    "samsung": "Samsung",
+    "whirlpool": "Whirlpool",
+    "kenmore": "Kenmore",
+    "ge": "GE",
+    "maytag": "Maytag",
+    "lg": "LG",
+}
+
+
+def detect_query_brand(query):
+    query_lower = query.lower()
+
+    if re.search(r"\bd80\b", query_lower):
+        return "LG"
+
+    for keyword, brand in BRAND_ALIASES.items():
+        if re.search(rf"\b{re.escape(keyword)}\b", query_lower):
+            return brand
+
+    return None
+
 app = FastAPI()
 
 
@@ -163,7 +185,27 @@ def search(q: str, top_k: int = 3):
         + LEXICAL_WEIGHT * lexical_score_values
     )
 
-    ranked_indices = np.argsort(-hybrid_score_values)[:top_k]
+    query_brand = detect_query_brand(q)
+
+    eligible_indices = []
+
+    for index, item in enumerate(metadata):
+        wikiid = item["wikiid"]
+        guide_brand = nodes_by_wikiid[wikiid].get("brand")
+
+        if query_brand is None and not guide_brand:
+            eligible_indices.append(index)
+
+        elif query_brand is not None and (
+            not guide_brand or guide_brand == query_brand
+        ):
+            eligible_indices.append(index)
+
+    ranked_indices = sorted(
+        eligible_indices,
+        key=lambda index: hybrid_score_values[index],
+        reverse=True,
+    )[:top_k]
 
     results = []
 

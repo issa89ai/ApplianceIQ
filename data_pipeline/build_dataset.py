@@ -59,6 +59,23 @@ INLINE_NAVIGATION_PATTERNS = [
 IFIXIT_LICENSE = "CC BY-NC-SA 3.0"
 IFIXIT_LICENSE_URL = "https://creativecommons.org/licenses/by-nc-sa/3.0/"
 
+KNOWN_BRANDS = [
+    "Whirlpool",
+    "Samsung",
+    "Kenmore",
+    "GE",
+    "Maytag",
+    "LG",
+]
+
+
+def detect_brand(title):
+    for brand in KNOWN_BRANDS:
+        if re.search(rf"\b{re.escape(brand)}\b", title, re.IGNORECASE):
+            return brand
+
+    return None
+
 def load_source_page_urls():
     with open(SEARCH_RESULTS_PATH, "r", encoding="utf-8") as file:
         search_data = json.load(file)
@@ -188,13 +205,16 @@ def load_troubleshooting_pages():
 
 def build_node(page):
     causes = parse_causes(page["contents_json"])
+    title = clean_repair_text(page["title"])
     description = clean_repair_text(page.get("description") or "")
     source = build_source_metadata(page)
+    brand = detect_brand(title)
 
     if causes:
         return {
             "wikiid": page["wikiid"],
-            "title": clean_repair_text(page["title"]),
+            "title": title,
+            "brand": brand,
             "type": "leaf",
             "description": description,
             "source": source,
@@ -209,15 +229,16 @@ def build_node(page):
         for wiki in page.get("linked_wikis", [])
     ]
 
+
     return {
         "wikiid": page["wikiid"],
-        "title": clean_repair_text(page["title"]),
+        "title": title,
+        "brand": brand,
         "type": "router",
         "description": description,
         "branches": branches,
         "source": source,
     }
-
 
 def main():
     os.makedirs("data_pipeline/processed", exist_ok=True)

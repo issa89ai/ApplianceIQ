@@ -2,6 +2,7 @@
   {
     "wikiid": 478855,
     "title": "Dryer Will Not Start",
+    "brand": null,
     "type": "leaf",
     "description": "Your clothes dryer is unresponsive, and will not turn on. Seems to be dead, but may show some signs of life.",
     "source": {
@@ -56,6 +57,7 @@
   {
     "wikiid": 478872,
     "title": "Dryer Not Spinning",
+    "brand": null,
     "type": "leaf",
     "description": "Your dryer shows some life, but won't spin or tumble the clothes. It's not turning, though there may be a humming sound.",
     "source": {
@@ -126,6 +128,7 @@
   {
     "wikiid": 478885,
     "title": "Dryer Not Heating",
+    "brand": null,
     "type": "router",
     "description": "Your dryer spins, but is not heating up to dry the clothes.",
     "branches": [
@@ -152,6 +155,7 @@
   {
     "wikiid": 479208,
     "title": "Dryer Squeaking",
+    "brand": null,
     "type": "leaf",
     "description": "Your dryer is making those annoying squeaking, squealing noises as it runs.",
     "source": {
@@ -190,6 +194,7 @@
   {
     "wikiid": 479370,
     "title": "Dryer Stops Mid Cycle",
+    "brand": null,
     "type": "leaf",
     "description": "Your clothes dryer stops in the middle of a cycle.",
     "source": {
@@ -232,6 +237,7 @@
   {
     "wikiid": 479415,
     "title": "Dryer Making Loud Noise",
+    "brand": null,
     "type": "leaf",
     "description": "Is your dryer grinding, thumping, rattling or rumbling, or a combination of these?",
     "source": {
@@ -266,6 +272,7 @@
   {
     "wikiid": 479708,
     "title": "Dryer Smells Like Gas",
+    "brand": null,
     "type": "leaf",
     "description": "Your dryer smells like it is leaking gas. The odor may be especially strong when you open the door on the dryer. Here are some steps to take to figure out what's wrong.",
     "source": {
@@ -312,6 +319,7 @@
   {
     "wikiid": 479709,
     "title": "Kenmore Dryer Not Heating",
+    "brand": "Kenmore",
     "type": "leaf",
     "description": "Your Kenmore Dryer is not producing any heat. It doesn't warm up to its task. This page will walk you through things to check. Since this is common for electric and gas dryers we will touch on both types.",
     "source": {
@@ -354,6 +362,7 @@
   {
     "wikiid": 479762,
     "title": "Samsung Dryer Not Heating",
+    "brand": "Samsung",
     "type": "leaf",
     "description": "Your Samsung Dryer won't heat; where do you start? Let's break it down step by step. Since there are both gas and electric models, we will start with the problems that both can have. Then we'll look at the electric models, then the gas models. Hang on, we'll try and work through it.",
     "source": {
@@ -392,6 +401,7 @@
   {
     "wikiid": 479829,
     "title": "Electric Dryer Not Heating",
+    "brand": null,
     "type": "leaf",
     "description": "Your electric dryer isn't heating up.",
     "source": {
@@ -446,6 +456,7 @@
   {
     "wikiid": 479830,
     "title": "Gas Dryer Not Heating",
+    "brand": null,
     "type": "leaf",
     "description": "Is your gas dryer spinning, turning on, or starting loads, but not heating up? Does the dryer complete, but your clothes are still wet? Try these fixes!",
     "source": {
@@ -500,6 +511,7 @@
   {
     "wikiid": 493607,
     "title": "Dryer Smells Like Burning",
+    "brand": null,
     "type": "leaf",
     "description": "Your dryer is making the room smell burnt. Maybe it's even making your clothes smell burnt. It may even be a little smoky. Let's look for the causes and work through the solutions.",
     "source": {
@@ -538,6 +550,7 @@
   {
     "wikiid": 505079,
     "title": "Whirlpool Dryer Not Heating",
+    "brand": "Whirlpool",
     "type": "leaf",
     "description": "Your Whirlpool Dryer isn't getting hot at all. Or maybe it's not hot enough. The clothes are staying wet! Not to worry, you can fix this! Let's get started!",
     "source": {
@@ -572,6 +585,7 @@
   {
     "wikiid": 508848,
     "title": "GE Dryer Not Spinning",
+    "brand": "GE",
     "type": "leaf",
     "description": "Your GE dryer shows some life, but won't spin or tumble the clothes. It's not turning, though there may be a humming sound.",
     "source": {
@@ -642,6 +656,7 @@
   {
     "wikiid": 511634,
     "title": "Maytag Dryer Not Spinning",
+    "brand": "Maytag",
     "type": "leaf",
     "description": "Your Maytag dryer won't spin. Where do you start to try and get it running again? Here are some solutions.",
     "source": {
@@ -712,6 +727,7 @@
   {
     "wikiid": 511672,
     "title": "Whirlpool Dryer Not Spinning",
+    "brand": "Whirlpool",
     "type": "leaf",
     "description": "Your Whirlpool dryer isn't tumbling the laundry. Let's look for the causes and solutions. We can walk through this together.",
     "source": {
@@ -782,6 +798,7 @@
   {
     "wikiid": 519241,
     "title": "LG Dryer D80 Code",
+    "brand": "LG",
     "type": "leaf",
     "description": "Your LG Dryer is showing a D80 or d80 code. Not to worry, it is a safety feature and the fixes to clear the code are very straightforward.",
     "source": {
@@ -832,6 +849,7 @@
   {
     "wikiid": 535889,
     "title": "Kenmore Dryer Won't Turn On or Power On",
+    "brand": "Kenmore",
     "type": "leaf",
     "description": "Is your Kenmore Dryer not turning or powering on? Is there no response when buttons are pressed? Try some of these fixes!",
     "source": {

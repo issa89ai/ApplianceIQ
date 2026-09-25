@@ -4,8 +4,15 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import retrofit2.http.GET
 import retrofit2.http.Query
+import retrofit2.http.Path
 
 interface ApplianceIqApi {
+    @GET("guides/{wikiid}/branches/{branchId}")
+    suspend fun getBranch(
+        @Path("wikiid") wikiid: Int,
+        @Path("branchId") branchId: Int
+    ): SearchResult
+
     @GET("search")
     suspend fun search(
         @Query("q") query: String,

@@ -183,6 +183,26 @@ fun GuidedDiagnosisCard(
     onTryNextGuide: (() -> Unit)?
 ) {
     val causes = result.causes.orEmpty()
+    val branchScope = rememberCoroutineScope()
+    var selectedBranch by remember(result.wikiid, diagnosisSession) {
+        mutableStateOf<SearchResult?>(null)
+    }
+    var branchLoading by remember(result.wikiid, diagnosisSession) { mutableStateOf(false) }
+    var branchError by remember(result.wikiid, diagnosisSession) { mutableStateOf<String?>(null) }
+    var unsure by rememberSaveable(result.wikiid, diagnosisSession) { mutableStateOf(false) }
+    val branches = result.branches.orEmpty()
+    val heatingChoice = branches.any { it.title == "Electric Dryer Not Heating" } &&
+        branches.any { it.title == "Gas Dryer Not Heating" }
+
+    selectedBranch?.let { child ->
+        Column(verticalArrangement = Arrangement.spacedBy(12.dp)) {
+            Button(onClick = { selectedBranch = null; unsure = false }) {
+                Text("Change dryer type / go back")
+            }
+            GuidedDiagnosisCard(child, diagnosisSession, null)
+        }
+        return
+    }
     val context = LocalContext.current
     var currentCauseIndex by rememberSaveable(result.wikiid, diagnosisSession) {
         mutableStateOf(0)
@@ -234,15 +254,51 @@ fun GuidedDiagnosisCard(
             }
             if (causes.isEmpty()) {
                 Text(
-                    text = "This issue needs a more specific troubleshooting guide.",
+                    text = if (heatingChoice) "Is your dryer electric or gas?"
+                        else "Choose a troubleshooting guide.",
                     style = MaterialTheme.typography.titleSmall
                 )
 
-                result.branches?.forEach { branch ->
-                    Text(text = "• ${branch.title}")
+                branches.forEach { branch ->
+                    Button(
+                        enabled = !branchLoading,
+                        modifier = Modifier.fillMaxWidth(),
+                        onClick = {
+                            branchScope.launch {
+                                branchLoading = true
+                                branchError = null
+                                try {
+                                    selectedBranch = ApplianceIqApiClient.api.getBranch(
+                                        result.wikiid, branch.wikiid
+                                    )
+                                } catch (exception: Exception) {
+                                    branchError = "Could not load that guide. Check the backend connection and try again."
+                                } finally {
+                                    branchLoading = false
+                                }
+                            }
+                        }
+                    ) {
+                        Text(when (branch.title) {
+                            "Electric Dryer Not Heating" -> "Electric"
+                            "Gas Dryer Not Heating" -> "Gas"
+                            else -> branch.title
+                        })
+                    }
                 }
 
-                onTryNextGuide?.let { showNextGuide ->
+                if (heatingChoice) {
+                    Button(onClick = { unsure = true }, enabled = !branchLoading) {
+                        Text("I'm not sure")
+                    }
+                    if (unsure) {
+                        Text("Check your dryer's model label and owner's manual to identify whether it uses gas or electric heat. Both types use electricity, so a power cord alone does not identify the type. Do not open panels or disconnect connections to find out. If still unsure, ask a qualified technician before choosing a guide.")
+                    }
+                }
+                if (branchLoading) CircularProgressIndicator()
+                branchError?.let { Text(it, color = MaterialTheme.colorScheme.error) }
+
+                if (branches.isEmpty()) onTryNextGuide?.let { showNextGuide ->
                     Button(
                         onClick = showNextGuide,
                         modifier = Modifier.fillMaxWidth()

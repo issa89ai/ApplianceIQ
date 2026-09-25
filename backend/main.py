@@ -4,7 +4,7 @@ import re
 from collections import Counter
 
 import numpy as np
-from fastapi import FastAPI
+from fastapi import FastAPI, HTTPException
 from sentence_transformers import SentenceTransformer
 
 
@@ -221,6 +221,19 @@ def search(q: str, top_k: int = 3):
         )
 
     return {"query": q, "results": results}
+
+
+@app.get("/guides/{wikiid}/branches/{branch_id}")
+def get_branch(wikiid: int, branch_id: int):
+    parent = nodes_by_wikiid.get(wikiid)
+    if parent is None or not any(
+        branch["wikiid"] == branch_id for branch in parent.get("branches", [])
+    ):
+        raise HTTPException(status_code=404, detail="Guide branch not found")
+    child = nodes_by_wikiid.get(branch_id)
+    if child is None:
+        raise HTTPException(status_code=404, detail="Guide branch not found")
+    return {"score": 0.0, **child}
 
 
 @app.get("/health")

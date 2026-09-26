@@ -1,5 +1,7 @@
 # Held-Out Dryer Retrieval Challenge
 
+Historical semantic-only baseline. These cases were later used for hybrid selection; see the [evaluation summary](../evaluation.md) for current interpretation.
+
 ## Goal
 
 Measure the production retriever on new realistic dryer descriptions that were not used in the earlier representation-selection experiment or the 20-case development evaluation.

@@ -39,8 +39,8 @@ def main():
     print("These 12 cases were created after choosing the 20% hybrid setting.")
 
     for lexical_weight, label in [
-        (0.00, "Current semantic-only system"),
-        (0.20, "Hybrid candidate: 20% lexical"),
+        (0.00, "Historical semantic-only baseline"),
+        (0.20, "Hybrid ranking: 20% lexical (without brand filtering)"),
     ]:
         print("\n==============================")
         print(label)

@@ -1,5 +1,7 @@
 # Dryer type selection
 
+Current feature note. See also [brand filtering](brand-filter-policy.md).
+
 ## Problem and change
 
 The generic Dryer Not Heating router previously displayed electric and gas branches as text. Its next-result button advanced through search rankings without confirming the dryer type.

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "generic_cold_clothes",
+    "query": "the dryer finishes but the clothes are cold and damp",
+    "expected_brand": "generic",
+    "acceptable": [
+      "Dryer Not Heating"
+    ]
+  },
+  {
+    "id": "generic_drum_stuck",
+    "query": "the dryer makes a humming sound but the drum will not turn",
+    "expected_brand": "generic",
+    "acceptable": [
+      "Dryer Not Spinning"
+    ]
+  },
+  {
+    "id": "generic_burning_smell",
+    "query": "there is a hot burning smell from my dryer",
+    "expected_brand": "generic",
+    "acceptable": [
+      "Dryer Smells Like Burning"
+    ]
+  },
+  {
+    "id": "generic_banging",
+    "query": "the dryer bangs loudly while it spins",
+    "expected_brand": "generic",
+    "acceptable": [
+      "Dryer Making Loud Noise"
+    ]
+  },
+  {
+    "id": "generic_will_not_start",
+    "query": "my dryer has power but the cycle will not start",
+    "expected_brand": "generic",
+    "acceptable": [
+      "Dryer Will Not Start"
+    ]
+  },
+  {
+    "id": "samsung_not_heating",
+    "query": "my Samsung dryer runs but leaves the clothes cold",
+    "expected_brand": "Samsung",
+    "acceptable": [
+      "Samsung Dryer Not Heating"
+    ]
+  },
+  {
+    "id": "whirlpool_not_heating",
+    "query": "my Whirlpool dryer tumbles but does not heat",
+    "expected_brand": "Whirlpool",
+    "acceptable": [
+      "Whirlpool Dryer Not Heating"
+    ]
+  },
+  {
+    "id": "kenmore_will_not_start",
+    "query": "my Kenmore dryer lights up but pressing start does nothing",
+    "expected_brand": "Kenmore",
+    "acceptable": [
+      "Kenmore Dryer Won't Turn On or Power On"
+    ]
+  },
+  {
+    "id": "ge_not_spinning",
+    "query": "my GE dryer makes noise but the drum does not spin",
+    "expected_brand": "GE",
+    "acceptable": [
+      "GE Dryer Not Spinning"
+    ]
+  },
+  {
+    "id": "lg_d80_code",
+    "query": "my LG dryer is showing a D80 code",
+    "expected_brand": "LG",
+    "acceptable": [
+      "LG Dryer D80 Code"
+    ]
+  },
+  {
+    "id": "d80_without_brand",
+    "query": "the dryer display shows D80",
+    "expected_brand": "LG",
+    "acceptable": [
+      "LG Dryer D80 Code"
+    ]
+  }
+]

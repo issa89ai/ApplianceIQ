@@ -47,7 +47,7 @@ def weighted_symptom_text(node):
 
 
 REPRESENTATIONS = {
-    "Full guide text (current baseline)": full_guide_text,
+    "Full guide text (historical baseline)": full_guide_text,
     "Symptom-focused text": symptom_focused_text,
     "Weighted symptom text": weighted_symptom_text,
 }

@@ -1,5 +1,7 @@
 # Brand filtering policy
 
+Current feature note. See also [dryer type selection](dryer-type-selection.md).
+
 ## Purpose
 
 A technician who describes a dryer symptom without naming a brand should receive generic guides. Removing manufacturer names from source content would conceal its original applicability, so titles and repair content are preserved and each guide receives separate `brand` metadata.

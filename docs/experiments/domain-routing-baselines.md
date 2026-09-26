@@ -1,5 +1,7 @@
 # Domain-Routing Baselines
 
+Historical investigation; these routing methods are not deployed. See the [follow-up challenge](domain-routing-held-out-challenge.md) before interpreting the initial scores.
+
 ## Goal
 
 Before dryer-guide retrieval, decide whether a technician's message is within the current dryer-only scope. This experiment compares simple routing approaches using 20 labeled dryer queries and 12 labeled non-dryer queries.

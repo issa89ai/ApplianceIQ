@@ -2,3 +2,7 @@ data_pipeline/venv/
 __pycache__/
 *.pyc
 .env
+
+# Local assistant configuration and Android Studio state
+.claude/
+android/.idea/

@@ -216,7 +216,8 @@ def main():
     print("\n=== Hybrid semantic + lexical retrieval experiment ===")
     print("Semantic score = sentence meaning.")
     print("Lexical score = exact important-word overlap.")
-    print("A lexical weight of 0.00 is the current production system.")
+    print("A lexical weight of 0.00 is the historical semantic-only baseline.")
+    print("This experiment does not apply the current backend brand filter.")
 
     for lexical_weight in LEXICAL_WEIGHTS:
         print("\n==============================")

@@ -1,5 +1,7 @@
 # Out-of-Scope Rejection Baseline
 
+Historical semantic-only experiment. The current backend uses hybrid ranking and does not deploy this rejection rule.
+
 ## Goal
 
 Measure whether a simple cosine-similarity threshold can prevent a dryer-only retrieval system from returning a dryer guide for other appliances.

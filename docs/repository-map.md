@@ -7,6 +7,7 @@ The root is the project entry point. Put user-facing explanations under `docs`, 
 | Item | Needed? | Decision |
 | --- | --- | --- |
 | `README.md` | Yes | Main portfolio introduction; keep at root |
+| `LICENSE` | Yes | MIT grant for original code/docs, with third-party exclusions; keep at root |
 | `requirements.txt` | Yes | Existing Python package/version snapshot; keep at root |
 | `.gitignore` | Yes | Exclude environments, caches, and local tools; keep at root |
 | `android/` | Yes | App source, resources, Gradle wrapper and configuration |
@@ -16,7 +17,7 @@ The root is the project entry point. Put user-facing explanations under `docs`, 
 | `.git/` | Local Git infrastructure | Keep; do not move or manually clean |
 | `.claude/` | Optional local tooling | Preserve locally and ignore in Git; not needed by the app |
 
-There were no loose Word/PDF reports or other root documents in this checkout. The main missing root document was the README, now added. A future software license belongs at the root, but choosing one requires an explicit ownership/licensing decision.
+There were no loose Word/PDF reports or other root documents in this checkout. The main missing root document was the README, now added. The owner subsequently selected MIT for original code and documentation; `LICENSE` now lives at the root, with third-party content excluded.
 
 ## Documentation placement
 

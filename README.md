@@ -52,4 +52,4 @@ Future appliance expansion would need appliance context, new data review, and fr
 
 ## Source attribution
 
-Repair records preserve iFixit page links and `CC BY-NC-SA 3.0` attribution. The app displays this source information. See [data provenance](docs/data-provenance.md) for the stored metadata and the distinction between third-party repair content and project code. No repository-wide software license has been selected.
+Original ApplianceIQ code and documentation are available under the [MIT License](LICENSE). Third-party repair content is excluded from that grant: repair records preserve iFixit page links and `CC BY-NC-SA 3.0` attribution, which the app displays. See [data provenance](docs/data-provenance.md) for the scope and source metadata. The MIT license does not grant commercial-use rights to the iFixit content.
